@@ -1,33 +1,42 @@
 
+# Testing
 To run with python server, run this in terminal:
-python3 -m http.server 8080
+`python3 -m http.server 8080`
 
 Then visit http://localhost:8080/ in browser
 
 
 
-Generating publications
+# Generating publications
 The publication list can be generated from a BibTeX file (.bib) using a python script (bibtex2htmldiv.py)
 This has been taken from: https://github.com/ketch/tex2_rst_html
 
 To run, open terminal (navigate to the Research folder) and run
->> import bibtex2htmldiv
->> bibtex2htmldiv.bib2html('/path/to/myfile.bib')
+`import bibtex2htmldiv`
+`bibtex2htmldiv.bib2html('/path/to/myfile.bib')`
 
 This should generate a bib.html file in the Research folder, which is imported with JS to the research page.
 
-To include url in publication title: add 'url' entry to .bib file
-To include thumbnail image: upload image to folder specified in img_path ('Assets') named with the pub's id (eg. RN3335)
+*To include url in publication title:* add 'url' entry to .bib file
+*To include thumbnail image:* upload image to folder specified in img_path ('Assets') named with the pub's id (eg. RN3335)
 Any DOIs or Arxiv id's added will also be displayed below in a link
 
-To change headings to keywords instead of reference type: 
-    - Make sure each .bib entry has a keywords associated with it
-    - use bibtex2htmldivkw.py to generate a bibkw.html
-    - Load the bibkw.html in the JS of the research.html page
+*To change headings to keywords instead of reference type:*
+- Make sure each .bib entry has a keywords associated with it
+- use bibtex2htmldivkw.py to generate a bibkw.html
+- Load the bibkw.html in the JS of the research.html page
 
 
 
-BOOTSTRAP REFERENCE
+# Bootstrap Ref
 m = margin 
-mb = margin bottom
+mb, mt, ms, me = margin bottom, margin top, margin start, margin end
 p = padding
+
+
+# Git Ref
+`git pull` to pull new updates
+`git status` to check current branch/staging
+`git add .` add all changes for staging
+`git commit -m "commit message"` to commit
+`git push` to push to origin
