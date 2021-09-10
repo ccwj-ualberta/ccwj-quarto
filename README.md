@@ -30,7 +30,9 @@ Any DOIs or Arxiv id's added will also be displayed below in a link
 
 # Bootstrap Ref
 m = margin 
+
 mb, mt, ms, me = margin bottom, margin top, margin start, margin end
+
 p = padding
 
 

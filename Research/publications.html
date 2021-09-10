@@ -12,6 +12,9 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script>$(function () { $("#footer").load("../footer.html"); });</script>
+
+    <!-- loads bibliography, change between loading bib.html and bibkw.html -->
+    <script>$(function () { $("#bib-html").load("./bib.html"); });</script>
     <script src="https://cse.google.com/cse.js?cx=805eed77643236949"></script>
 
     <title>CCWJ</title>
@@ -31,10 +34,10 @@
               <a class="nav-link" href="../index.html">Home</a>
               <a class="nav-link" href="../About/about.html">About Us</a>
               <a class="nav-link" href="../People/people.html">People</a>
-              <a class="nav-link" href="../Research/research.html">Research</a>
+              <a class="nav-link active" aria-current="page" href="../Research/research.html">Research</a>
               <a class="nav-link" href="../Teaching/teaching.html">Teaching</a>
               <a class="nav-link" href="../Resources/resources.html">Resources</a>
-              <a class="nav-link active" aria-current="page" href="../Join/joinus.html">Join us</a>
+              <a class="nav-link" href="../Join/joinus.html">Join us</a>
           </div>
           <form class="d-flex justify-content-start">
             <div class="search-container">
@@ -49,21 +52,15 @@
         <div class="row flex-fill d-flex">
             <div class="col-lg-2 border-end sidebar flex-grow-1">
               <div id="nav-sidebar" class="list-group list-group-flush sticky-top">
-                <a class="list-group-item list-group-item-action" href="#list-grad">Graduate Students</a>
-                <a class="list-group-item list-group-item-action" href="#list-dra">Undergraduate</a>
-                <a class="list-group-item list-group-item-action" href="#list-events">Events</a>
+                <a class="list-group-item list-group-item-action" href="./projects.html">Projects</a>
+                <a class="list-group-item list-group-item-action" href="./publications.html">Publications</a>
+                <a class="list-group-item list-group-item-action" href="./presentations.html">Presentations</a>
               </div>
             </div>
 
             <div class="col p-3 pt-4 order-sm-last">
-              <h2 class="subheading subheading1" id="list-joinus">Join Us</h2>
-              <p>...</p>
-              <h2 class="subheading" id="list-grad">Graduate Students</h2>
-              <p>...</p>
-              <h2 class="subheading" id="list-dra">Undergraduate</h2>
-              <p>...</p>
-              <h2 class="subheading" id="list-events">Events</h2>
-              <p>...</p>
+              <h2 class="subheading subheading1" id="list-publications">Publications</h2>
+              <div id="bib-html"></div> <!-- the python generate bibliography -->
             </div>
                 
         </div>

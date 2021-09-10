@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/</loc>
+  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/index.html</loc>
+  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/about.html</loc>
+  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/People/people.html</loc>
+  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/Research/research.html</loc>
+  <lastmod>2021-09-08T04:49:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/Teaching/teaching.html</loc>
+  <lastmod>2021-09-08T04:49:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/Resources/resources.html</loc>
+  <lastmod>2021-09-08T04:49:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/Join/joinus.html</loc>
+  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/lab.html</loc>
+  <lastmod>2021-09-08T04:49:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/chair.html</loc>
+  <lastmod>2021-09-08T04:49:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/board.html</loc>
+  <lastmod>2021-09-08T04:49:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/sponsors.html</loc>
+  <lastmod>2021-09-08T04:49:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/directions.html</loc>
+  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/test-content/People/patricio.html</loc>
+  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
