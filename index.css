@@ -119,10 +119,21 @@ h4[id]{
   background-color:#231e1a; /* color of black bars in carousel*/
 }
 
+.person {
+  height: 100%;
+}
+
 .person-pic{
-  width: 13em;
+  width: 15em;
   float: left;
   padding: 10px;
+  vertical-align: top;
+}
+
+.person-pic img {
+  object-fit: cover;
+  width: 100%;
+  height: 20em;
 }
 
 
