@@ -1,9 +1,10 @@
 
 # Testing
-To run with python server, run this in terminal:
+To run the website with python server, run this in terminal from the main folder:
 `python3 -m http.server 8080`
 
 Then visit http://localhost:8080/ in browser
+Note that some things like links to pdfs, etc. may not work properly until you upload the content to the real site.
 
 
 

@@ -8,8 +8,6 @@ Usage (from Python or IPython prompt):
 """
 import os
 import pybtex.database
-import json
-#import ast
 
 # This may need to be changed for other machines/users
 img_path = r'/Users/Cotton/Desktop/CCWJ_site_bootstrap/Assets/'
