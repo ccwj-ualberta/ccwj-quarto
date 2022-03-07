@@ -1,7 +1,10 @@
 
+# This script reads the input excel sheet to generate an html file (equipment.html)
+# of all the equipment in the lab. Items are sorted by category.
+#
 # to run in python prompt
 # import lab2html
-# lab2html.lab2html('/Users/Cotton/Desktop/CCWJ_site_bootstrap/About/CCWJ_Website.xlsx')
+# lab2html.lab2html('../CCWJ_Website.xlsx')
 
 import csv
 import os
@@ -9,19 +12,19 @@ from datetime import datetime
 import pandas as pd
 
 def lab2html(excel_path):
-    # 
+    # read 3rd sheet in excel file (lab equipment)
     data = pd.read_excel(excel_path, sheet_name=2)
+    data.fillna('', inplace=True)
     print(data)
         
     # open file to write into
     f = open('equipment.html', 'w')
 
-    # get list of sections, decide if to write
-
     # write each section (csv key, webpage heading, list id)
     write_section('Characterization', 'Characterization', 'list-charac', data, f)
     write_section('Computer / Software', 'Computer / Software', 'list-software', data, f)
     write_section('Welding', 'Welding', 'list-weld', data, f)
+
     # write_section('Computer', 'Computer', 'list-computer', data, f)
     # write_section('Laserlab', 'Laserlab', 'list-laser', data, f)
     # write_section('Manufacturing', 'Manufacturing', 'list-manufac', data, f)
