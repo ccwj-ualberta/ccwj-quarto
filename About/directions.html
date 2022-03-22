@@ -12,6 +12,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script>$(function () { $("#footer").load("../footer.html"); });</script>
+    <script>$(function () { $("#directions-text-html").load("./Directions-text.html"); });</script>
     <script src="https://cse.google.com/cse.js?cx=805eed77643236949"></script>
 
     <title>CCWJ</title>
@@ -59,10 +60,7 @@
 
             <div class="col p-3 order-sm-last">
               
-              <h2 class="subheading subheading1" id="list-directions">Directions</h2>
-              <p>This <a href="https://www.ualberta.ca/maps.html?l=53.528182668201495,-113.5288232346316&z=17&campus=north_campus&b=cme" target="_blank">interactive map</a> of the university campus can guide you to the welding and metallography labs in the Chemical and Materials Engineering (CME) building.</p>
-              <p>You can also use the map shown below.</p>
-              <img src="../Assets/lab_address.png" height="400">
+              <div id="directions-text-html"></div> <!-- python generated directions text -->
             </div>
                 
         </div>

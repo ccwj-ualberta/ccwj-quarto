@@ -53,7 +53,7 @@ def write_section(csv_key, section_title, section_id, data, f):
             f.write('<p class="card-text mb-auto">' + desc + '</p>\n</div>\n')
 
             # find and write photo
-            equipment_folder = '../Assets/Equipment_Photos/' # folder containing all photos
+            equipment_folder = '../Assets/About_Us/Equipment_Photos/' # folder containing all photos
             
             img_path = ''
             #img_path = '../Assets/hitachiTIG.png' # default picture
