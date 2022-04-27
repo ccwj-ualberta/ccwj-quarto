@@ -15,7 +15,7 @@ import json
 img_path = r'/Users/Cotton/Desktop/CCWJ_site_bootstrap/Assets/'
 # This may need to be changed for other sites
 img_dest = 'http://localhost:8080/Assets/'
-paperlinks_path = '/Users/ketch/Research/Projects/labnotebook/assets/paperlinks.txt'
+#paperlinks_path = '/Users/ketch/Research/Projects/labnotebook/assets/paperlinks.txt'
 
 def bib2html(bibfile,htmlfile='bibkw.html'):
     publications=parsefile(bibfile)

@@ -3,7 +3,7 @@ Convert bibtex files (.bib) to html divs that can be custom formatted using CSS.
 Usage (from Python or IPython prompt):
 
     >> import bibtex2htmldiv
-    >> bibtex2htmldiv.bib2html('/path/to/myfile.bib')
+    >> bibtex2htmldiv.bib2html('/path/to/myfile.bib','htmlfilename')
 
 """
 import os
@@ -14,10 +14,11 @@ img_path = r'/Users/Cotton/Desktop/CCWJ_site_bootstrap/Assets/'
 
 # This may need to be changed for other sites
 img_dest = 'http://localhost:8080/Assets/'
-paperlinks_path = '/Users/ketch/Research/Projects/labnotebook/assets/paperlinks.txt'
+# paperlinks_path = '/Users/ketch/Research/Projects/labnotebook/assets/paperlinks.txt'
 
-def bib2html(bibfile,htmlfile='bib.html'):
+def bib2html(bibfile,htmlfile='bib2.html'):
     publications=parsefile(bibfile)
+    print(publications)
     writebib(publications,htmlfile)
 
 def compile_name(person):
@@ -68,7 +69,7 @@ def normalize_authors(authors):
         return ' '.join(authornames)
 
 
-def writebib(publications,filename='bib.rst'):
+def writebib(publications,filename='bib.html'):
     """
     Writes html citation entries.
     This only works well for articles so far; for other citation types,
@@ -110,7 +111,7 @@ def write_entry(pub,f):
     print(img_file)
     if os.path.isfile(os.path.abspath(img_file)):
         f.write('<img src="' + img_dest + pub['pid'] + '.png" align="right" />\n')
-    if 'url' in pub:
+    if 'url' in pub: # create link to pdf file
         f.write('<a href="'+pub['url'].split()[0].replace('\_','_')+'">')
     elif 'doi' in pub.keys():
         f.write('<a href="https://doi.org/'+pub['doi']+'">')
