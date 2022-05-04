@@ -1,10 +1,12 @@
 
-# This script reads the input excel sheet to generate an html file (equipment.html)
-# of all the equipment in the lab. Items are sorted by category.
+# This script reads the input excel sheet to generate an html file (board-members.html)
+# of the board members on the About_Advisory_Boards tab. Each member gets their own 'card' with
+# their company, name, and role on the board. A picture can also be added starting with the right code
+# corresponding to the picture in /Assets/About_US/Board_Member_Photos/ (not well tested yet)
 #
 # to run in python prompt
-# import lab2html
-# lab2html.lab2html('../CCWJ_Website.xlsx')
+# import board2html
+# board2html.board2html('../CCWJ_Website.xlsx')
 
 import csv
 import os
@@ -35,14 +37,14 @@ def board2html(excel_path):
             f.write('<div class="row mb-2">\n\n')
         
         if entry['Name']:
-            f.write('<div class="col-lg-4 col-md-6">\n<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-200 position-relative">\n<div class="col p-4 d-flex flex-column position-static">\n')
+            f.write('<div class="col-lg-4 col-md-6">\n<div class="row g-0 border rounded bg-white overflow-hidden flex-md-row mb-4 shadow-sm h-md-200 position-relative">\n<div class="col p-4 d-flex flex-column position-static">\n')
             f.write('<strong class="d-inline-block mb-0 text-success">' + entry['Company'] + '</strong>\n')
             f.write('<h5 class="mb-3">'+ entry['Name'] +'</h5>\n')
             f.write('<p class="card-text mb-auto">' + entry['Role_Board'] + '</p>\n</div>\n')
             
             if entry['Picture']:
                 # find and write photo
-                pic_folder = '../Assets/About_Us/Equipment_Photos/' # folder containing all photos
+                pic_folder = '../Assets/About_Us/Board_Member_Photos/' # folder containing all photos
                 
                 img_path = ''
                 for filename in os.listdir(pic_folder):

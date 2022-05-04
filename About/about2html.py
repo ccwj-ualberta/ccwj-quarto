@@ -16,8 +16,8 @@ import pandas as pd
 
 
 def about2html(excel_path):
-    # read 2nd sheet in excel file (About Us)
-    data = pd.read_excel(excel_path, sheet_name=1)
+    # read sheet named About_Us in excel file (About Us)
+    data = pd.read_excel(excel_path, sheet_name="About_Us")
     data.fillna('', inplace=True)
         
     
@@ -48,11 +48,11 @@ def write_section(section_name, section):
         if not value or value == 'LINK_TO_TAB': # if entry is empty skip header
             continue
 
-        if header.startswith('Section Heading 1'):
+        if header.startswith('Section_Heading_1'):
             f.write('<h2 class="subheading subheading1">' + value + '</h2>\n')
-        elif header.startswith('Section Heading'):
+        elif header.startswith('Section_Heading'):
             f.write('<h4 class="subheading">' + value + '</h4>\n')
-        elif header.startswith('Text Block'):
+        elif header.startswith('Text_Block'):
             text = value.strip('\n').replace('\n', '<br>') # preserve newlines in html
             f.write('<p>' + text + '</p>')
         elif header.startswith('Image'):
