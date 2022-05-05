@@ -228,3 +228,30 @@ h4[id]{
 .indent {
   margin-left: 2em;
 }
+
+
+
+/* GALLERY */
+
+#gallery img {
+  height: 13em;
+  object-fit: cover;
+}
+
+@media (min-width: 992px) {
+  #gallery img {
+    height: 15em;
+  }
+}
+
+@media (min-width: 576px) {
+  #gallery img{
+    height: 13em;
+  }
+}
+
+.carousel-item img {
+  height: auto;
+  max-height: 400px;
+  object-fit: contain;
+}
