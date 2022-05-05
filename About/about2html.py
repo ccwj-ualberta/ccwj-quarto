@@ -50,11 +50,14 @@ def write_section(section_name, section):
 
         if header.startswith('Section_Heading_1'):
             f.write('<h2 class="subheading subheading1">' + value + '</h2>\n')
+            
         elif header.startswith('Section_Heading'):
             f.write('<h4 class="subheading">' + value + '</h4>\n')
+            
         elif header.startswith('Text_Block'):
             text = value.strip('\n').replace('\n', '<br>') # preserve newlines in html
             f.write('<p>' + text + '</p>')
+            
         elif header.startswith('Image'):
             # get image path, look in Assets/About_Us folder and section_name (with underscores) subfolder 
             img_folder = os.path.join('../Assets/About_Us/', section_name.replace(' ', '_'))
