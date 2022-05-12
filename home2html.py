@@ -118,7 +118,6 @@ def write_section(section_name, data, index_start, f):
                     print('cannot find image ' + value)
                     
                     
-home2html('./CCWJ_Website.xlsx')
                     
            
 

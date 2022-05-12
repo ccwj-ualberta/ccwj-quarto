@@ -57,7 +57,7 @@ def write_section(section_name, data, index_start, f):
                     
 
                     
-news2html('./CCWJ_Website.xlsx')
+# news2html('./CCWJ_Website.xlsx')
 
 
     

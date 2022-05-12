@@ -1,5 +1,5 @@
 """
-Convert bibtex files (.bib) to html divs that can be custom formatted using CSS.
+Extract video titles and links from a youtube playlist (not used currently)
 Usage (from Python or IPython prompt):
 
     >> import playlist2html
