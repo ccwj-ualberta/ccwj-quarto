@@ -6,9 +6,7 @@
 # import sponsors2html
 # sponsors2html.sponsors2html('../CCWJ_Website.xlsx')
 
-import csv
 import os
-from datetime import datetime
 import pandas as pd
 
 def sponsors2html(excel_path):

@@ -3,9 +3,7 @@
 # import footer2html
 # footer2html.footer2html('../CCWJ_Website.xlsx')
 
-import csv
 import os
-from datetime import datetime
 import pandas as pd
 
 def footer2html(excel_path):

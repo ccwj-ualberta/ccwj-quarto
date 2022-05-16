@@ -2,23 +2,23 @@
 Convert bibtex files (.bib) to html divs that can be custom formatted using CSS.
 Usage (from Python or IPython prompt):
 
-    >> import bibtex2htmldiv
-    >> bibtex2htmldiv.bib2html('/path/to/myfile.bib')
+    >> import bibtex2html
+    >> bibtex2html.bibtex2html('/path/to/myfile.bib','htmlfilename')
 
 """
 import os
 import pybtex.database
-import json
-#import ast
 
 # This may need to be changed for other machines/users
 img_path = r'/Users/Cotton/Desktop/CCWJ_site_bootstrap/Assets/'
+
 # This may need to be changed for other sites
 img_dest = 'http://localhost:8080/Assets/'
-#paperlinks_path = '/Users/ketch/Research/Projects/labnotebook/assets/paperlinks.txt'
+# paperlinks_path = '/Users/ketch/Research/Projects/labnotebook/assets/paperlinks.txt'
 
-def bib2html(bibfile,htmlfile='bibkw.html'):
+def bibtex2html(bibfile,htmlfile='bib2.html'):
     publications=parsefile(bibfile)
+    print(publications)
     writebib(publications,htmlfile)
 
 def compile_name(person):
@@ -69,7 +69,7 @@ def normalize_authors(authors):
         return ' '.join(authornames)
 
 
-def writebib(publications,filename='bib.rst'):
+def writebib(publications,filename='bib.html'):
     """
     Writes html citation entries.
     This only works well for articles so far; for other citation types,
@@ -78,9 +78,12 @@ def writebib(publications,filename='bib.rst'):
     """
     f=open(filename,'w')
 
-    write_section('Simulations','Simulations',publications,f)
-    write_section('Laser Cladding','Laser',publications,f)
-    write_section('Miscellaneous','Misc',publications,f)
+    write_section('Submitted preprints','unpublished',publications,f)
+    write_section('Refereed Journal Articles','article',publications,f)
+    write_section('Books','inbook',publications,f)
+    write_section('Conference Proceedings','inproceedings',publications,f)
+    write_section('Technical Reports','techreport',publications,f)
+    write_section('Theses','phdthesis',publications,f)
 
     f.close()
 
@@ -89,7 +92,7 @@ def write_section(title,reference_type,publications,f):
     """
     Write out all entries of type reference_type, in reverse chronological order
     """
-    these_pubs = [pub for pub in publications if pub['keywords']==reference_type]
+    these_pubs = [pub for pub in publications if pub['reference_type']==reference_type]
     these_pubs=sort_by_year(these_pubs)
     print(len(these_pubs))
     if len(these_pubs)>0:
@@ -108,7 +111,7 @@ def write_entry(pub,f):
     print(img_file)
     if os.path.isfile(os.path.abspath(img_file)):
         f.write('<img src="' + img_dest + pub['pid'] + '.png" align="right" />\n')
-    if 'url' in pub:
+    if 'url' in pub: # create link to pdf file
         f.write('<a href="'+pub['url'].split()[0].replace('\_','_')+'">')
     elif 'doi' in pub.keys():
         f.write('<a href="https://doi.org/'+pub['doi']+'">')
@@ -140,7 +143,7 @@ def write_entry(pub,f):
 
     if 'url' in pub.keys():
         if 'arxiv' not in pub['url'].split()[0]:
-            if 'davidketcheson' in pub['url'].split()[0]:
+            if 'davidketchson' in pub['url'].split()[0]:
                 linkstring += ' | <a href="'+pub['url'].split()[0]+'">Free PDF</a> '
     if 'doi' in pub.keys():
         linkstring += ' | <a href="https://doi.org/'+pub['doi']+'">Published version</a> '

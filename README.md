@@ -6,7 +6,10 @@ To run the website with python server, run this in terminal from the main folder
 Then visit http://localhost:8080/ in browser
 Note that some things like links to pdfs, etc. may not work properly until you upload the content to the real site.
 
-
+# Styles
+All styles are defined in the index.css file.
+- Fonts, font sizes
+- Colors
 
 # Generating publications
 The publication list can be generated from a BibTeX file (.bib) using a python script (bibtex2htmldiv.py)
@@ -43,3 +46,5 @@ p = padding
 `git add .` add all changes for staging
 `git commit -m "commit message"` to commit
 `git push` to push to origin
+
+

@@ -8,11 +8,8 @@
 # import teaching2html
 # teaching2html.teaching2html('../CCWJ_Website.xlsx')
 
-import csv
 import os
-from datetime import datetime
 import pandas as pd
-import numpy as np
 
 
 

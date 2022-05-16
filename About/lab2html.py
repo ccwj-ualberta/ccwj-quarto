@@ -6,9 +6,7 @@
 # import lab2html
 # lab2html.lab2html('../CCWJ_Website.xlsx')
 
-import csv
 import os
-from datetime import datetime
 import pandas as pd
 
 def lab2html(excel_path):
