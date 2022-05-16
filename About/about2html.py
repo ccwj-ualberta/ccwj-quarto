@@ -10,6 +10,7 @@
 
 import os
 import pandas as pd
+import numpy as np
 
 
 
@@ -20,35 +21,42 @@ def about2html(excel_path):
     
     # write each section (section name, data)
     for index, section in data.iterrows():
-        if section['Section'].startswith('Advisory Boards'):
-            # write special advisory page
-            write_advisory(section['Section'], section)
-        elif section['Section'].startswith('Sponsors'):
-            # write special sponsors page
-            write_sponsors(section['Section'], section)
-        else:
-            # write default page format
-            write_section(section['Section'], section)
+        # write default page format
+        write_section(section['Section'], section, data)
     
     print('about2html complete')
     
 
-def write_section(section_name, section):
-    # make filename the first word of section name, keeping only alphanumeric characters
-    filename = "".join(x for x in section_name.split()[0] if x.isalnum()) + '-text.html'
+def write_section(section_name, section, data):
+    print('about: writing ' + section_name)
+    # make filename the first two words of section name, keeping only alphanumeric characters
+    filename = "".join(x.lower() for x in section_name.split()[:2] if x.isalnum()) + '.html'
     
     # open file to write into
     f = open(filename, 'w')
     
+    write_page_beginning(section_name, data, f)
+    
+    # write section name
+    f.write('<div class="col p-3 pt-4 order-sm-last">\n')
+    f.write('<h2 class="subheading subheading1">' + section_name + '</h2>\n')
+
+    # go through columns in section row
     for header, value in section.items():
         
-        if not value or value == 'LINK_TO_TAB': # if entry is empty skip header
+        if not value: # if entry is empty skip header
             continue
-
-        if header.startswith('Section_Heading_1'):
-            f.write('<h2 class="subheading subheading1">' + value + '</h2>\n')
             
-        elif header.startswith('Section_Heading'):
+        if value == 'LINK_TO_TAB':
+            if section_name == 'Lab':
+                f.write('<div id="equipment-html"></div>\n')
+            elif section_name == 'Advisory Boards':
+                f.write('<div id="board-members-html"></div>\n')
+            elif section_name == 'Sponsors':
+                f.write('<div id="sponsor-cards-html"></div>\n')
+            continue
+            
+        if header.startswith('Section_Heading'):
             f.write('<h4>' + value + '</h4>\n')
             
         elif header.startswith('Text_Block'):
@@ -68,14 +76,112 @@ def write_section(section_name, section):
             else:
                 print('cannot find image ' + value)
 
+    f.write('</div>\n')
+    
+    ending = """
+             </div>
+        </main>
+        
+        <div id="footer"></div>
+    
+    
+        <!-- Option 1: Bootstrap Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+    
+       
+      </body>
+    </html>"""
+    
+    f.write(ending)
+
     f.close()
 
+def write_page_beginning(section_name, data, f):
     
-def write_advisory(section_name, section):
-    print('write boards placeholder')
+    template = """
+    <!doctype html>
+    <html lang="en">
+      <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+        <!-- Bootstrap CSS icons -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script>$(function () { $("#footer").load("../footer.html"); });</script>
+        """
+    f.write(template)
 
-def write_sponsors(section_name, section):
-    print('write sponsors placeholder')
+    # import html for board members, equipment, sponsors
+    if section_name == 'Lab':
+        f.write('<script>$(function () { $("#equipment-html").load("./equipment.html"); });</script>\n')
+    elif section_name == 'Advisory Boards':
+        f.write('<script>$(function () { $("#board-members-html").load("./board-members.html"); });</script>\n')
+    elif section_name == 'Sponsors':
+        f.write('<script>$(function () { $("#sponsor-cards-html").load("./sponsor-cards.html"); });</script>\n')
+
+    template2 = """
+        <script src="https://cse.google.com/cse.js?cx=805eed77643236949"></script>
+    
+        <title>CCWJ</title>
+        <link href="../index.css" rel="stylesheet">
+      </head>
+    
+    
+      <body class="d-flex flex-column min-vh-100" style="position:relative;">
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top"> <!-- include fixed-top to stick it -->
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#"><img src="../Assets/CCWJ_white_logo.png" height="70"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse pt-2" id="navbarCollapse">
+              <div class="navbar-nav ms-auto me-4">
+                  <a class="nav-link" href="../index.html">Home</a>
+                  <a class="nav-link active" aria-current="page" href="../About/about.html">About Us</a>
+                  <a class="nav-link" href="../People/people.html">People</a>
+                  <a class="nav-link" href="../Research/research.html">Research</a>
+                  <a class="nav-link" href="../Teaching/teaching.html">Teaching</a>
+                  <a class="nav-link" href="../Resources/resources.html">Resources</a>
+                  <a class="nav-link" href="../Join/joinus.html">Join us</a>
+              </div>
+              <form class="d-flex justify-content-start">
+                <div class="search-container">
+                  <div class="gcse-searchbox-only"></div>
+                </div>
+              </form>
+            </div>
+          </div>
+      </nav>
+    
+    """
+    f.write(template2)
+    
+    # create subpage navbar on the left
+    nav_template = """    
+        <main class="container-fluid d-flex flex-column flex-grow-1">
+            <div class="row flex-fill d-flex">
+                <div class="col-lg-2 border-end sidebar flex-grow-1">
+                  <div id="nav-sidebar" class="list-group list-group-flush sticky-top"> 
+                  """
+                  
+    f.write(nav_template)
+                  
+    sections = data.loc[:, 'Section'].replace('', np.nan).dropna()
+    for section in sections[1:]: # go through each section, skipping the first one
+        # name for html file is first two words of section name, lowercase and no spaces
+        nickname = "".join(x.lower() for x in section.split()[:2] if x.isalnum())
+        f.write('<a class="list-group-item list-group-item-action" href="./' + nickname + '.html">' + section + '</a>\n')
+    
+        
+    f.write('</div>\n</div>\n')
+
+
+
 
 
 

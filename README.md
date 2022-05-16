@@ -11,6 +11,10 @@ All styles are defined in the index.css file.
 - Fonts, font sizes
 - Colors
 
+# Images
+In general the scripts will look for images in the Assets/section_tab/section_name folder, with all spaces replaced with underscores '_'
+For example, images in the 'What we do' section under the About Us tab should be placed in Assets/About_Us/What_we_do
+
 # Generating publications
 The publication list can be generated from a BibTeX file (.bib) using a python script (bibtex2htmldiv.py)
 This has been taken from: https://github.com/ketch/tex2_rst_html

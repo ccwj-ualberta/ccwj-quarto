@@ -24,16 +24,12 @@ def sponsors2html(excel_path):
             if needs_closing_div:
                 f.write('</div>\n\n')
                 
-            # if entry['Sponsors']: # write header for past members
-            #     f.write('<h4 class="subheading">' + entry['Sponsors'] + '</h4>\n')
-                
             needs_closing_div = True
             f.write('<h4>' + entry['Sponsors'] + '</h4>\n')
             f.write('<div class="row mb-2 mt-1">\n\n')
         
         if entry['Company']:
             f.write('<div class="col-lg-4 col-md-6">\n<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm bg-white h-md-200 position-relative">\n<div class="col p-4 d-flex flex-column position-static">\n')
-            #f.write('<strong class="d-inline-block mb-0 text-success">' + entry['Company'] + '</strong>\n')
             f.write('<h5 class="mb-3">'+ entry['Company'] +'</h5>\n')
             f.write('<p class="card-text mb-auto">' + entry['Sponsorship Details'] + '</p>\n</div>\n')
             

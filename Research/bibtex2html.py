@@ -19,6 +19,7 @@ img_dest = 'http://localhost:8080/Assets/'
 def bibtex2html(bibfile,htmlfile='bib2.html'):
     publications=parsefile(bibfile)
     writebib(publications,htmlfile)
+    print('bibtex2html complete')
 
 def compile_name(person):
     first = ' '.join([x.render_as('text') for x in person.rich_first_names])

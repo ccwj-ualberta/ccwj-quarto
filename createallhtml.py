@@ -1,5 +1,7 @@
 
 # runs all python scripts 
+# to run in terminal : python createallhtml.py
+
 
 import footer2html
 import home2html

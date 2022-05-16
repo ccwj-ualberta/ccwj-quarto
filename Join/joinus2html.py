@@ -98,7 +98,7 @@ def write_page_beginning(section_name, data, index_start, f):
 
 
 def write_section(section_name, data, index_start):
-    # make filename the first word of section name, keeping only alphanumeric characters
+    # make filename the first two words of section name, keeping only alphanumeric characters
     filename = "".join(x.lower() for x in section_name.split()[:2] if x.isalnum()) + '.html'
     
     # open file to write into

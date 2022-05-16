@@ -1,5 +1,6 @@
 """
 Convert bibtex files (.bib) to html divs that can be custom formatted using CSS.
+Organized by keyword instead of type (not currently used)
 Usage (from Python or IPython prompt):
 
     >> import bibtex2htmlkw

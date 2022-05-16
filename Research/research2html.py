@@ -20,9 +20,13 @@ def research2html(excel_path):
     for index, section in data.iterrows():
         if section['Section']:
             write_section(section['Section'], data, index)
+    
+    print('research2html complete')
 
 
 def write_section(section_name, data, index_start):
+    print('research: writing ' + section_name)
+
     # make filename the first word of section name, keeping only alphanumeric characters
     filename = "".join(x for x in section_name.split()[0].lower() if x.isalnum()) + '-text.html'
     
@@ -89,7 +93,7 @@ def write_section(section_name, data, index_start):
             elif header.startswith('Presenter') and value:
                 f.write('<p>Presenter: ' + value.strip('\n').replace('\n', '<br>') + '</p>\n')
                 
-            elif header.startswith('Link') and value:
+            elif header.startswith('Video') and value:
                 # only keep first 11 characters after watch?v= to get video id
                 video_id = value.split("watch?v=")[1][:11]
                 
