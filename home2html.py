@@ -31,6 +31,8 @@ def home2html(excel_path):
     f.write('</div>')
     f.close()
 
+    print('home2html complete')
+
 def write_carousel(data, f):
     count = 0
 
@@ -44,7 +46,6 @@ def write_carousel(data, f):
         if img_name:
             count += 1
             
-            print(img_name)
             # get image path, look in Assets/Home folder 
             img_folder = './Assets/Home/'
             img_path = ''

@@ -9,9 +9,8 @@ import pandas as pd
 
 def people2html(excel_path):
 
-    raw_data = pd.read_excel(excel_path, sheet_name=5)
+    raw_data = pd.read_excel(excel_path, sheet_name='People')
     raw_data.fillna('', inplace=True)
-    print(raw_data)
  
     # take most recent entry for duplicates (key column to use for comparison, data)
     data = remove_old_duplicates(2, raw_data)
@@ -51,7 +50,7 @@ def remove_old_duplicates(key_col, data):
 
     # remove all the duplicate entries
     filtered_data = data.drop(data.index[indices_to_remove])
-    print(filtered_data)
+
     # filtered_data = [entry for count, entry in enumerate(data) if count not in indices_to_remove]
     return filtered_data
 
@@ -60,9 +59,7 @@ def write_section(section_key, section_title, section_id, data, f):
     f.write('<h2 class="subheading" id="' + section_id + '">' + section_title + '</h2>\n')
     f.write('<div class="row pb-3">')
     for i, entry in data.iterrows():
-        #print(entry)
-        #print(entry.iloc[6])
-        #print(entry.iloc[13])
+
         if entry.iloc[6] == section_key and entry.iloc[15] not in ['x','X']: # type of involvement should match and entry included
 
             f.write('<div class="col-12 pb-3">\n')

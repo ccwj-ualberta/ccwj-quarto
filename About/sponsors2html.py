@@ -12,7 +12,6 @@ import pandas as pd
 def sponsors2html(excel_path):
     data = pd.read_excel(excel_path, sheet_name='About_Sponsors')
     data.fillna('', inplace=True)
-    print(data)
         
     # open file to write into
     f = open('sponsor-cards.html', 'w')
@@ -54,6 +53,8 @@ def sponsors2html(excel_path):
 
     # close file
     f.close()
+
+    print('sponsors2html complete')
 
 
 

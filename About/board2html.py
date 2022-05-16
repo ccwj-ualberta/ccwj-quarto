@@ -14,7 +14,6 @@ import pandas as pd
 def board2html(excel_path):
     data = pd.read_excel(excel_path, sheet_name='About_Advisory_Boards')
     data.fillna('', inplace=True)
-    print(data)
         
     # open file to write into
     f = open('board-members.html', 'w')
@@ -57,7 +56,7 @@ def board2html(excel_path):
     # close file
     f.close()
 
-
+    print('board2html complete')
 
 
 

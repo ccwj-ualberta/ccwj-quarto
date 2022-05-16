@@ -10,7 +10,7 @@
 
 import os
 import pandas as pd
-
+import numpy as np
 
 
 def teaching2html(excel_path):
@@ -88,7 +88,7 @@ def write_page_beginning(section_name, data, index_start, f):
     f.write(nav_template)
                   
     sections = data.loc[:, 'Section'].replace('', np.nan).dropna()
-    for section in sections:
+    for section in sections[1:]:
         # use the first two words in section name as html file name
         nickname = "".join(x.lower() for x in section.split()[:2] if x.isalnum())
         f.write('<a class="list-group-item list-group-item-action" href="./' + nickname + '.html">' + section + '</a>\n')
@@ -189,11 +189,14 @@ def write_section(section_name, data, index_start):
 
 
 def write_topics(folder_name, course_order, f):
-    # folder that contains the class folder
+    # folder that contains the class folder on website
     site_url = 'https://sites.ualberta.ca/~ccwj/test-content/Teaching/'
 
+    # path to teaching folder (where this script is located)
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+
     for code in course_order.split(): # go through each topic code in course_order
-        for topic_folder in os.scandir(os.path.join(os.getcwd(),folder_name)): 
+        for topic_folder in os.scandir(os.path.join(dir_path,folder_name)): 
             topic_code = topic_folder.name.split('_')[0]
             if topic_code == code: # find folder according to code
                 topic_name = topic_folder.name.split('_', 1)[1].replace('_', ' ') # get displayable topic name

@@ -10,7 +10,6 @@ def footer2html(excel_path):
     
     raw_data = pd.read_excel(excel_path, sheet_name='Footer')
     raw_data.fillna('', inplace=True)
-    #print(raw_data)
     keep_writing = False
             
     # open file to write into
@@ -49,8 +48,10 @@ def footer2html(excel_path):
             
     
     f.write('</div></div></footer>\n')
-        # close file
+    # close file
     f.close()
+
+    print('footer2html complete')
 
 
 

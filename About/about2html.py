@@ -17,9 +17,7 @@ def about2html(excel_path):
     # read sheet named About_Us in excel file (About Us)
     data = pd.read_excel(excel_path, sheet_name="About_Us")
     data.fillna('', inplace=True)
-        
     
-
     # write each section (section name, data)
     for index, section in data.iterrows():
         if section['Section'].startswith('Advisory Boards'):
@@ -32,9 +30,10 @@ def about2html(excel_path):
             # write default page format
             write_section(section['Section'], section)
     
+    print('about2html complete')
+    
 
 def write_section(section_name, section):
-    print(section)
     # make filename the first word of section name, keeping only alphanumeric characters
     filename = "".join(x for x in section_name.split()[0] if x.isalnum()) + '-text.html'
     
@@ -50,11 +49,11 @@ def write_section(section_name, section):
             f.write('<h2 class="subheading subheading1">' + value + '</h2>\n')
             
         elif header.startswith('Section_Heading'):
-            f.write('<h4 class="subheading">' + value + '</h4>\n')
+            f.write('<h4>' + value + '</h4>\n')
             
         elif header.startswith('Text_Block'):
             text = value.strip('\n').replace('\n', '<br>') # preserve newlines in html
-            f.write('<p>' + text + '</p>')
+            f.write('<p>' + text + '</p>\n')
             
         elif header.startswith('Image'):
             # get image path, look in Assets/About_Us folder and section_name (with underscores) subfolder 
@@ -69,16 +68,16 @@ def write_section(section_name, section):
             else:
                 print('cannot find image ' + value)
 
-
     f.close()
+
     
 def write_advisory(section_name, section):
-    print('write boards')
+    print('write boards placeholder')
 
 def write_sponsors(section_name, section):
-    print('write sponsors')
+    print('write sponsors placeholder')
 
-#about2html('../CCWJ_Website.xlsx')
+
 
 
 

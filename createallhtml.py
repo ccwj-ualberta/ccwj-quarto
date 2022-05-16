@@ -16,22 +16,37 @@ from About.board2html import board2html
 from About.lab2html import lab2html
 from About.sponsors2html import sponsors2html
 
+import os
 
-footer2html.footer2html('./CCWJ_Website.xlsx')
-home2html.home2html('./CCWJ_Website.xlsx')
-news2html.news2html('./CCWJ_Website.xlsx')
+path_to_excel = './CCWJ_Website.xlsx'
+path_to_excel2 = '../CCWJ_Website.xlsx'
 
-teaching2html('./CCWJ_Website.xlsx')
-gallery2html('./CCWJ_Website.xlsx')
-videos2html('./CCWJ_Website.xlsx')
-research2html('./CCWJ_Website.xlsx')
-bibtex2html('./CCWJ_Website.xlsx')
-people2html('./CCWJ_Website.xlsx')
-joinus2html('./CCWJ_Website.xlsx')
-about2html('./CCWJ_Website.xlsx')
-board2html('./CCWJ_Website.xlsx')
-lab2html('./CCWJ_Website.xlsx')
-sponsors2html('./CCWJ_Website.xlsx')
+footer2html.footer2html(path_to_excel)
+home2html.home2html(path_to_excel)
+news2html.news2html(path_to_excel)
+
+os.chdir('./Teaching')
+teaching2html(path_to_excel2)
+
+os.chdir('../Resources')
+gallery2html(path_to_excel2)
+videos2html(path_to_excel2)
+
+os.chdir('../Research')
+research2html(path_to_excel2)
+bibtex2html('./shorttest.bib', 'bib.html')
+
+os.chdir('../People')
+people2html(path_to_excel2)
+
+os.chdir('../Join')
+joinus2html(path_to_excel2)
+
+os.chdir('../About')
+about2html(path_to_excel2)
+board2html(path_to_excel2)
+lab2html(path_to_excel2)
+sponsors2html(path_to_excel2)
 
 
 

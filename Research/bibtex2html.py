@@ -18,7 +18,6 @@ img_dest = 'http://localhost:8080/Assets/'
 
 def bibtex2html(bibfile,htmlfile='bib2.html'):
     publications=parsefile(bibfile)
-    print(publications)
     writebib(publications,htmlfile)
 
 def compile_name(person):
@@ -94,7 +93,7 @@ def write_section(title,reference_type,publications,f):
     """
     these_pubs = [pub for pub in publications if pub['reference_type']==reference_type]
     these_pubs=sort_by_year(these_pubs)
-    print(len(these_pubs))
+
     if len(these_pubs)>0:
         f.write('<h4>'+title+'</h4>\n')
         for pub in these_pubs: write_entry(pub,f)
@@ -108,7 +107,7 @@ def write_entry(pub,f):
         f.write(pub['keywords'].lower().replace(';',' ').replace(',',' '))
     f.write('">\n')
     img_file = img_path + pub['pid'] + '.png'
-    print(img_file)
+
     if os.path.isfile(os.path.abspath(img_file)):
         f.write('<img src="' + img_dest + pub['pid'] + '.png" align="right" />\n')
     if 'url' in pub: # create link to pdf file

@@ -10,6 +10,7 @@
 
 import os
 import pandas as pd
+import numpy as np
 
 
 
@@ -18,12 +19,12 @@ def joinus2html(excel_path):
     data = pd.read_excel(excel_path, sheet_name="Join_Us")
     data.fillna('', inplace=True)
         
-    
-
      # write each section (section name, data)
     for index, row in data.iterrows():
         if row['Section']:
             write_section(row['Section'], data, index)
+    
+    print('joinus2html complete')
             
 def write_page_beginning(section_name, data, index_start, f):
     
@@ -87,7 +88,7 @@ def write_page_beginning(section_name, data, index_start, f):
     f.write(nav_template)
                   
     sections = data.loc[:, 'Section'].replace('', np.nan).dropna()
-    for section in sections:
+    for section in sections[1:]:
         nickname = "".join(x.lower() for x in section.split()[:2] if x.isalnum())
         f.write('<a class="list-group-item list-group-item-action" href="./' + nickname + '.html">' + section + '</a>\n')
     
@@ -162,9 +163,7 @@ def write_section(section_name, data, index_start):
     
     f.write(ending)
 
-
     f.close()
 
 
-joinus2html('../CCWJ_Website.xlsx')
 
