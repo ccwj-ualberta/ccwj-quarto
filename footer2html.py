@@ -1,7 +1,7 @@
 
 # to run in python prompt
 # import footer2html
-# footer2html.footer2html('../CCWJ_Website.xlsx')
+# footer2html.footer2html('./CCWJ_Website.xlsx')
 
 import os
 import pandas as pd

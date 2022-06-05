@@ -2,7 +2,6 @@
 # runs all python scripts 
 # to run in terminal : python createallhtml.py
 
-
 import footer2html
 import home2html
 import news2html
@@ -20,9 +19,15 @@ from About.sponsors2html import sponsors2html
 
 import os
 
+# keep CCWJ_Website spreadsheet in the main directory
 path_to_excel = './CCWJ_Website.xlsx'
 path_to_excel2 = '../CCWJ_Website.xlsx'
 
+# name of bibtext file used to generate publications list
+# keep in Research folder
+bibfile = 'shorttest.bib'
+
+# run all scripts
 footer2html.footer2html(path_to_excel)
 home2html.home2html(path_to_excel)
 news2html.news2html(path_to_excel)
@@ -36,7 +41,7 @@ videos2html(path_to_excel2)
 
 os.chdir('../Research')
 research2html(path_to_excel2)
-bibtex2html('./shorttest.bib', 'bib.html')
+bibtex2html('./' + bibfile, 'bib.html')
 
 os.chdir('../People')
 people2html(path_to_excel2)
