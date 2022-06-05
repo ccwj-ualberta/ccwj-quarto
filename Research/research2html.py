@@ -36,6 +36,10 @@ def write_section(section_name, data, index_start):
 
     # write starting section
     write_page_beginning(section_name, data, f)
+
+    # write section name
+    f.write('<div class="col p-3 pt-4 order-sm-last">\n')
+    f.write('<h2 class="subheading subheading1">' + section_name + '</h2>\n')
     
     # go through each row in the sheet
     for i, row in data.iloc[index_start:].iterrows():
@@ -43,15 +47,15 @@ def write_section(section_name, data, index_start):
         # detect if next section has been reached, if so stop writing section
         if row['Section'] and row['Section'] != section_name:
             break
-
-        if value == 'LINK_TO_TAB':
-            if section_name == 'Publications':
-                f.write('<div id="bib-html"></div>\n')
-            continue
         
         # go through each column for the row
         for header, value in row.items():
-    
+            
+            if value == 'LINK_TO_TAB':
+                if section_name == 'Publications':
+                    f.write('<div id="bib-html"></div>\n')
+                continue
+
             if header.startswith('Section_Heading') and value:
                 f.write('<h4>' + value + '</h4>\n')
                 
@@ -107,7 +111,9 @@ def write_section(section_name, data, index_start):
                 video_id = value.split("watch?v=")[1][:11]
                 
                 f.write('<iframe width="560" height="315" src="https://www.youtube.com/embed/' + video_id + '" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n')
-                
+
+    f.write('</div>\n')
+
     ending = """
              </div>
         </main>
@@ -169,9 +175,9 @@ def write_page_beginning(section_name, data, f):
             <div class="collapse navbar-collapse pt-2" id="navbarCollapse">
               <div class="navbar-nav ms-auto me-4">
                   <a class="nav-link" href="../index.html">Home</a>
-                  <a class="nav-link active" aria-current="page" href="../About/about.html">About Us</a>
+                  <a class="nav-link" href="../About/about.html">About Us</a>
                   <a class="nav-link" href="../People/people.html">People</a>
-                  <a class="nav-link" href="../Research/research.html">Research</a>
+                  <a class="nav-link active" aria-current="page" href="../Research/research.html">Research</a>
                   <a class="nav-link" href="../Teaching/teaching.html">Teaching</a>
                   <a class="nav-link" href="../Resources/resources.html">Resources</a>
                   <a class="nav-link" href="../Join/joinus.html">Join us</a>
