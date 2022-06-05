@@ -71,10 +71,24 @@ def write_section(section_name, section, data):
                 if filename.startswith(value):
                     img_path = os.path.join(img_folder,filename)
             if img_path:
-                # write image html
-                f.write('<img src="' + img_path + '" class="img-scale mx-auto d-block">\n')
+                num = header.split('_')[1]
+                if not section['Description_Link_' + num] and section['Link_' + num]:
+                    # write image html with link
+                    f.write('<a href="' + section['Link_' + num] + '" target="_blank"><img src="' + img_path + '" class="img-scale mx-auto d-block"></a>\n')
+                    
+                else:
+                    # write image html without link
+                    f.write('<img src="' + img_path + '" class="img-scale mx-auto d-block">\n')
+                
             else:
                 print('cannot find image ' + value)
+        
+        elif header.startswith('Link'):
+            num = header.split('_')[1]
+            if section['Description_Link_' + num]:
+                text = section['Description_Link_' + num]
+                f.write('<p><a href="' + value + '" target="_blank">' + text + '</a></p>\n')
+
 
     f.write('</div>\n')
     
