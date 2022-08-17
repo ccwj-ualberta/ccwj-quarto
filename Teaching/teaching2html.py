@@ -3,6 +3,7 @@
 
 # This script reads the input excel sheet to generate a html file for each subpage under
 # the teaching tab
+# All handouts/notes/supplementary materials should be 
 #
 # to run in python prompt
 # import teaching2html

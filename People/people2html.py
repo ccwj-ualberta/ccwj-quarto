@@ -37,16 +37,21 @@ def remove_old_duplicates(key_col, data):
     for count, entry in data.iterrows():
         
         key = entry.iloc[key_col] # person's ID
-        # print('looking at ' + str(count) + ' key ' + str(key))
+        #print('looking at ' + str(count) + ' key ' + str(key))
         for count2, x in data.iterrows():
-            entry_time = pd.to_datetime(entry.iloc[0], unit='s')
-            x_time = pd.to_datetime(x.iloc[0], unit='s')
-            # entry_time = datetime.strptime(entry.iloc[0], '%m/%d/%Y %H:%M:%S') # converts timestamps into datetime objects
-            # x_time = datetime.strptime(x.iloc[0], '%m/%d/%Y %H:%M:%S')
-            if x.iloc[key_col] == key and entry_time <= x_time and count < count2: # if IDs match and current timestamp is less or equal
-                indices_to_remove.append(count) # add index to be removed
-                print(str(count) + ' entry is an old duplicate and will be removed')
-                break # no need to look further
+            if count == count2: 
+                continue # skip self-counting
+            #entry_time = pd.to_datetime(entry.iloc[0], unit='s')
+            #x_time = pd.to_datetime(x.iloc[0], unit='s')
+            #entry_time = datetime.strptime(entry.iloc[0], '%m/%d/%Y %H:%M:%S') # converts timestamps into datetime objects
+            #x_time = datetime.strptime(x.iloc[0], '%m/%d/%Y %H:%M:%S')
+            entry_time = entry.iloc[0]
+            x_time = x.iloc[0]
+            if x.iloc[key_col] == key:
+                if x.iloc[key_col] == key and entry_time <= x_time: # if IDs match and current timestamp is less or equal
+                    indices_to_remove.append(count) # add index to be removed
+                    print(str(count) + ' entry is an old duplicate and will be removed')
+                    break # no need to look further
 
     # remove all the duplicate entries
     filtered_data = data.drop(data.index[indices_to_remove])
