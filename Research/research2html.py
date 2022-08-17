@@ -112,6 +112,8 @@ def write_section(section_name, data, index_start):
                 
                 f.write('<iframe width="560" height="315" src="https://www.youtube.com/embed/' + video_id + '" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n')
 
+                # <iframe src="https://drive.google.com/file/d/1bEoXR0wJZqaYtEoKP4B5z1C0qSBY9q1P/preview" width="640" height="480" allow="autoplay"></iframe>
+
     f.write('</div>\n')
 
     ending = """
