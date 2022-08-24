@@ -19,7 +19,8 @@ def people2html(excel_path):
     # open file to write into
     f = open('bios.html', 'w')
 
-    # write each section (section key, webpage heading, list id)
+    # write each section (section key, webpage heading, list id, data, file)
+    write_section('CCWJ Director', 'CCWJ Director', 'list-director', data, f)
     write_section('Staff', 'Staff', 'list-staff', data, f)
     write_section('Post-Doc', 'Postdoctorate Fellows', 'list-postdoc', data, f)
     write_section('PhD student', 'PhD Students', 'list-phd', data, f)
