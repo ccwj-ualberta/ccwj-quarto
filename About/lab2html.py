@@ -36,7 +36,7 @@ def write_section(csv_key, section_title, section_id, data, f):
             name = row['Equipment']
             called = row['"Called"']
             f.write('<div class="col-lg-4 col-md-6">\n<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm bg-white h-md-200 position-relative">\n<div class="col p-4 d-flex flex-column position-static">\n')
-            f.write('<strong class="d-inline-block mb-0 text-success">' + section_title + '</strong>\n')
+            #f.write('<strong class="d-inline-block mb-0 text-success">' + section_title + '</strong>\n')
             f.write('<h5 class="mb-3">'+ name +'</h5>\n')
 
             # description

@@ -18,6 +18,7 @@ def about2html(excel_path):
     # read sheet named About_Us in excel file (About Us)
     data = pd.read_excel(excel_path, sheet_name="About_Us")
     data.fillna('', inplace=True)
+    #data.applymap(lambda x: html.escape(x))
     
     # write each section (section name, data)
     for index, section in data.iterrows():
@@ -38,7 +39,7 @@ def write_section(section_name, section, data):
     write_page_beginning(section_name, data, f)
     
     # write section name
-    f.write('<div class="col p-3 pt-4 order-sm-last">\n')
+    f.write('<div class="col p-3 pt-4 order-sm-last content-container">\n')
     f.write('<h2 class="subheading subheading1">' + section_name + '</h2>\n')
 
     # go through columns in section row
@@ -73,7 +74,7 @@ def write_section(section_name, section, data):
             if img_path:
                 num = header.split('_')[1]
                 if not section['Description_Link_' + num] and section['Link_' + num]:
-                    # write image html with link
+                    # write image html with link if there's no description link
                     f.write('<a href="' + section['Link_' + num] + '" target="_blank"><img src="' + img_path + '" class="img-scale mx-auto d-block"></a>\n')
                     
                 else:
