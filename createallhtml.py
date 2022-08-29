@@ -23,8 +23,7 @@ import os
 path_to_excel = './CCWJ_Website.xlsx'
 path_to_excel2 = '../CCWJ_Website.xlsx'
 
-# name of bibtext file used to generate publications list
-# keep in Research folder
+# name of bibtext file used to generate publications list (keep in Assets/Research/)
 bibfile = 'shorttest.bib'
 
 # run all scripts
@@ -41,7 +40,7 @@ videos2html(path_to_excel2)
 
 os.chdir('../Research')
 research2html(path_to_excel2)
-bibtex2html('./' + bibfile, 'bib.html')
+bibtex2html('../Assets/Research/' + bibfile, 'bib.html')
 
 os.chdir('../People')
 people2html(path_to_excel2)

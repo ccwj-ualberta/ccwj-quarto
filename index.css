@@ -35,6 +35,10 @@ h3,h4,h5,h6, .font-anivers {
   margin-top: 1rem;
 }
 
+.content-container p {
+  max-width: 970px;
+}
+
 .navbar{
   background-image: url("Assets/background_bar.png");
   background-repeat: no-repeat;

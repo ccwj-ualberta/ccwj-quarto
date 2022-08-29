@@ -12,6 +12,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script>$(function () { $("#footer").load("../footer.html"); });</script>
+    <script>$(function () { $("#news-text-html").load("../news-text.html"); });</script>
     <script src="https://cse.google.com/cse.js?cx=805eed77643236949"></script>
 
     <title>CCWJ</title>
@@ -47,23 +48,10 @@
     
     <main class="container-fluid d-flex flex-column flex-grow-1">
         <div class="row flex-fill d-flex">
-            <!-- News column -->
-            <div class="col-lg-2 border-end sidebar flex-grow-1">
-                <div class="news-container"><h4 class="font-goodtimes subheading1">News</h4></div>
-                <div class="news-container">
-                  <p class="news-date">July 6, 2021</p>
-                  <p class="news-text"> Welcome to the CCWJ!</p>
-                </div>
-                <div class="news-container">
-                  <p class="news-date">July 7, 2021</p>
-                  <p class="news-text">Thanks for everyone who came to our party!</p>
-                </div>
-                <div class="news-container">
-                  <p class="news-date">July 8, 2021</p>
-                  <p class="news-text">Bob defended his PhD thesis, good job and congratulations</p>
-                </div>
-                
-            </div>
+             <!-- News column -->
+             <div class="col-lg-2 p-3 pt-4 border-end sidebar flex-grow-1">
+                  <div id="news-text-html"></div>
+              </div>
 
             <!-- Right section -->
             <div class="col p-3 order-first order-sm-last">

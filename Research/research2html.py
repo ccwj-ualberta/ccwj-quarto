@@ -38,7 +38,7 @@ def write_section(section_name, data, index_start):
     write_page_beginning(section_name, data, f)
 
     # write section name
-    f.write('<div class="col p-3 pt-4 order-sm-last">\n')
+    f.write('<div class="col p-3 pt-4 order-sm-last content-container">\n')
     f.write('<h2 class="subheading subheading1">' + section_name + '</h2>\n')
     
     # go through each row in the sheet
