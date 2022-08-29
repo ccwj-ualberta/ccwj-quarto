@@ -11,6 +11,7 @@
 import os
 import pandas as pd
 import numpy as np
+import html
 
 
 
@@ -18,7 +19,7 @@ def about2html(excel_path):
     # read sheet named About_Us in excel file (About Us)
     data = pd.read_excel(excel_path, sheet_name="About_Us")
     data.fillna('', inplace=True)
-    #data.applymap(lambda x: html.escape(x))
+    data = data.applymap(lambda x: html.escape(x).encode("ascii", "xmlcharrefreplace").decode('utf-8'))
     
     # write each section (section name, data)
     for index, section in data.iterrows():
