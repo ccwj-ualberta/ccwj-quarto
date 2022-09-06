@@ -35,8 +35,16 @@ def board2html(excel_path):
         
         if entry['Name']:
             f.write('<div class="col-lg-4 col-md-6">\n<div class="row g-0 border rounded bg-white overflow-hidden flex-md-row mb-4 shadow-sm h-md-200 position-relative">\n<div class="col p-4 d-flex flex-column position-static">\n')
-            f.write('<strong class="d-inline-block mb-0 text-success">' + entry['Company'] + '</strong>\n')
-            f.write('<h5 class="mb-3">'+ entry['Name'] +'</h5>\n')
+            
+            # write company heading with link
+            if entry['Company_Link']:
+                f.write('<strong class="d-inline-block mb-0 text-success"><a href="' + entry['Company_Link'] + '">' + entry['Company'] + '</a></strong>\n')
+            else:
+                f.write('<strong class="d-inline-block mb-0 text-success">' + entry['Company'] + '</strong>\n')
+
+            f.write('<h5 class="mb-2">'+ entry['Name'] +'</h5>\n')
+            if entry['Position']:
+                f.write('<p class="card-text mb-2">' + entry['Position'] + '</p>\n')
             f.write('<p class="card-text mb-auto">' + entry['Role_Board'] + '</p>\n</div>\n')
             
             if entry['Picture']:
