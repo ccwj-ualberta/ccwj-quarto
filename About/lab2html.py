@@ -35,13 +35,10 @@ def write_section(csv_key, section_title, section_id, data, f):
         if row['Category'] == csv_key and row['Include on website'] == 'Yes':
             name = row['Equipment']
             called = row['"Called"']
-            f.write('<div class="col-lg-4 col-md-6">\n<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm bg-white h-md-200 position-relative">\n<div class="col p-4 d-flex flex-column position-static">\n')
+            f.write('<div class="col-xl-4 col-md-6">\n<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm bg-white h-md-200 position-relative">\n<div class="col p-3 d-flex flex-column position-static">\n')
             #f.write('<strong class="d-inline-block mb-0 text-success">' + section_title + '</strong>\n')
-            f.write('<h5 class="mb-3">'+ name +'</h5>\n')
 
-            # description
-            desc = ''
-            f.write('<p class="card-text mb-auto">' + desc + '</p>\n</div>\n')
+            f.write('<div class="clearfix">\n')
 
             # find and write photo
             equipment_folder = '../Assets/About_Us/Equipment_Photos/' # folder containing all photos
@@ -52,9 +49,21 @@ def write_section(csv_key, section_title, section_id, data, f):
                 if filename.startswith(row['Code']):
                     img_path = equipment_folder + filename
             if img_path:
-                f.write('<div class="equipment-pic col-auto d-flex overflow-hidden">\n<img class="fill-img" src="' + img_path + '" alt="pic">\n</div>\n')
+                f.write('<img class="float-end equipment-pic" src="' + img_path + '" alt="pic">\n')
+
+            # write heading
+            if row['Link to Manufacturer website']: # put link in name
+                f.write('<h5 class="mb-3"><a href="' + row['Link to Manufacturer website'] + '">'+ name +'</a></h5>\n')
+            else:
+                f.write('<h5 class="mb-3">'+ name +'</h5>\n')
+
+            # description
+            desc = row['Description']
+            f.write('<p class="card-text mb-auto">' + desc + '</p>\n</div>\n')
+
             
-            f.write('</div>\n</div>\n')
+            
+            f.write('</div>\n</div>\n</div>\n')
 
     f.write('</div>')
 
