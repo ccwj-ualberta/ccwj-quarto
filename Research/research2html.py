@@ -94,7 +94,7 @@ def write_section(section_name, data, index_start):
                         if filename.startswith(row['Logo_Sponsor_' + sponsor_num]):
                             img_path = pic_folder + filename
                     if img_path:
-                        f.write('<div class="equipment-pic col-auto d-flex overflow-hidden p-3">\n<img class="fill-img" src="' + img_path + '" alt="pic">\n</div>\n')
+                        f.write('<div class="card-pic col-auto d-flex overflow-hidden p-3">\n<img class="fill-img" src="' + img_path + '" alt="pic">\n</div>\n')
                 
                 f.write('</div>\n</div>\n')
                 
