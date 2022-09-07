@@ -30,8 +30,9 @@ def sponsors2html(excel_path):
         
         if entry['Company']:
             f.write('<div class="col-lg-4 col-md-6">\n<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm bg-white h-md-200 position-relative">\n<div class="col p-4 d-flex flex-column position-static">\n')
-            f.write('<h5 class="mb-3">'+ entry['Company'] +'</h5>\n')
-            f.write('<p class="card-text mb-auto">' + entry['Sponsorship Details'] + '</p>\n</div>\n')
+            
+            f.write('<div class="clearfix">\n')
+            
             
             if entry['Code']:
                 # find and write photo
@@ -42,9 +43,13 @@ def sponsors2html(excel_path):
                     if filename.startswith(entry['Code']):
                         img_path = pic_folder + filename
                 if img_path:
-                    f.write('<div class="equipment-pic col-auto d-flex overflow-hidden p-3">\n<a href="' + entry['Sponsor Link'] + '" target="_blank"><img class="fill-img" src="' + img_path + '" alt="pic"></a>\n</div>\n')
+                    f.write('<a href="' + entry['Sponsor Link'] + '" target="_blank"><img class="float-end equipment-pic" src="' + img_path + '" alt="pic"></a>\n')
+
+            f.write('<h5 class="mb-3">'+ entry['Company'] +'</h5>\n')
+            f.write('<p class="card-text mb-auto">' + entry['Sponsorship Details'] + '</p>\n</div>\n')
             
-            f.write('</div>\n</div>\n')
+            
+            f.write('</div>\n</div>\n</div>\n')
     
 
     # close file
