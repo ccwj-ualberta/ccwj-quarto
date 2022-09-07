@@ -16,7 +16,7 @@ In general the scripts will look for images in the Assets/section_tab/section_na
 For example, images in the 'What we do' section under the About Us tab should be placed in Assets/About_Us/What_we_do
 
 # Generating publications
-The publication list can be generated from a BibTeX file (.bib) using a python script (bibtex2htmldiv.py)
+The publication list can be generated from a BibTeX file (.bib) using a python script (bibtex2html.py)
 This has been taken from: https://github.com/ketch/tex2_rst_html
 
 To run, open terminal (navigate to the Research folder) and run

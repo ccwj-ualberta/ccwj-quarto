@@ -28,7 +28,7 @@ def people2html(excel_path):
     write_section('Bachelor\'s student', 'BSc Students', 'list-bsc', data, f)
     write_section('Visitor', 'Visitors', 'list-visitors', data, f)
     write_section('External', 'External', 'list-external', data, f)
-    write_section('Alumnus', 'Alumni', 'list-alumni', data, f)
+    write_section('Almumn', 'Alumni', 'list-alumni', data, f)
 
     # close file
     f.close()

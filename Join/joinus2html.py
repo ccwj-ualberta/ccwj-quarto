@@ -143,7 +143,7 @@ def write_section(section_name, data, index_start):
                     # write image html
                     f.write('<img src="' + img_path + '" class="img-scale mx-auto d-block">\n')
                 else:
-                    print('cannot find image ' + value)
+                    print('cannot find image ' + value + ' in ' + img_folder)
                 
     f.write('</div>')
     

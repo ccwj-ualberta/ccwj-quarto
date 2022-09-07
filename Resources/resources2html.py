@@ -68,7 +68,12 @@ def write_section(section_name, data, index_start):
                 
             elif header.startswith('Text_Block') and value:
                 text = value.strip('\n').replace('\n', '<br>') # preserve newlines in html
-                f.write('<p>' + text + '</p>\n')
+                num = header.split('_')[-1] # gets text block number
+                if row['Link_' + num]: # if Link exists, link to text block
+                    f.write('<p><a href="' + row['Link_' + num] + '">' + text + '</a></p>\n')
+                else:
+                    f.write('<p>' + text + '</p>\n')
+                
                 
             elif header.startswith('Image') and value:
                 # get image path, look in Assets/Resources folder and section_name (with underscores) subfolder 
@@ -101,7 +106,7 @@ def write_section(section_name, data, index_start):
                         if filename.startswith(row['Logo_Sponsor_' + sponsor_num]):
                             img_path = pic_folder + filename
                     if img_path:
-                        f.write('<div class="equipment-pic col-auto d-flex overflow-hidden p-3">\n<img class="fill-img" src="' + img_path + '" alt="pic">\n</div>\n')
+                        f.write('<div class="card-pic col-auto d-flex overflow-hidden p-3">\n<img class="fill-img" src="' + img_path + '" alt="pic">\n</div>\n')
                 
                 f.write('</div>\n</div>\n')
                 

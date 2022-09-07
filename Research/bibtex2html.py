@@ -10,9 +10,11 @@ import os
 import pybtex.database
 
 # This may need to be changed for other machines/users
+# the place where publication images are kept
 img_path = r'/Users/Cotton/Desktop/CCWJ_site_bootstrap/Assets/'
 
 # This may need to be changed for other sites
+# the url where publication images are hosted
 img_dest = 'http://localhost:8080/Assets/'
 # paperlinks_path = '/Users/ketch/Research/Projects/labnotebook/assets/paperlinks.txt'
 

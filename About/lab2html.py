@@ -53,7 +53,7 @@ def write_section(csv_key, section_title, section_id, data, f):
 
             # write heading
             if row['Link to Manufacturer website']: # put link in name
-                f.write('<h5 class="mb-3"><a href="' + row['Link to Manufacturer website'] + '">'+ name +'</a></h5>\n')
+                f.write('<h5 class="mb-3"><a target="_blank" href="' + row['Link to Manufacturer website'] + '">'+ name +'</a></h5>\n')
             else:
                 f.write('<h5 class="mb-3">'+ name +'</h5>\n')
 

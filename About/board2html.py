@@ -38,7 +38,7 @@ def board2html(excel_path):
             
             # write company heading with link
             if entry['Company_Link']:
-                f.write('<strong class="d-inline-block mb-0 text-success"><a href="' + entry['Company_Link'] + '">' + entry['Company'] + '</a></strong>\n')
+                f.write('<strong class="d-inline-block mb-0 text-success"><a target="_blank" href="' + entry['Company_Link'] + '">' + entry['Company'] + '</a></strong>\n')
             else:
                 f.write('<strong class="d-inline-block mb-0 text-success">' + entry['Company'] + '</strong>\n')
 

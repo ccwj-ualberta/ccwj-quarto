@@ -47,7 +47,7 @@ def write_carousel(data, f):
             count += 1
             
             # get image path, look in Assets/Home folder 
-            img_folder = './Assets/Home/'
+            img_folder = './Assets/Home/Home_Carousel/'
             img_path = ''
             for filename in os.listdir(img_folder):
                 if filename.startswith(img_name):
