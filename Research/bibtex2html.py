@@ -1,9 +1,10 @@
 """
 Convert bibtex files (.bib) to html divs that can be custom formatted using CSS.
+Organized by citation type (Book, article, etc)
 Usage (from Python or IPython prompt):
 
     >> import bibtex2html
-    >> bibtex2html.bibtex2html('/path/to/myfile.bib','htmlfilename')
+    >> bibtex2html.bibtex2html('../Assets/Research/shorttest.bib','bib.html')
 
 """
 import os
@@ -18,7 +19,7 @@ img_path = r'/Users/Cotton/Desktop/CCWJ_site_bootstrap/Assets/'
 img_dest = 'http://localhost:8080/Assets/'
 # paperlinks_path = '/Users/ketch/Research/Projects/labnotebook/assets/paperlinks.txt'
 
-def bibtex2html(bibfile,htmlfile='bib2.html'):
+def bibtex2html(bibfile,htmlfile='bib.html'):
     publications=parsefile(bibfile)
     writebib(publications,htmlfile)
     print('bibtex2html complete')
@@ -80,12 +81,14 @@ def writebib(publications,filename='bib.html'):
     """
     f=open(filename,'w')
 
+    # 2nd arg = the types of citations the script will look for
     write_section('Submitted preprints','unpublished',publications,f)
     write_section('Refereed Journal Articles','article',publications,f)
     write_section('Books','inbook',publications,f)
     write_section('Conference Proceedings','inproceedings',publications,f)
     write_section('Technical Reports','techreport',publications,f)
-    write_section('Theses','phdthesis',publications,f)
+    write_section('PhD Theses','phdthesis',publications,f)
+    write_section('MSc Theses','mastersthesis',publications,f)
 
     f.close()
 
@@ -114,14 +117,17 @@ def write_entry(pub,f):
     if os.path.isfile(os.path.abspath(img_file)):
         f.write('<img src="' + img_dest + pub['pid'] + '.png" align="right" />\n')
     if 'url' in pub: # create link to pdf file
-        f.write('<a href="'+pub['url'].split()[0].replace('\_','_')+'">')
+        f.write('<a target="_blank" href="'+pub['url'].split()[0].replace('\_','_')+'">')
     elif 'doi' in pub.keys():
         f.write('<a href="https://doi.org/'+pub['doi']+'">')
     elif 'arxivid' in pub:
         f.write('<a href="http://arxiv.org/abs/'+pub['arxivid']+'">')
+
+    # write paper title
     f.write('<name> %s </name><br>\n' % pub['title'].replace('{','').replace('}',''))
     if ('url' in pub) or ('doi' in pub) or ('arxivid' in pub):
         f.write('</a>\n')
+
     f.write('<authors> %s</authors>,\n' % pub['author'])
     if 'journal' in pub.keys():
         f.write('<journal> %s</journal>' % pub['journal'])
@@ -143,10 +149,10 @@ def write_entry(pub,f):
     # Write links line
     linkstring = ''
 
-    if 'url' in pub.keys():
-        if 'arxiv' not in pub['url'].split()[0]:
-            if 'davidketchson' in pub['url'].split()[0]:
-                linkstring += ' | <a href="'+pub['url'].split()[0]+'">Free PDF</a> '
+    # if 'url' in pub.keys():
+    #     if 'arxiv' not in pub['url'].split()[0]:
+    #         if 'davidketchson' in pub['url'].split()[0]:
+    #             linkstring += ' | <a href="'+pub['url'].split()[0]+'">Free PDF</a> '
     if 'doi' in pub.keys():
         linkstring += ' | <a href="https://doi.org/'+pub['doi']+'">Published version</a> '
     if 'arxivid' in pub.keys():

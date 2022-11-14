@@ -13,6 +13,8 @@ import os
 import pandas as pd
 import numpy as np
 
+# folder that contains the class folder on website
+site_url = 'https://sites.ualberta.ca/~ccwj/Teaching/'
 
 def teaching2html(excel_path):
     # read sheet named Teaching in excel file 
@@ -190,8 +192,6 @@ def write_section(section_name, data, index_start):
 
 
 def write_topics(folder_name, course_order, f):
-    # folder that contains the class folder on website
-    site_url = 'https://sites.ualberta.ca/~ccwj/test-content/Teaching/'
 
     # path to teaching folder (where this script is located)
     dir_path = os.path.dirname(os.path.realpath(__file__))

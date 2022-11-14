@@ -8,73 +8,138 @@
 
 
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/</loc>
-  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/index.html</loc>
+  <lastmod>2022-09-07T20:59:08+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/index.html</loc>
-  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/About/about.html</loc>
+  <lastmod>2022-09-07T20:59:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/about.html</loc>
-  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/People/people.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/People/people.html</loc>
-  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/Research/research.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/Research/research.html</loc>
-  <lastmod>2021-09-08T04:49:31+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/Teaching/teaching.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/Teaching/teaching.html</loc>
-  <lastmod>2021-09-08T04:49:32+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/Resources/resources.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/Resources/resources.html</loc>
-  <lastmod>2021-09-08T04:49:32+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/Join/joinus.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/Join/joinus.html</loc>
-  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/lab.html</loc>
-  <lastmod>2021-09-08T04:49:26+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/About/whatwe.html</loc>
+  <lastmod>2022-09-07T20:59:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/chair.html</loc>
-  <lastmod>2021-09-08T04:49:26+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/About/lab.html</loc>
+  <lastmod>2022-09-07T20:59:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/board.html</loc>
-  <lastmod>2021-09-08T04:49:26+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/About/chair.html</loc>
+  <lastmod>2022-09-07T20:59:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/sponsors.html</loc>
-  <lastmod>2021-09-08T04:49:26+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/About/advisoryboards.html</loc>
+  <lastmod>2022-09-07T20:59:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/About/directions.html</loc>
-  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/About/sponsors.html</loc>
+  <lastmod>2022-09-07T20:59:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://sites.ualberta.ca/~ccwj/test-content/People/patricio.html</loc>
-  <lastmod>2021-09-08T04:49:25+00:00</lastmod>
+  <loc>https://sites.ualberta.ca/~ccwj/About/directions.html</loc>
+  <lastmod>2022-09-07T20:59:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Research/projects.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Research/publications.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Teaching/welding.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Teaching/heattransfer.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Resources/videos.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Resources/gallery.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Resources/posters.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Resources/talks.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Join/events.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Join/ongoingprojects.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Join/graduatestudents.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Join/undergraduatestudents.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Join/resourcesfor.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sites.ualberta.ca/~ccwj/Join/scholarshipsand.html</loc>
+  <lastmod>2022-09-07T20:59:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
