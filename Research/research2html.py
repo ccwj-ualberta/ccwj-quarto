@@ -54,6 +54,8 @@ def write_section(section_name, data, index_start):
             if value == 'LINK_TO_TAB':
                 if section_name == 'Publications':
                     f.write('<div id="bib-html"></div>\n')
+                elif section_name == 'Posters':
+                    f.write('<div id="posters-embed-html"></div>\n')
                 continue
 
             if header.startswith('Section_Heading') and value:
@@ -158,6 +160,8 @@ def write_page_beginning(section_name, data, f):
     # import html for publications
     if section_name == 'Publications':
         f.write('<script>$(function () { $("#bib-html").load("./bib.html"); });</script>\n')
+    elif section_name == 'Posters':
+        f.write('<script>$(function () { $("#posters-embed-html").load("./posters-embed.html"); });</script>\n')
 
     template2 = """
         <script src="https://cse.google.com/cse.js?cx=805eed77643236949"></script>

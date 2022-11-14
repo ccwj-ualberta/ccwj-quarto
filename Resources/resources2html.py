@@ -57,8 +57,6 @@ def write_section(section_name, data, index_start):
                     f.write('<div id="videos-embed-html"></div>\n')
                 elif section_name == 'Gallery':
                     f.write('<div id="gallery-modal-html"></div>\n')
-                elif section_name == 'Posters':
-                    f.write('<div id="posters-text-html"></div>\n')
                 elif section_name == 'Talks':
                     f.write('<div id="talks-embed-html"></div>\n')
                 continue
@@ -172,8 +170,6 @@ def write_page_beginning(section_name, data, f):
         f.write('<script>$(function () { $("#videos-embed-html").load("./videos-embed.html"); });</script>\n')
     elif section_name == 'Gallery':
         f.write('<script>$(function () { $("#gallery-modal-html").load("./gallery-modal.html"); });</script>\n')
-    elif section_name == 'Posters':
-        f.write('<script>$(function () { $("#posters-text-html").load("./posters-text.html"); });</script>\n')
     elif section_name == 'Talks':
         f.write('<script>$(function () { $("#talks-embed-html").load("./talks-embed.html"); });</script>\n')
 
