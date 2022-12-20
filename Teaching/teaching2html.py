@@ -14,7 +14,7 @@ import pandas as pd
 import numpy as np
 
 # folder that contains the class folder on website
-site_url = 'https://sites.ualberta.ca/~ccwj/Teaching/'
+site_url = 'https://sites.ualberta.ca/~ccwj/Assets/Teaching/'
 
 def teaching2html(excel_path):
     # read sheet named Teaching in excel file 
@@ -193,8 +193,9 @@ def write_section(section_name, data, index_start):
 
 def write_topics(folder_name, course_order, f):
 
-    # path to teaching folder (where this script is located)
-    dir_path = os.path.dirname(os.path.realpath(__file__))
+    # path to teaching folder to search for pdfs, content, etc.
+    #dir_path = os.path.dirname(os.path.realpath(__file__))
+    dir_path = '../Assets/Teaching/'
 
     for code in course_order.split(): # go through each topic code in course_order
         for topic_folder in os.scandir(os.path.join(dir_path,folder_name)): 
