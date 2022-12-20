@@ -2,6 +2,8 @@
 # # ignore che314 and mate481 resource folder
 Teaching/CHE314/
 Teaching/MATE481/
+Assets/Teaching/CHE314/
+Assets/Teaching/MATE481/
 
 # Byte-compiled / optimized / DLL files
 */__pycache__/
