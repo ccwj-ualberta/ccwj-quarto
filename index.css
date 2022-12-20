@@ -194,6 +194,18 @@ h4[id]{
   color: #486f48;
 }
 
+/* for poster thumbnail image */
+.poster-img { 
+  max-height: 15em;
+  object-fit: cover;
+  object-position: top left;
+}
+
+
+
+
+
+
 /* PUBLICATIONS LIST */
 
 #pub {
