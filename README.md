@@ -1,3 +1,13 @@
+# Required Packages and setup
+The scripts are Python-based and use the pandas and numpy packages, which are included in the Anaconda distribution of Python: https://www.anaconda.com/products/distribution 
+
+Additional packages: 
+- Pymupdf: imported as 'fitz', used to convert pdf to png thumbnails for the posters page
+- pybtex: used to read .bib files for publications page
+
+Run these commands in a Python/Anaconda terminal to install:
+`pip install --upgrade pymupdf`
+`pip install pybtex`
 
 # Testing
 To run the website with python server, run this in terminal from the main folder:
@@ -10,6 +20,7 @@ Note that some things like links to pdfs, etc. may not work properly until you u
 All styles are defined in the index.css file.
 - Fonts, font sizes
 - Colors
+- Image sizing, positioning, etc.
 
 # Images
 In general the scripts will look for images in the Assets/section_tab/section_name folder, with all spaces replaced with underscores '_'
