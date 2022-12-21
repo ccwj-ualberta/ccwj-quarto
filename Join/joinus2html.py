@@ -120,17 +120,35 @@ def write_section(section_name, data, index_start):
         # go through each column for the row
         for header, value in row.items():
     
-            if header.startswith('Section_Heading') and value:
-                
-                # make header a link if applicable
-                if row['Link']:
-                    f.write('<h4><a href="' + row['Link'] + '" target="_blank">' + value + '</a></h4>\n')
+            if header.startswith('Section_Heading_1') and value:
+                if row['Link_1'] and not row['Description_Link_1']:
+                      f.write('<h4><a href="' + row['Link_1'] + '" target="_blank">' + value + '</a></h4>\n')
                 else:
-                    f.write('<h4>' + value + '</h4>\n')
-                
+                      f.write('<h4>' + value + '</h4>\n')
+            elif header.startswith('Section_Heading_2') and value:
+                if row['Link_2'] and not row['Description_Link_2']:
+                      f.write('<h5><a href="' + row['Link_2'] + '" target="_blank">' + value + '</a></h5>\n')
+                else:
+                      f.write('<h5>' + value + '</h5>\n')
+            elif header.startswith('Section_Heading') and value:
+                num = str(header.split('_')[-1])
+                if row['Link_' + num] and not row['Description_Link_' + num]:
+                      f.write('<h6><a href="' + row['Link_' + num] + '" target="_blank">' + value + '</a></h6>\n')
+                else:
+                      f.write('<h6>' + value + '</h6>\n')
             elif header.startswith('Text_Block') and value:
+                num = str(header.split('_')[-1])
                 text = value.strip('\n').replace('\n', '<br>') # preserve newlines in html
-                f.write('<p>' + text + '</p>\n')
+                if row['Description_Link_' + num]:
+                      f.write('<p>' + text + ' ') # don't include closing tag so link can go there
+                else:
+                      f.write('<p>' + text + '</p>\n')
+            elif header.startswith('Description_Link') and value:
+                num = str(header.split('_')[-1])
+                if row['Text_Block_' + num]:
+                      f.write('<a href="' + row['Link_' + num] + '" target="_blank">' + value + '</a></p>\n')
+                else:
+                      f.write('<p><a href="' + row['Link_' + num] + '" target="_blank">' + value + '</a></p>\n')
                 
             elif header.startswith('Image') and value:
                 # get image path, look in Assets/Research folder and section_name (with underscores) subfolder 
