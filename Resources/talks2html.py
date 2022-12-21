@@ -28,18 +28,21 @@ def talks2html(excel_path):
             f.write('<h4>' + row['Presentation_Title'] + '</h4>\n')
         
         if row['Presenter']:
-            f.write('<p>Presenter: ' + row['Presenter'].strip('\n').replace('\n', '<br>'))
+            f.write('<p>Presenter: ' + row['Presenter'].strip('\n').replace('\n', '<br>') + ' ')
         
-        if row['Presentation_Code']: # look for pdf file starting with presentation_code in presentations_folder
-            for filename in os.listdir(presentations_folder):
-                if filename.startswith(str(row['Presentation_Code'])) and filename.endswith('.pdf'):
-                    f.write(' [<a target="_blank" href="' + os.path.join(presentations_folder,filename) + '">Slides</a>]</p>\n')
-                    break
-            else: # presentation code exists but pdf slides not found
-                f.write('</p>\n')
-                print('Resources/Talks: missing presentation slides code ' + row['Presentation_Code']) 
-        else: # if no presentation code, write closing p tag
-            f.write('</p>\n')
+        for header, value in row.items():
+            if header.startswith('Presentation_Code') and value: # look for pdf file starting with presentation_code in presentations_folder
+                for filename in os.listdir(presentations_folder):
+                    if filename.startswith(str(row['Presentation_Code'])) and filename.endswith('.pdf'):
+                        f.write(' | <a target="_blank" href="' + os.path.join(presentations_folder,filename) + '">Slides</a> ')
+                        break
+            if header.startswith('Link'): # add additional links
+                num = header.split('_')[-1]
+                if row['Description_Link_' + num]:
+                    text = row['Description_Link_' + num]
+                    f.write('| <a href="' + value + '" target="_blank">' + text + '</a> ')
+
+        f.write('</p>\n') # closing p tag
 
         if row['Date']: # format date as Mar 4, 2014
             date = row['Date'].strftime("%b %-d, %Y")
@@ -49,22 +52,26 @@ def talks2html(excel_path):
             text = row['Abstract'].strip('\n').replace('\n', '<br>') # preserve newlines in html
             f.write('<p>' + text + '</p>')
             
-        if row['Link']: # youtube video
-            link = row['Link']
-            # grab video type (either 'watch' for video or 'playlist' for playlist) as the word 
-            # sitting between com/ and ? in the url
-            video_type = link[link.index('com/') + len('com/'):link.index('?')]
-            
-            if video_type.startswith('playlist'):
-                playlist_id = link.split("list=")[1]
-                
-                f.write('<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=' + playlist_id + '" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n')
-                
-            else:
-                # only keep first 11 characters after watch?v= to get video id
-                video_id = link.split("watch?v=")[1][:11]
-                
+        if row['Youtube_Link']: # youtube video
+            link = row['Youtube_Link']
+            if "youtu.be" in link:
+                video_id = link.split('/')[-1]
                 f.write('<iframe width="560" height="315" src="https://www.youtube.com/embed/' + video_id + '" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n')
+            else:
+                # grab video type (either 'watch' for video or 'playlist' for playlist) as the word 
+                # sitting between com/ and ? in the url
+                video_type = link[link.index('com/') + len('com/'):link.index('?')]
+                
+                if video_type.startswith('playlist'):
+                    playlist_id = link.split("list=")[1]
+                    
+                    f.write('<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=' + playlist_id + '" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n')
+                    
+                else:
+                    # only keep first 11 characters after watch?v= to get video id
+                    video_id = link.split("watch?v=")[1][:11]
+                    
+                    f.write('<iframe width="560" height="315" src="https://www.youtube.com/embed/' + video_id + '" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\n')
         
         if row['File_Location']: # google drive video
 
