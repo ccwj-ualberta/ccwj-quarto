@@ -6,6 +6,7 @@
 
 import os
 import pandas as pd
+import numpy as np
 
 excel_path = '../CCWJ_Website.xlsx'
 # folder with .pdf presentation slides, named starting with presentation code
@@ -14,6 +15,7 @@ presentations_folder = '../Assets/Resources/Tech_Talks_Presentations'
 def talks2html(excel_path):
     # read sheet named resources_videos excel file
     data = pd.read_excel(excel_path, sheet_name="Resources_Talks")
+    data.replace("NaT", np.NaN, inplace=True) # pd.fillna('') only works for np.NaN, not NaT types
     data.fillna('', inplace=True)
         
     filename = 'talks-embed.html'

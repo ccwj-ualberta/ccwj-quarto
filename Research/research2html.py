@@ -53,7 +53,7 @@ def write_section(section_name, data, index_start):
             
             if value == 'LINK_TO_TAB':
                 if section_name == 'Publications':
-                    f.write('<div id="bib-html"></div>\n')
+                    f.write('<div id="bib-html" class="pe-md-5 me-md-5"></div>\n')
                 elif section_name == 'Posters':
                     f.write('<div id="posters-embed-html"></div>\n')
                 continue
