@@ -5,30 +5,30 @@ website:
   navbar:
     background: primary
     search: true
-    logo: www/CCWJ_white_logo.png
+    logo: Assets/CCWJ_white_logo.png
     logo-alt: Canada Centre for Welding and Joining
 
     left:
       - text: Home
-        file: Home/home.qmd
+        file: home/home.qmd
 
       - text: About us
-        file: About/about.qmd
+        file: about/about.qmd
 
       - text: People
-        file: People/director.qmd
+        file: people/director.qmd
 
       - text: Research
-        file: Research/research.qmd
+        file: research/research.qmd
 
       - text: Teaching
-        file: Teaching/teaching.qmd
+        file: teaching/teaching.qmd
 
       - text: Resources
-        file: Resources/resources.qmd
+        file: resources/resources.qmd
 
       - text: Join us
-        file: Join/joinus.qmd
+        file: join/joinus.qmd
 
     tools:
       - icon: twitter
@@ -44,65 +44,65 @@ website:
     - title: "Home"
       style: "docked"
       contents:
-        - Home/home.qmd
-        - Home/news.qmd
+        - home/home.qmd
+        - home/news.qmd
 
     - title: "About us"
       style: "docked"
       contents:
-        - About/about.qmd
-        - About/what-we-do.qmd
-        - About/lab.qmd
-        - About/welco-chair.qmd
-        - About/advisory-boards.qmd
-        - About/sponsors.qmd
-        - About/directions.qmd
+        - about/about.qmd
+        - about/what-we-do.qmd
+        - about/lab.qmd
+        - about/welco-chair.qmd
+        - about/advisory-boards.qmd
+        - about/sponsors.qmd
+        - about/directions.qmd
   
     - title: "People"
       style: "docked"
       contents:
-        - People/director.qmd
-        - People/staff.qmd
-        - People/postdocs.qmd
-        - People/phds.qmd
-        - People/mscs.qmd
-        - People/bscs.qmd
-        - People/visitors.qmd
-        - People/alumn.qmd
-        - People/alumn-ug.qmd
-        - People/alumn-visitors.qmd
+        - people/director.qmd
+        - people/staff.qmd
+        - people/postdocs.qmd
+        - people/phds.qmd
+        - people/mscs.qmd
+        - people/bscs.qmd
+        - people/visitors.qmd
+        - people/alumn.qmd
+        - people/alumn-ug.qmd
+        - people/alumn-visitors.qmd
         
     - title: "Research"
       style: "docked"
       contents:
-        - Research/research.qmd
-        - Research/projects.qmd
-        - Research/publications.qmd
-        - Research/posters.qmd
+        - research/research.qmd
+        - research/projects.qmd
+        - research/publications.qmd
+        - research/posters.qmd
       
     - title: "Teaching"
       style: "docked"
       contents:
-        - Teaching/teaching.qmd
-        - Teaching/welding.qmd
-        - Teaching/heat-transfer.qmd
+        - teaching/teaching.qmd
+        - teaching/welding.qmd
+        - teaching/heat-transfer.qmd
     
     - title: "Resources"
       style: "docked"
       contents:
-        - Resources/resources.qmd
-        - Resources/videos.qmd
-        - Resources/gallery.qmd
-        - Resources/talks.qmd
+        - resources/resources.qmd
+        - resources/videos.qmd
+        - resources/gallery.qmd
+        - resources/talks.qmd
     
     - title: "Join Us"
       style: "docked"
       contents:
-        - Join/joinus.qmd
-        - Join/canadian.qmd
-        - Join/international.qmd
-        - Join/visiting.qmd
-        - Join/upcoming-events.qmd
+        - join/joinus.qmd
+        - join/canadian.qmd
+        - join/international.qmd
+        - join/visiting.qmd
+        - join/upcoming-events.qmd
   
   page-footer:
     left: |

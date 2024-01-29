@@ -1,0 +1,19 @@
+---
+title: Mackenzi Johnston
+image: ../../assets/member-photos/MJ1 - Mackenzi Johnston.jpeg
+subtitle: Materials Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/MJ1 - Mackenzi Johnston.jpeg
+  links:
+    - icon: email
+      text: mhjohnst@ualberta.ca
+      href: mhjohnst@ualberta.ca
+---
+
+I joined CCWJ in September 2019 as a transfer student from previous (incomplete) studies in Aerospace Engineering from Carleton University and practical welding training from SAIT. I never quite knew what my ‘thing’ was until I started welding at SAIT and experimenting with making a propane-fueled jet torch. I bought my first stick welder soon after and just a few months later I had designed and built my own fully operational metal foundry and electric GoKart. It’s been an amazing journey in just the past year and a half and CCWJ has been a huge part of that. CCWJ allowed me to develop and follow my passion for teaching and leading where I now hold sessions to teach women from the university community how to weld, as well as train lab members on various equipment. 
+I’m fueled by continuous learning and hands-on opportunities and I look forward to continuing my participation with CCWJ! 
+
+## Project
+
+Involving women in welding and testing hydrogen content in welds

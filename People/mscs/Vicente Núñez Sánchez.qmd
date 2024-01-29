@@ -1,0 +1,18 @@
+---
+title: Vicente Núñez Sánchez
+image: ../../assets/member-photos/VS1 - Vicente Andres Nunez Sanchez.jpeg
+subtitle: Materials Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/VS1 - Vicente Andres Nunez Sanchez.jpeg
+  links:
+    - icon: email
+      text: nunezsan@ualberta.ca
+      href: nunezsan@ualberta.ca
+---
+
+I am a MSc. Student in Materials, arriving from Chile and since 2021 working in and for the CCWJ.
+
+## Project
+
+Doing an energy balance in the GMAW process. Comprehend the behaviour of the droplet temperature is the main focus of interest. By understanding it, it should be possible to make different welds with lower energy, or with less material. In the end, it is possible to use less consumable by every weld, just by understanding better the droplet.

@@ -1,0 +1,18 @@
+---
+title: Vicente Nunez Sanchez
+image: ../../assets/member-photos/VS1 - Vicente Andres Nunez Sanchez.jpeg
+subtitle: Mechanical Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/VS1 - Vicente Andres Nunez Sanchez.jpeg
+  links:
+    - icon: email
+      text: vicente.nunez@ug.uchile.cl
+      href: vicente.nunez@ug.uchile.cl
+---
+
+I started my work on February 202. I am from Chile and as now I received the ELAP scholarship, my home office is here in Edmonton. I like to play volleyball or any sport. 
+
+## Project
+
+Energy balance in GMAW

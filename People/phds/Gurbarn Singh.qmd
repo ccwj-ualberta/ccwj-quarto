@@ -1,0 +1,17 @@
+---
+title: Gurbarn Singh
+subtitle: Materials Engineering
+about:
+  template: solana
+  links:
+    - icon: email
+      text: gurbarn@ualberta.ca
+      href: gurbarn@ualberta.ca
+---
+
+Ph.D. student at IITM JDP with UofA, Current position Quality Control Manager at Oil & Gas Industry. Origin of Country - India, Joined CCWJ in 2022
+
+## Project
+
+Understand the relationship between microstructural evolution and low-temperature
+toughness of electric resistance welded bondline for HSLA linepipe. 15 Years Industrial experience in Quality Control and Welding Technology departments

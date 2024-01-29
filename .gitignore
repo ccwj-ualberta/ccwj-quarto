@@ -44,3 +44,4 @@ ipython_config.py
 # Quarto
 /.quarto/
 _site/
+.Rproj.user

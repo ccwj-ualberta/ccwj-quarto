@@ -1,0 +1,15 @@
+---
+title: Francisca Javiera Ramirez Vidal
+image: ../../assets/member-photos/FR1 - Francisca Javiera Ramirez Vidal.jpeg
+subtitle: ELAP - Universidad de Chile
+about:
+  template: solana
+  image: ../../assets/member-photos/FR1 - Francisca Javiera Ramirez Vidal.jpeg
+  links:
+    - icon: email
+      text: ramirezv@ualberta.ca
+      href: ramirezv@ualberta.ca
+---
+
+nan
+

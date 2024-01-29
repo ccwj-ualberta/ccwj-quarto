@@ -1,0 +1,20 @@
+---
+title: Wesley Wood
+image: ../../assets/member-photos/WW1 - Wesley Wood.jpg
+subtitle: Materials Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/WW1 - Wesley Wood.jpg
+  links:
+    - icon: email
+      text: wwood1@ualberta.ca
+      href: wwood1@ualberta.ca
+---
+
+Wesley Wood graduated from the University of Alberta Materials Engineering program in the spring of 2020. He has been a member of the Canadian Centre for Welding and Joining since January 2020 where he volunteered to be a part of a project to use Arduino Prototyping and Mach3 USB to control a welding torch using closed loop control.
+
+Currently, Wesley is looking to further his education at the University of Alberta in a Graduate Studies program and work in industry.
+
+## Project
+
+Control of a welding torch using Arduino Uno and Mach3 USB

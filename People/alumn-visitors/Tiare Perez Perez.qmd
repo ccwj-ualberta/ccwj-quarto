@@ -1,0 +1,15 @@
+---
+title: Tiare Perez Perez
+image: ../../assets/member-photos/TP1 - Tiare Andrea Susana Perez Neira.jpg
+subtitle: ELAP Universidad de Chile
+about:
+  template: solana
+  image: ../../assets/member-photos/TP1 - Tiare Andrea Susana Perez Neira.jpg
+  links:
+    - icon: email
+      text: pereznei@ualberta.ca
+      href: pereznei@ualberta.ca
+---
+
+Hi I'm Tiare, I'm a mechanical engineer student from Universidad de Chile. I'm currently doing my thesis in the CCWJ. I'm a ELAP intern! and I'm trying to learn more about the wonders of welding <3
+

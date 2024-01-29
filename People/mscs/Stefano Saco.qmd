@@ -1,0 +1,18 @@
+---
+title: Stefano Saco
+image: ../../assets/member-photos/SS1 - Stefano Sacco Hawas.jpeg
+subtitle: Materials Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/SS1 - Stefano Sacco Hawas.jpeg
+  links:
+    - icon: email
+      text: sacohaw@ualberta.ca
+      href: sacohaw@ualberta.ca
+---
+
+I'm a Chilean student who arrives at the CCWJ in January 2020. I love all kinds of sports and knowing cool people and in the CCWJ, there are plenty of those jajaja. My dream is to work in Italy near the Alps and be able to travel around Europe whenever I want! I have been awarded with MIT Machine Learning courses scholarships, Emerging Leaders of American Program scholarship, Santander Universidad scholarship and now I have a full scholarship to study for an M.Sc. in the University of Alberta.
+
+## Project
+
+Study the variation of hydrogen diffusion in steel

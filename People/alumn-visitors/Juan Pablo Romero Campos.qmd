@@ -1,0 +1,15 @@
+---
+title: Juan Pablo Romero Campos
+image: ../../assets/member-photos/JR1 - Juan Pablo Romero Campos.jpg
+subtitle: Elap
+about:
+  template: solana
+  image: ../../assets/member-photos/JR1 - Juan Pablo Romero Campos.jpg
+  links:
+    - icon: email
+      text: jromeroc@ualberta.ca
+      href: jromeroc@ualberta.ca
+---
+
+nan
+

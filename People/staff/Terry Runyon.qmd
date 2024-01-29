@@ -1,0 +1,18 @@
+---
+title: Terry Runyon
+image: ../../assets/member-photos/TR1 - Terry Runyon.jpg
+subtitle: Materials Engineering, Chemical Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/TR1 - Terry Runyon.jpg
+  links:
+    - icon: email
+      text: trunyon@ualberta.ca
+      href: trunyon@ualberta.ca
+---
+
+I have been a part of the CCWJ since it began.   I have been with Patricio since 2009 when he first came to the University.  I am born and raised in Edmonton, but have travelled to many places in the world.  I enjoy travelling, baseball and road trips
+
+## Project
+
+Work behind the scenes on payroll and administration for the group

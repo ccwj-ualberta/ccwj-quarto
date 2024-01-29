@@ -1,0 +1,18 @@
+---
+title: Ivan Gonzalez
+image: ../../assets/member-photos/IG1 - Ivan Gonzalez Perez.jpg
+subtitle: ELAP, Universidad de Chile
+about:
+  template: solana
+  image: ../../assets/member-photos/IG1 - Ivan Gonzalez Perez.jpg
+  links:
+    - icon: email
+      text: ivan.gonzalez@ug.uchile.cl
+      href: ivan.gonzalez@ug.uchile.cl
+---
+
+I'm Iván González, a mechanical engineer from Chile who joined the CCWJ in January 2020 thanks to the ELAP program that funds the internship. My intention is to merge my background as a mechanical engineer with novel tools of data analysis, I have been doing that in the field of realiability and mantainability of physical assets and now I entered the welding filed thanks to the CCWJ. I'm also passionate about music, which I love playing, listening and exploring, besides that, I like photography which helps me to see the world in another pair of eyes.
+
+## Project
+
+Droplet segmentation of welding videos

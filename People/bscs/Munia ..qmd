@@ -1,0 +1,18 @@
+---
+title: Munia .
+image: ../../assets/member-photos/MU2 -  Munia.JPG
+subtitle: Chemical Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/MU2 -  Munia.JPG
+  links:
+    - icon: email
+      text: munia1@ualberta.ca 
+      href: munia1@ualberta.ca 
+---
+
+I joined CCWJ in February 2022. I am originally from Bangladesh and I grew up in the UAE! I love reading fiction and watching anything with a good story, swimming and growing plants! My dream is to learn everything and become a 'jack of all trades' basically. 
+
+## Project
+
+I have been volunteering at the CCWJ lab learning how to use Thermocalc and JMatPro software

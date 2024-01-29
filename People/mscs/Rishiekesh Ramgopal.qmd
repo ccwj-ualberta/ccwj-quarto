@@ -1,0 +1,23 @@
+---
+title: Rishiekesh Ramgopal
+image: ../../assets/member-photos/RR1 - Rishiekesh Ramgopal.jpg
+subtitle: Materials Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/RR1 - Rishiekesh Ramgopal.jpg
+  links:
+    - icon: email
+      text: rishieke@ualberta.ca
+      href: rishieke@ualberta.ca
+---
+
+I am Rishie, I originate from India. I joined UofA for a summer Internship in 2019 and am now going to join the same for my Masters. My hobbies are trekking and to explore new locations especially mountains and any serene location. I love reading Novels and play Dota once in a while.
+I was the one of the 5 sophomore international students across the globe selected for the Mitacs Globalink Research Internship.
+
+Publications - 
+1. Finite Element simulation of Temperature Distribution and Residual Stress in Single Bead on Plate Weld Trial using Double Ellipsoidal Heat Source Model
+2.Additive Manufacturing and Its Need, Role, Applications in the Automotive Industry
+
+## Project
+
+Research on Lincoln Wire arc additive Manufacturing

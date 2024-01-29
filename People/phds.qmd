@@ -4,5 +4,5 @@ listing:
   contents: phds
   type: default
   image-height: 200px
-  image-placeholder: ../www/CCWJ_Logo_Black.jpg
+  image-placeholder: ../../assets/UA-COLOUR-NARROW.png
 ---

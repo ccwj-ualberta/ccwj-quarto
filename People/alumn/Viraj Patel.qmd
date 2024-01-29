@@ -1,0 +1,18 @@
+---
+title: Viraj Patel
+image: ../../assets/member-photos/VP1 - Viraj Patel.jpg
+subtitle: Materials
+about:
+  template: solana
+  image: ../../assets/member-photos/VP1 - Viraj Patel.jpg
+  links:
+    - icon: email
+      text: vrp@ualberta.ca
+      href: vrp@ualberta.ca
+---
+
+I came to know about the CCWJ during Fall of 2019. I was amazed by the work done by its members in the field of welding. I have since been working under the guidance of Patricio Mendez and have been involved in creation of a procedure database for industrial arc welding processes.
+
+## Project
+
+Database creation and Management for Arc Welding Procedures

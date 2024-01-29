@@ -1,0 +1,15 @@
+---
+title: Cesar Gonzalez
+image: ../../assets/member-photos/CG1 - Cesar Maximiliano Gonzalez Bisquertt.jpeg
+subtitle: ELAP
+about:
+  template: solana
+  image: ../../assets/member-photos/CG1 - Cesar Maximiliano Gonzalez Bisquertt.jpeg
+  links:
+    - icon: email
+      text: cesarmax@ualberta.ca
+      href: cesarmax@ualberta.ca
+---
+
+nan
+

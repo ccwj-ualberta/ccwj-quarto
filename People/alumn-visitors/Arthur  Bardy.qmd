@@ -1,0 +1,18 @@
+---
+title: Arthur  Bardy
+image: ../../assets/member-photos/AB3 - Arthur Bardy.jpg
+subtitle: Materials Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/AB3 - Arthur Bardy.jpg
+  links:
+    - icon: email
+      text: arthur.bardy@gmail.com
+      href: arthur.bardy@gmail.com
+---
+
+Arthur BARDY student in 4th year of engineering school at Polytech Montpellier in the mechanics of industrial structures. Having for objectives to deepen my knowledge in the field of the welding I thus came to carry out an internship of 2 months within the CCWJ. 
+
+## Project
+
+I am currently studying to become an engineer in the field of industrial structure mechanics. I am doing this internship in order to improve my skills in different welding processes, especially fiction welding.
