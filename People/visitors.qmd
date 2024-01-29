@@ -1,0 +1,8 @@
+---
+title: "Visitors"
+listing: 
+  contents: visitors
+  type: default
+  image-height: 200px
+  image-placeholder: ../www/CCWJ_Logo_Black.jpg
+---

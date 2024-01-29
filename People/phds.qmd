@@ -1,0 +1,8 @@
+---
+title: "PhD Students"
+listing: 
+  contents: phds
+  type: default
+  image-height: 200px
+  image-placeholder: ../www/CCWJ_Logo_Black.jpg
+---

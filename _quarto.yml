@@ -1,0 +1,128 @@
+project:
+  type: website
+
+website:
+  navbar:
+    background: primary
+    search: true
+    logo: www/CCWJ_white_logo.png
+    logo-alt: Canada Centre for Welding and Joining
+
+    left:
+      - text: Home
+        file: Home/home.qmd
+
+      - text: About us
+        file: About/about.qmd
+
+      - text: People
+        file: People/director.qmd
+
+      - text: Research
+        file: Research/research.qmd
+
+      - text: Teaching
+        file: Teaching/teaching.qmd
+
+      - text: Resources
+        file: Resources/resources.qmd
+
+      - text: Join us
+        file: Join/joinus.qmd
+
+    tools:
+      - icon: twitter
+        href: https://twitter.com/search?q=centre%20for%20welding%20and%20joining&src=typed_query&f=top
+      - icon: linkedin
+        href: https://www.linkedin.com/company/ccwj/
+      - icon: github
+        menu:
+          - text: GitHub projects
+            url:  https://github.com/ccwj-ualberta
+
+  sidebar:
+    - title: "Home"
+      style: "docked"
+      contents:
+        - Home/home.qmd
+        - Home/news.qmd
+
+    - title: "About us"
+      style: "docked"
+      contents:
+        - About/about.qmd
+        - About/what-we-do.qmd
+        - About/lab.qmd
+        - About/welco-chair.qmd
+        - About/advisory-boards.qmd
+        - About/sponsors.qmd
+        - About/directions.qmd
+  
+    - title: "People"
+      style: "docked"
+      contents:
+        - People/director.qmd
+        - People/staff.qmd
+        - People/postdocs.qmd
+        - People/phds.qmd
+        - People/mscs.qmd
+        - People/bscs.qmd
+        - People/visitors.qmd
+        - People/alumn.qmd
+        - People/alumn-ug.qmd
+        - People/alumn-visitors.qmd
+        
+    - title: "Research"
+      style: "docked"
+      contents:
+        - Research/research.qmd
+        - Research/projects.qmd
+        - Research/publications.qmd
+        - Research/posters.qmd
+      
+    - title: "Teaching"
+      style: "docked"
+      contents:
+        - Teaching/teaching.qmd
+        - Teaching/welding.qmd
+        - Teaching/heat-transfer.qmd
+    
+    - title: "Resources"
+      style: "docked"
+      contents:
+        - Resources/resources.qmd
+        - Resources/videos.qmd
+        - Resources/gallery.qmd
+        - Resources/talks.qmd
+    
+    - title: "Join Us"
+      style: "docked"
+      contents:
+        - Join/joinus.qmd
+        - Join/canadian.qmd
+        - Join/international.qmd
+        - Join/visiting.qmd
+        - Join/upcoming-events.qmd
+  
+  page-footer:
+    left: |
+      Contact Information <br>
+      Professor Patricio Mendez <br>
+      ccwj@ualberta.ca
+    center: |
+      Shipping Address <br>
+      Room CME L1-108 <br>
+      University of Alberta <br>
+      116 Street NW - 85 Avenue <br>
+      Edmonton, AB T6G 2R3 Canada
+    right: |
+      Links <br>
+      [Department of Chemical and Materials Engineering](https://www.ualberta.ca/engineering/chemical-materials-engineering/about-us/index.html) <br>
+      [Directions](https://sites.ualberta.ca/~ccwj/About/directions.html) <br>
+      [University of Alberta](https://www.ualberta.ca/)
+
+format:
+  html:
+    # theme: cosmo
+    css: styles.css
+    toc: true

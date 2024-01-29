@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Anivers';
-  src: url("./Assets/Anivers_CCWJ.ttf");
+  src: url("./www/Anivers_CCWJ.ttf");
 }
 
 @font-face {
   font-family: 'Good Times';
-  src: url("./Assets/GoodTimes_CCWJ.ttf");
+  src: url("./www/GoodTimes_CCWJ.ttf");
 }
 
 
@@ -40,7 +40,7 @@ h3,h4,h5,h6, .font-anivers {
 }
 
 .navbar{
-  background-image: url("Assets/background_bar.png");
+  background-image: url("www/background_bar.png");
   background-repeat: no-repeat;
   background-position: top left;
   background-size: 1255px 90px; /*1506 by 108 original image */
@@ -50,7 +50,7 @@ h3,h4,h5,h6, .font-anivers {
 }
 
 /* responsive picture size, but with max width and height so it doesn't look too big on laptop */
-.img-scale{ 
+.img-scale{
   max-width: 800px;
   max-height: 450px;
   width: 100%;
@@ -60,19 +60,18 @@ h3,h4,h5,h6, .font-anivers {
 }
 
 
-
-
 /* SIDE BAR */
 
 .sidebar, .footer{
   background-color: #e9e9e9;
-  border-color: #d5d5d5 !important; /* override border color*/
+  border-color: #d5d5d5 !important;
   padding: 0;
 }
-  
+
 #nav-sidebar {
   top: 7rem;
 }
+
 
 /* left sidebar item appearance */
 .list-group-item{
@@ -96,8 +95,8 @@ h4[id]{
   font-family: 'Good Times';
 }
 
-/*don't add extra padding on top for the 1st subheading on a page*/
-.subheading1 { 
+/* don't add extra padding on top for the 1st subheading on a page */
+.subheading1 {
   padding-top: 6rem !important;
   margin-top: -6rem;
 }
@@ -116,6 +115,7 @@ h4[id]{
 .news-container{
   margin-bottom: 1.5rem;
 }
+
 @media (min-width: 992px) {
   .sidebar{
     min-width: 8rem;
@@ -195,59 +195,55 @@ h4[id]{
 }
 
 /* for poster thumbnail image */
-.poster-img { 
+.poster-img {
   max-height: 15em;
   object-fit: cover;
   object-position: top left;
 }
 
-
-
-
-
-
 /* PUBLICATIONS LIST */
 
 #pub {
   padding-left: 2rem;
-  font-size: 1.1rem; 
-  line-height: 1.5rem; 
-  margin-top: 5px; 
-  margin-bottom: 5px; 
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+  margin-top: 5px;
+  margin-bottom: 5px;
   vertical-align: middle;
 }
 
 #pub a {
   color: #486f48;
-} 
+}
 
 #pub name {
   color: #486f48;
   font-weight:bold;
-} 
+}
 
 #pub journal {
   font-style: italic;
-} 
+}
 
-#pub links{ 
-  color: black; 
+#pub links{
+  color: black;
   vertical-align: bottom;
-} 
+}
 
-#pub links a { 
-  color: #486f48; 
+#pub links a {
+  color: #486f48;
   font-style: italic;
-} 
+}
 
 #pub img {
-  height: 4em; 
-  align: right; 
+  height: 4em;
+  align: right;
   padding-right: 3px;
 }
 
 
-/* TEACHING */ 
+/* TEACHING */
+
 /* .topic-header h5 {
   display: inline;
   margin-right: 1em;
@@ -256,7 +252,6 @@ h4[id]{
 .indent {
   margin-left: 2em;
 }
-
 
 
 /* GALLERY */
