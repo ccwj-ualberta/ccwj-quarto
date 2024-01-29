@@ -40,3 +40,7 @@ ipython_config.py
 
 # MacOS
 **/.DS_Store
+
+# Quarto
+/.quarto/
+_site/
