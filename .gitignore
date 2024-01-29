@@ -34,7 +34,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-
 # IPython
 profile_default/
 ipython_config.py
+
+# MacOS
+*.DS_Store
