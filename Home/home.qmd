@@ -1,6 +1,13 @@
 ---
 title: "Canadian Centre for Welding and Joining"
+lightbox:
+  match: auto
+  effect: fade
+  loop: true
 ---
+
+![](../assets/home/carousel/pic1.jpg){height=315 fig-align="center" group="gallery"}
+![](../assets/home/carousel/pic3.JPG){height=315 fig-align="center" group="gallery"}
 
 Welcome to the Canadian Centre for Welding and Joining (CCWJ) located in the Department of Chemical and Materials Engineering in the University of Alberta.
 

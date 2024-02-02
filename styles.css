@@ -33,7 +33,7 @@ h3,h4,h5,h6, .font-anivers {
 }
 
 /* Narbar appearance */
-.navbar{
+.navbar {
   background-image: url("Assets/background_bar.png");
   background-repeat: no-repeat;
   background-position: top left;
