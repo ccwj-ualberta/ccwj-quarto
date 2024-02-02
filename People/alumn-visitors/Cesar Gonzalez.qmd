@@ -8,8 +8,9 @@ about:
   links:
     - icon: email
       text: cesarmax@ualberta.ca
-      href: cesarmax@ualberta.ca
+      href: mailto:cesarmax@ualberta.ca
 ---
+**Prior Degrees:** BSc, Mechanical engineering, 2020
 
-nan
+None
 

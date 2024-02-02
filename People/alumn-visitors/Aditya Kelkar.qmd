@@ -8,12 +8,16 @@ about:
   links:
     - icon: email
       text: akelkar@ualberta.ca
-      href: akelkar@ualberta.ca
+      href: mailto:akelkar@ualberta.ca
+    - icon: linkedin
+      text: aditya-kelkar-a6994a1b6
+      href: https://www.linkedin.com/in/aditya-kelkar-a6994a1b6
 ---
+**Prior Degrees:** Higher Secondary
 
 Hi, I am Aditya, from India. I am studying Mechanical Engineering, in the final year of my Bachelor's Degree. I am working on thermal plasmas with Dr. Patricio Mendez via the MITACS program.
 I play badminton and enjoy playing the piano. I dream of working in the aerospace industry someday.
 
-## Project
+#### Project
 
 Physics of Thermal Plasmas at Atmospheric Pressure

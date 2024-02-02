@@ -8,11 +8,11 @@ about:
   links:
     - icon: email
       text: jolene2@ualberta.ca
-      href: jolene2@ualberta.ca
+      href: mailto:jolene2@ualberta.ca
 ---
 
 Jolene is from Canada and joined CCWJ in September 2019. She is excited to continue learning how to weld and contributing to the advancement of Charpy testing at CCWJ.
 
-## Project
+#### Project
 
 Novice welding and Charpy impact testing

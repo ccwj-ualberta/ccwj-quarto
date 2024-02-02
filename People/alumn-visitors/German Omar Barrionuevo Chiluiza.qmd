@@ -8,12 +8,16 @@ about:
   links:
     - icon: email
       text: barrionu@ualberta.ca
-      href: barrionu@ualberta.ca
+      href: mailto:barrionu@ualberta.ca
+    - icon: linkedin
+      text: omarbarrionuevo
+      href: https://www.linkedin.com/in/omarbarrionuevo/
 ---
+**Prior Degrees:** B.Sc. Mechatronics (2014), M. Eng. Computer-aided Design and Manufacturing (2017)
 
 Germán Barrionuevo is currently a PhD candidate in mechanical engineering under the supervision of Dr. Jorge Ramos at the Pontificia Universidad Católica de Chile. He obtained his B.S. and M.S. degrees in Mechatronics and Computer-aided design and manufacturing at University of Armed Forces ESPE.
 Prior to joining the CCWJ in January 2022, Germán was a research assistant at the materials science laboratory in Quito, Ecuador. His current research is focused on the development of novel additive manufacturing process to recover worn materials.
 
-## Project
+#### Project
 
 My research field is about the applicability of machine learning algorithms to predict the mechanical performance of samples fabricated by additive manufacturing and laser welding.

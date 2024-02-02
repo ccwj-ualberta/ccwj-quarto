@@ -8,8 +8,9 @@ about:
   links:
     - icon: email
       text: stevenborle@gmail.com
-      href: stevenborle@gmail.com
+      href: mailto:stevenborle@gmail.com
 ---
+**Prior Degrees:** MSc, Welding Engineering, 2014
 
 Steven was born in Alberta and has lived in Louisiana, Belize and Nova Scotia.  Steven began his involvement at CCWJ as an undergraduate completing a Dean’s Research Award. After completing his undergraduate degree he joined the CCWJ as a Masters student. 
 Steven’s research in welding has covered many processes including gas metal arc welding, submerged arc welding, laser beam welding, friction stir welding and plasma transferred arc welding. His research has encompassed a diverse range of subjects including high strength welding consumables, the effect of heat input in friction stir welding, and the application of wear and corrosion resistant overlays.  

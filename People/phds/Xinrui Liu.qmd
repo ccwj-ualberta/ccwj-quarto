@@ -1,18 +1,19 @@
 ---
 title: Xinrui Liu
 image: ../../assets/member-photos/XL1 - Xinrui Liu.JPG
-subtitle: Materials Engineering
+subtitle: Aerospace Engineering
 about:
   template: solana
   image: ../../assets/member-photos/XL1 - Xinrui Liu.JPG
   links:
     - icon: email
       text: xinrui19@ualberta.ca
-      href: xinrui19@ualberta.ca
+      href: mailto:xinrui19@ualberta.ca
 ---
+**Prior Degrees:** Bachelor degree and Master Degree of Aerospace Engineering
 
-I visited the CCWJ as an intern in 2018 and am back for my PhD again! I come from Nanchang City, China and also stayed for a long time in Harbin, China, which is the about the same temperature as Edmonton. My biggest interest is in aerospace and I dream to travel far away from earth – but not for a long time (quite lonely up there, I guess). I like music including singing and guitar. Up to now, I published a paper regarding the application of deep learning to satellite images, and also had a paper about the dynamic simulation of satellites. In the future, I will try my best to do the work of FSW especially in the rocket area.
+I joined CCWJ in 2021 and met those amazing people. I enjoy so much about learning things about welding enigeering. I like badminton and playing guitars. Sometimes I will also make some videos and music by myself. My dream is to make a rocket by myself oneday!
 
-## Project
+#### Project
 
-I am now working on the model of friction stire welding. I used to do research about object detection in the remote sensing images of satellites and also established the hardware-in-loop test platform of satellites.
+Working on building mathematic models of friction stir welding, which can be used for finding proper welding parameters in a much convient and fast way.

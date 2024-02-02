@@ -8,8 +8,12 @@ about:
   links:
     - icon: email
       text: Saccohaw@ualberta.ca
-      href: Saccohaw@ualberta.ca
+      href: mailto:Saccohaw@ualberta.ca
+    - icon: linkedin
+      text: stefsaccoh
+      href: https://www.linkedin.com/in/stefsaccoh/
 ---
+**Prior Degrees:** Mechanical Civil Engineer
 
 Stefano Sacco joined the Canadian Centre for Welding and Joining lab in 2021 to pursue a MSc. In Materials Engineering. Stefano is a Mechanical Civil engineer from the “Universidad de Chile” with a minor on renewable energies. He has also been involved in the UofA CWB association Student chapter as Vice-President after having served as the counsellor of the Mechanical Engineering FCFM Student Chapter 2019-20.
 
@@ -18,6 +22,6 @@ The project in which Stefano is working has it focus in creating a model to esti
 Stefano enjoys playing basketball, swimming and well, doing any type of sports. He also likes going out and competing in his favourites sports. 
 
 
-## Project
+#### Project
 
 My project consists mostly in creating a model to estimate the hydrogen amount in every section of steel billets and rods. With the increasing requirement of understanding how the hydrogen behaves in steel this project earn relevance because it allows to estimate the amount of hydrogen in each stage of the steelmaking and at every position, thing that no one has never been able to do before. Also, if you know the amount of hydrogenin a steel you can predict, if it is going to be affected with hydrogen embrittlement, that is one of the main problem of repurposing oil pipelines.

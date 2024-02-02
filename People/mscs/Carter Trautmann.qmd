@@ -8,8 +8,12 @@ about:
   links:
     - icon: email
       text: cdtrautm@ualberta.ca
-      href: cdtrautm@ualberta.ca
+      href: mailto:cdtrautm@ualberta.ca
+    - icon: linkedin
+      text: carter-trautmann-9b9671159
+      href: https://www.linkedin.com/in/carter-trautmann-9b9671159/
 ---
+**Prior Degrees:** BSc, Engineering Physics, 2020
 
 Carter Trautmann Joined the CCWJ in 2020 to pursue their MSc in Materials engineering. He is focusing on process development and Metallurgy. He holds his BSc in Engineering Physics from the University of Alberta. His involvement in the lab includes treasurer and president of the CWB/AWS student chapter and he continues to advise the group as a past president.
 
@@ -17,6 +21,6 @@ Carter’s research involves working with rail industry sponsor Amsted Rail on d
 
 Carter also works some evenings at the Student maker space at the University developing his own side projects and helping to give students from across the university access to technical skills and engineering tools.
 
-## Project
+#### Project
 
 Development of process and alloys to improve the lifetime and allow for the repair of rail road wheels. 

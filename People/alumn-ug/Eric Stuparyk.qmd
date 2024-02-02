@@ -8,7 +8,7 @@ about:
   links:
     - icon: email
       text: estupary@ualberta.ca
-      href: estupary@ualberta.ca
+      href: mailto:estupary@ualberta.ca
 ---
 
 Joined: 2021
@@ -16,6 +16,6 @@ Country of Origin: Canada
 Hobbies: Hunting game birds, snowmobiling, skiing
 Awards: U of A Engineering Entrance Award, KERN Undergraduate Scholarship in Petroleum Engineering, Governor General Bronze Medal
 
-## Project
+#### Project
 
 Database of material properties

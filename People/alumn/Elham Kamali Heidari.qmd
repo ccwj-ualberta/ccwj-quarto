@@ -8,8 +8,9 @@ about:
   links:
     - icon: email
       text: kamalihe@ualberta.ca
-      href: kamalihe@ualberta.ca
+      href: mailto:kamalihe@ualberta.ca
 ---
+**Prior Degrees:** PhD, Mechanical Engineering, 2016
 
 Elham joined CCWJ in October 2018 as a visiting professor. She is currently a Research Associate at National Research Council of Canada.
 

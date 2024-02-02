@@ -8,8 +8,9 @@ about:
   links:
     - icon: email
       text: ramirezv@ualberta.ca
-      href: ramirezv@ualberta.ca
+      href: mailto:ramirezv@ualberta.ca
 ---
+**Prior Degrees:** BSc, Mechanical Engineering, 2020
 
-nan
+None
 

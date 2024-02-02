@@ -8,8 +8,9 @@ about:
   links:
     - icon: email
       text: kamyabig@ualberta.ca
-      href: kamyabig@ualberta.ca
+      href: mailto:kamyabig@ualberta.ca
 ---
+**Prior Degrees:** PhD, Materials Engineering, 2015
 
 Ata is originally from Iran and joined the CCWJ in 2012 initially working on an industrially sponsored MITACS Accelerate Internship/scholarship project. He then started working on his PhD project in early 2013 while managing his responsibilities as the head TA for the MATE 202 -Materials Science II course. Ata managed to publish 4 peer-reviewed papers directly derived from his thesis work during his PhD program. He also received 6 awards during his PhD and 3 awards after graduation.
 After graduation, Ata worked as an assistant professor at Ferdowsi University of Mashhad from 2016 to 2019 and was in charge of teaching multiple materials engineering undergraduate and graduate level courses and supervising multiple masters students. Ata joined the Apollo-Clad Laser Cladding Research and Development team in Canada in September 2019 and has since been busy working alongside talented individuals to help improve the productivity of laser cladding and unlock its potential for additive manufacturing.

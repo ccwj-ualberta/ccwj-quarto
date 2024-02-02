@@ -8,16 +8,15 @@ about:
   links:
     - icon: email
       text: rishieke@ualberta.ca
-      href: rishieke@ualberta.ca
+      href: mailto:rishieke@ualberta.ca
+    - icon: linkedin
+      text: rishiekesh-ramgopal
+      href: https://www.linkedin.com/in/rishiekesh-ramgopal/
 ---
+**Prior Degrees:** BTech,Metallurgical and Materials Enginnering,2021
 
-I am Rishie, I originate from India. I joined UofA for a summer Internship in 2019 and am now going to join the same for my Masters. My hobbies are trekking and to explore new locations especially mountains and any serene location. I love reading Novels and play Dota once in a while.
-I was the one of the 5 sophomore international students across the globe selected for the Mitacs Globalink Research Internship.
+I initially joined the CCWJ lab through the MITACS Research internship Scholarship in the summer of 2019. After my internship, I went back to India to complete my undergrad, then I returned to the CCWJ to pursue my Masters. Recently my favorite pastimes are Skiing and hockey. My poster based on the internship was accepted for presentation at Fabtech 2019. I have a publication based on the importance of additive manufacturing in the automotive industry.
 
-Publications - 
-1. Finite Element simulation of Temperature Distribution and Residual Stress in Single Bead on Plate Weld Trial using Double Ellipsoidal Heat Source Model
-2.Additive Manufacturing and Its Need, Role, Applications in the Automotive Industry
+#### Project
 
-## Project
-
-Research on Lincoln Wire arc additive Manufacturing
+I am working on methods to reduce fume emission during welding by understanding the deposition rate and controlling the heat input to the ideal amount through mass and energy balance.

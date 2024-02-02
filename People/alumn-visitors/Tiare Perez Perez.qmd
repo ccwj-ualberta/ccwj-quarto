@@ -8,8 +8,9 @@ about:
   links:
     - icon: email
       text: pereznei@ualberta.ca
-      href: pereznei@ualberta.ca
+      href: mailto:pereznei@ualberta.ca
 ---
+**Prior Degrees:** BSc, Mechanical Engineer, 2020
 
 Hi I'm Tiare, I'm a mechanical engineer student from Universidad de Chile. I'm currently doing my thesis in the CCWJ. I'm a ELAP intern! and I'm trying to learn more about the wonders of welding <3
 

@@ -63,11 +63,9 @@ website:
       contents:
         - people/director.qmd
         - people/staff.qmd
-        - people/postdocs.qmd
         - people/phds.qmd
         - people/mscs.qmd
         - people/bscs.qmd
-        - people/visitors.qmd
         - people/alumn.qmd
         - people/alumn-ug.qmd
         - people/alumn-visitors.qmd

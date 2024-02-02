@@ -8,8 +8,9 @@ about:
   links:
     - icon: email
       text: cancinos@ualberta.ca
-      href: cancinos@ualberta.ca
+      href: mailto:cancinos@ualberta.ca
 ---
+**Prior Degrees:** BSc, Mechanical Engineering, 2018
 
-nan
+None
 

@@ -8,13 +8,16 @@ about:
   links:
     - icon: email
       text: nithcarlsen@gmail.com
-      href: nithcarlsen@gmail.com
+      href: mailto:nithcarlsen@gmail.com
+    - icon: linkedin
+      text: nitheesh-kumar-r-9060091a1
+      href: https://www.linkedin.com/in/nitheesh-kumar-r-9060091a1
 ---
 
 I am Nitheesh Kumar from Tamil Nadu, India. I am pursuing my B.Tech in NIT Trichy. My hobbies are to play Chess, Cricket and to watch movies. I am joining CCWJ on June 1 2022, to complete my MITACS Internship which will end by August 23 2022. 
 I previously have been awarded a fellowship by Indian Academy of Sciences in IIT Madras. 
 
 
-## Project
+#### Project
 
 Mathematical Modelling of Laser Cladding for Composite Materials

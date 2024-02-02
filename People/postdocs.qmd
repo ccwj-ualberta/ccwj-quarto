@@ -1,8 +1,0 @@
----
-title: "Postdoctoral Fellows"
-listing: 
-  contents: postdocs
-  type: default
-  image-height: 200px
-  image-placeholder: ../../assets/UA-COLOUR-NARROW.png
----

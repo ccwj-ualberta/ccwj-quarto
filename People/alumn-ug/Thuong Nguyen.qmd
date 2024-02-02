@@ -8,11 +8,11 @@ about:
   links:
     - icon: email
       text: thuong@ualberta.ca
-      href: thuong@ualberta.ca
+      href: mailto:thuong@ualberta.ca
 ---
 
 I'm an international student from Viet Nam. I first joined CCWJ in 2018, and I decided to come back to the lab again this time. Besides school and work, I enjoy reading, biking, and playing badminton
 
-## Project
+#### Project
 
 Gathering data from welding textbook to generate mathematical model

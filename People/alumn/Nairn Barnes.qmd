@@ -8,8 +8,9 @@ about:
   links:
     - icon: email
       text: nebarnes@ualberta.ca
-      href: nebarnes@ualberta.ca
+      href: mailto:nebarnes@ualberta.ca
 ---
+**Prior Degrees:** PhD in Materials Engineering
 
 Bio:
 Nairn has been with Supreme Steel as a Welding Engineer-in-Training since October 2017. Nairn graduated in Fall 2017 from the University of Alberta with a PhD in Materials Engineering, and joined Supreme directly following successful completion of his defence. As a welding engineer-in-training, his responsibilities include creating and monitoring of WPDS, troubleshooting for the production team both in the shop and in the field with repairs, helping to overhaul the quality system, assisting project teams, and addressing general welding issues. 

@@ -8,8 +8,9 @@ about:
   links:
     - icon: email
       text: jromeroc@ualberta.ca
-      href: jromeroc@ualberta.ca
+      href: mailto:jromeroc@ualberta.ca
 ---
+**Prior Degrees:** MSc, mechanical engineering, 2019
 
-nan
+None
 
