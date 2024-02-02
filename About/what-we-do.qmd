@@ -18,6 +18,8 @@ title: "What we do"
 
 - Access to unique equipment at CCWJ for industry.
 
+[Overview of Welding Programs](../teaching/welding.qmd)
+
 ## Fundamentals Research
 
 - Leading the field of technology with latest discoveries from science and equipment: membership in key committees such as IIW: Assembly National Delegate for Canada; Expert for Commission XII and SG 212; Member of IIW TMB; and AWS: A5G Subcommittee on Hard Facing Filler Metals, EC Education Committee, Higher Education.
@@ -82,3 +84,9 @@ title: "What we do"
     - Communication: Open and clear discussion of ideas with the whole spectrum of welding professionals.
     - Team players: collaboration with international researchers and teamwork in the group.
     - Exposure: attend trade shows (Fabtech, GPS, etc.) and conferences (e.g. CanWeld, IIW).
+
+### CCWJ has a strong focus on Equity, Diversity, and Inclusivity
+
+The CCWJ is a culturally diverse institution, with up to 13 different nationalities and numerous languages present. We actively and successfully focus on providing an equitable, diverse, and inclusive environment, and support our students in thriving as a lab member, and finding a career in engineering, science, and the welding industry. This support takes place on several levels: on a secondary school level we maintain an outreach program to local high-schools on both the applied (St. Joseph’s High School) and the theoretical side (Old Scona), which exposes students to welding and engineering and encourages them to consider a career in this area. We also participate in the WISEST program and we have hosted four female interns and three female summer students. When the economic downturn in Alberta made it difficult to find employment in welding for one of the female welding apprentices who worked with our lab, we used our contacts to industry and research to ensure she finds welding-related employment that allows her to build her resume, expand her experiences, and join the welding community as a successful professional.
+
+We recognize that we are still facing challenges to improve our numbers of female students and indigenous students, and we are making active efforts and seek ongoing feedback on the effectiveness of these efforts. Faculty, staff, and students regularly attend workshops to ensure that the lab environment is inclusive and welcoming to everybody, and regularly engage external resources to adjust our strategies.
