@@ -46,3 +46,8 @@ Key Publications:
 
 
 
+#### Project
+
+*Solidification Theory and Optimization of Chromium Carbide Overlays*
+
+To bring a deeper understanding to chromium carbide overlays. In particular, the development and affirmation of a growth model describing the diffusion-controlled growth of faceted primary carbide needles enables a greater control over the final microstructure and properties of the overlay.

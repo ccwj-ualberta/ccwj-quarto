@@ -17,3 +17,6 @@ about:
 
 Hey! I'm Daniel, a recent graduate of the University of Alberta's Materials Engineering Co-op program. Currently, I am planning to start my graduate studies at the CCWJ in the Fall of 2022. My ultimate aspiration is to contribute to the development of new alloys/material processes that can advance our use of structural materials. My two biggest hobbies include hockey and designing & building racecars. In fact, in the Fall of 2021, I received an award for a simulator I coded in MATLAB to predict engine coolant temperatures of a racecar!
 
+#### Project
+
+TBD

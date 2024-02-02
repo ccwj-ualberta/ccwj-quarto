@@ -14,3 +14,11 @@ about:
 
 Hi I'm Tiare, I'm a mechanical engineer student from Universidad de Chile. I'm currently doing my thesis in the CCWJ. I'm a ELAP intern! and I'm trying to learn more about the wonders of welding <3
 
+#### Project
+
+*Coupling modeling of heat transfer and plastic deformation of Friction Stir Welding*
+
+The idea behind this project is to understand one of the newer welding processes, the friction stir welding (FSW) process. Given that despite being highly relevant to aerospace and other state-of-the-art manufacturing industries, FSW is currently unable to use engineering tools such as formulas or tabulated data.
+This thesis will focus on modeling coupled heat transfer and plastic deformation in metals when welded, with a focus on providing a general quantitative set of formulas and tabulated data useful in both research and industry. Seeking to validate the generalization of these formulas and increase the currently existing database by contrasting the results with the literature.
+This will generalize current data that is currently not connected or has been of little use in industry and research. In this project, the student will learn the theory behind FSW and become familiar with the fundamental and current literature. It will have direct access to the FSW machine, data acquisition systems and metallographic analysis equipment from the University of Alberta Welding Laboratory. The use of programming and data processing software such as Matlab, Python, etc. is expected.
+The scope of the project will be that the process will be considered in a general way, subject to industrial implementation in the form of formulas, tables and graphs for simple use for engineers.

@@ -18,3 +18,8 @@ Since graduating in 2014 Steven has worked at Group Six Technologies, an Edmonto
 He is also active in the welding community sitting as the current Chair of the Edmonton chapter of the Canadian Welding Bureau Association. He has coauthored numerous papers and articles related to welding including “Primary chromium carbide fraction control with variable polarity SAW,” in the Welding Journal for which he received the Charles H. Jennings Memorial Award, This award is presented for the most valuable paper written by a college student or faculty representative published in the Welding Journal during the previous year.
 
 
+#### Project
+
+*Microstructural Characterization of Chromium Carbide Overlays and a Study of Alternative Welding Processes for Industrial Wear Applications*
+
+ A main outcome of the research was a better understanding of chromium carbide overlay (CCO) microstructures and how they are formed. Overlays such as CCOs overlays are used to extend the service life of a component by adding a wear-resistant layer to of the surface of a cheaper and tougher base material. These overlays are commonly used in all sorts of industries including agriculture, mining, and Oil and Gas. Understanding the microstructural characteristics of CCOs will help develop products that have better and more uniform wear resistance throughout.  One key finding of this research was that as the balance was decreased in SAW the amount of dilution declined, which led to higher amounts of hypereutectic microstructure, higher volume fraction of primary carbides, and larger primary carbide size.
