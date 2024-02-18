@@ -1,5 +1,6 @@
 ---
 title: "International Students"
+toc: true
 editor: 
   markdown: 
     wrap: 72

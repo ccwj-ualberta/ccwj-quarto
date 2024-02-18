@@ -1,0 +1,8 @@
+---
+title: Alicat Scientific / FusionFlow
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/FF1_Alicat_FusionFlow.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/FF1_Alicat_FusionFlow.jpg
+---

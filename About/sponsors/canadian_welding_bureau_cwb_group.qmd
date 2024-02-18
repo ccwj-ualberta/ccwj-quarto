@@ -1,0 +1,8 @@
+---
+title: Canadian Welding Bureau (CWB Group)
+categories: [Welco industry chair]
+image: ../../assets/about-us/sponsors-logos/CW1_CWB_Group.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/CW1_CWB_Group.jpg
+---

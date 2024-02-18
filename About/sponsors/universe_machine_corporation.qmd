@@ -1,0 +1,8 @@
+---
+title: Universe Machine Corporation
+categories: [C:CLAD]
+image: ../../assets/about-us/sponsors-logos/UM1_universe_machine_logo.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/UM1_universe_machine_logo.jpg
+---

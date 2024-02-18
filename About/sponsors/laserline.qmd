@@ -1,0 +1,8 @@
+---
+title: Laserline
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/LL1_Laserline.png
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/LL1_Laserline.png
+---

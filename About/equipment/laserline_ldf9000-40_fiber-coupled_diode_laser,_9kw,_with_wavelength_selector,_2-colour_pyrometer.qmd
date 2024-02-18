@@ -1,0 +1,9 @@
+---
+title: Laserline LDF9000-40 fiber-coupled diode laser, 9kW, with wavelength selector, 2-colour pyrometer
+categories: [Welding]
+image: ../../assets/about-us/equipment-photos/LLIN_LDF9000_Laser.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/LLIN_LDF9000_Laser.jpg
+---
+A high efficiency fiber-coupled diode laser system in the 960-1060 nm wavelength. Used to generate high power heat source for laser cladding and laser heat treatment applications with the ability to closed-loop control with peak temperature sensing. Used for cost-effective, efficient and reliable laser welding, cladding and heat-treatment applications. 

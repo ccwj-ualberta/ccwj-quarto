@@ -1,0 +1,9 @@
+---
+title: Stud Welder TRW
+categories: [Welding]
+image: ../../assets/about-us/equipment-photos/STUD_Stud_Welder.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/STUD_Stud_Welder.jpg
+---
+Arc welds metal "studs" onto the base plate material with controller burst current. We use this to study various stud welding techniques and matterial combinations and their effectiveness. Used across industries for affixing any kind of stand off, bolt, or other stud type piece onto a base matterial. Commonly used for threaded connections, PCB standoffs, and many automotive parts.

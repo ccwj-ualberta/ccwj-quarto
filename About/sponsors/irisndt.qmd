@@ -1,0 +1,8 @@
+---
+title: IRISNDT
+categories: [C:CLAD]
+image: ../../assets/about-us/sponsors-logos/IR1_IRISNDT_Logo.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/IR1_IRISNDT_Logo.jpg
+---

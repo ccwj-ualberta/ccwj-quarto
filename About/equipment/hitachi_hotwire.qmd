@@ -1,0 +1,9 @@
+---
+title: Hitachi Hotwire
+categories: [Welding]
+image: ../../assets/about-us/equipment-photos/HOTW_hitachiTIG.png
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/HOTW_hitachiTIG.png
+---
+Used to resistively heat simultaneous secondary wire feed. Incorporating the use of hot-wire feed into arc welding processes helps stabilize the arc by reducing magnetic arc blow. It also reduces the nominal heat input to the primary wire at the torch. In all welding positions, it can significantly bolster productivity rates while reducing heat input to the weld metal.

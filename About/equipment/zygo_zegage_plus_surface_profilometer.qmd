@@ -1,0 +1,9 @@
+---
+title: Zygo Zegage Plus Surface Profilometer
+categories: [Characterization]
+image: ../../assets/about-us/equipment-photos/ZYGO_zegage_pro.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/ZYGO_zegage_pro.jpg
+---
+Used for very high resolution imaging of matterial surfaces profiles. Provides highly detailed information on post weld surfaces, worn surfaces, and fracture surfaces. Used for quality control and design verification in a variety of surface realted industries including casting, machining, glass shaping, and packaging.

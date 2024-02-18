@@ -1,0 +1,8 @@
+---
+title: Apollo Clad Laser Cladding
+categories: [C:CLAD]
+image: ../../assets/about-us/sponsors-logos/AP1_Apollo.png
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/AP1_Apollo.png
+---

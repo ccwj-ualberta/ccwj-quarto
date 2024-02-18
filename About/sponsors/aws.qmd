@@ -1,0 +1,8 @@
+---
+title: AWS
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/AW1_AWS.gif
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/AW1_AWS.gif
+---

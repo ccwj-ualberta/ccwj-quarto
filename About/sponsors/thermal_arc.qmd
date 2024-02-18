@@ -1,0 +1,6 @@
+---
+title: Thermal Arc
+categories: [Lab equipment and consumables]
+about:
+  template: solana
+---

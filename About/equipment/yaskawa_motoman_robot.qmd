@@ -1,0 +1,9 @@
+---
+title: Yaskawa Motoman Robot
+categories: [Welding]
+image: ../../assets/about-us/equipment-photos/YASK_Yaskawa_Motoman_Robot.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/YASK_Yaskawa_Motoman_Robot.jpg
+---
+nan

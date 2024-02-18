@@ -1,0 +1,8 @@
+---
+title: Edmonton Economic Development
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/EE1_Edmonton_Economic_Development.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/EE1_Edmonton_Economic_Development.jpg
+---

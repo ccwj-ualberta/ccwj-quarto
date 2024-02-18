@@ -1,0 +1,7 @@
+---
+title: Geomagic
+categories: [Computer / Software]
+about:
+  template: solana
+---
+nan

@@ -1,0 +1,8 @@
+---
+title: Syncrude - Edmonton Research Centre
+categories: [Welco industry chair]
+image: ../../assets/about-us/sponsors-logos/SY1_Syncrude.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/SY1_Syncrude.jpg
+---

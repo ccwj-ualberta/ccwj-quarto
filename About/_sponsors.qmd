@@ -1,0 +1,10 @@
+---
+title: "Sponsors"
+listing: 
+    contents: sponsors
+    type: grid
+    grid-columns: 3
+    grid-item-align: center
+    image-height: 100px
+    categories: true
+---

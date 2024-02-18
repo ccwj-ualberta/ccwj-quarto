@@ -1,5 +1,6 @@
 ---
 title: "Upcoming Events"
+toc: true
 ---
 
 ## CCWJ Annual Seminar 2023

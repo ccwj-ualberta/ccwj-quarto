@@ -1,0 +1,7 @@
+---
+title: Lincoln S500 with variable polarity module
+categories: [Welding]
+about:
+  template: solana
+---
+Can perform Stick, DC TIG, Pulsed DC TIG, MIG, Pulsed MIG, Flux-Cored processes. Provides an extremely fast arc response, includes over 65 standard welding waveforms for optimized performance.	Exceptional welding performance with high power factor and efficiency for welding thicker materials

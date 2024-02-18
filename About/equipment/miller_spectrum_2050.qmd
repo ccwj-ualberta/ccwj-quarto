@@ -1,0 +1,9 @@
+---
+title: Miller Spectrum 2050
+categories: [Welding]
+image: ../../assets/about-us/equipment-photos/PLAS_Miller_Spectrum2050_Plasmacutter.jfif
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/PLAS_Miller_Spectrum2050_Plasmacutter.jfif
+---
+nan

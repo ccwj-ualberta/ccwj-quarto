@@ -1,0 +1,8 @@
+---
+title: Babcock-Hitachi / MHPS Group
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/BH1_MHPS_Hitachi.gif
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/BH1_MHPS_Hitachi.gif
+---

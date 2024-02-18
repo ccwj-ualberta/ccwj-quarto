@@ -1,0 +1,9 @@
+---
+title: XIRIS XVC-1100 Camera
+categories: [Characterization]
+image: ../../assets/about-us/equipment-photos/XIR1_Xiris_camera.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/XIR1_Xiris_camera.jpg
+---
+nan

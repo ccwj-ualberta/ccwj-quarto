@@ -1,5 +1,6 @@
 ---
 title: "Canadian Students"
+toc: true
 ---
 
 ## If you would like to work at the CCWJ

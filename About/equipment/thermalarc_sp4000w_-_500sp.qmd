@@ -1,0 +1,9 @@
+---
+title: ThermalArc SP4000W / 500SP
+categories: [Welding]
+image: ../../assets/about-us/equipment-photos/TARC_ThermalArc.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/TARC_ThermalArc.jpg
+---
+nan

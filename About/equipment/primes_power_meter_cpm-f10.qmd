@@ -1,0 +1,9 @@
+---
+title: Primes Power Meter CPM-F10
+categories: [Characterization]
+image: ../../assets/about-us/equipment-photos/POWM_Primes_CPM_F10.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/POWM_Primes_CPM_F10.jpg
+---
+High precision measuring device for industrial laser. Used to quantify effective laser power and loss of laser power through different optics medium.	Can detect degradation of diode lasers and laser optics. 

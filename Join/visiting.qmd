@@ -1,5 +1,6 @@
 ---
 title: "Resources for Visiting Students"
+toc: true
 ---
 
 ## Prior to your visit

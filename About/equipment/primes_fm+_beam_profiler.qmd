@@ -1,0 +1,9 @@
+---
+title: Primes FM+ Beam Profiler
+categories: [Characterization]
+image: ../../assets/about-us/equipment-photos/FMON_Primes_FM_Plus.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/FMON_Primes_FM_Plus.jpg
+---
+Quick and reliable measurement of laser beam parameters, such as the spacial power density distribution and size of laser spot. Used to quantify the laser beam parameter and input to models for bead characteristics prediction. Used to find optimum working distance for laser and detect laser optics deterioration in high power lasers (ISO 11146).

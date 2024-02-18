@@ -1,0 +1,8 @@
+---
+title: Miller Electric / ITW
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/MI1_Miller.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/MI1_Miller.jpg
+---

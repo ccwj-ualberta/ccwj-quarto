@@ -1,0 +1,7 @@
+---
+title: XIRIS WeldMic
+categories: [Characterization]
+about:
+  template: solana
+---
+nan

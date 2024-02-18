@@ -1,0 +1,8 @@
+---
+title: FLIR
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/FL1_FLIR.png
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/FL1_FLIR.png
+---

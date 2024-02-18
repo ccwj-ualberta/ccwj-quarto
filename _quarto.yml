@@ -3,7 +3,6 @@ project:
 
 website:
   title: CCWJ
-  reader-mode: true
 
   navbar:
     title: false
@@ -127,4 +126,4 @@ format:
   html:
     # theme: cosmo
     css: styles.css
-    toc: true
+    toc: false

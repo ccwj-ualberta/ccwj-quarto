@@ -1,5 +1,6 @@
 ---
 title: "What we do"
+toc: true
 ---
 
 ## What we are offering to Industry and to Students

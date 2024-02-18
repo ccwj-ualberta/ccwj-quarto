@@ -1,0 +1,9 @@
+---
+title: vrWeld
+categories: [Computer / Software]
+image: ../../assets/about-us/equipment-photos/VRWE_goldak-vrweld.png
+about:
+  template: solana
+  image: ../../assets/about-us/equipment-photos/VRWE_goldak-vrweld.png
+---
+nan

@@ -1,0 +1,7 @@
+---
+title: Miller Dynasty 700
+categories: [Welding]
+about:
+  template: solana
+---
+nan

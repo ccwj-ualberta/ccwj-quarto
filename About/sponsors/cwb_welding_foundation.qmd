@@ -1,0 +1,8 @@
+---
+title: CWB Welding Foundation
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/CW2_CWB_WF.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/CW2_CWB_WF.jpg
+---

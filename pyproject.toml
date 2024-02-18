@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ccwj-site"
+version = "0.1.0"
+description = ""
+authors = ["Steven Pawley <dr.stevenpawley@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "^1.0.0"
+folium = "^0.15.1"
+pandas = "^2.2.0"
+pyhere = "^1.0.0"
+openpyxl = "^3.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,8 @@
+---
+title: Productivtiy Alberta
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/PR2_Productivity_Alberta.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/PR2_Productivity_Alberta.jpg
+---
