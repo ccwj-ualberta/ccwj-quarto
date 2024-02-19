@@ -32,15 +32,15 @@ title: "Advisory Boards"
 
 ![**Stefano Chiovelli**, Senior Technical Specialist](../../assets/about-us/advisory-boards/stefano-chiovelli.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Sarah Stetson**, Director, Commercial Sales](../../assets/about-us/advisory-boards/placeholder.png){fig-width="75px" fig-align="left" width=80%}
+![**Sarah Stetson**, Director, Commercial Sales](../../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Mike MacSween**, EVP Upstream, Suncor Energy](../../assets/about-us/advisory-boards/placeholder.png){fig-width="75px" fig-align="left" width=80%}
+![**Mike MacSween**, EVP Upstream, Suncor Energy](../../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Michael Anderson**, Senior Technical Advisor - Materials, Suncor Energy](../../assets/about-us/advisory-boards/placeholder.png){fig-width="75px" fig-align="left" width=80%}
+![**Michael Anderson**, Senior Technical Advisor - Materials, Suncor Energy](../../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Gary Topilko**, Senior Product Manager, IAB interim chair](../../assets/about-us/advisory-boards/placeholder.png){fig-width="75px" fig-align="left" width=80%}
+![**Gary Topilko**, Senior Product Manager, IAB interim chair](../../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Dale Unrau**, Director, Industry Competitiveness, Government of Alberta](../../assets/about-us/advisory-boards/placeholder.png){fig-width="75px" fig-align="left" width=80%}
+![**Dale Unrau**, Director, Industry Competitiveness, Government of Alberta](../../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
 
 :::
 

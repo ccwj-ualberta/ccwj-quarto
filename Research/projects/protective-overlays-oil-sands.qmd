@@ -1,0 +1,9 @@
+---
+title: "Wear Protective Overlays for Oil Sands Applications"
+subtitle: The Stoody Company
+image: ../../assets/placeholder.png
+categories: [Computer / software]
+---
+
+This project used high speed videography to analyze the metal transfer of tubular Ni/WC wire consumables with the goal of optimizing carbide retention and distribution.
+
