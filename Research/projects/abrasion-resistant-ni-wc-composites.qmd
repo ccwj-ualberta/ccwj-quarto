@@ -1,7 +1,7 @@
 ---
 title: "Deposition of abrasion-resistant Ni-WC metal matrix composites using Hot Wire TIG Welding"
 subtitle: Hitachi Canada Industries, NSERC
-image: ../../assets/placeholder.png
+image: ../../assets/research/project-images/hot-wire-tif-welding.png
 categories: [Hot wire TIG, Overlays]
 ---
 

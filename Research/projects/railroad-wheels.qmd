@@ -1,5 +1,5 @@
 ---
-title: "Developing an innovative, cost and quality advantageous approach to manufacturing and repair railroad wheels."
+title: "Developing an innovative, cost and quality advantageous approach to manufacturing and repair railroad wheels"
 subtitle: Amsted Rail, Apollo Clad, NSERC
 image: ../../assets/placeholder.png
 categories: [PTAW, Laser cladding]
