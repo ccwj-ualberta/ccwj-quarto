@@ -1,0 +1,23 @@
+---
+title: Francisco Basaure
+image: ../../assets/member-photos/FB1 - Francisco Javier Basaure Figueroa.jpg
+subtitle: ELAP
+about:
+  template: solana
+  image: ../../assets/member-photos/FB1 - Francisco Javier Basaure Figueroa.jpg
+  links:
+    - icon: email
+      text: basauref@ualberta.ca
+      href: mailto:basauref@ualberta.ca
+---
+
+**Prior Degrees:** BSc, Mechanical engineering, 2018
+
+Now im a research intern in the chemicals and materials engineering department, Patricio Mendez is my mentor and he will help me to use deep learning models to predict the droplet movement using high speed cameras.
+Im from Chile, recently joined the CCWJ with the ELAP scholarship.
+
+#### Project
+
+*Deep learning use for droplet movement prediction using high speed cameras*
+
+The droplet is something that happens in welding, if you can predict in a accurate way where is going, you can predict where the welding will have more or less strenght, or where can be a crack formation in the future, in aeronautics and high pressure piping is necesary where cracks or malformations can ocurre, even if its minimal.

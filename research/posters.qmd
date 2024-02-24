@@ -1,0 +1,18 @@
+---
+title: "Posters"
+filters:
+   - lightbox
+lightbox: auto
+---
+
+Here you will find a selection of our posters that were presented in meetings and conferences. Click on the images to view them at full resolution.
+
+::: {layout-ncol=3}
+
+![Accurately simulating a weld as a moving point heat source](../assets/research/posters/POS1_Simulating_Welds.jpg)
+
+![Ni-WC classifying overlay wear performance](../assets/research/posters/POS2_Ni.jpg)
+
+![Hydrogen Diffusion and Microstructure](../assets/research/posters/altasteel-hydrogen-diffusion.jpg)
+
+:::

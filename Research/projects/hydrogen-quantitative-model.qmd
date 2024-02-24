@@ -1,9 +1,0 @@
----
-title: "Developing a quantitative model of hydrogen through the complete production cycle of heat-treated, high-carbon grinding and SAG product"
-subtitle: AltaSteel
-image: ../../assets/placeholder.png
-categories: [Hydrogen content]
----
-
-The scope of the work is to model hydrogen content in the product as it goes through the processing steps, accounting simultaneously for the effects of time and temperature. This integrated model will benefit from multiple approaches as needed, with faster (but coarser) analysis for stages of low influence, and more detailed (but also more time-consuming) analysis for the stages of higher expected influence.
-

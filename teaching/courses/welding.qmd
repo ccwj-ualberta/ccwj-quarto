@@ -1,0 +1,257 @@
+---
+title: "MAT E 481/681 - Fundamentals of Welding"
+description: "This is an engineering course in which we aim at introducing students to the fundamental aspects of welding engineering in the best possible way: in front of the actual equipment. After completing this course students should master the concepts related to a vast variety of welding processes, the laws of nature on which they operate, related materials issues, and the practical implications of the new concepts learned, including the writing of a welding procedure."
+author: "Professor Patricio Mendez"
+date: "2021-09-01"
+format:
+  html:
+    toc: true
+    link-external-icon: true
+    link-external-new-tab: true
+---
+
+This is an engineering course in which we aim at introducing students to the fundamental aspects of welding engineering in the best possible way: in front of the actual equipment. After completing this course students should master the concepts related to a vast variety of welding processes, the laws of nature on which they operate, related materials issues, and the practical implications of the new concepts learned, including the writing of a welding procedure.
+
+[Syllabus 2021](https://drive.google.com/file/d/1tpE7nIxUJzmyl6V6vd1tw7VauChDZi93/view?usp=sharing)
+
+### 2020 Lectures
+
+{{< video https://youtu.be/1b-tkZaqVh8?list=PLq-4Q87XIqZEqdXkGjOuCn6tDQ3yt37z4 >}}
+
+#### Introduction to Welding
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ITW_Introduction_to_Welding/ITW_Introduction_to_Welding_Engineering.pdf)
+
+{{< pdf https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ITW_Introduction_to_Welding/ITW_Introduction_to_Welding_Engineering.pdf width=40% height=300 >}}
+
+::: callout-note
+## Supplemental Materials
+
+[Welding processes for aeronautics](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ITW_Introduction_to_Welding/Supplemental_Material/mendez01_AMP_welding_aero.pdf)
+
+[Welding fundamentals](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ITW_Introduction_to_Welding/Supplemental_Material/mendez11_stwj_special_issue.pdf)
+
+[Semi-solid additive manufacturing](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ITW_Introduction_to_Welding/Supplemental_Material/mendez00_JOM_semi-solid_additive_manufacturing.pdf)
+
+[The welding of the Saturn V](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ITW_Introduction_to_Welding/Supplemental_Material/hoppes_the_welding_of_Saturn_V.pdf)
+
+[The joy of welding](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ITW_Introduction_to_Welding/Supplemental_Material/mendez18_CWA_joy_of_welding.pdf)
+:::
+
+#### Concept of Joining
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/CON_Concept_of_Joining/CON_Concept_of_Joining.pdf)
+
+[Zip fasteners](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/CON_Concept_of_Joining/Supplemental_Material/The%20invention,%20slow%20adoption%20and%20near%20perfection%20of%20the%20zip%20-%20Zip%20fasteners.pdf)
+
+[Ti6Al4V titanium alloy welded using concentrated solar energy](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/CON_Concept_of_Joining/Supplemental_Material/Ti6Al4V%20titanium%20alloy%20welded%20using%20concentrated%20solar%20energy.pdf)
+
+[Rykalin using concentrated solar radiation for welding metals](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/CON_Concept_of_Joining/Supplemental_Material/Rykalin_using_concentrated_solar_radiation_for_welding_metals.pdf)
+
+#### Safety
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/SAF_Safety/SAF_Safety.pdf)
+
+[Lincoln Safety E205](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/SAF_Safety/Supplemental_Material/Lincoln_Safety_E205.pdf)
+
+[Laser safety manual](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/SAF_Safety/Supplemental_Material/laser-safety-manual-nov-2017.pdf)
+
+[Safety in welding, cutting, and allied processes](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/SAF_Safety/Supplemental_Material/Z49.1-2005-all.pdf)
+
+#### Welding terminology
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TER_Welding_Terminology/TER_Welding_Terminology.pdf)
+
+[Lincoln Welding Fillet Positions](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TER_Welding_Terminology/Supplemental_Material/Lincoln_Welding%20Fillet%20Positions%20Poster.pdf)
+
+[Weld discontinuities](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TER_Welding_Terminology/Supplemental_Material/weld_discontinuities.pdf)
+
+[Lincoln Weld Joints and Symbols](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TER_Welding_Terminology/Supplemental_Material/Lincoln_Weld%20Joints%20and%20Symbols%20Poster.pdf)
+
+[Weld imperfections and preventative measures](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TER_Welding_Terminology/Supplemental_Material/discontinuities_kobelco.pdf)
+
+[Lincoln Pipe Welding Position](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TER_Welding_Terminology/Supplemental_Material/Lincoln_Pipe%20Welding%20Position%20Poster.pdf)
+
+[Lincoln Parts of a Weld](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TER_Welding_Terminology/Supplemental_Material/Lincoln_Parts%20of%20a%20Weld%20Poster.pdf)
+
+[Weld positions international](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TER_Welding_Terminology/Supplemental_Material/weld_positions_international.pdf)
+
+#### Welding Symbols
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/SYM_Welding_Symbols/SYM_Welding_Symbols.pdf)
+
+#### Welding Processes Arc
+
+[Strip cladding Lincoln](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/strip_cladding_Lincoln.pdf)
+
+[SMAW Miller](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/SMAW_Miller.pdf)
+
+[SAW Lincoln](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/SAW_Lincoln.pdf)
+
+[Strip cladding ESAB](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/strip_cladding_ESAB.pdf)
+
+[SAW Miller](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/SAW_Miller.pdf)
+
+[SMAW Lincoln 2004](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/SMAW_Lincoln_2004.pdf)
+
+[SMAW Lincoln 2011](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/SMAW_Lincoln_2011.pdf)
+
+[FCAW Lincoln](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/FCAW_Lincoln.pdf)
+
+[PTAW Eutectic](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/PTAW_Eutectic.pdf)
+
+[FCAW Bohler](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/FCAW_Bohler.pdf)
+
+[GMAW Lincoln](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/GMAW_Lincoln.pdf)
+
+[GTAW Miller](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/GTAW_Miller.pdf)
+
+[GMAW Miller](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPA_Welding_Processes_Arc/Supplemental_Material/GMAW_Miller.pdf)
+
+#### Welding Processes Beam
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPB_Welding_Processes_Beam/WPB_Welding_Processes_Beam.pdf)
+
+#### Welding Electric Resistance
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPR_Welding_Electric_Resistance/WPR_Welding_Processes_Electric_Resistance.pdf)
+
+#### Welding Processes Solid State
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPS_Welding_Processes_Solid_State/WPS_Welding_Processes_Solid_State.pdf)
+
+#### Welding Processes Chemical
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPC_Welding_Processes_Chemical/WPC_Welding_Processes_Chemical.pdf)
+
+#### Welding Processes Brazing Soldering
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WPZ_Welding_Processes_Brazing_Soldering/WPZ_Welding_Processes_Brazing_Soldering.pdf)
+
+#### Naming Welding Consumables
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/NWC_Naming_Welding_Consumables/NWC_Naming_of_Welding_Consumables.pdf)
+
+[aws classification Hobart](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/NWC_Naming_Welding_Consumables/Supplemental_Material/aws_classification_Hobart.pdf)
+
+[Lesson3](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/NWC_Naming_Welding_Consumables/Supplemental_Material/Lesson3.pdf)
+
+[aws classification Lincoln](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/NWC_Naming_Welding_Consumables/Supplemental_Material/aws_classification_Lincoln.pdf)
+
+#### Fluxes and Slags
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/FLX_Fluxes_and_Slags/FLX_Fluxes_and_Slags.pdf)
+
+#### Common Welding Procedures
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/CWP_Common_Welding_Procedures/CWP_Common_Procedures.pdf)
+
+#### Basics of Carbon Steel
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/BCS_Basics_of_Carbon_Steel/BCS_Basics_of_Carbon_Steel.pdf)
+
+#### Prediction of Hardness
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/HRD_Prediction_of_Hardness/HRD_Prediction_of_Hardness.pdf)
+
+[hintze19 hardness models steel](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/HRD_Prediction_of_Hardness/Supplemental_Material/hintze19_hardness_models_steel.pdf)
+
+[Carbon Equivalent Wesley Wang](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/HRD_Prediction_of_Hardness/Supplemental_Material/Carbon_Equivalent_Wesley_Wang.pdf)
+
+#### Steel Weld Microstructures
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/SWM_Steel_Weld_Microstructures/SWM_Steel_Weld_Microstructures.pdf)
+
+[IIW IX-1533-88 Guide to microscopy](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/SWM_Steel_Weld_Microstructures/Supplemental_Material/IIW_IX-1533-88_Guide_to_microscopy.pdf)
+
+[thewlis04](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/SWM_Steel_Weld_Microstructures/Supplemental_Material/thewlis04.pdf)
+
+#### Heat Affected Zone
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/HAZ_Heat_Affected_Zone/HAZ_Heat_Affected_Zone.pdf)
+
+#### Basics of Stainless Steels
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/BSS_Basics_of_Stainless_Steels/BSS_Basics_of_Stainless_Steels.pdf)
+
+[Lincoln Guide Stainless Steels](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/BSS_Basics_of_Stainless_Steels/Supplemental_Material/Lincoln_Guide_Stainless_Steels.pdf)
+
+[avesta](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/BSS_Basics_of_Stainless_Steels/Supplemental_Material/avesta.pdf)
+
+[GMAW of Stainless Steel (P-8137A)](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/BSS_Basics_of_Stainless_Steels/Supplemental_Material/GMAW%20of%20Stainless%20Steel%20(P-8137A).pdf)
+
+#### Welding Arc
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ARC_Welding_Arc/ARC_Welding_Arc.pdf)
+
+[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ARC_Welding_Arc/Handout/LaTex/ARC_Welding_Arc_handout.pdf)
+
+#### Voltage in Arc Welding
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/VAW_Voltage_in_Arc_Welding/VAW_Voltage_in_Arc_Welding.pdf)
+
+[sokolov70 DETERMINING THE INTRINSIC INDUCTANCE OF RECTILINEAR CONDUCTORS](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/VAW_Voltage_in_Arc_Welding/Supplemental_Material/sokolov70_DETERMINING%20THE%20INTRINSIC%20INDUCTANCE%20OF%20RECTILINEAR%20CONDUCTORS.pdf)
+
+[Calculator for Impedance of a Round Straight Wire](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/VAW_Voltage_in_Arc_Welding/Supplemental_Material/Calculator%20for%20Impedance%20of%20a%20Round%20Straight%20Wire.pdf)
+
+[American wire gauge](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/VAW_Voltage_in_Arc_Welding/Supplemental_Material/American%20wire%20gauge%20-%20Wikipedia.pdf)
+
+[Selecting the Proper Size Welding Cables](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/VAW_Voltage_in_Arc_Welding/Supplemental_Material/Selecting%20the%20Proper%20Size%20Welding%20Cables.pdf)
+
+[G3YNH info Components and Materials Part 1](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/VAW_Voltage_in_Arc_Welding/Supplemental_Material/G3YNH%20info_%20Components%20and%20Materials_%20Part%201_.pdf)
+
+#### Metal Transfer
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/MTR_Metal_Transfer/MTR_Metal_Transfer.pdf)
+
+#### Deposition Rate in Arc Welding
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/DAW_Deposition_Rate_in_Arc_Welding/DAW_Deposition_Rate_in_Arc_Welding.pdf)
+
+[DAW Deposition Rate in Arc Welding ](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/DAW_Deposition_Rate_in_Arc_Welding/Supplemental_Material/DAW_Deposition_Rate_in_Arc_Welding_examples.pdf)
+
+#### Mass Balance
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/MAS_Mass_Balance/MAS_Mass_Balance.pdf)
+
+#### Welding Efficiencies
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/EFI_Welding_Efficiencies/EFI_Welding_Efficiencies.pdf)
+
+#### Temperature in Welding
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/TEM_Temperature_in_Welding.pdf)
+
+[wang19 thick 2](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/Supplemental_Material/wang19_thick_2.pdf)
+
+[lu20 thin 2](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/Supplemental_Material/lu20_thin_2.pdf)
+
+[lu20 thin 1](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/Supplemental_Material/lu20_thin_1.pdf)
+
+[mendez18 thick 1](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/Supplemental_Material/mendez18_thick_1.pdf)
+
+#### Weld Pool
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/WEP_Weld_Pool/WEP_Weld_Pool.pdf)
+
+#### Design Considerations
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/DES_Design_Considerations/DES_Design_Considerations.pdf)
+
+#### Dimensioning Fillet Welds
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/DFW_Dimensioning_Fillet_Welds/DFW_Dimensioning_Fillet_Welds.pdf)
+
+#### Residual Stress in Weldments
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/RES_Residual_Stress_in_Weldments/RES_Residual_Stress_and_Distortion.pdf)
+
+#### Non-Destructive Testing
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/NDT_Non-Destructive_Testing/NDT_Non-Destructive_Testing.pdf)
+
+#### Codes and Standards
+
+#### Weld Overlays for Wear
+
+[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/OVR_Weld_Overlays_for_Wear/OVR_Weld_Overlays_for_Wear.pdf)

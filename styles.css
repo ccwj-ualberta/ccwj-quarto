@@ -1,16 +1,16 @@
 /* Global appearance */
 @font-face {
   font-family: 'Anivers';
-  src: url("Assets/Anivers_CCWJ.ttf");
+  src: url("assets/Anivers_CCWJ.ttf");
 }
 
 @font-face {
   font-family: 'Good Times';
-  src: url("Assets/GoodTimes_CCWJ.ttf");
+  src: url("assets/GoodTimes_CCWJ.ttf");
 }
 
 body {
-    background-color: #efefef;
+  background-color: #efefef;
 }
 
 a {
@@ -34,7 +34,7 @@ h3,h4,h5,h6, .font-anivers {
 
 /* Narbar appearance */
 .navbar {
-  background-image: url("Assets/background_bar.png");
+  background-image: url("assets/background_bar.png");
   background-repeat: no-repeat;
   background-position: top left;
   background-size: 1255px 90px; /*1506 by 108 original image */

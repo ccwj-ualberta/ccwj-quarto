@@ -1,8 +1,0 @@
----
-title: "Alumn (Visitor)"
-listing: 
-  contents: alumn-visitors
-  type: default
-  image-height: 200px
-  image-placeholder: ../../assets/UA-COLOUR-NARROW.png
----

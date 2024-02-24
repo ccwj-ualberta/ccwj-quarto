@@ -1,0 +1,22 @@
+---
+title: "Research"
+toc: true
+---
+
+## Research at the CCWJ
+
+Welding is an inherently multi-disciplinary area, and has been referred to as the most interdisciplinary research field in engineering. This complexity is creating a rich research field that spans various faculties and academic backgrounds, and the CCWJ is proudly working with numerous academic and industrial partners to carry out research activities across the whole spectrum of welding.
+
+## Core Themes
+
+Core research themes are the Physics of Welding, Metallurgy, and Welding Automation. Detailed project descriptions can be found in the Projects section on the left.
+
+## Numerical Modeling and Finite Element Simulation of Welding
+
+Numerical Modeling and Finite Element Simulation of Welding is another active research area at the CCWJ. This is being used not only to explore welding simulation, but also to obtain results that we can use to verify our numerical analyses.
+
+We are grateful to acknowledge the support of several sponsors in this area:
+
+ - Simufact Welding
+ - VrWeld Software
+ - Transvalor

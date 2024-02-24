@@ -8,12 +8,12 @@ website:
     title: false
     background: primary
     search: true
-    logo: Assets/CCWJ_white_logo.png
+    logo: assets/CCWJ_white_logo.png
     logo-alt: Canada Centre for Welding and Joining
 
     left:
       - text: Home
-        file: home/home.qmd
+        file: index.qmd
 
       - text: About us
         file: about/about.qmd
@@ -33,6 +33,9 @@ website:
       - text: Join us
         file: join/joinus.qmd
 
+      - text: News
+        file: news/news.qmd
+
     tools:
       - icon: twitter
         href: https://twitter.com/search?q=centre%20for%20welding%20and%20joining&src=typed_query&f=top
@@ -47,8 +50,7 @@ website:
     - title: "Home"
       style: "docked"
       contents:
-        - home/home.qmd
-        - home/news.qmd
+        - index.qmd
 
     - title: "About us"
       style: "docked"
@@ -60,7 +62,7 @@ website:
         - about/advisory-boards.qmd
         - about/sponsors.qmd
         - about/directions.qmd
-  
+
     - title: "People"
       style: "docked"
       contents:
@@ -72,7 +74,7 @@ website:
         - people/alumn.qmd
         - people/alumn-ug.qmd
         - people/alumn-visitors.qmd
-        
+
     - title: "Research"
       style: "docked"
       contents:
@@ -80,14 +82,12 @@ website:
         - research/projects.qmd
         - research/publications.qmd
         - research/posters.qmd
-      
+
     - title: "Teaching"
       style: "docked"
       contents:
         - teaching/teaching.qmd
-        - teaching/welding.qmd
-        - teaching/heat-transfer.qmd
-    
+
     - title: "Resources"
       style: "docked"
       contents:
@@ -95,7 +95,7 @@ website:
         - resources/videos.qmd
         - resources/gallery.qmd
         - resources/talks.qmd
-    
+
     - title: "Join Us"
       style: "docked"
       contents:
@@ -104,12 +104,12 @@ website:
         - join/international.qmd
         - join/visiting.qmd
         - join/upcoming-events.qmd
-  
+
   page-footer:
     left: |
       Contact Information <br>
       Professor Patricio Mendez <br>
-      ccwj@ualberta.ca
+      mailto:ccwj@ualberta.ca
     center: |
       Shipping Address <br>
       Room CME L1-108 <br>
@@ -124,6 +124,6 @@ website:
 
 format:
   html:
-    # theme: cosmo
+    theme: materia
     css: styles.css
     toc: false

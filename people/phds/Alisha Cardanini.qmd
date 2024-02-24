@@ -1,0 +1,31 @@
+---
+title: Alisha Cardanini
+image: ../../assets/member-photos/AC1 - Alisha Cardanini.jpg
+subtitle: Materials Engineering
+about:
+  template: solana
+  image: ../../assets/member-photos/AC1 - Alisha Cardanini.jpg
+  links:
+    - icon: email
+      text: cardanin@ualberta.ca
+      href: mailto:cardanin@ualberta.ca
+    - icon: linkedin
+      text: acardanini
+      href: https://www.linkedin.com/in/acardanini/
+---
+
+**Prior Degrees:** M.S. Welding Engineering, Material Science Engineering at The Ohio Sate University, Awarded 2017. Technical Degree: Combinational Structural & Pipe Welding , Hobart Institute of Welding Technology,  Awarded in 2015. B.S. in Applied Mathematics with emphasis in Computer Science Engineering, University of California, Merced School of Natural Sciences, Awarded 2014
+
+I am currently finishing my career at Miller Electric Mfg. with plans to start at CCWJ in September, 2022. I was born in the USA and have lived there until now. I'm a dual citizen of both the USA and Canada. My dream is to earn my PhD and lead a successful and fulfilling career in welding research. I have recently received an American Welding Society Fellowship Award for my proposed research weld heat affected zone impact testing. My favorite subjects are welding, math and physics. My hobbies are hiking/backpacking, cooking, and learning (literally anything). 
+
+#### Project
+
+No consensus exists between standards and codes when deciding the Charpy V-notch (CVN) notch location of the lowest toughness in the heat-affected zone (HAZ) of plasma arc welds. Although, general agreement exists on the most susceptible microstructures, translating this knowledge into a predetermined location is by no means trivial. The span of each HAZ subregion depends on factors such as initial microstructure, base metal alloying elements, and thermal history. Today, no code or standard has included these factors into their recommendations for HAZ notch location.
+
+The objectives of this of this work are to:
+
+1.	Provide the welding community with a practical methodology for determining the CVN notch location in the HAZ region of lowest toughness.
+
+2.	Make this methodology “field-ready” for testing and validation at an industrial level.
+
+3.	Consolidate the work into a practical format for use in codes and standards such as AWS D.1.1.

@@ -1,0 +1,8 @@
+---
+title: "Alumn"
+listing: 
+  contents: alumn
+  type: default
+  image-height: 200px
+  image-placeholder: ../assets/UA-COLOUR-NARROW.png
+---

@@ -1,0 +1,11 @@
+---
+title: "Projects"
+listing: 
+  contents: projects
+  type: default
+  max-description-length: 1
+  image-height: 150px
+  image-placeholder: ../../assets/placeholder.png
+  categories: true
+  date-format: "YYYY"
+---
