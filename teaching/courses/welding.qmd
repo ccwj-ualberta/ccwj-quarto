@@ -2,6 +2,7 @@
 title: "MAT E 481/681 - Fundamentals of Welding"
 description: "This is an engineering course in which we aim at introducing students to the fundamental aspects of welding engineering in the best possible way: in front of the actual equipment. After completing this course students should master the concepts related to a vast variety of welding processes, the laws of nature on which they operate, related materials issues, and the practical implications of the new concepts learned, including the writing of a welding procedure."
 author: "Professor Patricio Mendez"
+image: welding-fundamentals.png
 date: "2021-09-01"
 format:
   html:
@@ -9,8 +10,6 @@ format:
     link-external-icon: true
     link-external-new-tab: true
 ---
-
-This is an engineering course in which we aim at introducing students to the fundamental aspects of welding engineering in the best possible way: in front of the actual equipment. After completing this course students should master the concepts related to a vast variety of welding processes, the laws of nature on which they operate, related materials issues, and the practical implications of the new concepts learned, including the writing of a welding procedure.
 
 [Syllabus 2021](https://drive.google.com/file/d/1tpE7nIxUJzmyl6V6vd1tw7VauChDZi93/view?usp=sharing)
 
@@ -21,8 +20,6 @@ This is an engineering course in which we aim at introducing students to the fun
 #### Introduction to Welding
 
 [Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ITW_Introduction_to_Welding/ITW_Introduction_to_Welding_Engineering.pdf)
-
-{{< pdf https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/ITW_Introduction_to_Welding/ITW_Introduction_to_Welding_Engineering.pdf width=40% height=300 >}}
 
 ::: callout-note
 ## Supplemental Materials

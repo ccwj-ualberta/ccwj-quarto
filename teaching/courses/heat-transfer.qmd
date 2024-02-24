@@ -1,7 +1,8 @@
 ---
-title: "Heat Transfer"
-description: "This is an engineering course in which we aim at introducing students to the fundamental aspects of welding engineering in the best possible way: in front of the actual equipment. After completing this course students should master the concepts related to a vast variety of welding processes, the laws of nature on which they operate, related materials issues, and the practical implications of the new concepts learned, including the writing of a welding procedure."
+title: "CH E 314 - Heat Transfer"
+description: "Heat Transfer is at the core of welding. This course includes the fundamental principles that can be used to scientifically understand the welding processes, including the principles of conduction, convection and radiation heat transfer. The course includes design and performance analysis of thermal systems based on these principles, which apply to a wide range of engineering applications and disciplines."
 author: "Professor Patricio Mendez"
+image: heat-transfer.png
 date: "2021-09-01"
 format:
   html:
@@ -9,10 +10,6 @@ format:
     link-external-icon: true
     link-external-new-tab: true
 ---
-
-CH E 314 - Heat Transfer
-
-Heat Transfer is at the core of welding. This course includes the fundamental principles that can be used to scientifically understand the welding processes, including the principles of conduction, convection and radiation heat transfer. The course includes design and performance analysis of thermal systems based on these principles, which apply to a wide range of engineering applications and disciplines.
 
 [Syllabus 2021](https://drive.google.com/file/d/1kMOk89UhfOb8htVnvp8h_7zg6wVONGaM/view?usp=sharing)
 
