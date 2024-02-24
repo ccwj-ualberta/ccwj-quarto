@@ -1,0 +1,61 @@
+---
+title: "Videos"
+---
+
+## Welding Discontinuities
+
+Overview of metal transfer leading to common welding discontinuities
+
+{{< video https://youtu.be/tJwr9MjKBVo?list=PL38954225764CCB92 >}}
+
+## Effect of Shielding Gas on GMAW Metal Transfer Modes
+
+Overview of the effect of shielding gas on GMAW metal transfer modes
+
+{{< video https://youtu.be/D037ghCUIRw?list=PL1C619E4411CC8D97 >}}
+
+## Robotic Welding & Welding Automation
+
+Videos featuring robotic welding and welding automation
+
+{{< video https://youtu.be/OneaQeG2DR8?list=PLq-4Q87XIqZGr2lHrZ_YMKBdwoIckfB_r >}}
+
+## Fundamental GMAW Transfer Modes
+
+Overview of fundamental transfer modes in GMAW
+
+{{< video https://youtu.be/ngrqcDdVyhM?list=PL0EF42C3430979734 >}}
+
+## PTAW
+
+Overview of videos on Plasma-transferred Arc Welding
+
+{{< video https://youtu.be/7Vah3zEO6yw?list=PLq-4Q87XIqZFBSFcGoSnptV7loQozt1F2 >}}
+
+## Laser Cladding
+
+Overview of videos on laser cladding and related processes
+
+### Fun High Speed
+
+{{< video https://youtu.be/Y9kYm7rOQEs?list=PLCBD5B4AAD9633DF1 >}}
+
+### SMAW
+
+{{< video https://youtu.be/ECK12klRe0c?list=PLq-4Q87XIqZFE0l_D5djUJLhQrfcXV7z7 >}}
+
+### Alternative Welding Processes
+
+{{< video https://youtu.be/7Vah3zEO6yw?list=PLC05A48021E00F4AB >}}
+
+### Tubular Wires
+
+{{< video https://youtu.be/aXPZdDWjpkk?list=PLD71C43DB964C69C5 >}}
+
+### Complex Waveforms
+
+{{< video https://youtu.be/716R4QrP6hM?list=PL70A1DCB9EB2A2952 >}}
+
+### Effect of Shielding Gas on GTAW
+
+{{< video https://youtu.be/Qq-nUuTL-d4?list=PLABB99C3E544782EA >}}

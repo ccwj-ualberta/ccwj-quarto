@@ -24,8 +24,8 @@ website:
       - text: Teaching
         file: teaching/teaching.qmd
 
-      - text: Resources
-        file: resources/resources.qmd
+      - text: Publications
+        file: publications/publications.qmd
 
       - text: Join us
         file: join/joinus.qmd
@@ -73,21 +73,19 @@ website:
       contents:
         - research/research.qmd
         - research/projects.qmd
-        - research/publications.qmd
         - research/posters.qmd
+        - research/videos.qmd
 
     - title: "Teaching"
       style: "docked"
       contents:
         - teaching/teaching.qmd
 
-    - title: "Resources"
+    - title: "Publications"
       style: "docked"
       contents:
-        - resources/resources.qmd
-        - resources/videos.qmd
-        - resources/gallery.qmd
-        - resources/talks.qmd
+        - publications/publications.qmd
+        - publications/talks.qmd
 
     - title: "Join Us"
       style: "docked"
@@ -101,16 +99,13 @@ website:
   page-footer:
     left: |
       Contact Information <br>
-      Professor Patricio Mendez <br>
-      mailto:ccwj@ualberta.ca
+      [Professor Patricio Mendez](mailto:ccwj@ualberta.ca) <br>
     center: |
-      Shipping Address <br>
       Room CME L1-108 <br>
       University of Alberta <br>
       116 Street NW - 85 Avenue <br>
       Edmonton, AB T6G 2R3 Canada
     right: |
-      Links <br>
       [Department of Chemical and Materials Engineering](https://www.ualberta.ca/engineering/chemical-materials-engineering/about-us/index.html) <br>
       [Directions](https://sites.ualberta.ca/~ccwj/About/directions.html) <br>
       [University of Alberta](https://www.ualberta.ca/)

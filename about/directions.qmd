@@ -8,6 +8,9 @@ jupyter: python3
 
 The CCWJ main lab is located in the CME Building on level L1, in room L1-108.
 
+:::: {.columns}
+::: {.column width="75%"}
+
 ```{python folium-webmap}
 #| echo: false
 import folium
@@ -17,35 +20,29 @@ m = folium.Map(location=[53.52830, -113.52956], tiles=None, zoom_start=18)
 
 # add tile layers
 folium.TileLayer(
-    'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', 
-    attr='Esri', 
-    name='Satellite',
-    overlay=False,
-    control=True).add_to(m)
-
-folium.TileLayer(
     'http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', 
     attr='Esri', 
     name='Streets',
     overlay=False,
     control=True).add_to(m)
 
-# add layer control to toggle layers
-folium.LayerControl(collapsed=False).add_to(m)
-
-# display
+# add marker
+folium.Marker(location=[53.52795, -113.53015], tooltip='CME Building Entrance').add_to(m)
 m
 ```
 
-![Directions to the CCWJ](../assets/about-us/directions/Directions_1.png)
+:::
 
-[Google Maps Link](https://goo.gl/maps/eFCG23QcXG8RGnKc7)
+::: {.column width="25%"}
+[![](../assets/about-us/directions/qr-code.png)](https://goo.gl/maps/eFCG23QcXG8RGnKc7)
+:::
+::::
+
+<br>
 
 If you take the entrance on the South-West side of the building (through the entrance marked in the image below), just go down one flight of stairs, and then straight through the two double doors. Click image for Google StreetView Link.
 
-![](../assets/about-us/directions/Directions_2.png)
-
-[Street View Link](https://maps.app.goo.gl/j8y9by5qFWRJJ5m97)
+[![](../assets/about-us/directions/Directions_2.png)](https://maps.app.goo.gl/j8y9by5qFWRJJ5m97)
 
 The offices of Prof. Mendez and Dr. Dapp are located in the Donadeo Building. 
 
@@ -55,5 +52,5 @@ The offices of Prof. Mendez and Dr. Dapp are located in the Donadeo Building.
 
 Parking is available at Windsor Car Park, which is located directly adjacent to the Donadeo Innovation Centre. There is a direct Pedway connection on Parkade Level 5, which connects to Level 2 at Donadeo (by the elevators).
 
-[GoogleMaps Link](https://goo.gl/maps/8Bw5y9cuMrfUYt1E7)
+[Google Maps Link](https://goo.gl/maps/8Bw5y9cuMrfUYt1E7)
 
