@@ -15,9 +15,6 @@ website:
       - text: Home
         file: index.qmd
 
-      - text: About us
-        file: about/about.qmd
-
       - text: People
         file: people/director.qmd
 
@@ -51,10 +48,6 @@ website:
       style: "docked"
       contents:
         - index.qmd
-
-    - title: "About us"
-      style: "docked"
-      contents:
         - about/about.qmd
         - about/what-we-do.qmd
         - about/lab.qmd
