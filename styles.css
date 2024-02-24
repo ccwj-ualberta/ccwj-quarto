@@ -9,10 +9,6 @@
   src: url("assets/GoodTimes_CCWJ.ttf");
 }
 
-body {
-  background-color: #efefef;
-}
-
 a {
   color: #486f48; /* color of links*/
   text-decoration: none;
@@ -47,11 +43,12 @@ h3,h4,h5,h6, .font-anivers {
   max-height: 56px;
 }
 
-/* Sidebar appearance */
+/* Sidebar appearance
 .sidebar, .footer {
   background-color: #e9e9e9;
   border-color: #d5d5d5 !important;
 }
+*/
 
 /* left sidebar item appearance */
 .list-group-item{
