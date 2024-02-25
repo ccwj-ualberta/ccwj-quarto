@@ -1,0 +1,11 @@
+---
+title: "Scaling expressions of characteristic values for a moving point heat source in steady state on a semi-infinite solid"
+date: "2019"
+author: ["Ying Wang", "Yi Lu", "Patricio F. Mendez"]
+url_source: https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/Supplemental_Material/wang19_thick_2.pdf
+journ: "International Journal of Heat and Mass Transfer"
+issue: 135
+page: 1118-1129
+year: 2019
+image: wang-yi-mendez-2019.png
+---

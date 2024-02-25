@@ -1,0 +1,12 @@
+---
+title: "Disaggregated Metal and Carbide Catchment Efficiencies in Laser Cladding of Nickel-Tungsten Carbide"
+date: "2015"
+author: ["Gentry Wood", "Patricio Mendez"]
+categories: []
+url_source: https://app.aws.org/wj/supplement/WJ_2015_11_s343.pdf
+journ: "Welding Journal"
+issue: 94
+page: 343-350
+year: 2015
+image: wood-and-mendez-2015.png
+---

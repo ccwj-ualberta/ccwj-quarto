@@ -1,0 +1,8 @@
+---
+booktitle: "Mathematical Modelling of Weld Phenomena 12"
+title: "Asymptotics and Blending in the Modeling of Welding"
+author: ["Ying Wang", "Yi Lu", "Mitchell Grams", "Alejandro Hintze Cesaro", "Patricio F. Mendez"]
+year: "2018"
+address: "Graz-Seggau, Austria"
+image: "mathematical-modelling-of-weld-phenomena-12.png"
+---

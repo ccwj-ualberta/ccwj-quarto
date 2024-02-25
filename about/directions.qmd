@@ -1,7 +1,6 @@
 ---
 title: "Directions"
 toc: true
-jupyter: python3
 ---
 
 ## CCWJ Main Lab
@@ -11,24 +10,18 @@ The CCWJ main lab is located in the CME Building on level L1, in room L1-108.
 :::: {.columns}
 ::: {.column width="75%"}
 
-```{python folium-webmap}
+```{r leaflet-map}
 #| echo: false
-import folium
+#| message: false
+#| warning: false
+library(leaflet)
+library(sf)
 
-# create a Map instance
-m = folium.Map(location=[53.52830, -113.52956], tiles=None, zoom_start=18)
-
-# add tile layers
-folium.TileLayer(
-    'http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', 
-    attr='Esri', 
-    name='Streets',
-    overlay=False,
-    control=True).add_to(m)
-
-# add marker
-folium.Marker(location=[53.52795, -113.53015], tooltip='CME Building Entrance').add_to(m)
-m
+leaflet() |>
+  addProviderTiles(provider = providers$Esri.WorldTopoMap) |>
+  addMarkers(lat = 53.52795, lng = -113.53015,
+             label = "CME Building Entrance") |>
+  fitBounds(-113.52956, 53.52830, -113.52956, 53.52830)
 ```
 
 :::
