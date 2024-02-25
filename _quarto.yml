@@ -27,7 +27,7 @@ website:
       - text: Publications
         file: publications/publications.qmd
 
-      - text: Join us
+      - text: Apply
         file: join/joinus.qmd
 
       - text: News
@@ -87,14 +87,13 @@ website:
         - publications/publications.qmd
         - publications/talks.qmd
 
-    - title: "Join Us"
+    - title: "Apply"
       style: "docked"
       contents:
         - join/joinus.qmd
         - join/canadian.qmd
         - join/international.qmd
         - join/visiting.qmd
-        - join/upcoming-events.qmd
 
   page-footer:
     left: |

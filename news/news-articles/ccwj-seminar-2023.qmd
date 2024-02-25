@@ -1,16 +1,8 @@
 ---
-title: "Upcoming Events"
-toc: true
+title: "CCWJ Annual Seminar 2023"
+date: "2023-04-28"
 ---
-
-## CCWJ Annual Seminar 2023
 
 Our upcoming annual seminar will take place in the late spring/ealy summer of 2023 and cover the topic of welding for hydrogen applications, such as hydrogen transport. This one-day seminar will feature international speakers with manufacturing experience for hydrogen applications and cover the fundamental knowledge you will need to work in this field.
 
-## Fabtech 2022 / AWS Professional Program
-
-Atlanta will host this year's Fabtech Expo and AWS Professional Program again. Look for CCWJ presenters in the program to learn more about our ongoing research projects.
-
-Event Link
-
-https://www.fabtechexpo.com/
+[Eventbrite](https://www.eventbrite.com/e/2023-ccwj-seminar-welding-for-the-hydrogen-economy-tickets-520703517237)

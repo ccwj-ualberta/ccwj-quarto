@@ -2,4 +2,5 @@
 title: "News"
 listing: 
   contents: news-articles
+page-layout: full
 ---
