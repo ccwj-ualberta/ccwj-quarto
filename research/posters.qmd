@@ -9,10 +9,10 @@ Here you will find a selection of our posters that were presented in meetings an
 
 ::: {layout-ncol=3}
 
-![Accurately simulating a weld as a moving point heat source](../assets/research/posters/POS1_Simulating_Welds.jpg)
+![Accurately simulating a weld as a moving point heat source](posters/POS1_Simulating_Welds.jpg)
 
-![Ni-WC classifying overlay wear performance](../assets/research/posters/POS2_Ni.jpg)
+![Ni-WC classifying overlay wear performance](posters/POS2_Ni.jpg)
 
-![Hydrogen Diffusion and Microstructure](../assets/research/posters/altasteel-hydrogen-diffusion.jpg)
+![Hydrogen Diffusion and Microstructure](posters/altasteel-hydrogen-diffusion.jpg)
 
 :::
