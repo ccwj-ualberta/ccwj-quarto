@@ -1,9 +1,5 @@
 ---
 title: "Undergraduate Studies"
-toc: true
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
 ### Research / Internship Projects

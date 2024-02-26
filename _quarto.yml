@@ -28,7 +28,7 @@ website:
         file: publications/publications.qmd
 
       - text: Apply
-        file: join/canadian.qmd
+        file: apply/canadian.qmd
 
       - text: News
         file: news/news.qmd
@@ -76,8 +76,11 @@ website:
     - title: "Research"
       style: "docked"
       contents:
-        - research/research.qmd
-        - research/projects.qmd
+        - section: "Research"
+          contents:
+          - research/research.qmd
+          - research/projects.qmd
+
         - research/posters.qmd
         - research/videos.qmd
 
@@ -97,15 +100,15 @@ website:
       contents:
         - section: "Canadian"
           contents:
-          - join/canadian.qmd
+          - apply/canadian.qmd
 
         - section: "International"
           contents:
             - section: "Graduate Studies"
               contents:
-                - join/international-graduate.qmd
-                - join/visiting.qmd
-            - join/international-undergrad.qmd
+                - apply/international-graduate.qmd
+                - apply/international-resources-for-visiting.qmd
+            - apply/international-undergrad.qmd
 
   page-footer:
     left: |
