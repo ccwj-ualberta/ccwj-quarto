@@ -1,52 +1,32 @@
 ---
 title: "Canadian Students"
-toc: true
 ---
 
-## If you would like to work at the CCWJ
+### If you would like to work at the CCWJ
 
-### Graduate Studies
+#### Graduate Studies
 
-#### General Information
+The following [link](https://www.ualberta.ca/engineering/chemical-materials-engineering/graduate-studies/index.html) contains general information by the Faculty of Engineering about the application process for graduate studies.
 
-The following link contains general information by the Faculty of Engineering about the application process for graduate studies.
+#### Undergraduate Studies
 
-https://www.ualberta.ca/engineering/chemical-materials-engineering/graduate-studies/index.html
+The following [link](https://www.ualberta.ca/engineering/chemical-materials-engineering/undergraduate-programs.html) contains general information by the Faculty of Engineering about the application process for undergraduate studies.
 
-### Undergraduate Studies
+#### High-School Students
 
-#### General Information
+[Alberta Innovates Alberta Innovates Summer Studentships](https://www.ualberta.ca/current-students/undergraduate-research-initiative/navigating-research-process/funding/alberta-innovates-summer-studentships.html)
 
-The following link contains general information by the Faculty of Engineering about the application process for undergraduate studies.
+### Visit our academic partners
 
-https://www.ualberta.ca/engineering/chemical-materials-engineering/undergraduate-programs.html
+- [RWTH Aachen Undergraduate Research Opportunities Program (UROP)](https://www.ualberta.ca/international/go-abroad/programs/rwth-aachen-university-undergraduate-research-opportunities-program-urop-internship.html)
 
-### High-School Students
+- [RWTH Junior Research Fellowship (Master's/PhD)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/rwth-aachen-junior-research-fellowships/index.html)
 
-#### Alberta Innovates Alberta Innovates Summer Studentships
+- [RWTH Aachen - Exchange](https://www.ualberta.ca/international/go-abroad/programs/rwth-aachen-university-exchange.html)
 
-https://www.ualberta.ca/current-students/undergraduate-research-initiative/navigating-research-process/funding/alberta-innovates-summer-studentships.html
-
-## If you would like to travel and visit some of our academic partners
-
-### RWTH Aachen Undergraduate Research Opportunities Program (UROP)
-
-https://www.ualberta.ca/international/go-abroad/programs/rwth-aachen-university-undergraduate-research-opportunities-program-urop-internship.html
-
-### RWTH Junior Research Fellowship (Master's/PhD)
-
-https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/rwth-aachen-junior-research-fellowships/index.html
-
-### RWTH Aachen - Exchange
-
-https://www.ualberta.ca/international/go-abroad/programs/rwth-aachen-university-exchange.html
-
-### Hiroshima
-
-Please contact us directly for more details.
+- Hiroshima
+  - Please [contact us](mailto:ccwj@ualberta.ca) directly for more details.
 
 ### UofA Go Abroad Programs
 
-Here you will find an overview of internships internships/exchanges available through the University of Alberta
-
-https://www.ualberta.ca/international/go-abroad/programs/index.html
+Here you will find an overview of internships internships/exchanges available through the [University of Alberta](https://www.ualberta.ca/international/go-abroad/programs/index.html)

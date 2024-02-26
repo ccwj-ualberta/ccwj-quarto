@@ -19,7 +19,7 @@ toc: true
 
 - Access to unique equipment at CCWJ for industry.
 
-[Overview of Welding Programs](../teaching/welding.qmd)
+[Overview of Welding Programs](../teaching/courses/welding-fundamentals.qmd)
 
 ## Fundamentals Research
 

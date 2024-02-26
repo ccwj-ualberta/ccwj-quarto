@@ -1,0 +1,60 @@
+---
+title: "Programs and Scholarships"
+toc: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### Research / Internship Projects
+
+Here you can find an overview of some of the research/internship
+projects currently available at the CCWJ. The complexity of each project
+depends on level of studies of the intern.
+
+- [Current projects](https://drive.google.com/file/d/1pCJWDJuLi54t099CGPH-2eS1knklj02x/view?usp=sharing)
+
+### Scholarships and Exchange Programs
+
+- [Emerging Leaders in the Americas Program (ELAP)](https://www.scholarships-bourses.gc.ca/scholarships-bourses/can/institutions/elap-pfla.aspx?lang=eng)
+  - Undergraduate and graduate students from the Caribbean and South America
+
+- [Canada-ASEAN Scholarships and Educational Exchanges for Development (SEED)](https://scholarships-bourses.gc.ca/scholarships-bourses/can/institutions/asean-anase.aspx?lang=eng)
+  - Undergraduate and graduate students from ASEAN member states
+
+- [China Scholarship Council (CSC) Funded Internships](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/csc-funded-placements/index.html)
+
+- [Study in Canada Scholarships](https://www.educanada.ca/scholarships-bourses/can/institutions/study-in-canada-sep-etudes-au-canada-pct.aspx?lang=eng)
+
+  - Undergraduate and graduate students from: Asia: Bangladesh, Nepal,
+  Taiwan; Europe: Turkey, Ukraine; The Middle East and North Africa:
+  Algeria, Egypt, Jordan, Libya, Morocco, Tunisia; Sub-Saharan Africa:
+  Burkina Faso, Ethiopia, Ghana, Ivory Coast, Kenya, Nigeria, Rwanda,
+  Senegal, Tanzania, Uganda
+
+- [Rocca](https://www.robertorocca.org/es/becas/doctorado/fellowships)
+
+  - Scholarships to exceptional university graduates, with the aim of
+helping them finance doctoral studies in the areas of Materials Science,
+Mechanical Engineering, Metallurgical Engineering and Petroleum
+Engineering, at a university outside their country of origin.
+
+  - Roberto Rocca Fellowships are open to students who are citizens of
+Argentina, Brazil, Uruguay, Colombia, Indonesia, Saudi Arabia, Mexico
+and Romania, and who will enter a Ph.D. program outside their own
+country or who have already begun their studies towards a Ph.D. at a
+university outside their own country. Application of citizens of these
+countries, living in other of these countries may be accepted too.
+
+- [CSC](http://apply.csc.edu.cn/)
+  - The China Scholarship Council (CSC) is a government agency in China
+which provides scholarships to students for doctoral and postdoctoral
+studies abroad. These scholarships will be awarded to students across a
+wide range of disciplines.
+
+- [AWS](https://www.aws.org/foundation/page/research-fellowships)
+  - Fellowship from The American Welding Society (AWS) Foundation, which
+seeks to foster university research in joining and to recognize
+outstanding faculty and student talent.
+
+- [Request a Letter of Invitation for International Scholarships Programs](https://docs.google.com/forms/d/e/1FAIpQLSdnuXjmbKJ3WsKJLbEDW8y9QWIVFE8EBQRsCgKJw_5XLUcqQA/viewform)

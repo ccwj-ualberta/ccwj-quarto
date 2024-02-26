@@ -28,7 +28,7 @@ website:
         file: publications/publications.qmd
 
       - text: Apply
-        file: join/joinus.qmd
+        file: join/canadian.qmd
 
       - text: News
         file: news/news.qmd
@@ -47,14 +47,19 @@ website:
     - title: "Home"
       style: "docked"
       contents:
+      - section: "About Us"
+        contents:
         - index.qmd
         - about/about.qmd
         - about/what-we-do.qmd
         - about/lab.qmd
         - about/welco-chair.qmd
+        - about/directions.qmd
+
+      - section: "Advisory Boards and Sponsors"
+        contents:
         - about/advisory-boards.qmd
         - about/sponsors.qmd
-        - about/directions.qmd
 
     - title: "People"
       style: "docked"
@@ -90,10 +95,17 @@ website:
     - title: "Apply"
       style: "docked"
       contents:
-        - join/joinus.qmd
-        - join/canadian.qmd
-        - join/international.qmd
-        - join/visiting.qmd
+        - section: "Canadian"
+          contents:
+          - join/canadian.qmd
+
+        - section: "International"
+          contents:
+            - section: "Graduate Studies"
+              contents:
+                - join/international-graduate.qmd
+                - join/visiting.qmd
+            - join/international-undergrad.qmd
 
   page-footer:
     left: |
