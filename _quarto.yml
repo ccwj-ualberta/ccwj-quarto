@@ -76,11 +76,9 @@ website:
     - title: "Research"
       style: "docked"
       contents:
-        - section: "Research"
-          contents:
-          - research/research.qmd
-          - research/projects.qmd
-
+        - research/research.qmd
+        - research/projects.qmd
+        - research/talks.qmd
         - research/posters.qmd
         - research/videos.qmd
 
@@ -93,7 +91,6 @@ website:
       style: "docked"
       contents:
         - publications/publications.qmd
-        - publications/talks.qmd
 
     - title: "Apply"
       style: "docked"

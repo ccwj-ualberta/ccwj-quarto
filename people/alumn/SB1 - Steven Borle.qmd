@@ -1,0 +1,28 @@
+---
+title: Steven Borle
+image: SB1 - Steven Borle.jpg
+subtitle: Materials Engineering University of Alberta
+about:
+  template: solana
+  image: SB1 - Steven Borle.jpg
+  links:
+    - icon: email
+      text: stevenborle@gmail.com
+      href: mailto:stevenborle@gmail.com
+---
+
+**Prior Degrees:** MSc, Welding Engineering, 2014
+
+Steven was born in Alberta and has lived in Louisiana, Belize and Nova Scotia.  Steven began his involvement at CCWJ as an undergraduate completing a Dean’s Research Award. After completing his undergraduate degree he joined the CCWJ as a Masters student. 
+
+Steven’s research in welding has covered many processes including gas metal arc welding, submerged arc welding, laser beam welding, friction stir welding and plasma transferred arc welding. His research has encompassed a diverse range of subjects including high strength welding consumables, the effect of heat input in friction stir welding, and the application of wear and corrosion resistant overlays.
+
+Since graduating in 2014 Steven has worked at Group Six Technologies, an Edmonton based company that provides laser cladding and laser heat treating services. At Group Six Technologies Steven’s responsibilities include developing new welding procedures, new materials and applications for the laser based processes. 
+
+He is also active in the welding community sitting as the current Chair of the Edmonton chapter of the Canadian Welding Bureau Association. He has coauthored numerous papers and articles related to welding including “Primary chromium carbide fraction control with variable polarity SAW,” in the Welding Journal for which he received the Charles H. Jennings Memorial Award, This award is presented for the most valuable paper written by a college student or faculty representative published in the Welding Journal during the previous year.
+
+#### Project
+
+*Microstructural Characterization of Chromium Carbide Overlays and a Study of Alternative Welding Processes for Industrial Wear Applications*
+
+A main outcome of the research was a better understanding of chromium carbide overlay (CCO) microstructures and how they are formed. Overlays such as CCOs overlays are used to extend the service life of a component by adding a wear-resistant layer to of the surface of a cheaper and tougher base material. These overlays are commonly used in all sorts of industries including agriculture, mining, and Oil and Gas. Understanding the microstructural characteristics of CCOs will help develop products that have better and more uniform wear resistance throughout.  One key finding of this research was that as the balance was decreased in SAW the amount of dilution declined, which led to higher amounts of hypereutectic microstructure, higher volume fraction of primary carbides, and larger primary carbide size.

@@ -4,8 +4,8 @@ title: "Canadian Centre for Welding and Joining"
 
 ::: {layout-nrow=1}
 
-![](assets/home/carousel/pic1.jpg){height="315"}
-![](assets/home/carousel/pic3.JPG){height="315"}
+![](assets/pic1.jpg){height="315"}
+![](assets/pic3.JPG){height="315"}
 
 :::
 

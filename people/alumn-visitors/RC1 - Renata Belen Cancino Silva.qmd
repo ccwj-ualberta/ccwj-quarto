@@ -1,0 +1,21 @@
+---
+title: Renata Belen Cancino Silva
+image: RC1 - Renata Belen Cancino Silva.jpg
+subtitle: ELAP Universidad de Chile
+about:
+  template: solana
+  image: RC1 - Renata Belen Cancino Silva.jpg
+  links:
+    - icon: email
+      text: cancinos@ualberta.ca
+      href: mailto:cancinos@ualberta.ca
+---
+**Prior Degrees:** BSc, Mechanical Engineering, 2018
+
+None
+
+#### Project
+
+*Heat transfer on liquid metal welding*
+
+Heat transfer on liquid metal welding

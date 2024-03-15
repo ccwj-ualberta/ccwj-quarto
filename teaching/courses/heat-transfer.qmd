@@ -11,11 +11,19 @@ format:
     link-external-new-tab: true
 ---
 
-[Syllabus 2021](https://drive.google.com/file/d/1kMOk89UhfOb8htVnvp8h_7zg6wVONGaM/view?usp=sharing)
+### Syllabus
 
-### 2021 Lectures
+- [Syllabus 2021](https://drive.google.com/file/d/1kMOk89UhfOb8htVnvp8h_7zg6wVONGaM/view?usp=sharing)
+
+### Lectures (2021)
+
+<br>
 
 {{< video https://youtu.be/hqXmFBIFtAI?list=PLq-4Q87XIqZExUyjrnVcCjQF2GyRtmPcB >}}
+
+<br>
+
+### Course Materials
 
 #### Energy balances
 

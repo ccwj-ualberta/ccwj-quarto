@@ -27,7 +27,7 @@ leaflet() |>
 :::
 
 ::: {.column width="25%"}
-[![](../assets/about-us/directions/qr-code.png)](https://goo.gl/maps/eFCG23QcXG8RGnKc7)
+[![](directions/qr-code.png)](https://goo.gl/maps/eFCG23QcXG8RGnKc7)
 :::
 ::::
 
@@ -35,7 +35,7 @@ leaflet() |>
 
 If you take the entrance on the South-West side of the building (through the entrance marked in the image below), just go down one flight of stairs, and then straight through the two double doors. Click image for Google StreetView Link.
 
-[![](../assets/about-us/directions/Directions_2.png)](https://maps.app.goo.gl/j8y9by5qFWRJJ5m97)
+[![](directions/Directions_2.png)](https://maps.app.goo.gl/j8y9by5qFWRJJ5m97)
 
 The offices of Prof. Mendez and Dr. Dapp are located in the Donadeo Building. 
 

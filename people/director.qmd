@@ -3,7 +3,7 @@ title: "Director"
 subtitle: "Director CCWJ Professor"
 about:
     template: solana
-    image: ../assets/member-photos/PM1 - Patricio Mendez.jpg
+    image: PM1 - Patricio Mendez.jpg
     image-width: 350px
     links:
     - icon: email

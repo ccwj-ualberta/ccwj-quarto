@@ -15,6 +15,7 @@ listing:
     page-size: 30
     filter-ui: true
 toc: true
+sidebar: false
 page-layout: full
 ---
 

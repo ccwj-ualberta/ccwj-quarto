@@ -6,31 +6,31 @@ title: "Advisory Boards"
 
 ::: {layout="[[1,1,1,1], [1,1,1,1], [1,1,1,1], [1,1,1,1]]"}
 
-![**Adel Mir**, President, Lincoln Electric of Canada](../assets/about-us/advisory-boards/adel-mir.png){fig-width="75px" fig-align="left" width=80%}
+![**Adel Mir**, President, Lincoln Electric of Canada](advisory-boards/adel-mir.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Brian Szenasi**, Alberta District Manager, Lincoln Electric of Canada](../assets/about-us/advisory-boards/brian-szenasi.png){fig-width="75px" fig-align="left" width=80%}
+![**Brian Szenasi**, Alberta District Manager, Lincoln Electric of Canada](advisory-boards/brian-szenasi.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Dale Malcolm**, VP Sales and Marketing, Lincoln Electric](../assets/about-us/advisory-boards/dave-malcolm.png){fig-width="75px" fig-align="left" width=80%}
+![**Dale Malcolm**, VP Sales and Marketing, Lincoln Electric](advisory-boards/dave-malcolm.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Bruce Albrecht**, Vice President Global, Innovation and Technology, ITW](../assets/about-us/advisory-boards/bruce-albrecht.png){fig-width="75px" fig-align="left" width=80%}
+![**Bruce Albrecht**, Vice President Global, Innovation and Technology, ITW](advisory-boards/bruce-albrecht.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Dan Tadic**, CWB Group](../assets/about-us/advisory-boards/dan-tadic.png){fig-width="75px" fig-align="left" width=80%}
+![**Dan Tadic**, CWB Group](advisory-boards/dan-tadic.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Darren Lunt**, President, Weldco Companies](../assets/about-us/advisory-boards/darren-lunt.png){fig-width="75px" fig-align="left" width=80%}
+![**Darren Lunt**, President, Weldco Companies](advisory-boards/darren-lunt.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Doug Schindel**, Member](../assets/about-us/advisory-boards/doug-schindel.png){fig-width="75px" fig-align="left" width=80%}
+![**Doug Schindel**, Member](advisory-boards/doug-schindel.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Douglas Luciani**, President/CEO CWB Group](../assets/about-us/advisory-boards/douglas-luciani.png){fig-width="75px" fig-align="left" width=80%}
+![**Douglas Luciani**, President/CEO CWB Group](advisory-boards/douglas-luciani.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Dr. Nairn Barnes**, Welding Engineer, IRISNDT](../assets/about-us/advisory-boards/nairn-barnes.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Nairn Barnes**, Welding Engineer, IRISNDT](advisory-boards/nairn-barnes.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Dr. Patricio Mendez**, Weldco-Industry Chair, Director CCWJ](../assets/about-us/advisory-boards/patricio-mendez.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Patricio Mendez**, Weldco-Industry Chair, Director CCWJ](advisory-boards/patricio-mendez.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Dr. Vinay Prasad**, Chair CME, University of Alberta](../assets/about-us/advisory-boards/vinay-prasad.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Vinay Prasad**, Chair CME, University of Alberta](advisory-boards/vinay-prasad.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Rafael Reyes**, Materials Engineer, Suncor Energy](../assets/about-us/advisory-boards/rafael-reyes.png){fig-width="75px" fig-align="left" width=80%}
+![**Rafael Reyes**, Materials Engineer, Suncor Energy](advisory-boards/rafael-reyes.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Stefano Chiovelli**, Senior Technical Specialist](../assets/about-us/advisory-boards/stefano-chiovelli.png){fig-width="75px" fig-align="left" width=80%}
+![**Stefano Chiovelli**, Senior Technical Specialist](advisory-boards/stefano-chiovelli.png){fig-width="75px" fig-align="left" width=80%}
 
 ![**Sarah Stetson**, Director, Commercial Sales](../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
 
@@ -48,13 +48,13 @@ title: "Advisory Boards"
 
 ::: {layout="[[1,1,1,1]]"}
 
-![**Dr. Patricio Mendez**, Weldco-Industry Chair, Director CCWJ](../assets/about-us/advisory-boards/patricio-mendez.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Patricio Mendez**, Weldco-Industry Chair, Director CCWJ](advisory-boards/patricio-mendez.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Dr. Richard Sydora**, Professor, Physics](../assets/about-us/advisory-boards/richard-sydora.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Richard Sydora**, Professor, Physics](advisory-boards/richard-sydora.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Dr. Simaan Abourizk**, Dean, Engineering](../assets/about-us/advisory-boards/simaan-abouRizk.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Simaan Abourizk**, Dean, Engineering](advisory-boards/simaan-abouRizk.png){fig-width="75px" fig-align="left" width=80%}
 
-![**Dr. Vinay Prasad**, Chair CME, University of Alberta](../assets/about-us/advisory-boards/vinay-prasad.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Vinay Prasad**, Chair CME, University of Alberta](advisory-boards/vinay-prasad.png){fig-width="75px" fig-align="left" width=80%}
 
 :::
 

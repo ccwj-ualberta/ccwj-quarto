@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
-sidebar: true
+sidebar: false
+page-layout: full
 listing: 
   id: course-listings
   contents: courses
