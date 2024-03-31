@@ -1,0 +1,6 @@
+---
+title: "Optimization of SAW deposited chromium carbide wear resistant overlays using AC waveforms"
+author: "Borle, Steven D., McIntosh, Cory, Le Gall, Ivan, Mendez, Patricio F."
+conference: "Canadian welding association annual conference"
+year: 2013
+---

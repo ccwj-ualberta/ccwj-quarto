@@ -1,0 +1,6 @@
+---
+title: "Welding engineering at the CCWJ"
+author: "Mendez, P. F."
+conference: "Fabtech/AWS annual meeting. Adams memorial membership award lecture"
+year: 2014
+---

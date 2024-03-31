@@ -1,0 +1,6 @@
+---
+title: "Contact tip studies"
+author: "Soderstrom, Erik J., Mendez, Patricio F., Albrecht, Bruce, Hutchison, Rick, Ma, Tiejun"
+institution: "Colorado School of Mines, Illinois Toolworks"
+year: 2009
+---

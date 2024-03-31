@@ -4,8 +4,10 @@ listing:
   contents: projects
   type: default
   max-description-length: 1
-  image-height: 150px
+  image-height: 100px
   image-placeholder: ../../assets/placeholder.png
   categories: true
-  date-format: "YYYY"
+  date-format: "YYYY-MM"
+  sort: "date desc"
+page-layout: full
 ---

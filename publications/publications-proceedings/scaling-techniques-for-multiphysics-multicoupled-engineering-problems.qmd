@@ -1,0 +1,6 @@
+---
+title: "Scaling techniques for multiphysics, multicoupled engineering problems"
+author: "Mendez, P. F."
+conference: "Theoretical and applied mechanics seminar"
+year: 2009
+---

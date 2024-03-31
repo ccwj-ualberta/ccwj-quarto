@@ -1,0 +1,6 @@
+---
+title: "Multiphysics in the plasma arc"
+author: "Mendez, Patricio F., Ramirez Árgaez, Marco A, Delgado-Álvarez, Alfredo, Apaoblaza, David A., Morales Antonio, Arturo, Velazquez Sanchez, Alberto"
+conference: "IIW annual assembly"
+year: 2019
+---

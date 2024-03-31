@@ -1,0 +1,6 @@
+---
+title: "Droplet temperature and evaporation in GMAW"
+author: "Mendez, P. F., Jenkins, N. T."
+conference: "Fabtech/AWS annual meeting"
+year: 2006
+---

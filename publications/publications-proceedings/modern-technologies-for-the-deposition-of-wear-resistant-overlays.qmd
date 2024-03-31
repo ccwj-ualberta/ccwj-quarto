@@ -1,0 +1,6 @@
+---
+title: "Modern technologies for the deposition of wear-resistant overlays"
+author: "Mendez, Patricio F., Andreiuk, John, Barnes, Nairn, Bell, Kurtis, Borle, Steven, Dapp, Goetz, Dewar, Matt, Guest, Stuart D., McIntosh, Cory, Wood, Gentry"
+conference: "Weld overlays for wear protection"
+year: 2013
+---

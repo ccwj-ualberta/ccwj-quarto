@@ -1,9 +1,9 @@
 ---
 title: "DynaDur – Development and deposition of highly durable coating for dynamic-abrasive environments"
 subtitle: Group Six Technologies, DURUM, Brandenburg-Cottbus, ECCIR
-date: "2019-01-01"
-author: Patricio Mendez
-image: ../../assets/placeholder.png
+date: "2021-04-01"
+date-format: "YYYY-MM"
+image: granting-logos/eccie.png
 categories: [Metallurgy]
 ---
 

@@ -1,0 +1,11 @@
+---
+title: "Articles"
+listing:
+  template: _ejs/publications-articles.ejs
+  contents: publications-articles
+  sort: "year desc"
+  page-size: 30
+  filter-ui: [title, author, journ]
+sidebar: true
+page-layout: full
+---

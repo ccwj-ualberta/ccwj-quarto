@@ -1,0 +1,6 @@
+---
+title: "Untangling the relation between current, voltage, wire feed speed, and stickout in wire-based processes"
+author: "Mendez, P. F."
+conference: "Canadian welding association annual conference"
+year: 2013
+---

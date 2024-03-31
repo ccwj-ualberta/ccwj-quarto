@@ -1,0 +1,6 @@
+---
+title: "Modeling of materials processing using scaling laws"
+author: "Mendez, P. F."
+conference: "Department of metallurgical and materials engineering"
+year: 2007
+---

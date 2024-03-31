@@ -1,0 +1,6 @@
+---
+title: "Procedure for HAZ microstructure characterization of weldments in TAMSA tubing"
+author: "Madeni, J. C., Sarasola, G., Mendez, P. F., Liu, S."
+institution: "Colorado School of Mines"
+year: 2006
+---

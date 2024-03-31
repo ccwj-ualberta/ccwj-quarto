@@ -1,0 +1,9 @@
+---
+title: "Estimation of the characteristic properties of the weld pool during high productivity arc welding"
+author: "Mendez, P. F., Eagar, T. W."
+year: 2001
+booktitle: "Mathematical modelling of weld phenomena 5"
+pages: "67—94"
+publisher: "Institute of Materials"
+image: "mathematical-modelling-of-weld-phenomena-5.jpeg"
+---

@@ -1,0 +1,6 @@
+---
+title: "A systematic approach to procedure development"
+author: "Mendez, P. F., Guest, Stuart D., Gilbank, J."
+conference: "Canadian welding association annual conference"
+year: 2012
+---

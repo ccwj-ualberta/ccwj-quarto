@@ -1,0 +1,10 @@
+---
+title: 'Calorimetric measurement of droplet temperature in GMAW'
+year: 2011
+author: 'Soderstrom, E., Scott, K. M., Mendez, P. F.'
+doi: NA
+journ: 'Welding Journal'
+volume: 90
+number: 4
+pages: '77s-84s'
+---

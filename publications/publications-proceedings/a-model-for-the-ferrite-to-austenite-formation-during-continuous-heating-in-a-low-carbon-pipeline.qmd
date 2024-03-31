@@ -1,0 +1,6 @@
+---
+title: "A model for the ferrite-to-austenite formation during continuous heating in a low carbon pipeline"
+author: "Hintze Cesaro, Alejandro, Mendez, Patricio F."
+conference: "AWS annual meeting"
+year: 2021
+---

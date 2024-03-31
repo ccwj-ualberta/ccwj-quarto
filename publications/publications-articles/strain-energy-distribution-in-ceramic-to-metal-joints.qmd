@@ -1,0 +1,10 @@
+---
+title: 'Strain energy distribution in ceramic to metal joints'
+year: 2002
+author: 'Park, J.-W., Mendez, P. F., Eagar, T. W.'
+doi: https://doi.org/10.1016/S1359-6454(01)00352-4
+journ: 'Acta Materialia'
+volume: 50
+number: NA
+pages: '883-899'
+---

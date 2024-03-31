@@ -1,0 +1,6 @@
+---
+title: "Solidification issues in chrome carbide overlays"
+author: "Barnes, N., Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2015
+---

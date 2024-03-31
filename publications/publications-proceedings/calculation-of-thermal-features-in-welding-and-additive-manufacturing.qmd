@@ -1,0 +1,6 @@
+---
+title: "Calculation of thermal features in welding and additive manufacturing"
+author: "Mendez, P. F."
+conference: "Modelling of casting, welding and advanced solidification processes, MCWASP"
+year: 2023
+---

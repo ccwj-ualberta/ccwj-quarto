@@ -1,0 +1,6 @@
+---
+title: "Effect of relative dimensions for weld pool and powder cloud on laser cladding catchment efficiency"
+author: "Grams, M.R., Wood, G., Mendez, P.F."
+conference: "CWB association annual meeting"
+year: 2022
+---

@@ -1,9 +1,9 @@
 ---
 title: "Comparative analysis of real-time weld quality monitoring camera systems working in visible, IR and NIR spectra"
 subtitle: Xiris Automation Inc., Mitacs
-date: "2019-01-01"
-author: Dmytro Havrylov, Mackenzi Johnston
-image: ../../assets/placeholder.png
+date: "2020-09-01"
+date-format: "YYYY-MM"
+image: granting-logos/mitacs-accelerate.png
 categories: [Welding Automation]
 ---
 

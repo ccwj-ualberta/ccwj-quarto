@@ -1,0 +1,6 @@
+---
+title: "Metal transfer in GMAW in the high current regime"
+author: "Mendez, P. F."
+conference: "Department of energy, basic energy sciences review meeting"
+year: 1997
+---

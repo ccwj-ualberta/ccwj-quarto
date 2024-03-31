@@ -1,0 +1,10 @@
+---
+title: 'Cooling curve analysis as an alternative to dilatometry in continuous cooling transformations'
+year: 2015
+author: 'Gibbs, John W., Schlachter, Christian, Mayr, Peter, Kamyabi-Gol, Ata, Mendez, Patricio F.'
+doi: https://doi.org/10.1007/s11661-014-2603-8
+journ: 'Materials Transactions A'
+volume: 46A
+number: 1
+pages: '148-155'
+---

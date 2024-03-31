@@ -1,0 +1,9 @@
+---
+title: "OMS: A computer algorithm to develop closed-form solutions to multicoupled, multiphysics problems"
+author: "Mendez, P. F., Stier, N."
+year: 2013
+booktitle: "Mathematical modelling of weld phenomena 10"
+pages: "219—254"
+publisher: "Institute of Materials Science, Joining and Forming"
+image: "mathematical-modelling-of-weld-phenomena-10.jpeg"
+---

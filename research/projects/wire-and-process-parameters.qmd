@@ -1,9 +1,9 @@
 ---
 title: "Welding, brazing, consumables, GMAW, copper alloys, aluminum alloys, deposition rate, solidification properties"
 subtitle: Lincoln Electric Canada
-date: "2019-01-01"
-author: Patricio Mendez
-image: ../../assets/placeholder.png
+date: "2021-06-01"
+date-format: "YYYY-MM"
+image: granting-logos/mitacs-accelerate.png
 categories: [Metallurgy]
 ---
 

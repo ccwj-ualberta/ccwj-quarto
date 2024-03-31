@@ -1,0 +1,6 @@
+---
+title: "Thermodynamic analysis and physical modeling of candidate alloys for welding X-80 pipeline"
+author: "Tordonato, David, Madeni, Juan Carlos, Liu, Stephen, Mendez, Patricio F."
+institution: "NA"
+year: 2008
+---

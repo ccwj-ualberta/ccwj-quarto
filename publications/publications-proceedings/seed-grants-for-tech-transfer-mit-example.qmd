@@ -1,0 +1,6 @@
+---
+title: "Seed grants for tech transfer: MIT example"
+author: "Mendez, P. F."
+conference: "Technology transfer advisory board"
+year: 2007
+---

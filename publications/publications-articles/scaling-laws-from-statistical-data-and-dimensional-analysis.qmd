@@ -1,0 +1,10 @@
+---
+title: 'Scaling laws from statistical data and dimensional analysis'
+year: 2005
+author: 'Mendez, P. F., Ordonez, F.'
+doi: https://doi.org/10.1115/1.1943434
+journ: 'Journal of Applied Mechanics'
+volume: 72
+number: 5
+pages: '648-657'
+---

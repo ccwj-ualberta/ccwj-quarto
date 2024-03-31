@@ -1,0 +1,6 @@
+---
+title: "Proposed way of measuring solid fraction"
+author: "Mendez, Patricio F."
+institution: "Semi-Solid Technologies"
+year: 1996
+---

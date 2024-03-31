@@ -1,0 +1,6 @@
+---
+title: "SHS die-casting (SHS-DC) of aluminum metal matrix composites"
+author: "Manerbino, A.R., Unuvar, C., Mendez, P.F., Moore, J.J., Young, K., Rice, C."
+conference: "113th metalcasting congress"
+year: 2009
+---

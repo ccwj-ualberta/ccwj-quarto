@@ -1,0 +1,6 @@
+---
+title: "Humping in high speed GTAW"
+author: "Mendez, P. F."
+conference: "Materials science and engineering"
+year: 2012
+---

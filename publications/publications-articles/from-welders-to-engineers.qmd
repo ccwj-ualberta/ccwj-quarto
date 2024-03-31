@@ -1,0 +1,10 @@
+---
+title: 'From welders to engineers'
+year: 2013
+author: 'Mendez, P. F.'
+doi: NA
+journ: 'CWA Engage'
+volume: 3
+number: 7
+pages: '20-22'
+---

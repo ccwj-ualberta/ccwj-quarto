@@ -2,8 +2,8 @@
 title: "Heat and Mass Transfer Phenomena in the Application of Wire-Based Nickel/Tungsten Carbide Overlays"
 subtitle: Syncrude, NSERC
 date: "2019-01-01"
-author: Patricio Mendez
-image: wire-based-nickel-tungsten-carbide-overlays.png
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
 categories: [Metallurgy, Numerical Modelling]
 ---
 

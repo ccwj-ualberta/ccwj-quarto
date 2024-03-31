@@ -1,0 +1,6 @@
+---
+title: "Automatic detection of characteristic values from experimental data: an application to the Bass Diffusion Model"
+author: "Gonçalves, P., Mendez, P.F., Ordonez, F."
+conference: "INFORMS"
+year: 2005
+---

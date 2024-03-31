@@ -1,0 +1,6 @@
+---
+title: "Welding research, education and technologies"
+author: "Mendez, P. F."
+conference: "PeRMA welding & manufacturing information sharing session"
+year: 2010
+---

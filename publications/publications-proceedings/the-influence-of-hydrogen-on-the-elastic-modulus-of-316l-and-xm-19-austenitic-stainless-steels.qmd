@@ -1,0 +1,6 @@
+---
+title: "The influence of hydrogen on the elastic modulus of 316L and XM-19 austenitic stainless steels"
+author: "Scott, Kevin M., Mendez, P. F., Sridhar, S."
+conference: "Pressure vessels and pipeline conference (PVP2022)"
+year: 2022
+---

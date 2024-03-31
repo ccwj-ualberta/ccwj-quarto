@@ -1,0 +1,6 @@
+---
+title: "Scaling laws in manufacturing involving materials processing"
+author: "Mendez, P. F."
+conference: "Department of mechanical engineering"
+year: 2008
+---

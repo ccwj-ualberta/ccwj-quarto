@@ -1,0 +1,6 @@
+---
+title: "Complex, closed-section continuous copper extrusions in semi-solid state"
+author: "Mendez, P. F., Rice, C. R., Young, K. P."
+conference: "MS&T"
+year: 2006
+---

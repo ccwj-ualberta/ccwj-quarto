@@ -1,0 +1,10 @@
+---
+title: 'Deep-learning based analysis of metal-transfer images in GMAW process'
+year: 2023
+author: 'González Pérez, Iván, Meruane, Viviana, Mendez, Patricio F'
+doi: https://doi.org/10.1016/j.jmapro.2022.11.018
+journ: 'Journal of Manufacturing Processes'
+volume: 85
+number: NA
+pages: '9-20'
+---

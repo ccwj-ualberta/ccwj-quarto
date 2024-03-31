@@ -1,0 +1,6 @@
+---
+title: "Zero programming repair with laser cladding"
+author: "Ramirez, Daniel, Mendez, Patricio F"
+conference: "CWB association annual meeting"
+year: 2022
+---

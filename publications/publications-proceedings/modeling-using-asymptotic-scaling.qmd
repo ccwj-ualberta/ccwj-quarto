@@ -1,0 +1,6 @@
+---
+title: "Modeling using asymptotic scaling"
+author: "Mendez, P. F."
+conference: "Laboratoire de mécanique et génie civil de montpellier"
+year: 2011
+---

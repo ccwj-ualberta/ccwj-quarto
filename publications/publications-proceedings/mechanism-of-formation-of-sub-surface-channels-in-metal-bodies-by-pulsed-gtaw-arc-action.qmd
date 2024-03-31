@@ -1,0 +1,6 @@
+---
+title: "Mechanism of formation of sub-surface channels in metal bodies by pulsed GTAW arc action"
+author: "Mendez, P. F., Ponomarov, Vladimir, Tokar, Anna"
+conference: "IIW annual assembly"
+year: 2015
+---

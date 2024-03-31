@@ -1,0 +1,6 @@
+---
+title: "What makes welding work?"
+author: "Mendez, P. F."
+conference: "CWBA educators conference"
+year: 2022
+---

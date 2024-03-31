@@ -1,0 +1,6 @@
+---
+title: "Use of calorimetry to create CCT diagrams"
+author: "Mendez, P. F., Gibbs, John W., Kamyabi Gol, Ata"
+conference: "Fabtech/AWS annual meeting"
+year: 2013
+---

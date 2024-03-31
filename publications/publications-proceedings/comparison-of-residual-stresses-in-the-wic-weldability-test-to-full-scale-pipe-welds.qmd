@@ -1,0 +1,6 @@
+---
+title: "Comparison of residual stresses in the WIC weldability test to full-scale pipe welds"
+author: "Grams, Mitchell, Vodzyk, Denys, Goldak, John, Mendez, Patricio"
+conference: "IIW annual assembly"
+year: 2016
+---

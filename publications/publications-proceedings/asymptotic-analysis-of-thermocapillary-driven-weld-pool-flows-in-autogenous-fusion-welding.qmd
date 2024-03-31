@@ -1,0 +1,6 @@
+---
+title: "Asymptotic analysis of thermocapillary-driven weld pool flows in autogenous fusion welding"
+author: "Havrylov, Dmytro, Mendez, Patricio F."
+conference: "IIW annual assembly"
+year: 2019
+---

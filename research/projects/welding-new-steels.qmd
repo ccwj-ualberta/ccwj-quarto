@@ -1,9 +1,9 @@
 ---
 title: "Structure-Processing Relationships for Welding New Steels with Small Alloying Additions"
 subtitle: CWB, WF, LJ Welding, Weldco, NSERC
-image: ../../assets/placeholder.png
-date: "2019-01-01"
-author: Patricio Mendez
+image: granting-logos/nserc-crd.png
+date: "2019-09-01"
+date-format: "YYYY-MM"
 categories: [Metallurgy, Physics of Welding]
 ---
 

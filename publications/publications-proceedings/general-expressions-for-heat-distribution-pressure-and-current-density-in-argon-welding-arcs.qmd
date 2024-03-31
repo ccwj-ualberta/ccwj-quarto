@@ -1,0 +1,6 @@
+---
+title: "General expressions for heat distribution, pressure, and current density in argon welding arcs"
+author: "Villarreal Medina, Rodrigo, Delgado-Álvarez, Alberto, Murphy, Anthony B, Mendez, Patricio F, Ramirez Árgaez, Marco A"
+conference: "Modelling of casting, welding and advanced solidification processes, MCWASP"
+year: 2023
+---

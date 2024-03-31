@@ -1,0 +1,6 @@
+---
+title: "Minimal representation and calibration approach to weld procedure development"
+author: "Wood, G., Mendez, P. F."
+conference: "Canweld/CWA annual meeting"
+year: 2014
+---

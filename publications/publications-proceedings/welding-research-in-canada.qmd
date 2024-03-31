@@ -1,0 +1,6 @@
+---
+title: "Welding research in canada"
+author: "Mendez, P. F., Gerlich, A. P., Yarmuch, Matthew, Zhou, N"
+conference: "Fabtech/AWS annual meeting"
+year: 2009
+---

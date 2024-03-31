@@ -1,0 +1,10 @@
+---
+title: 'A new method for the design of welding consumables'
+year: 2010
+author: 'Tordonato, D.S., Madeni, J.C., Babu, S. S., Liu, S., Mendez, P. F.'
+doi: NA
+journ: 'Welding Journal'
+volume: 89
+number: 10
+pages: '201s-209s'
+---

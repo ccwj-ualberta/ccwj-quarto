@@ -1,0 +1,6 @@
+---
+title: "Modeling penetration and free surface depression during high current arc welding"
+author: "Mendez, P. F., Eagar, T. W."
+conference: "Proceedings of the julian szekely memorial symposium on materials processing"
+year: 1996
+---

@@ -1,0 +1,6 @@
+---
+title: "Mathematical modeling of heat and fluid flow phenomena in gas metal arc welding"
+author: "Mendez, P. F."
+conference: "Department of energy, basic energy sciences review meeting"
+year: 1996
+---

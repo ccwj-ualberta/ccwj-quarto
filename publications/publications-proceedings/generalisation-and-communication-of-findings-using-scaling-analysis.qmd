@@ -1,0 +1,6 @@
+---
+title: "Generalisation and communication of findings using scaling analysis"
+author: "Mendez, P.F."
+conference: "Phase transformations & complex properties research group"
+year: 2011
+---

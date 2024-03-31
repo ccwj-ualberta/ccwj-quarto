@@ -1,0 +1,6 @@
+---
+title: "Tackling welding complexity: A new approach and new results"
+author: "Mendez, P. F."
+conference: "Department of metallurgical and materials engineering"
+year: 2003
+---

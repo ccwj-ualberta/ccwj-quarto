@@ -1,0 +1,6 @@
+---
+title: "Variable materials properties on electrode extension"
+author: "Lehnhoff, Greg, Scott, K. M., Guest, Stuart D., Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2010
+---

@@ -1,0 +1,6 @@
+---
+title: "Estudios de postgrado de ingeniería en USA"
+author: "Mendez, P. F."
+conference: "NA"
+year: 1999
+---

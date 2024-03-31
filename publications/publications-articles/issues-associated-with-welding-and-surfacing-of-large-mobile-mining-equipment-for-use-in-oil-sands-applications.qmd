@@ -1,0 +1,10 @@
+---
+title: 'Issues associated with welding and surfacing of large mobile mining equipment for use in oil sands applications'
+year: 2015
+author: 'Barnes, Nairn, Joseph, T., Mendez, P. F.'
+doi: https://doi.org/10.1179/1362171815Y.0000000060
+journ: 'Science And Technology Of Welding And Joining'
+volume: 20
+number: 6
+pages: '483-493'
+---

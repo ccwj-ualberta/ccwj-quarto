@@ -1,9 +1,15 @@
 ---
 title: "Numerical Modelling of Laser Cladding Technology using Pastes and Tapes"
 subtitle: Group Six Technologies, Mitacs
-image: ../../assets/placeholder.png
+date: "2017-09-01"
+date-format: "YYYY-MM"
+image: granting-logos/mitacs-accelerate.png
 categories: [Numerical Modelling]
 ---
+
+**Faculty Supervisor:** Patricio Mendez
+
+**Student(s):** Ying Wang
 
 Laser cladding is an additive manufacturing technology for applying high-quality metal coatings to parts in order to improve their mechanical wear properties, and thus increase their lifespan. Currently, these metal coatings are created by depositing metal powders on the work piece and welding them together with the laser. A significant amount of powder is lost in this process, which is a large factor in the cost of this type of cladding.
 

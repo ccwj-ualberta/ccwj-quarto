@@ -1,0 +1,9 @@
+---
+title: "Physical mechanisms governing deposition rate in arc welding with a consumable electrode"
+author: "Mendez, P. F., Yan, Zhaoyang, Núñez Sánchez, Vicente, Chen, Shujun"
+year: 2022
+booktitle: "Mathematical modelling of weld phenomena 13"
+pages: "NA"
+publisher: "Verlag der Technischen Universität Graz"
+image: "mathematical-modelling-of-weld-phenomena-13.jpeg"
+---

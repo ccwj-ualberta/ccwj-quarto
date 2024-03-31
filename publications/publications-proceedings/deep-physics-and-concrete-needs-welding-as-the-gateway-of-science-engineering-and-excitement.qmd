@@ -1,0 +1,6 @@
+---
+title: "Deep physics and concrete needs. Welding as the gateway of science, engineering, and excitement"
+author: "Mendez, P. F."
+conference: "Brian ives award lecture series, ASM calgary chapter"
+year: 2015
+---

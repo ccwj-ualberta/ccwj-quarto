@@ -1,0 +1,6 @@
+---
+title: "Utilización del concepto de pico móvil para la aplicación de lubricantes a base de grafito (on the use of moving nozzles for the application of graphite-based lubricants)"
+author: "Odriozola, I., Colombo, G., Mendez, P. F., Rapetti, J., Herrera, R."
+institution: "FUDETEC"
+year: 1993
+---

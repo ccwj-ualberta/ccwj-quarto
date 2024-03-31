@@ -1,0 +1,6 @@
+---
+title: "A novel methodology to predict thermal cycles and isotherm characteristics"
+author: "Lu, Yi, Mendez, Patricio F."
+conference: "IIW annual assembly"
+year: 2019
+---

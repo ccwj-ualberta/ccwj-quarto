@@ -1,0 +1,6 @@
+---
+title: "A computational methodology to obtain asymptotic scaling laws"
+author: "Mendez, P. F., Stier, N."
+conference: "ASME fluids engineering division summer meeting"
+year: 2013
+---

@@ -1,0 +1,6 @@
+---
+title: "Welding Innovation: Applications, fundamentals, and a modeling approach to link them"
+author: "Mendez, P. F."
+conference: "Department of chemical and materials engineering"
+year: 2008
+---

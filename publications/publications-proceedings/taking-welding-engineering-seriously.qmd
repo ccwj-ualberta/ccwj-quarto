@@ -1,0 +1,6 @@
+---
+title: "Taking welding engineering seriously"
+author: "Mendez, P. F."
+conference: "Invited presentation at CanWeld/CWA annual meeting"
+year: 2014
+---

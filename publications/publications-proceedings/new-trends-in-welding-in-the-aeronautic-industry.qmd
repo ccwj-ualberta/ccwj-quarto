@@ -1,0 +1,6 @@
+---
+title: "New trends in welding in the aeronautic industry"
+author: "Mendez, P. F."
+conference: "New trends for the manufacturing in the aeronautic industry"
+year: 2000
+---

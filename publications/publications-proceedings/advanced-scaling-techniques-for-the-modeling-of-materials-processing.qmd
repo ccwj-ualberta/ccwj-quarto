@@ -1,0 +1,6 @@
+---
+title: "Advanced scaling techniques for the modeling of materials processing"
+author: "Mendez, P. F."
+conference: "Sohn symposium"
+year: 2006
+---

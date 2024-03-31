@@ -1,0 +1,6 @@
+---
+title: "Canadian Centre for Welding and Joining. An interdepartmental research and educational effort"
+author: "Mendez, P. F., Gerlich, A. P."
+conference: "CISC alberta region / university of alberta annual meeting"
+year: 2009
+---

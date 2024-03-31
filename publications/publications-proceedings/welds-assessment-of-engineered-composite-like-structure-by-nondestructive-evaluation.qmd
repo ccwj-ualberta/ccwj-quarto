@@ -1,0 +1,6 @@
+---
+title: "Welds: Assessment of engineered composite-like structure by nondestructive evaluation"
+author: "Jackson, J. E., Soderstrom, E., Lasseigne-Jackson, A.N., Mendez, P.F., Olson, D.L., Liu, S., Metzbower, E.A."
+conference: "Fabtech/AWS annual meeting"
+year: 2007
+---

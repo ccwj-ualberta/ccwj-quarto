@@ -1,0 +1,6 @@
+---
+title: "Canadian centre for welding and joining"
+author: "Mendez, P. F."
+conference: "Welding research council (WRC): Practical solutions for problem avoidance in welded equipment"
+year: 2014
+---

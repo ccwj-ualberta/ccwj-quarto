@@ -1,9 +1,9 @@
 ---
 title: "A novel laser-assisted hot-wire metal deposition technique for extreme applications"
 subtitle: Group Six Technologies, NSERC
-date: "2019-01-01"
-author: Patricio Mendez
-image: ../../assets/placeholder.png
+date: "2019-06-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
 categories: [Numerical Modelling, Welding Automation]
 ---
 

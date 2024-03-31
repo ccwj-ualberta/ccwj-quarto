@@ -1,0 +1,6 @@
+---
+title: "Analisis de los sistemas dinámicos de un grado de libertad que incluyen rozamiento (analysis of dynamic systems of one degree of freedom that include friction)"
+author: "Mendez, P. F."
+institution: "Universidad de Buenos Aires"
+year: 1989
+---

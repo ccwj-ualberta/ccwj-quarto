@@ -1,0 +1,6 @@
+---
+title: "Modeling of welding processes through order of magnitude scaling"
+author: "Mendez, P. F., Eagar, T. W."
+conference: "International conference on modeling and simulation of metal technologies, MMT-2000"
+year: 2000
+---

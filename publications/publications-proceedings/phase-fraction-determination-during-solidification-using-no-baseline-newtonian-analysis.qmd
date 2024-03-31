@@ -1,0 +1,6 @@
+---
+title: "Phase fraction determination during solidification using no-baseline newtonian analysis"
+author: "Gibbs, John W., Mendez, P. F."
+conference: "MS&T"
+year: 2007
+---

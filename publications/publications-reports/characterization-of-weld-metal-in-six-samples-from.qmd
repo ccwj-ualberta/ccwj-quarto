@@ -1,0 +1,6 @@
+---
+title: "Characterization of weld metal in six samples from TAMSA tubing weld joints"
+author: "Madeni, J. C., Tordonato, D., Mendez, P. F., Liu, S."
+institution: "Colorado School of Mines"
+year: 2006
+---

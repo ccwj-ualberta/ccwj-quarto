@@ -1,0 +1,9 @@
+---
+title: "Use of scaling laws to estimate grain size and coarsening in the stir zone of friction stir welding"
+author: "Tello, K. E., Gerlich, A. P., Mendez, P. F."
+year: 2010
+booktitle: "Mathematical modelling of weld phenomena 9"
+pages: "357—367"
+publisher: "Institute of Materials Science, Joining and Forming"
+image: "mathematical-modelling-of-weld-phenomena-9.jpeg"
+---

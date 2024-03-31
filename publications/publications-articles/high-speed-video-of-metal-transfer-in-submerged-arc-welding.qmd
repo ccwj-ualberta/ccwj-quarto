@@ -1,0 +1,10 @@
+---
+title: 'High-speed video of metal transfer in submerged arc welding'
+year: 2015
+author: 'Mendez, P. F., Goett, Gregor, Guest, Stuart D.'
+doi: NA
+journ: 'Welding Journal'
+volume: 94
+number: 10
+pages: '325s-332s'
+---

@@ -1,0 +1,6 @@
+---
+title: "Zero programming laser cladding repairs"
+author: "Ramirez, Daniel, Mendez, P. F."
+conference: "IIW intermediate meeting"
+year: 2022
+---

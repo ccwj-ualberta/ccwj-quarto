@@ -1,0 +1,6 @@
+---
+title: "Conceptos del funcionamiento de los reguladores centrífugos de velocidad (fundamentals of centrifugal governors)"
+author: "Mendez, P. F."
+institution: "Universidad de Buenos Aires"
+year: 1988
+---

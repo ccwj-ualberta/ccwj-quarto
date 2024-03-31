@@ -1,0 +1,6 @@
+---
+title: "Order of magnitude scaling of complex engineering problems"
+author: "Mendez, P. F., Eagar, T. W."
+conference: "Seventeenth symposium on energy engineering sciences"
+year: 1999
+---

@@ -1,0 +1,6 @@
+---
+title: "Engineering Expressions Based on Fundamental Physics for Characteristic Values of a Moving Point Heat Source"
+author: "Wang, Ying, Lu, Yi, Mendez, P. F."
+conference: "IIW annual assembly"
+year: 2017
+---

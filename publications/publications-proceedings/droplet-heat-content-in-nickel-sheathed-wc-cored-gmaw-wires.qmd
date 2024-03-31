@@ -1,0 +1,6 @@
+---
+title: "Droplet heat content in nickel sheathed WC-cored GMAW wires"
+author: "Scott, Kevin M., Mendez, Patricio F."
+conference: "Fabtech/AWS annual meeting"
+year: 2011
+---

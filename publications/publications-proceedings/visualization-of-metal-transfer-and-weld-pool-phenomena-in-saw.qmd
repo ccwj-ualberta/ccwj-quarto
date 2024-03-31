@@ -1,0 +1,6 @@
+---
+title: "Visualization of metal transfer and weld pool phenomena in SAW"
+author: "Sengupta, Vivek, Havrylov, Dmytro, Mendez, P. F."
+conference: "Trends in welding research"
+year: 2016
+---

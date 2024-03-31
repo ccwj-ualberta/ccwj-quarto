@@ -1,0 +1,6 @@
+---
+title: "A framework to develop rules for the design of radically new welding technologies"
+author: "Mendez, P. F."
+conference: "2nd international symposium on on computer-aided welding engineering"
+year: 2012
+---

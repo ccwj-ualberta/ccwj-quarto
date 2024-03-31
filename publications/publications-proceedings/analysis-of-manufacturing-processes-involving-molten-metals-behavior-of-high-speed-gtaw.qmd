@@ -1,0 +1,6 @@
+---
+title: "Analysis of manufacturing processes involving molten metals: Behavior of high speed GTAW"
+author: "Mendez, P. F."
+conference: "Department of industrial, welding, and systems engineering"
+year: 2007
+---

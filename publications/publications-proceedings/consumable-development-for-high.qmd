@@ -1,0 +1,6 @@
+---
+title: "Consumable development for high"
+author: "Mendez, P. F., Liu, Stephen"
+conference: "Welding department"
+year: 2005
+---

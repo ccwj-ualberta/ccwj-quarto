@@ -1,0 +1,9 @@
+---
+title: "Wrinkling phenomena to explain vertical fold defects in DC-Cast Al-Mg4.5"
+author: "Lee Davis, J., Mendez, P. F."
+year: 2013
+booktitle: "Essential readings in light metals"
+pages: "789—804"
+publisher: "John Wiley & Sons, Inc."
+image: "essential-readings-in-light-metals.webp"
+---

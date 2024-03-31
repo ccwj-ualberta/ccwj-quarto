@@ -1,0 +1,6 @@
+---
+title: "A general model for electrode extension and its application to tubular wire and hot wire processes"
+author: "Mendez, Patricio F., Lehnhoff, Greg, Guest, Stuart D."
+conference: "IIW annual assembly"
+year: 2013
+---

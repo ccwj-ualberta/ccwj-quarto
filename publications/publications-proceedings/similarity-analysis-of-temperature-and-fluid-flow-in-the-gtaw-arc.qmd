@@ -1,0 +1,6 @@
+---
+title: "Similarity analysis of temperature and fluid flow in the GTAW arc"
+author: "Sacco, Stefano, Mendez, Patricio F., Ramirez, Marco A., Delgado-Álvarez, Alfredo"
+conference: "AWS annual meeting"
+year: 2021
+---

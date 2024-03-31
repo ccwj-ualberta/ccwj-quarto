@@ -1,0 +1,6 @@
+---
+title: "Growth mechanism of primary chromium carbide needles during solidification"
+author: "Barnes, Nairn, Clark, Samuel, Sridhar, Seetharaman, Mendez, Patricio F."
+conference: "IIW annual assembly"
+year: 2017
+---

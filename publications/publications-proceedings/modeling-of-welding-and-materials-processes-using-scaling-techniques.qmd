@@ -1,0 +1,6 @@
+---
+title: "Modeling of welding and materials processes using scaling techniques"
+author: "Mendez, P. F."
+conference: "MST-6"
+year: 2007
+---

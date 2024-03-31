@@ -1,0 +1,6 @@
+---
+title: "Non-adiabatic shearing in friction stir welding"
+author: "Mendez, P. F., Lienert, T. J."
+conference: "TMS annual meeting"
+year: 2006
+---

@@ -1,0 +1,10 @@
+---
+title: 'Fatigue life of laser additive manufacturing repaired steel component'
+year: 2021
+author: 'Molina, Carlos, Araujo, Abigail, Bell, Kurtis, Mendez, Patricio F, Chapetti, Mirco'
+doi: https://doi.org/10.1016/j.engfracmech.2020.107417
+journ: 'Engineering Fracture Mechanics'
+volume: 241
+number: NA
+pages: '107417, 1-11'
+---

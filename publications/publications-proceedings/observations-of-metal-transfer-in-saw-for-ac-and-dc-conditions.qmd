@@ -1,0 +1,6 @@
+---
+title: "Observations of metal transfer in SAW for AC and DC conditions"
+author: "Mendez, Patricio F., Goett, Gregor, Guest, Stuart D."
+conference: "Fabtech/AWS annual meeting"
+year: 2015
+---

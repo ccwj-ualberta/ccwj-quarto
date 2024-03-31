@@ -1,0 +1,9 @@
+---
+title: "Scaling laws in the welding arc"
+author: "Mendez, P. F., Ramirez, M. A., Trapaga, G., Eagar, T. W."
+year: 2002
+booktitle: "Mathematical modelling of weld phenomena 6"
+pages: "43—61"
+publisher: "Institute of Materials, Minerals and Mining"
+image: "mathematical-modelling-of-weld-phenomena-6.jpeg"
+---

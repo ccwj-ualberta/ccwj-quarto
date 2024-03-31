@@ -1,0 +1,10 @@
+---
+title: 'Generalized representation of arc shape, arc column characteristics and arc-weld pool interactions for DC electric arcs burning in monoatomic gases'
+year: 2020
+author: 'Delgado-Álvarez, Alfredo, Mendez, Patricio F, Murphy, Anthony B, Ramírez-Argáez, Marco A'
+doi: https://doi.org/10.1088/1361-6463/abbfc7
+journ: 'Journal of Physics D: Applied Physics'
+volume: 54
+number: 5
+pages: '055001, 1-12'
+---

@@ -1,0 +1,6 @@
+---
+title: "Effect of electrode droplet size on evaporation and fume generation in GMAW"
+author: "Mendez, P. F., Jenkins, N. T., Eagar, T. W."
+conference: "Gas metal arc welding for the 21st century"
+year: 2000
+---

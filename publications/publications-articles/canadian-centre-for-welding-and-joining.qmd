@@ -1,0 +1,10 @@
+---
+title: 'Canadian centre for welding and joining'
+year: 2021
+author: 'Dapp, Goetz, Mendez, P. F.'
+doi: NA
+journ: 'Weld Magazine'
+volume: NA
+number: Spring
+pages: '42-43'
+---

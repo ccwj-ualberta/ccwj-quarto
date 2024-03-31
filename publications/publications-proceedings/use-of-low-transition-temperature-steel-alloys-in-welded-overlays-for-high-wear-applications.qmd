@@ -1,0 +1,6 @@
+---
+title: "Use of low transition temperature steel alloys in welded overlays for high wear applications"
+author: "Trautmann, Carter, Mendez, Patricio F"
+conference: "CWB association annual meeting"
+year: 2022
+---

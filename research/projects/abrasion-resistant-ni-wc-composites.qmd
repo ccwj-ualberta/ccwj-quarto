@@ -1,9 +1,9 @@
 ---
 title: "Deposition of abrasion-resistant Ni-WC metal matrix composites using Hot Wire TIG Welding"
 subtitle: Hitachi Canada Industries, NSERC
-date: "2019-01-01"
-author: Patricio Mendez
-image: abrasion-resistant-ni-wc-composites.png
+date: "2006-12-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
 categories: [Physics of Welding, Metallurgy]
 ---
 

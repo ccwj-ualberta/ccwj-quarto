@@ -1,0 +1,6 @@
+---
+title: "Humping formation in high current GTA welding"
+author: "Mendez, P. F., Niece, K. L., Eagar, T. W."
+conference: "International conference on joining of advanced and specialty materials II, materials solutions conference and exposition"
+year: 1999
+---

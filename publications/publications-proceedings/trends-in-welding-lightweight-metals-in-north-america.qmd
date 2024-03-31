@@ -1,0 +1,6 @@
+---
+title: "Trends in welding lightweight metals in North America"
+author: "Mendez, P. F."
+conference: "Zukunftsweisende Fügetechnologie im Leichtbau (Pioneering joining technology in lightweight materials)"
+year: 2011
+---

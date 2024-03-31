@@ -1,9 +1,9 @@
 ---
 title: "ERW Bondline Flaw Formation Mechanisms"
 subtitle: Evraz North America
-date: "2019-01-01"
-author: Patricio Mendez
-image: ../../assets/placeholder.png
+date: "2022-12-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-alliance.png
 categories: [Physics of Welding, Metallurgy]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Develop an advanced manufacturing system for automated repairs of heavy machine components"
 subtitle: PrairiesCan, Group Six Technologies, KUKA, Octopuz, Weldco
-date: "2019-01-01"
-author: Patricio Mendez
-image: ../../assets/placeholder.png
+date: "2018-10-01"
+date-format: "YYYY-MM"
+image: granting-logos/prairies-can.png
 categories: [Welding Automation]
 ---
 

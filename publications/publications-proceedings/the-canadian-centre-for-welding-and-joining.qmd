@@ -1,0 +1,6 @@
+---
+title: "The canadian centre for welding and joining"
+author: "Mendez, P. F., Gerlich, A. P."
+conference: "NRC/IRAP welding productivity improvement"
+year: 2011
+---

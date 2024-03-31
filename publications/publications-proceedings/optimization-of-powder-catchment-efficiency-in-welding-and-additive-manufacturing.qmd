@@ -1,0 +1,6 @@
+---
+title: "Optimization of powder catchment efficiency in welding and additive manufacturing"
+author: "Grams, M. R., Wood, Gentry, Mendez, P. F."
+conference: "IIW 2022 international conference on welding and joining"
+year: 2022
+---

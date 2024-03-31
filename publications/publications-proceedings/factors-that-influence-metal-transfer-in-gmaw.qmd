@@ -1,0 +1,6 @@
+---
+title: "Factors that influence metal transfer in GMAW"
+author: "Soderstrom, Erik, Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2006
+---

@@ -1,0 +1,10 @@
+---
+title: 'Controlling heat transfer in micro electron beam welding using volumetric heating'
+year: 2011
+author: 'Gajapathi, Satya S., Mitra, Sushanta K., Mendez, Patricio F.'
+doi: https://doi.org/10.1016/j.ijheatmasstransfer.2011.07.033
+journ: 'International Journal of Heat and Mass Transfer'
+volume: 54
+number: 25-26
+pages: '5545-5553'
+---

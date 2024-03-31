@@ -1,0 +1,6 @@
+---
+title: "High temperature compatible conflat cell with adjustable stack pressure forIn-Situ and operando X-ray studies of lithium-ion battery materials"
+author: "Oles Sendetskyi, Michael Fleischauer, Mark Salomons, Patricio Mendez"
+conference: "240th ACS meeting"
+year: 2021
+---

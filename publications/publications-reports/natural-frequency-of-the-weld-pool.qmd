@@ -1,0 +1,6 @@
+---
+title: "Natural frequency of the weld pool"
+author: "Mendez, P. F."
+institution: "Massachusetts Institute of Technology"
+year: 1996
+---

@@ -1,0 +1,6 @@
+---
+title: "Breakdown of simultaneous phase transformations by extending cooling curve analysis"
+author: "Kamyabi-Gol*, A., Mendez, P. F."
+conference: "26th canadian materials science conference (CMSC 2014)"
+year: 2014
+---

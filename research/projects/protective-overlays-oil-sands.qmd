@@ -1,9 +1,9 @@
 ---
 title: "Wear Protective Overlays for Oil Sands Applications"
 subtitle: The Stoody Company
-date: "2019-01-01"
-author: Patricio Mendez
-image: ../../assets/placeholder.png
+date: "2012-04-01"
+date-format: "YYYY-MM"
+image: granting-logos/industrial-research.png
 categories: [Welding Automation]
 ---
 

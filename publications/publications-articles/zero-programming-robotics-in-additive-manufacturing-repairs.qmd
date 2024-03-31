@@ -1,0 +1,10 @@
+---
+title: 'Zero programming robotics in additive manufacturing repairs'
+year: 2023
+author: 'Ramirez Rebollo, Daniel Rodrigo, Alam, Syed Irtiaz, Mendez, Patricio F'
+doi: https://doi.org/10.1016/j.jajp.2023.100145
+journ: 'Journal of Advanced Joining Processes'
+volume: 7
+number: NA
+pages: '100145'
+---

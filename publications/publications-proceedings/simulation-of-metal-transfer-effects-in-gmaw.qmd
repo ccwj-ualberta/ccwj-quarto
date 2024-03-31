@@ -1,0 +1,6 @@
+---
+title: "Simulation of metal transfer effects in GMAW"
+author: "Weiss, D., Mendez, P. F., Eagar, T. W."
+conference: "Department of energy, basic energy sciences review meeting"
+year: 1997
+---

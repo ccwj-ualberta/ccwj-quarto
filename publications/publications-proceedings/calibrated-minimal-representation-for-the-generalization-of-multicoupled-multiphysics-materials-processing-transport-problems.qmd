@@ -1,0 +1,6 @@
+---
+title: "Calibrated minimal representation for the generalization of multicoupled, multiphysics materials processing transport problems"
+author: "Mendez, P. F."
+conference: "ASME fluids engineering division summer meeting"
+year: 2013
+---

@@ -1,9 +1,9 @@
 ---
 title: "Modelling and optimization of catchment efficiency in coaxial laser cladding"
 subtitle: Apollo Machine, Mitacs
-date: "2019-01-01"
-author: Patricio Mendez
-image: ../../assets/placeholder.png
+date: "2021-06-01"
+date-format: "YYYY-MM"
+image: granting-logos/mitacs-accelerate.png
 categories: [Physics of Welding, Numerical Modelling]
 ---
 

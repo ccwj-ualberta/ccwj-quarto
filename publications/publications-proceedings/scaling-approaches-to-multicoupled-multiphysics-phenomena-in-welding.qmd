@@ -1,0 +1,6 @@
+---
+title: "Scaling approaches to multicoupled, multiphysics phenomena in welding"
+author: "Mendez, P. F."
+conference: "Inter-university research symposium"
+year: 2009
+---

@@ -25,7 +25,7 @@ website:
         file: teaching/teaching.qmd
 
       - text: Publications
-        file: publications/publications.qmd
+        file: publications/publications-articles.qmd
 
       - text: Apply
         file: apply/canadian.qmd
@@ -90,7 +90,11 @@ website:
     - title: "Publications"
       style: "docked"
       contents:
-        - publications/publications.qmd
+        - publications/publications-articles.qmd
+        - publications/publications-books.qmd
+        - publications/publications-proceedings.qmd
+        - publications/publications-reports.qmd
+        - publications/publications-theses.qmd
 
     - title: "Apply"
       style: "docked"

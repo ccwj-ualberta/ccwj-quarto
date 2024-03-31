@@ -1,0 +1,6 @@
+---
+title: "Parametric modeling in materials processing"
+author: "Mendez, P. F."
+conference: "Department of metallurgical and materials engineering"
+year: 2006
+---

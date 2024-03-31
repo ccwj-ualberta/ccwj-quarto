@@ -1,0 +1,6 @@
+---
+title: "Modeling of micro welding process using electron beam under high peclet number"
+author: "Gajapathi, Satya S., Mitra, Sushanta K., Mendez, Patricio F."
+conference: "ASME 2010 international mechanical engineering congress & exposition. IMECE2010"
+year: 2010
+---

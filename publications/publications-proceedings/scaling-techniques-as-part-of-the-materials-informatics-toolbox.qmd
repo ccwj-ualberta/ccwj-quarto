@@ -1,0 +1,6 @@
+---
+title: "Scaling techniques as part of the Materials Informatics toolbox"
+author: "Mendez, P. F."
+conference: "TMS annual meeting"
+year: 2008
+---

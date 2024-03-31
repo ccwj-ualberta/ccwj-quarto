@@ -1,8 +1,0 @@
----
-booktitle: "Mathematical Modelling of Weld Phenomena 11"
-title: "First Order Prediction of Bead Width and Height in Coaxial Laser Cladding"
-author: ["Gentry Wood", "Patricio F. Mendez"]
-year: "2016"
-address: "Graz-Seggau, Austria"
-image: "mathematical-modelling-of-weld-phenomena-11.png"
----

@@ -1,0 +1,6 @@
+---
+title: "Comparison of GMAW and GTAW: Summary of experimental results"
+author: "Mendez, P. F."
+institution: "Massachusetts Institute of Technology"
+year: 1996
+---

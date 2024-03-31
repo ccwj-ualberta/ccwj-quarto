@@ -1,0 +1,6 @@
+---
+title: "Analysis of maximum temperature under a gaussian source in laser beam processes"
+author: "Lu, Yi, Wang, Ying, Mendez, P. F."
+conference: "IIW annual assembly"
+year: 2017
+---

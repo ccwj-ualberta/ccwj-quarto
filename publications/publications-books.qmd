@@ -1,0 +1,9 @@
+---
+title: "Books"
+listing:
+  template: _ejs/publications-books.ejs
+  contents: publications-books
+  sort: "year desc"
+  page-size: 30
+  filter-ui: true
+---

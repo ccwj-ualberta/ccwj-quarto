@@ -1,0 +1,6 @@
+---
+title: "Solid fraction encyclopedia"
+author: "Mendez, Patricio F."
+institution: "Semi-Solid Technologies"
+year: 1997
+---

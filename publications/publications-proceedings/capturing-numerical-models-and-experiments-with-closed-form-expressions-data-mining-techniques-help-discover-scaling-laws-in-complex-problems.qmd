@@ -1,0 +1,6 @@
+---
+title: "Capturing Numerical Models and Experiments with Closed Form Expressions: Data mining techniques help discover scaling laws in complex problems"
+author: "Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2008
+---

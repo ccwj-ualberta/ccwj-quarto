@@ -1,0 +1,6 @@
+---
+title: "Heat transfer regions and non-linear effects in electrode extension in GMAW"
+author: "Lehnhoff, Greg, Tello, Karem E., Mendez, Patricio F."
+conference: "Fabtech/AWS annual meeting"
+year: 2008
+---

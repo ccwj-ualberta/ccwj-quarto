@@ -1,0 +1,6 @@
+---
+title: "Experimental measurements of cathode and anode fall voltages in GMAW"
+author: "McIntosh, Cory, Mendez, P. F."
+conference: "IIW annual assembly"
+year: 2016
+---

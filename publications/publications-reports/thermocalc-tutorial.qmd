@@ -1,0 +1,6 @@
+---
+title: "Thermocalc tutorial"
+author: "Tordonato, D., Madeni, J. C., Mendez, P. F."
+institution: "Colorado School of Mines"
+year: 2006
+---

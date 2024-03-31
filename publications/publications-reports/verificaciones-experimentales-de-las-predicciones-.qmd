@@ -1,0 +1,6 @@
+---
+title: "Verificaciones experimentales de las predicciones teóricas acerca del comportamiento estacionario y transitorio de un regulador centrífugo (experimental verification of the theoretical predictions about the steady-state and transient behavior of a centrifugal governor)"
+author: "Mendez, P. F."
+institution: "Universidad de Buenos Aires"
+year: 1989
+---

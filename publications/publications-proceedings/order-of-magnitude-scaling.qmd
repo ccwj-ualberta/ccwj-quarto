@@ -1,0 +1,6 @@
+---
+title: "Order of magnitude scaling"
+author: "Mendez, P. F."
+conference: "Similarity mechanics group, institute for statics and dynamics of aerospace structures"
+year: 2001
+---

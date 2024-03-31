@@ -1,0 +1,6 @@
+---
+title: "A novel treatment of moving heat sources with applications to additive manufacturing and welding"
+author: "Mendez, P. F."
+conference: "Canadian society for mechanical engineering international congress"
+year: 2022
+---

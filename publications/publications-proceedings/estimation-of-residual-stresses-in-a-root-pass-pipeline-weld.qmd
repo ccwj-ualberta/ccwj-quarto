@@ -1,0 +1,6 @@
+---
+title: "Estimation of residual stresses in a root-pass pipeline weld"
+author: "Grams, M. R., Mendez, P. F."
+conference: "IIW annual assembly"
+year: 2017
+---

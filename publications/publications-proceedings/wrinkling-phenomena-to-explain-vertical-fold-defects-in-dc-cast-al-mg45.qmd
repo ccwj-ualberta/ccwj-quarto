@@ -1,0 +1,6 @@
+---
+title: "Wrinkling phenomena to explain vertical fold defects in DC-Cast Al-Mg4.5"
+author: "Davis, J. Lee, Mendez, Patricio F."
+conference: "Proceedings of ligh metals symposium at TMS annual meeting"
+year: 2016
+---

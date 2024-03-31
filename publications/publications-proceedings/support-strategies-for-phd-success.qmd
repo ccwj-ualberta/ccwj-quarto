@@ -1,0 +1,6 @@
+---
+title: "Support strategies for PhD success"
+author: "Mendez, P. F."
+conference: "Joint CALDO-CRUCH seminar"
+year: 2014
+---

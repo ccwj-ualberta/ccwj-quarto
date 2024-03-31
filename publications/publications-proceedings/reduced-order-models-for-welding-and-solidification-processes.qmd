@@ -1,0 +1,6 @@
+---
+title: "Reduced order models for welding and solidification processes"
+author: "Mendez, P. F."
+conference: "15th international conference on modelling of casting, welding and advanced solidification processes, MCWASP"
+year: 2020
+---

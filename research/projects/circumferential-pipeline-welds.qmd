@@ -1,9 +1,9 @@
 ---
 title: "Mechanical and Metallurgical Implications of Non-Ideal Geometry in Circumferential Pipeline Welds"
-image: ../../assets/placeholder.png
+image: granting-logos/nserc-crd.png
 subtitle: Enbridge GoldakTec MSC Software, NSERC
-date: "2019-01-01"
-author: Patricio Mendez
+date: "2016-12-01"
+date-format: "YYYY-MM"
 categories: [Physics of Welding, Metallurgy]
 ---
 

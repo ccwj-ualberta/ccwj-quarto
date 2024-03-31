@@ -1,0 +1,6 @@
+---
+title: "Desorption kinetics and hydrogen amount trapped in steels"
+author: "Sacco Hawas, Stefano, Mendez, P. F."
+conference: "IIW annual assembly"
+year: 2022
+---
