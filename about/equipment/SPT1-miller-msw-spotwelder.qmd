@@ -1,0 +1,8 @@
+---
+title: Miller MSW Spotwelder
+categories: [Welding]
+image: SPT1-miller-msw-spotwelder.jpg
+about:
+  template: solana
+  image: SPT1-miller-msw-spotwelder.jpg
+---

@@ -1,9 +1,0 @@
----
-title: DMMCheck Plus Multi-Function Calibration Reference
-categories: [Characterization]
-image: ../../assets/about-us/equipment-photos/CALI_DMMCheck_calibration_reference.jpg
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/CALI_DMMCheck_calibration_reference.jpg
----
-nan

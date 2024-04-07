@@ -1,0 +1,8 @@
+---
+title: RoboDK
+categories: [Computer / Software]
+image: ROBO-robodk.jpg
+about:
+  template: solana
+  image: ROBO-robodk.jpg
+---

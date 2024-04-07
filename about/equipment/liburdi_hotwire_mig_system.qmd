@@ -1,9 +1,0 @@
----
-title: Liburdi Hotwire MIG System
-categories: [Welding]
-image: ../../assets/about-us/equipment-photos/LIHW_Liburdi_HotWire_MIG.jpg
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/LIHW_Liburdi_HotWire_MIG.jpg
----
-nan

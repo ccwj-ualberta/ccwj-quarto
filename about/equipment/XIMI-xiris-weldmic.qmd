@@ -1,0 +1,8 @@
+---
+title: XIRIS WeldMic
+categories: [Characterization]
+image: XIMI-xiris-weldmic.jpg
+about:
+  template: solana
+  image: XIMI-xiris-weldmic.jpg
+---

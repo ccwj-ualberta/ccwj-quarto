@@ -1,0 +1,10 @@
+---
+title: KUKA PRC
+categories: [Computer / Software]
+image: PRC-kuka-prc.jpg
+about:
+  template: solana
+  image: PRC-kuka-prc.jpg
+---
+
+Software tool connect Rhino/Grasshopper to KUKA robots. This software allows fully parametrical control over the robots, and is used in architecture and artistic installations.

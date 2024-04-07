@@ -1,9 +1,0 @@
----
-title: MSC Apex
-categories: [Computer / Software]
-image: ../../assets/about-us/equipment-photos/APEX_MSC_Apex_Logo.webp
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/APEX_MSC_Apex_Logo.webp
----
-A CAE specific direct modeling and meshing solution software that streamlines CAD clean-up, simplification and meshing workflow. This solution is unique in that it combines computational parts and assemblies technology with a generative framework, which enables interactive and incremental analysis.	It provides a truly end to end solution for designers making high-precision, industrial components.

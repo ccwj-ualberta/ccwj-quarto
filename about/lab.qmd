@@ -1,11 +1,12 @@
 ---
-title: "Lab Equipment"
+title: "Facilities"
 listing: 
     contents: equipment
     type: grid
+    grid-columns: 4
     max-description-length: 1
     image-height: 175px
-    image-placeholder: ../assets/UA-COLOUR-NARROW.png
+    image-placeholder: ../assets/placeholder.png
     categories: true
 ---
 

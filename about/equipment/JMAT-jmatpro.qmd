@@ -1,0 +1,10 @@
+---
+title: JMatPro
+categories: [Computer / Software]
+image: JMAT-jmatpro.jpg
+about:
+  template: solana
+  image: JMAT-jmatpro.jpg
+---
+
+JMatPro is used to calculate a wide range of materials properties for alloys, particularly to make calculations for thermo-physical, physical, and chemical properties, and phase transformations.	The software provides extensive validation of the models to ensure sound predictions of the properties.

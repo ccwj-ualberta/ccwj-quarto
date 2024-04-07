@@ -1,9 +1,0 @@
----
-title: Octopuz
-categories: [Computer / Software]
-image: ../../assets/about-us/equipment-photos/OCTO_Octopuz-logo.png
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/OCTO_Octopuz-logo.png
----
-Offline programming software used to simulate and program the workflow of robotic equipment.	It can easily import commands from CAM software to verify robot work paths. Can implement different welding strategies with its offline path-sensitive software to optimize manufacuturing processes.

@@ -1,0 +1,8 @@
+---
+title: Phantom VEO1310 High Speed Camera (monochrome)
+categories: [Characterization]
+image: VEO-phantom-veo1310-camera.png
+about:
+  template: solana
+  image: VEO-phantom-veo1310-camera.png
+---

@@ -1,0 +1,10 @@
+---
+title: Fischione 110 Electro-Polisher
+categories: [Characterization]
+image: EPOL-fischione-110-electro-polisher.png
+about:
+  template: solana
+  image: EPOL-fischione-110-electro-polisher.png
+---
+
+Electrolytic thinning of conductive materials is an effective method of quickly producing specimens for transmission electron microscopy (TEM) without any induced artifacts. In the Model 110 Twin-Jet Electropolisher, twin jets simultaneously polish both sides of the sample, creating electron transparent specimens within a few minutes. With this equipment it is possible to make phase identification in high strength steels, Characterize nano-precipitates as also the grain and dislocation structure.

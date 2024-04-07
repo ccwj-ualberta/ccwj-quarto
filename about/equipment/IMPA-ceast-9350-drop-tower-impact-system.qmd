@@ -1,0 +1,10 @@
+---
+title: Instron Instrumented Impact Tester CEAST 9350
+categories: [Characterization]
+image: IMPA-ceast-9350-drop-tower-impact-system.jpg
+about:
+  template: solana
+  image: IMPA-ceast-9350-drop-tower-impact-system.jpg
+---
+
+Used to perform puncture resistance tests, compression after impact tests, tensile impact tests, adhesive peel impact tests, three point bending tests, and component tests. The impact tester provides mechanical properties of materials as input or validation for predictive tools.	Used in qualifying welds to meet required codes and standards.

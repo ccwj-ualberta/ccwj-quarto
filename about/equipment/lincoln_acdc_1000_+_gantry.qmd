@@ -1,7 +1,0 @@
----
-title: Lincoln ACDC 1000 + Gantry
-categories: [Welding]
-about:
-  template: solana
----
-nan

@@ -1,9 +1,0 @@
----
-title: Miller XMT450
-categories: [Welding]
-image: ../../assets/about-us/equipment-photos/XMT_Miller_XMT-450.jfif
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/XMT_Miller_XMT-450.jfif
----
-nan

@@ -1,0 +1,10 @@
+---
+title: Hardness Tester - Wilson Rockwell 2000
+categories: [Characterization]
+image: ROCK-hardness-tester-rockwell-2000.png
+about:
+  template: solana
+  image: ROCK-hardness-tester-rockwell-2000.png
+---
+
+Semi-automated high precision hardness measurement of different shape pieces. Study the effect in hardness of different powder mixtures in the welded surfaces. Characterize hardness pieces allowing the repeatability and reproducibility of the experiments.

@@ -1,0 +1,8 @@
+---
+title: Miller XMT450
+categories: [Welding]
+image: XMT-miller-xmt450.jpg
+about:
+  template: solana
+  image: XMT-miller-xmt450.jpg
+---

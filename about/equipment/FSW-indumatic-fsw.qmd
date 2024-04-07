@@ -1,0 +1,9 @@
+---
+title: Indumatic FSW
+categories: [Welding]
+image: FSW-induma-mill.png
+about:
+  template: solana
+  image: FSW-induma-mill.png
+---
+

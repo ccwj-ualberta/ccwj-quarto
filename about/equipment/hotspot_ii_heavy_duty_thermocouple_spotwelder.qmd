@@ -1,7 +1,0 @@
----
-title: HotSpot II Heavy Duty Thermocouple Spotwelder
-categories: [Welding]
-about:
-  template: solana
----
-The spotwelder allows to permanently attach Thermocouples. The weld helps to keep the thermocouple on the right spot and have better readings.

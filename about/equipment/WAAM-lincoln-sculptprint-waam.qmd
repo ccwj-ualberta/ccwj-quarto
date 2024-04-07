@@ -1,0 +1,10 @@
+---
+title: Lincoln Sculptprint WAAM
+categories: [Welding]
+image: WAAM-lincoln-sculptprint-waam.png
+about:
+  template: solana
+  image: WAAM-lincoln-sculptprint-waam.png
+---
+
+It can 3D print a variety of industrial metals including combinations of materials. Can manufacture part geometries and features that are challenging or not possible for traditional casting or machining. A promising application in industry is print on demand, which can help eliminate supply chain bottlenecks.

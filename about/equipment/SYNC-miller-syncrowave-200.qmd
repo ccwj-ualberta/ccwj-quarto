@@ -1,0 +1,8 @@
+---
+title: Miller SyncroWave 200
+categories: [Welding]
+image: SYNC-miller-syncrowave-200.png
+about:
+  template: solana
+  image: SYNC-miller-syncrowave-200.png
+---

@@ -1,9 +1,0 @@
----
-title: Presi Mecatome T180 Micro Cutter (Diamond Saw)
-categories: [Characterization]
-image: ../../assets/about-us/equipment-photos/DIAS_mecatome_diamond saw.png
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/DIAS_mecatome_diamond saw.png
----
-Precision manual micro-cutting machine with the ability to section a large range of materials (from the hardest to the softest ones). Used for sectioning medium sized samples from a wide variety of materials obtaining the ideal size of samples to study. The ideal size of sample can easily study with metallographic analysis to obtain the properties and identify possible defects in the material itself. 

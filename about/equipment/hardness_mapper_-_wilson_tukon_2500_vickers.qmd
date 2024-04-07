@@ -1,7 +1,0 @@
----
-title: Hardness Mapper - Wilson Tukon 2500 Vickers
-categories: [Characterization]
-about:
-  template: solana
----
-Fully automated high precision hardness quantification of a broad spectrum of materials. Used to create hardness maps and study the hardness of carbides inserted on the material matrix. Useful to determine if a material meets the minimum industrial requirements for selling and distribution regarding depth and width.

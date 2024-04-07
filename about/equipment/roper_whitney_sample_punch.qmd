@@ -1,9 +1,0 @@
----
-title: Roper Whitney Sample Punch
-categories: [Characterization]
-image: ../../assets/about-us/equipment-photos/PUNC_Roper_Whitney_Punch.jpg
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/PUNC_Roper_Whitney_Punch.jpg
----
-Easy-use machine to obtain different shapes samples from 1/16 to 9/16 in.	Used  to obtain coupons that fit the Galileo G8 crucibles for posterior characterization. Used in industry to punch holes or obtain different samples sizes to fit the required experiments.

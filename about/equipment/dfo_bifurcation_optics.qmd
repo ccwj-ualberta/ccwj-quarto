@@ -1,9 +1,0 @@
----
-title: DFO Bifurcation Optics
-categories: [Characterization]
-image: ../../assets/about-us/equipment-photos/BIFU_bifurcation_optics.jpg
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/BIFU_bifurcation_optics.jpg
----
-nan

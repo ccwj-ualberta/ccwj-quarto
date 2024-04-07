@@ -1,7 +1,0 @@
----
-title: Miller PipePro 450RFC
-categories: [Welding]
-about:
-  template: solana
----
-nan

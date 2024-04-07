@@ -1,9 +1,0 @@
----
-title: Bruker Galileo G8
-categories: [Characterization]
-image: ../../assets/about-us/equipment-photos/ONH_GalileoG8_CCWJ.jpg
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/ONH_GalileoG8_CCWJ.jpg
----
-High precision quantification of total hydrogen, oxygen and nitrogen in metals. Used on assesment of welding consumables, study of hydrogen transport and diffusivity. Quantifiying oxygen in weldments and study of nitrogen in duplex stainless. This chomatographer is useful to study the viability of a material in a high hydrogen environment concentration. It can be used to study the pipelines repurposing and the life expectancy.

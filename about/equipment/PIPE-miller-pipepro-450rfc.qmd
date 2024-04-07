@@ -1,0 +1,8 @@
+---
+title: Miller PipePro 450RFC
+categories: [Welding]
+image: PIPE-miller-pipepro-450rfc.jpg
+about:
+  template: solana
+  image: PIPE-miller-pipepro-450rfc.jpg
+---

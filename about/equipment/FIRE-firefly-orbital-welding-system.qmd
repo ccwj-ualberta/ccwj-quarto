@@ -1,0 +1,10 @@
+---
+title: Firefly Orbital Welding System
+categories: [Welding]
+image: FIRE-firefly-orbital-welding-system.jpg
+about:
+  template: solana
+  image: FIRE-firefly-orbital-welding-system.jpg
+---
+
+Used as a tool in the semi-automatic welding of internal and external tubular structures. Firefly is able to produce highly consistent welding, cutting and bevelling results in all positions. With a high level of adaptability, this tool helps welders improve productivity while producing consistent results.

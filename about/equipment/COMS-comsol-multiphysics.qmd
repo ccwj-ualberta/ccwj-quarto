@@ -1,0 +1,10 @@
+---
+title: COMSOL
+categories: [Computer / Software]
+image: COMS-comsol-multiphysics.png
+about:
+  template: solana
+  image: COMS-comsol-multiphysics.png
+---
+
+General-purpose simulation software based on advanced numerical methods. The Model Builder includes all of the steps in the modeling workflow — from defining geometries, material properties, and the physics that describe specific phenomena to solving and postprocessing models for producing accurate results.	It is used to simulate designs, devices, and processes in all fields of engineering, manufacturing, and scientific research.

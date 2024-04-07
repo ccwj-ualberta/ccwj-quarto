@@ -1,9 +1,0 @@
----
-title: Cyclomatic Arc Pattern Controller 90A
-categories: [Welding]
-image: ../../assets/about-us/equipment-photos/APC_Cyclomatic_Arc_Pattern_Controller.jpg
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/APC_Cyclomatic_Arc_Pattern_Controller.jpg
----
-Magnetic arc control provides even heat distribution, prevents undercutting, eliminated excessive porosity, ensures sufficient penetration, and evens out the weld puddle. Reduces variability of welding arc to produce improved experiment consistency.	Aids in maintaining a consistent welding arc to prevent rework for industries involved with fabrications/manufacturing.

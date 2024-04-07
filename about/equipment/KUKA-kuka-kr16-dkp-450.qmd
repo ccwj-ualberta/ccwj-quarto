@@ -1,0 +1,10 @@
+---
+title: KUKA KR16 / DKP-450
+categories: [Welding]
+image: KUKA-kuka-kr16-dkp-450.png
+about:
+  template: solana
+  image: KUKA-kuka-kr16-dkp-450.png
+---
+
+8-axis robotic arm and positioner system suitable for repetitive industrial tasks with a 16 kg payload. 	Used to operate a 9 KW laser cladding system. Kuka provides a friendly programming ecosystem that allows implementation of a parametric programming technique for repair purpose.

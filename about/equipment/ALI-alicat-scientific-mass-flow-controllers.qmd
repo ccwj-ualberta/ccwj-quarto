@@ -1,0 +1,10 @@
+---
+title: Alicat Scientific high-precision mass flow controllers
+categories: [Welding]
+image: ALI-alicat-scientific-mass-flow-controllers.jpg
+about:
+  template: solana
+  image: ALI-alicat-scientific-mass-flow-controllers.jpg
+---
+
+Use mass flow controllers to measure and control gas flow from 0.5 SCCM to 5,000 SPM. Can mix multiple gases at specific ratios. Digital feedback from PLC or PC allows real-time changes to the flow rate setpoint to maintain optimal process conditions.

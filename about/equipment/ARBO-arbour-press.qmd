@@ -1,0 +1,10 @@
+---
+title: DAKE Arbour Press
+categories: [Characterization]
+image: ARBO-arbour-press.jpg
+about:
+  template: solana
+  image: ARBO-arbour-press.jpg
+---
+
+The DAKE arbour press is a manually operated press that is used for pressing small samples. It is a versatile tool that can be used for a variety of applications, including pressing, punching, and bending. The press is equipped with a handwheel that allows for precise control of the pressure applied to the sample. The DAKE arbour press is an essential tool for any laboratory that works with small samples and requires precise control over the pressing process.

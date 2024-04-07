@@ -1,0 +1,10 @@
+---
+title: Laserline OTZ 2-axis zoom optics with spot sizes from 5x5mm to 32x32mm
+categories: [Welding]
+image: ZOOM-laserline-otz.png
+about:
+  template: solana
+  image: ZOOM-laserline-otz.png
+---
+
+Motorized heat treatment laser optics with the capability to change beam radius, track-width and focal length of laser.

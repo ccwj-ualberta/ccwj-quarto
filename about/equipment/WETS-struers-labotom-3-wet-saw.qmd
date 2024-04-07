@@ -1,0 +1,10 @@
+---
+title: Struers Labotom 3 Wet Saw
+categories: [Characterization]
+image: WETS-struers-labotom-3-wet-saw.png
+about:
+  template: solana
+  image: WETS-struers-labotom-3-wet-saw.png
+---
+
+This saw is used in cutting a wide range of workpiece shapes, sizes, complexities and materials, to understand weld metallurgy, affected areas around weld and penetration characteristics. In industry, this type of equipment is used in evaluating weld penetration characteristics to meet requirements.

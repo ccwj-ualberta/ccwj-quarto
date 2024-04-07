@@ -1,0 +1,10 @@
+---
+title: Tormach PCNC 770M CNC
+categories: [Welding]
+image: TORM-tormach-pcnc-770m.png
+about:
+  template: solana
+  image: TORM-tormach-pcnc-770m.png
+---
+
+Medium size CNC Milling machine for general purpose machining. We use this machine for the rapid production of custom parts for experimental setups as well as production of charpy samples. In-House machining capabilities allows for rapid deployment of new designs and fixtures to machines.

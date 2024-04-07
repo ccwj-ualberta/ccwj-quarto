@@ -1,0 +1,10 @@
+---
+title: Buehler SimpliMet 1000 Hot Mount
+categories: [Characterization]
+image: HOTM-buehler-simplimet-1000-hot-mount.png
+about:
+  template: solana
+  image: HOTM-buehler-simplimet-1000-hot-mount.png
+---
+
+Traditional automatic mounting press machine that uses hot compression system for making mounting metal samples. Used to make mounting metal samples in thermosetting resins, which protects and preserves edges and surface defects during preparation steps and provides excellent sample quality	The samples are essential to study the material itself, and from them all the information is obtain through microscope or different kind of tests. 

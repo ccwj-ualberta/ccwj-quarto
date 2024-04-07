@@ -1,0 +1,10 @@
+---
+title: Nikon Eclipse MA200 Inverted Microscope
+categories: [Characterization]
+image: MIC1-nikon-eclipse-inverted-microscope.jpg
+about:
+  template: solana
+  image: MIC1-nikon-eclipse-inverted-microscope.jpg
+---
+
+Used for optical contrast method such as  brightfield, and differential interference contrast (DIC) without the need for sample leveling.	Study different defects in metal surfaces, it also allows to identify the crystal grain boundaries in metal alloys and metallurgical material inspection in general. An inverted microscope is useful to decide which materials are stable enough for specific purposes and is also use as a form of quality assurance.

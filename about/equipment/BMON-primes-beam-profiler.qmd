@@ -1,0 +1,10 @@
+---
+title: Primes BM+ Beam Profiler
+categories: [Characterization]
+image: BMON-primes-beam-profiler.png
+about:
+  template: solana
+  image: BMON-primes-beam-profiler.png
+---
+
+Quick and reliable measurement of laser beam parameters, such as the spacial power density distribution and size of laser spot. Used to quantify the laser beam parameter and input to models for bead characteristics prediction. Used to find optimum working distance for laser and detect laser optics deterioration in high power lasers upto 20KW

@@ -1,0 +1,10 @@
+---
+title: HL-WD Dental Spot Welder
+categories: [Welding]
+image: SPT3-hl-wd-dental-spot_welder.jpg
+about:
+  template: solana
+  image: SPT3-hl-wd-dental-spot_welder.jpg
+---
+
+Perform a spot weld on thin plates of metal. In car manufacturing, many joints are made by a spot weld, due to it's velocity and effectiveness.

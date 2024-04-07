@@ -1,0 +1,10 @@
+---
+title: Flir A6751sc Thermal Camera
+categories: [Characterization]
+image: FLIR-flir-a6751sc-thermal-camera.png
+about:
+  template: solana
+  image: FLIR-flir-a6751sc-thermal-camera.png
+---
+
+The FLIR A6751sc thermal imaging camera is a high-performance, high-speed thermal camera. The camera features a high-resolution detector that provides excellent image quality and temperature measurement accuracy.

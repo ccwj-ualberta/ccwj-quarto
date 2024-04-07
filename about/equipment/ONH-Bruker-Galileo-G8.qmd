@@ -1,0 +1,10 @@
+---
+title: Bruker Galileo G8
+categories: [Characterization]
+image: ONH-Bruker-Galileo-G8.jpg
+about:
+  template: solana
+  image: ONH-Bruker-Galileo-G8.jpg
+---
+
+High precision quantification of total hydrogen, oxygen and nitrogen in metals. Used on assessment of welding consumables, study of hydrogen transport and diffusivity. Quantifying oxygen in weldments and study of nitrogen in duplex stainless. This chromatographer is useful to study the viability of a material in a high hydrogen environment concentration. It can be used to study the pipelines repurposing and the life expectancy.

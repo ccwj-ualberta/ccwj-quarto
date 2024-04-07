@@ -1,0 +1,10 @@
+---
+title: Furnace - Carbolit Chamber Furnace #1
+categories: [Welding]
+image: FUR1-carbolite-furnace.png
+about:
+  template: solana
+  image: FUR1-carbolite-furnace.png
+---
+
+Heating furnace for welded samples that reaches around 1150°C. It can be used for heat treatment of samples, or study the piece weight change due to organic matter or diffusible atoms. In industry this is also used to determine inorganic matter of differents mixtures of cement, coal and lime.

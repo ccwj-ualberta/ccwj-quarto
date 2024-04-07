@@ -1,0 +1,10 @@
+---
+title: Phantom miro eX4 High Speed Camera (colour)
+categories: [Characterization]
+image: MIRO-phantom-ex4.png
+about:
+  template: solana
+  image: MIRO-phantom-ex4.png
+---
+
+Compact and lightweight digital camera that enables the capture of high quality, slow-motion images.

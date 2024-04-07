@@ -1,9 +1,0 @@
----
-title: Cavitar Cavilux HF 810nm 500W laser
-categories: [Characterization]
-image: ../../assets/about-us/equipment-photos/CAVI_Cavitar_laser.jfif
-about:
-  template: solana
-  image: ../../assets/about-us/equipment-photos/CAVI_Cavitar_laser.jfif
----
-nan

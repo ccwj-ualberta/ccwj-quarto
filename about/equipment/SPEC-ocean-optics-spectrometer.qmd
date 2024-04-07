@@ -1,0 +1,8 @@
+---
+title: Ocean Optics Spectrometer
+categories: [Characterization]
+image: SPEC-ocean-optics-spectrometer.png
+about:
+  template: solana
+  image: SPEC-ocean-optics-spectrometer.png
+---
