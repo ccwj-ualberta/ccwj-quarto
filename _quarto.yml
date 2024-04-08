@@ -127,6 +127,6 @@ website:
 
 format:
   html:
-    theme: materia
-    css: styles.css
     toc: false
+
+theme: custom.scss
