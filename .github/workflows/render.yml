@@ -1,7 +1,7 @@
-name: quarto-setup
+name: quarto
 
 on:
-  branch: main
+  branch: dev
 
 jobs:
   setup-r:
