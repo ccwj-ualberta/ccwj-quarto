@@ -19,6 +19,7 @@ jobs:
     - uses: r-lib/actions/setup-renv@v2
 
   quarto-linux:
+    needs: setup-r
     runs-on: ubuntu-latest
     steps:
       - name: Setup Quarto
