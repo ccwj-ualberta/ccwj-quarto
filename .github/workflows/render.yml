@@ -1,7 +1,14 @@
 name: quarto
 
 on:
-  branch: dev
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
 
 jobs:
   setup-r:
