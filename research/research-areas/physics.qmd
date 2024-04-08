@@ -1,0 +1,9 @@
+---
+title: Physics of Welding
+image: ccwj-research-areas-physics.jpg
+about:
+  template: solana
+  image: ccwj-research-areas-physics.jpg
+---
+
+The physics of welding is a complex and fascinating area of research. The process of welding involves the application of heat and pressure to join two materials together, and the physics of this process is influenced by a wide range of factors, including the properties of the materials being welded, the welding process itself, and the environment in which the welding is taking place.

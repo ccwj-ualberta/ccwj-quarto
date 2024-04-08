@@ -1,5 +1,12 @@
 ---
 title: "Research at the CCWJ"
+listing:
+  id: research-areas
+  contents: research-areas
+  sort: "date desc"
+  type: grid
+  grid-columns: 4
+  max-description-length: 1
 toc: true
 ---
 
@@ -7,17 +14,10 @@ Welding is an inherently multi-disciplinary area, and has been referred to as th
 
 **Core research themes are**:
 
-1. The physics of welding
+::: {#research-areas}
+:::
 
-2. Metallurgy
-
-3. Welding Automation
-
-4. Numerical modelling and finite element simulation of welding
-
-    * Numerical modeling and finite element simulation is being used not only to explore welding simulation, but also to obtain results that we can use to verify our numerical analyses.
-
-Detailed project descriptions can be found in the Projects section on the left.
+Detailed project descriptions can be found in the [Projects](projects.qmd) section.
 
 We are grateful to acknowledge the support of several sponsors in this area:
 
