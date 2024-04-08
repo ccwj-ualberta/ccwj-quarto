@@ -1,0 +1,4217 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.550">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>CCWJ - Conference Proceedings</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-theme','listing-language','listing-title','listing-author','listing-conference','listing-year','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      page: 30,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-project","listing-website","listing-format","listing-theme","listing-language","listing-title","listing-author","listing-conference","listing-year","listing-path","listing-outputHref","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../people/director.html"> 
+<span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../research/research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../teaching/teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../publications/publications-articles.html" aria-current="page"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../apply/canadian.html"> 
+<span class="menu-text">Apply</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../news/news.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools tools-wide">
+    <a href="https://twitter.com/search?q=centre%20for%20welding%20and%20joining&amp;src=typed_query&amp;f=top" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+    <a href="https://www.linkedin.com/company/ccwj/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://github.com/ccwj-ualberta">
+            GitHub projects
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../publications/publications-proceedings.html">Conference Proceedings</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../publications/publications-articles.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Articles</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../publications/publications-books.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Books</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../publications/publications-proceedings.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Conference Proceedings</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../publications/publications-reports.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Technical Reports</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../publications/publications-theses.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Theses</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page-right" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Conference Proceedings</h1>
+</div>
+
+
+
+<div class="quarto-title-meta column-page-right">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+    
+        <div data-index="0" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Evaporation rate of alloying components in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Núñez Sánchez, Vicente, Yan, Zhaoyang, Chen, Shujun, <i>in:</i> IIW annual assembly (2023)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="1" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Arc length behaviour and voltage predictions for GMAW-Sp aluminum procedures in the Lincoln Procedure Hand Book
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Alvarez Rocha, J. Eduardo, Mendez, Patricio F., <i>in:</i> Modelling of casting, welding and advanced solidification processes, MCWASP (2023)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="2" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Droplet temperature measurement in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Núñez Sánchez, Vicente, Yan, Zhaoyang, Chen, Shujun, Mendez, Patricio F., <i>in:</i> Modelling of casting, welding and advanced solidification processes, MCWASP (2023)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="3" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              General expressions for heat distribution, pressure, and current density in argon welding arcs
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Villarreal Medina, Rodrigo, Delgado-Álvarez, Alberto, Murphy, Anthony B, Mendez, Patricio F, Ramirez Árgaez, Marco A, <i>in:</i> Modelling of casting, welding and advanced solidification processes, MCWASP (2023)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="4" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Measurements of deposition rate and droplet temperature in GMAW of aluminum alloys
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Ramgopal, Rishiekesh, Yan, Zhaoyang, Scott, Kevin S., Chen, Shujun, Mendez, Patricio F., <i>in:</i> Modelling of casting, welding and advanced solidification processes, MCWASP (2023)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="5" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Calculation of thermal features in welding and additive manufacturing
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Modelling of casting, welding and advanced solidification processes, MCWASP (2023)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="6" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              General thermomechanical model of FSW based on a characteristic temperature for deformation and heat transfer
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Salazar, Sofia, Rojas, Diego, Mendez, Patricio F, Tello, Karem E, <i>in:</i> Modelling of casting, welding and advanced solidification processes, MCWASP (2023)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="7" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Determining systematic error in voltage predictions vs. Voltage settings for GMAW welding procedures in the lincoln procedure handbook
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Alvarez Rocha, J. Eduardo, Mendez, Patricio F, <i>in:</i> CWB association annual meeting (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="8" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Zero programming laser cladding repairs
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Ramirez, Daniel, Mendez, P. F., <i>in:</i> IIW intermediate meeting (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="9" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              The influence of hydrogen on the elastic modulus of 316L and XM-19 austenitic stainless steels
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Scott, Kevin M., Mendez, P. F., Sridhar, S., <i>in:</i> Pressure vessels and pipeline conference (PVP2022) (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="10" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Optimization of powder catchment efficiency in welding and additive manufacturing
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Grams, M. R., Wood, Gentry, Mendez, P. F., <i>in:</i> IIW 2022 international conference on welding and joining (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="11" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Desorption kinetics and hydrogen amount trapped in steels
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Sacco Hawas, Stefano, Mendez, P. F., <i>in:</i> IIW annual assembly (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="12" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Energy balance in gas metal arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Núñez Sánchez, Vicente, Mendez, Patricio F, <i>in:</i> CWB association annual meeting (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="13" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Predictive expressions for welding residual stress and distortion
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Grams, Mitchell, Mendez, Patricio F., <i>in:</i> AWS annual meeting (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="14" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              What makes welding work?
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> CWBA educators conference (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="15" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Recent developments in welding research at the CCWJ
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F, <i>in:</i> CWB association annual meeting (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="16" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Use of low transition temperature steel alloys in welded overlays for high wear applications
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Trautmann, Carter, Mendez, Patricio F, <i>in:</i> CWB association annual meeting (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="17" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Thermal monitoring of laser cladding processes with visible, near-infrared, and shortwave infrared camera systems
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Havrylov, Dmytro, Wood, Gentry, Mendez, Patricio F., <i>in:</i> International thermal spray conference (ITSC) (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="18" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Effect of relative dimensions for weld pool and powder cloud on laser cladding catchment efficiency
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Grams, M.R., Wood, G., Mendez, P.F., <i>in:</i> CWB association annual meeting (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="19" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Zero programming repair with laser cladding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Ramirez, Daniel, Mendez, Patricio F, <i>in:</i> CWB association annual meeting (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="20" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A novel approach to prediction of welding residual stress and distortion
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Grams, M.R., Mendez, P. F., <i>in:</i> IIW annual assembly (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="21" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              High speed videography of welding: Fundamentals and techniques
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Dapp, Goetz, Mendez, Patricio F, <i>in:</i> CWB association annual meeting (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="22" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Physical mechanisms affecting deposition rate in aluminum alloys
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Ramgopal, Rishiekesh, Yan, Zhaoyang, Chen, Shujun, Mendez, P. F., <i>in:</i> IIW annual assembly (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="23" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A novel treatment of moving heat sources with applications to additive manufacturing and welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Canadian society for mechanical engineering international congress (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="24" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Materiales y procesos para recubrimientos de protección en minería
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> IV congreso internacional de soldadura y ensayos no destructivos (2022)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="25" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A systematic approach on designing a prediction model of catchment efficiency in laser cladding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Alam, Syed, Mendez, Patricio F., <i>in:</i> AWS annual meeting (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="26" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              State of the art materials and technologies for the deposition of wear resistant coatings
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Simposio internacional de soldadura (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="27" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Design of procedures in welding and additive manufacturing of metals
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> AWS annual meeting (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="28" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Similarity analysis of temperature and fluid flow in the GTAW arc
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Sacco, Stefano, Mendez, Patricio F., Ramirez, Marco A., Delgado-Álvarez, Alfredo, <i>in:</i> AWS annual meeting (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="29" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A model for the ferrite-to-austenite formation during continuous heating in a low carbon pipeline
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Hintze Cesaro, Alejandro, Mendez, Patricio F., <i>in:</i> AWS annual meeting (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="30" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Dominant heat transfer mechanisms in the GTAW plasma arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Velazquez, Alberto, Álvarez, Alfredo Delgado, Ramírez Argáez, Marco A., Méndez, Patricio F., Villareal Medina, Rodrigo, <i>in:</i> AWS annual meeting (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="31" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              High temperature compatible conflat cell with adjustable stack pressure forIn-Situ and operando X-ray studies of lithium-ion battery materials
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Oles Sendetskyi, Michael Fleischauer, Mark Salomons, Patricio Mendez, <i>in:</i> 240th ACS meeting (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="32" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Machine learning for image analysis of high speed videos of metal transfer in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gonzalez, Ivan, Meruane, Viviana, Mendez, Patricio F., <i>in:</i> AWS annual meeting (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="33" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Functions of polarity, pulsing, gas, and fluxes in arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Congreso internacional de soldadura (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="34" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Experimental comparison of visible, near-infrared, and shortwave infrared camera systems for laser cladding monitoring applications
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Havrylov, Dmytro, Wood, Gentry, Mendez, Patricio F., <i>in:</i> AWS annual meeting (2021)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="35" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A quantitative index to assess the influence of joint fit-up on pipeline weld root discontinuities
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Grams, Mitchell, Ludwig, Luke, Mendez, Patricio F, <i>in:</i> 13th international pipeline conference (2020)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="36" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Reduced order models for welding and solidification processes
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> 15th international conference on modelling of casting, welding and advanced solidification processes, MCWASP (2020)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="37" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Asymptotic analysis of thermocapillary-driven weld pool flows in autogenous fusion welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Havrylov, Dmytro, Mendez, Patricio F., <i>in:</i> IIW annual assembly (2019)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="38" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A novel methodology to predict thermal cycles and isotherm characteristics
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Lu, Yi, Mendez, Patricio F., <i>in:</i> IIW annual assembly (2019)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="39" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Multiphysics in the plasma arc
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F., Ramirez Árgaez, Marco A, Delgado-Álvarez, Alfredo, Apaoblaza, David A., Morales Antonio, Arturo, Velazquez Sanchez, Alberto, <i>in:</i> IIW annual assembly (2019)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="40" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Quantifying the significance of joint fit-up on weld quality in pipeline girth welds
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Grams, Mitchell R, Mendez, Patricio F., <i>in:</i> IIW annual assembly (2019)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="41" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Observations in similarity behavior in the GTAW arc
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Delgado-Álvarez, Alfredo, Mendez, Patricio F., Ramírez-Argáez, Marco A., <i>in:</i> IIW annual assembly (2018)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="42" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Engineering expressions for thermal characteristics of isotherms based on Rosenthal 3D model
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Wang, Ying, Mendez, Patricio F., <i>in:</i> IIW annual assembly (2018)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="43" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling analysis of heat and fluid flow in a thermocapillary driven weld pool
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Havrylov, Dmytro, Mendez, Patricio F., <i>in:</i> IIW annual assembly (2018)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="44" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Effect of fluxes on fall voltages in SAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gavrilov, Dmitry, Sengupta, Vivek, McIntosh, Cory, Mendez, P. F., <i>in:</i> IIW annual assembly (2017)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="45" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Estimation of residual stresses in a root-pass pipeline weld
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Grams, M. R., Mendez, P. F., <i>in:</i> IIW annual assembly (2017)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="46" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Growth mechanism of primary chromium carbide needles during solidification
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Barnes, Nairn, Clark, Samuel, Sridhar, Seetharaman, Mendez, Patricio F., <i>in:</i> IIW annual assembly (2017)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="47" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Attempting the impossible: Predicting welding using engineering expressions
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P.F., <i>in:</i> IIW green welding technologies for effective and reliable manufacturing (2017)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="48" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Analysis of maximum temperature under a gaussian source in laser beam processes
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Lu, Yi, Wang, Ying, Mendez, P. F., <i>in:</i> IIW annual assembly (2017)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="49" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Engineering Expressions Based on Fundamental Physics for Characteristic Values of a Moving Point Heat Source
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Wang, Ying, Lu, Yi, Mendez, P. F., <i>in:</i> IIW annual assembly (2017)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="50" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Estimations of anode and cathode voltage falls in SAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Havrylov, D, Sengupta, Vivek, McIntosh, Cory, Mendez, P. F., <i>in:</i> Fabtech/AWS meeting (2017)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="51" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Comparison of residual stresses in the WIC weldability test to full-scale pipe welds
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Grams, Mitchell, Vodzyk, Denys, Goldak, John, Mendez, Patricio, <i>in:</i> IIW annual assembly (2016)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="52" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Effect of welding fluxes on metal transfer in SAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Sengupta, Vivek, Mendez, P. F., <i>in:</i> IIW annual assembly (2016)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="53" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Prediction of bead width and height in coaxial laser cladding from fundamental principles
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Wood, Gentry, Mendez, P. F., <i>in:</i> IIW annual assembly (2016)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="54" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Wrinkling phenomena to explain vertical fold defects in DC-Cast Al-Mg4.5
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Davis, J. Lee, Mendez, Patricio F., <i>in:</i> Proceedings of ligh metals symposium at TMS annual meeting (2016)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="55" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Visualization of metal transfer and weld pool phenomena in SAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Sengupta, Vivek, Havrylov, Dmytro, Mendez, P. F., <i>in:</i> Trends in welding research (2016)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="56" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Experimental measurements of cathode and anode fall voltages in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              McIntosh, Cory, Mendez, P. F., <i>in:</i> IIW annual assembly (2016)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="57" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              GMAW calorimetry with CO2 shielding gases
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              McIntosh, Cory, Mendez, P.F., <i>in:</i> CanWeld/CWA annual meeting (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="58" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Engineering as a career path
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Career day, grandview heights (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="59" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Multivariate data analysis of gas-metal arc welding process
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Ranjan, Rajesh, Talati, Anurag, , Megan Ho, Bharmal, Hussain, Bavdekar, Vinay A., Prasad, Vinay, , Patricio Mendez, <i>in:</i> ADCHEM 2015, international symposium on advanced control of chemical processes (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="60" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Effect of current on metal transfer in SAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Sengupta, Vivek, Mendez, P. F., <i>in:</i> CanWeld/CWA annual meeting (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="61" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Mechanism of formation of sub-surface channels in metal bodies by pulsed GTAW arc action
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Ponomarov, Vladimir, Tokar, Anna, <i>in:</i> IIW annual assembly (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="62" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              New experiments on high-speed video of metal transfer in SAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F., Goett, Gregor, Guest, Stuart D., <i>in:</i> CanWeld/CWA annual meeting (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="63" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Solidification issues in chrome carbide overlays
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Barnes, N., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="64" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Observations of metal transfer in SAW for AC and DC conditions
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F., Goett, Gregor, Guest, Stuart D., <i>in:</i> Fabtech/AWS annual meeting (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="65" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Use of pulsed TIG arc for manufacturing of subsurface channels in metal bodies
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Ponomarov, Vladimir, Tokar, Anna, Mendez, Patricio F., <i>in:</i> IIW annual assembly (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="66" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Advanced mathematical treatment of dilatometry and calorimetry to discriminate and quantify multiple phase transformations
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Kamyabi Gol, Ata, Gibbs, John W., Mendez, P. F., <i>in:</i> International conference on solid-solid phase transformations in inorganic materials (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="67" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Droplet temperature measurements in variable polarity GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              McIntosh, Cory, Mendez, P.F., <i>in:</i> Fabtech/AWS annual meeting (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="68" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A new model for powder efficiency prediction in coaxial laser cladding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Wood, G., Mendez, P. F., <i>in:</i> CanWeld/CWA annual meeting (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="69" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Deep physics and concrete needs. Welding as the gateway of science, engineering, and excitement
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Brian ives award lecture series, ASM calgary chapter (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="70" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Issues associated with welding &amp; surfacing of large mobile mining equipment for use in oil sands applications
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Barnes, N., Mendez, P. F., <i>in:</i> CanWeld/CWA annual meeting (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="71" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Predicting powder catchment efficiency in coaxial laser cladding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Wood, G., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2015)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="72" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Breakdown of simultaneous phase transformations by extending cooling curve analysis
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Kamyabi-Gol*, A., Mendez, P. F., <i>in:</i> 26th canadian materials science conference (CMSC 2014) (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="73" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Welding engineering at the CCWJ
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting. Adams memorial membership award lecture (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="74" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Effect of AC polarity balance on SAW deposition of chrome carbide overlays
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Borle, S., Le Gall, Ivan, Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="75" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Virtual procedure development for pipeline steel
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Li, L., Bell, M. A., Kamyabi-Gol, A., Wood, G., Islam, S., Guest, S. D., <i>in:</i> Canweld/CWA annual meeting (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="76" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A scaling approach to weld procedure development
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Wood, Gentry, Islam, Shahrukh, Mendez, Patricio F., <i>in:</i> Fabtech/AWS annual meeting (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="77" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Support strategies for PhD success
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Joint CALDO-CRUCH seminar (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="78" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Metallurgy of welding and heat-treating of P91 steel
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Li, L., Mendez, P. F., Wang, Y. J., Yin, Z., <i>in:</i> CanWeld/CWA annual meeting (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="79" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A new approach to quantifying steel response for welding procedure design
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Kamyabi-Gol, Ata, Mendez, P. F., <i>in:</i> Canweld/CWA annual meeting (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="80" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Transferrable skills and links with the private sector
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Joint CALDO-CRUCH seminar (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="81" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Taking welding engineering seriously
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Invited presentation at CanWeld/CWA annual meeting (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="82" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Wear resistant overlays for oil, gas, and mining applications
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting. Plenary lecture (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="83" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Minimal representation and calibration approach to weld procedure development
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Wood, G., Mendez, P. F., <i>in:</i> Canweld/CWA annual meeting (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="84" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              High speed video of metal transfer in submerged arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F., Goett, Gregor, Guest, Stuart D., <i>in:</i> IIW annual assembly (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="85" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Canadian centre for welding and joining
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Welding research council (WRC): Practical solutions for problem avoidance in welded equipment (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="86" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              B.SC. Program in materials engineering
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Grant McEwan university (2014)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="87" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modern technologies for the deposition of wear-resistant overlays
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F., Andreiuk, John, Barnes, Nairn, Bell, Kurtis, Borle, Steven, Dapp, Goetz, Dewar, Matt, Guest, Stuart D., McIntosh, Cory, Wood, Gentry, <i>in:</i> Weld overlays for wear protection (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="88" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Calibrated minimal representation for the generalization of multicoupled, multiphysics materials processing transport problems
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> ASME fluids engineering division summer meeting (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="89" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              The Joy of Welding, and why it is much deeper than it seems
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Materials engineering technical society (METS) (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="90" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of welding for engineering applications
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Beijing university of technology, harbin institute of technology, jiaoton university (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="91" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A novel approach to microwelding using electron beam
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gajapathi, Satya, Mitra, S. K., Mendez, P. F., <i>in:</i> IIW annual assembly (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="92" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Use of calorimetry to create CCT diagrams
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Gibbs, John W., Kamyabi Gol, Ata, <i>in:</i> Fabtech/AWS annual meeting (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="93" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              The science of welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> LogiCON (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="94" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Technologies for the education of future welding engineers. Technologies, Trades, Degrees
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Welding education conference (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="95" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Moving welding from science to engineering
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> IIW annual assembly (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="96" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A computational methodology to obtain asymptotic scaling laws
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Stier, N., <i>in:</i> ASME fluids engineering division summer meeting (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="97" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Untangling the relation between current, voltage, wire feed speed, and stickout in wire-based processes
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Canadian welding association annual conference (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="98" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A general model for electrode extension and its application to tubular wire and hot wire processes
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F., Lehnhoff, Greg, Guest, Stuart D., <i>in:</i> IIW annual assembly (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="99" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Optimization of SAW deposited chromium carbide wear resistant overlays using AC waveforms
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Borle, Steven D., McIntosh, Cory, Le Gall, Ivan, Mendez, Patricio F., <i>in:</i> Canadian welding association annual conference (2013)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="100" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A systematic approach to procedure development
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Guest, Stuart D., Gilbank, J., <i>in:</i> Canadian welding association annual conference (2012)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="101" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Humping in high speed GTAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Materials science and engineering (2012)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="102" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A framework to develop rules for the design of radically new welding technologies
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> 2nd international symposium on on computer-aided welding engineering (2012)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="103" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Generalization and communication of welding simulations and experiments using scaling analysis
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Tello, K. E., Gajapathi, Satya S., <i>in:</i> Trends in welding research (2012)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="104" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Droplet calorimetry and high speed videography of free flight metal transfer in gas metal arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Chapuis, J., Scott, K. M., Guest, Stuart D., Soderstrom, E., Mendez, P. F., <i>in:</i> IIW annual assembly (2012)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="105" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of micro electron beam welding with melting and evaporation
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gajapathi, Satya S., Mitra, S. K., Mendez, P. F., <i>in:</i> International mechanical engineering congress &amp; exposition (IMECE2012) (2012)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="106" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Asymptotic analysis of coupled phenomena in FSW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Materials science and engineering (2012)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="107" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Coupled heat transfer and deformation in FSW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Materials joining group (2011)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="108" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling using asymptotic scaling
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Laboratoire de mécanique et génie civil de montpellier (2011)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="109" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Generalisation and communication of findings using scaling analysis
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P.F., <i>in:</i> Phase transformations &amp; complex properties research group (2011)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="110" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Coupled analysis of heat transfer and temperature dependent plastic deformation in friction stir welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P.F., Tello, K.E., <i>in:</i> IIW global trends in joining, cutting and surfacing technology (2011)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="111" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              NSERC strategic network on pipeline materials reliability - theme 5: Welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Mechanical engineering (2011)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="112" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              The canadian centre for welding and joining
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Gerlich, A. P., <i>in:</i> NRC/IRAP welding productivity improvement (2011)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="113" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Droplet heat content in nickel sheathed WC-cored GMAW wires
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Scott, Kevin M., Mendez, Patricio F., <i>in:</i> Fabtech/AWS annual meeting (2011)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="114" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Temperature and Size Measurements of Droplet During Free Flight Gas Metal Arc Welding (Mesures de température et de taille de goutte en vol libre lors d'une opération de soudage MIG-MAG)
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Chapuis, J., Scott, K. M., Guest, Stuart D., Soderstrom, E., Mendez, P. F., <i>in:</i> Canadian welding association annual conference (2011)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="115" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Trends in welding lightweight metals in North America
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Zukunftsweisende Fügetechnologie im Leichtbau (Pioneering joining technology in lightweight materials) (2011)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="116" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of micro welding process using electron beam under high peclet number
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gajapathi, Satya S., Mitra, Sushanta K., Mendez, Patricio F., <i>in:</i> ASME 2010 international mechanical engineering congress &amp; exposition. IMECE2010 (2010)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="117" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Heat transfer aspects of microEBW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gajapathi, Satya, Mitra, S. K., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2010)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="118" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Innovation &amp; technology in the metal working industry
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Innovation &amp; technology: A forum for metal fabrication (2010)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="119" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Welding research, education and technologies
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> PeRMA welding &amp; manufacturing information sharing session (2010)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="120" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Variable materials properties on electrode extension
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Lehnhoff, Greg, Scott, K. M., Guest, Stuart D., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2010)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="121" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Analytical method to study the temperature distribution in case of a moving heat source in electron beam micro-welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gajapathi, Satya S., Mendez, P. F., Mitra, S.K., <i>in:</i> HEFAT2010, 7th international conference on heat transfer, fluid mechanics and thermodynamics (2010)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="122" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Weld penetration in high productivity GTAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Duman, U., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2010)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="123" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Welding research in canada
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Gerlich, A. P., Yarmuch, Matthew, Zhou, N, <i>in:</i> Fabtech/AWS annual meeting (2009)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="124" data-listing-file-modified-sort="1712545168375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              A revolutionary industrial-academic partnership for welding research and education at the university of alberta
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Gerlich, A. P., <i>in:</i> Manufacturing innovations conference: Technologies for oil and gas (2009)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="125" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Synthesis of experimental and simulation FSW results using scaling techniques
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Tello, K. E., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2009)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="126" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling techniques for multiphysics, multicoupled engineering problems
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Theoretical and applied mechanics seminar (2009)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="127" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Canadian Centre for Welding and Joining. An interdepartmental research and educational effort
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Gerlich, A. P., <i>in:</i> CISC alberta region / university of alberta annual meeting (2009)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="128" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              SHS die-casting (SHS-DC) of aluminum metal matrix composites
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Manerbino, A.R., Unuvar, C., Mendez, P.F., Moore, J.J., Young, K., Rice, C., <i>in:</i> 113th metalcasting congress (2009)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="129" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Droplet heat content in various transfer modes in Gas Metal Arc Welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Soderstrom, E., Scott, K. M., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2009)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="130" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling laws for the welding arc, weld penetration, and friction stir welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Tello, Karem, Duman, Ustun, Mendez, Patricio F., <i>in:</i> Trends in welding research (2009)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="131" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling approaches to multicoupled, multiphysics phenomena in welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Inter-university research symposium (2009)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="132" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Welding Innovation: Applications, fundamentals, and a modeling approach to link them
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of chemical and materials engineering (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="133" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Heat transfer regions and non-linear effects in electrode extension in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Lehnhoff, Greg, Tello, Karem E., Mendez, Patricio F., <i>in:</i> Fabtech/AWS annual meeting (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="134" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling laws in manufacturing involving materials processing
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of mechanical engineering (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="135" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Coupled model of heat transfer and plastic deformation in friction stir welding using scaling analysis
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Tello, K., Lienert, T. J., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="136" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling techniques as part of the Materials Informatics toolbox
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> TMS annual meeting (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="137" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling of coupled phenomena in friction stir welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Tello, K., Lienert, T. J., <i>in:</i> NSF CMMI engineering research and innovation conference (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="138" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Capturing Numerical Models and Experiments with Closed Form Expressions: Data mining techniques help discover scaling laws in complex problems
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="139" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of weld penetration at high productivity GTAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Duman, Ustun, Tello, K., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="140" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling laws in friction stir welding and other multicoupled problems
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of mechanical engineering (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="141" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Thermal analysis of phase transformations during welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gibbs, John W., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="142" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              The relationship between heat transfer and metal transfer in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Soderstrom, E., Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2008)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="143" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Phase fraction determination during solidification using no-baseline newtonian analysis
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gibbs, John W., Mendez, P. F., <i>in:</i> MS&amp;T (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="144" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Seed grants for tech transfer: MIT example
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Technology transfer advisory board (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="145" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Analysis of manufacturing processes involving molten metals: Behavior of high speed GTAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of industrial, welding, and systems engineering (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="146" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of materials processing using scaling laws
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of metallurgical and materials engineering (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="147" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Weld penetration at high velocity GTAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Duman, Üstün, Mendez, Patricio F., <i>in:</i> Fabtech/AWS annual meeting (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="148" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of welding and materials processes using scaling techniques
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> MST-6 (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="149" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Development of microalloyed welding consumables using a computational thermodynamics approach
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Tordonato, David S., Madeni, Juan Carlos, Liu, Stephen, Mendez:, Patricio, <i>in:</i> Fabtec/AWS Annual Meeting (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="150" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              New method to design consumables for welding high strength pipe steels
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Madeni, J.C., Tordonato, D., Lopetegi, M., Liu, S., Mendez, P., <i>in:</i> Fabtech/AWS annual meeting (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="151" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Weld pool behavior in arc welding at high current
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F., <i>in:</i> Fabtech/AWS annual meeting (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="152" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Effect of heat transfer on electrode extension and droplet formation in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Soderstrom, Erik, Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="153" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Welds: Assessment of engineered composite-like structure by nondestructive evaluation
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Jackson, J. E., Soderstrom, E., Lasseigne-Jackson, A.N., Mendez, P.F., Olson, D.L., Liu, S., Metzbower, E.A., <i>in:</i> Fabtech/AWS annual meeting (2007)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="154" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Thermodynamic modeling for the design of high strength filler metals
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Madeni, J. C., Sarasola, G., Mendez, P. F., Liu, S., <i>in:</i> Fabtech/AWS annual meeting (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="155" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Parametric modeling in materials processing
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of metallurgical and materials engineering (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="156" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Electron beam welding at the micron scale
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Sanders, M., <i>in:</i> MS&amp;T (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="157" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling friction stir welding through advanced scaling techniques
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Roubidoux, J. A., Mendez, P. F., <i>in:</i> NSF Design, Service, and Manufacturing Grantees and Research Conference (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="158" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Complex, closed-section continuous copper extrusions in semi-solid state
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Rice, C. R., Young, K. P., <i>in:</i> MS&amp;T (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="159" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling of coupled thermomechanic phenomena in friction stir welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Lienert, T. J., <i>in:</i> 8th international seminar numerical analysis of weldability (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="160" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of simultaneous heat transfer and deformation in friction stir welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Roubidoux, J. A., Mendez, P. F., Lienert, T. J., <i>in:</i> Fabtech/AWS annual meeting (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="161" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of coupled heat transfer and mechanical deformation in FSW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Lienert, T. J., <i>in:</i> MS&amp;T (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="162" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Joining of copper alloys: Challenges and opportunities
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> New copper applications for the XXI century (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="163" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Reconstructing physical laws from statistical data
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of physics (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="164" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              High-speed welding defect formation and mitigation
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Soderstrom, Erik, Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="165" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Droplet temperature and evaporation in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Jenkins, N. T., <i>in:</i> Fabtech/AWS annual meeting (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="166" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Factors that influence metal transfer in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Soderstrom, Erik, Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="167" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Non-adiabatic shearing in friction stir welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Lienert, T. J., <i>in:</i> TMS annual meeting (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="168" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Advanced scaling techniques for the modeling of materials processing
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Sohn symposium (2006)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="169" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Effect of arc welding electrode temperature on vapor and fume composition
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Jenkins, N.T., Mendez, P.F., Eagar, T.W, <i>in:</i> Trends in welding research (2005)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="170" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Recent developments in understanding and preventing humping and undercutting
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2005)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="171" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling laws in welding modeling
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Trends in welding research (2005)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="172" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Automatic detection of characteristic values from experimental data: an application to the Bass Diffusion Model
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Gonçalves, P., Mendez, P.F., Ordonez, F., <i>in:</i> INFORMS (2005)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="173" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Examination of pitting fatigue in carburized steels with controlled retained austenite fractions
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Wagar, Ryan M., Speer, John G., Matlock, David K., Mendez, Patricio F., <i>in:</i> SAE transactions, journal of materials and manufacturing (2005)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="174" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modified GMAW for spray transfer with pure CO2 shielding gas
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Soderstrom, Erik, Mendez, P. F., <i>in:</i> Fabtech/AWS annual meeting (2005)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="175" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Consumable development for high
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Liu, Stephen, <i>in:</i> Welding department (2005)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="176" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Innovations in metallurgical manufacturing: From concept to implementation
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of industrial engineering (2005)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="177" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Temas de avanzada en soldadura (Leading trends in welding)
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> NA (2004)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="178" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Tackling welding complexity: A new approach and new results
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of metallurgical and materials engineering (2003)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="179" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Feasibility of using Earth-bounded NDT techniques for the space environment
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Nikou, V., Mendez, Patricio F., Masubuchi, K., Eagar, T. W., <i>in:</i> 3rd international conference on emerging technologies in non-destructive testing (2003)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="180" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Materials mechanisms affecting long term stability
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F., Brown, Stuart B., Bergstrom, Jorgen, <i>in:</i> ASME congress (2003)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="181" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling laws for manufacturing, design, and beyond
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of mechanical engineering (2003)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="182" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Determination of scaling laws from statistical data
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, Patricio F., Ordonez, F., <i>in:</i> Fifth international workshop on similarity methods (2002)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="183" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Use of low transition temperature steel alloys for high wear applications
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Trautmann, Carter, Mendez, P. F., <i>in:</i> IIW annual assembly (2002)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="184" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Order of magnitude scaling
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Similarity mechanics group, institute for statics and dynamics of aerospace structures (2001)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="185" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Novel techniques for understanding complex materials processes
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of materials science and engineering (2001)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="186" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              The matrix of coefficients in order of magnitude scaling
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Eagar, T. W., <i>in:</i> Fourth international workshop on similarity methods (2001)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="187" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of welding processes through order of magnitude scaling
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Eagar, T. W., <i>in:</i> International conference on modeling and simulation of metal technologies, MMT-2000 (2000)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="188" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling of materials processing using dimensional analysis and asymptotic considerations
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Eagar, T. W., <i>in:</i> Thermec 2000, international conference on processing and manufacturing of advanced materials (2000)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="189" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              New trends in welding in the aeronautic industry
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> New trends for the manufacturing in the aeronautic industry (2000)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="190" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              DOE/BES work at the MIT welding laboratory
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of energy, basic energy sciences review meeting (2000)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="191" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Scaling of the cathode region of a long GTA welding arc
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Ramirez, M. A., Trapaga, G., Eagar, T. W., <i>in:</i> Advances in computational engineering &amp; sciences, proceedings of the ICES'2K conference (2000)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="192" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Effect of electrode droplet size on evaporation and fume generation in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Jenkins, N. T., Eagar, T. W., <i>in:</i> Gas metal arc welding for the 21st century (2000)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="193" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Suppression of defects in high-productivity arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> TMS lecture series (1999)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="194" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Order of magnitude scaling of complex engineering problems and its application to high productivity arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of energy, basic energy sciences review meeting (1999)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="195" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Estudios de postgrado de ingeniería en USA
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> NA (1999)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="196" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Humping formation in high current GTA welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Niece, K. L., Eagar, T. W., <i>in:</i> International conference on joining of advanced and specialty materials II, materials solutions conference and exposition (1999)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="197" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Investigación en soldadura en el MIT y panorama de la industria de la soldadura en los estados unidos (welding research at MIT and overview of the welding industry in the united states)
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Tecnologías de la soldadura y unión de materiales (1999)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="198" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Order of magnitude scaling of complex engineering problems
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Eagar, T. W., <i>in:</i> Seventeenth symposium on energy engineering sciences (1999)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="199" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Magnitude scaling of free surface depression during high current arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Eagar, T. W., <i>in:</i> Trends in welding research, proceedings of the 5th international conference (1998)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="200" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Magnitude scaling of welding problems
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of energy, basic energy sciences review meeting (1998)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="201" data-listing-file-modified-sort="1712545168391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Transport phenomena in welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> 3.55: Macroscopic transport in materials processing (1998)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="202" data-listing-file-modified-sort="1712545168379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Dynamic behavior of gas metal arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Jones, L. A., Mendez, P. F., Weiss, D., Eagar, T. W., <i>in:</i> 9th annual conference on iron and steel technology (1997)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="203" data-listing-file-modified-sort="1712545168387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Simulation of metal transfer effects in GMAW
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Weiss, D., Mendez, P. F., Eagar, T. W., <i>in:</i> Department of energy, basic energy sciences review meeting (1997)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="204" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Metal transfer in GMAW in the high current regime
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of energy, basic energy sciences review meeting (1997)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="205" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Mathematical modeling of heat and fluid flow phenomena in gas metal arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., <i>in:</i> Department of energy, basic energy sciences review meeting (1996)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+        <div data-index="206" data-listing-file-modified-sort="1712545168383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              Modeling penetration and free surface depression during high current arc welding
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              Mendez, P. F., Eagar, T. W., <i>in:</i> Proceedings of the julian szekely memorial symposium on materials processing (1996)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Contact Information <br> <a href="mailto:ccwj@ualberta.ca">Professor Patricio Mendez</a> <br></p>
+</div>   
+    <div class="nav-footer-center">
+<p>Room CME L1-108 <br> University of Alberta <br> 116 Street NW - 85 Avenue <br> Edmonton, AB T6G 2R3 Canada</p>
+</div>
+    <div class="nav-footer-right">
+<p><a href="https://www.ualberta.ca/engineering/chemical-materials-engineering/about-us/index.html">Department of Chemical and Materials Engineering</a> <br> <a href="https://sites.ualberta.ca/~ccwj/About/directions.html">Directions</a> <br> <a href="https://www.ualberta.ca/">University of Alberta</a></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
