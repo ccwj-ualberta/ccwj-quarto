@@ -361,11 +361,25 @@
     "href": "research/research.html",
     "title": "Research at the CCWJ",
     "section": "",
-    "text": "Welding is an inherently multi-disciplinary area, and has been referred to as the most interdisciplinary research field in engineering. This complexity is creating a rich research field that spans various faculties and academic backgrounds, and the CCWJ is proudly working with numerous academic and industrial partners to carry out research activities across the whole spectrum of welding.\nCore research themes are:\n\nThe physics of welding\nMetallurgy\nWelding Automation\nNumerical modelling and finite element simulation of welding\n\nNumerical modeling and finite element simulation is being used not only to explore welding simulation, but also to obtain results that we can use to verify our numerical analyses.\n\n\nDetailed project descriptions can be found in the Projects section on the left.\nWe are grateful to acknowledge the support of several sponsors in this area:\n\nSimufact Welding\nVrWeld Software\nTransvalor",
+    "text": "Welding is an inherently multi-disciplinary area, and has been referred to as the most interdisciplinary research field in engineering. This complexity is creating a rich research field that spans various faculties and academic backgrounds, and the CCWJ is proudly working with numerous academic and industrial partners to carry out research activities across the whole spectrum of welding.\nCore research themes are:\n\n\n\n\n\n\n\n\n\n\nMetallurgy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelding Automation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhysics of Welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumerical modelling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nDetailed project descriptions can be found in the Projects section.\nWe are grateful to acknowledge the support of several sponsors in this area:\n\nSimufact Welding\nVrWeld Software\nTransvalor",
     "crumbs": [
       "Research",
       "Research at the CCWJ"
     ]
+  },
+  {
+    "objectID": "research/research-areas/modelling.html",
+    "href": "research/research-areas/modelling.html",
+    "title": "Numerical modelling",
+    "section": "",
+    "text": "Numerical modeling and finite element simulation is used at the CCWJ to explore welding simulation, and to obtain results that we can use to verify our numerical analyses. We use the finite element method to simulate the welding process, and to predict the residual stress and distortion in welded structures. We also use the finite element method to simulate the mechanical behavior of welded structures, and to predict the fatigue life of welded structures."
+  },
+  {
+    "objectID": "research/research-areas/automation.html",
+    "href": "research/research-areas/automation.html",
+    "title": "Welding Automation",
+    "section": "",
+    "text": "Welding automation is the use of automated systems to perform welding tasks. These systems can range from simple mechanized systems that assist human welders to fully automated robotic systems that can perform welding tasks without human intervention. Welding automation offers a number of advantages over manual welding, including increased productivity, improved quality, and reduced costs. At the CCWJ, we are exploring the use of welding automation in a wide range of applications, from shipbuilding to aerospace to automotive manufacturing. Our research in this area is focused on developing new welding automation technologies and techniques that can help to improve the efficiency and quality of welding processes."
   },
   {
     "objectID": "research/projects/multimedia-enabled-welding-helmet.html",
@@ -1151,6 +1165,20 @@
     "title": "DynaDur – Development and deposition of highly durable coating for dynamic-abrasive environments",
     "section": "",
     "text": "The companies DURUM and Group Six, as well as the research institutes CCWJ of the University of Alberta and F/T of BTU C-S have teamed up to develop and manufacture highly wear-resistant coatings for components simultaneously undergoing abrasion and impact wear. In order to achieve this goal material development, process optimization, and laboratory testing will be carried out.\nThis project will study new alloy systems and novel material delivery methods in conjunction with laser welding sources, and optimize deposition parameters to reduce crack propagation, to allow for the creation of laser-welded coatings superior to any coatings currently in use."
+  },
+  {
+    "objectID": "research/research-areas/metallurgy.html",
+    "href": "research/research-areas/metallurgy.html",
+    "title": "Metallurgy",
+    "section": "",
+    "text": "Metallurgy is the science and technology of metals. It involves the study of the physical and chemical properties of metals and the processes used to extract, refine, and shape them. Metallurgy is a key area of research at the CCWJ, where we are exploring new materials and processes that can help to improve the performance and durability of welded structures. Our research in this area is focused on developing new welding techniques, materials, and processes that can help to improve the efficiency and quality of welding processes."
+  },
+  {
+    "objectID": "research/research-areas/physics.html",
+    "href": "research/research-areas/physics.html",
+    "title": "Physics of Welding",
+    "section": "",
+    "text": "The physics of welding is a complex and fascinating area of research. The process of welding involves the application of heat and pressure to join two materials together, and the physics of this process is influenced by a wide range of factors, including the properties of the materials being welded, the welding process itself, and the environment in which the welding is taking place."
   },
   {
     "objectID": "research/posters.html",

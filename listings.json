@@ -310,6 +310,15 @@
     ]
   },
   {
+    "listing": "/research/research.html",
+    "items": [
+      "/research/research-areas/metallurgy.html",
+      "/research/research-areas/automation.html",
+      "/research/research-areas/physics.html",
+      "/research/research-areas/modelling.html"
+    ]
+  },
+  {
     "listing": "/about/lab.html",
     "items": [
       "/about/equipment/ALI-alicat-scientific-mass-flow-controllers.html",
