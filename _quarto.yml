@@ -1,5 +1,9 @@
 project:
   type: website
+  pre-render:
+    - publications/create-articles.R
+    - publications/create-proceedings.R
+    - publications/create-reports.R
 
 website:
   title: CCWJ
