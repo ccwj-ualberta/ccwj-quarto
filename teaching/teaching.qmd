@@ -6,6 +6,7 @@ listing:
   id: course-listings
   contents: courses
   type: default
+  date-format: YYYY
 ---
 
 Welcome to the courses associated with the CCWJ! Here you will find the complete set of notes, past exams, and also videos of the lectures. In all cases we strive to connect the fundamental laws of nature to what we observe in engineering applications.

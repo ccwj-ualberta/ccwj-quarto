@@ -1,88 +1,66 @@
 ---
-title: "CH E 314 - Heat Transfer"
-description: "Heat Transfer is at the core of welding. This course includes the fundamental principles that can be used to scientifically understand the welding processes, including the principles of conduction, convection and radiation heat transfer. The course includes design and performance analysis of thermal systems based on these principles, which apply to a wide range of engineering applications and disciplines."
+title: "CHE 314 - Heat Transfer"
 author: "Professor Patricio Mendez"
 image: heat-transfer.png
-date: "2021-09-01"
+date: "2020"
+date-format: YYYY
 format:
   html:
     toc: true
+    toc-expand: 3
     link-external-icon: true
     link-external-new-tab: true
+    page-layout: full
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
+## Introduction
+
+Welcome to ChE 314: Heat Transfer! This is an extremely important
+component of all branches of engineering. Heat transfer is the bridge
+between the basic concepts of physics you have learned in earlier years
+and advanced machinery of all type you will see in the rest of your
+education and practice as an engineer.
+
+Heat Transfer is at the core of welding. This course includes the
+fundamental principles that can be used to scientifically understand the
+welding processes, including the principles of conduction, convection
+and radiation heat transfer. The course includes design and performance
+analysis of thermal systems based on these principles, which apply to a
+wide range of engineering applications and disciplines.
+
+After completing this course, you will be able to make sense of systems,
+equipment, and machines that people without your education cannot easily
+grasp. You will understand the laws of nature behind heating, cooling,
+and transport of thermal energy. You will be able to tackle problems you
+have never seen before based on your general understanding and you will
+be able to understand the design of heat exchangers.
+
+::: callout-note
 ### Syllabus
+[Syllabus (2021)](https://drive.google.com/file/d/1kMOk89UhfOb8htVnvp8h_7zg6wVONGaM/view?usp=sharing)
+:::
 
-- [Syllabus 2021](https://drive.google.com/file/d/1kMOk89UhfOb8htVnvp8h_7zg6wVONGaM/view?usp=sharing)
-
-### Lectures (2021)
-
-<br>
+## Lecture series (2021)
 
 {{< video https://youtu.be/hqXmFBIFtAI?list=PLq-4Q87XIqZExUyjrnVcCjQF2GyRtmPcB >}}
 
-<br>
+## Slides and handouts
 
-### Course Materials
-
-#### Energy balances
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/1_Energy_balances/Handout/LaTex/energy_balances.pdf)
-
-#### Heat transfer mechanisms
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/2_Heat_transfer_mechanisms/Handout/LaTex/heat_transfer_mechanisms.pdf)
-
-#### Lumped capacitance
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/3_Lumped_capacitance/Handout/LaTex/lumped_capacitance.pdf)
-
-#### Differential control volumes
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/4_Differential_control_volumes/Handout/LaTex/differential_control_volumes.pdf)
-
-#### 1D Conduction steady-state-Thermal resistance
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/5_1D_Conduction_steady-state-Thermal_resistance/Handout/LaTex/steady-state_conduction_1D_thermal_resistance.pdf)
-
-#### Steady-state conduction beyond 1D
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/6_Steady-state_conduction_beyond_1D/Handout/LaTex/steady_state_conduction_beyond_1D.pdf)
-
-#### Transient conduction-Semi-infinite solid
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/7_Transient_conduction-Semi-infinite_solid/Handout/LaTex/transient_conduction_semi-infinite_solid.pdf)
-
-#### External flows-Boundary Layer
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/8_External_flows-Boundary_Layer/Handout/LaTex/boundary_layers-external_flows.pdf)
-
-#### Internal flows
-
-[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/9_Internal_flows/Slides/internal_flows_slides.pdf)
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/9_Internal_flows/Handout/LaTex/internal_flows.pdf)
-
-#### Natural convection
-
-[Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/10_Natural_convection/Slides/natural_convection_slides.pdf)
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/10_Natural_convection/Handout/LaTex/natural_convection.pdf)
-
-#### Boiling and condensation
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/11_Boiling_and_condensation/Handout/LaTex/boiling_and_condensation.pdf)
-
-#### Heat exchangers
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/12_Heat_exchangers/Handout/LaTex/heat_exchangers.pdf)
-
-#### Radiation
-
-[view factors cylinders](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/13_Radiation/Supplemental_Material/view_factors_cylinders.pdf)
-
-[example13.3](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/13_Radiation/Supplemental_Material/example13.3.pdf)
-
-[general view factors.](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/13_Radiation/Supplemental_Material/general_view_factors.pdf)
-
-[Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/13_Radiation/Handout/LaTex/radiation.pdf)
+| Topic | Links |
+|-------|-------|
+| Energy balances | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/1_Energy_balances/Handout/LaTex/energy_balances.pdf) |
+| Heat transfer mechanisms | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/2_Heat_transfer_mechanisms/Handout/LaTex/heat_transfer_mechanisms.pdf) |
+| Lumped capacitance | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/3_Lumped_capacitance/Handout/LaTex/lumped_capacitance.pdf) |
+| Differential control volumes | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/4_Differential_control_volumes/Handout/LaTex/differential_control_volumes.pdf) |
+| 1D Conduction steady-state-Thermal resistance | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/5_1D_Conduction_steady-state-Thermal_resistance/Handout/LaTex/steady-state_conduction_1D_thermal_resistance.pdf) |
+| Steady-state conduction beyond 1D | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/6_Steady-state_conduction_beyond_1D/Handout/LaTex/steady_state_conduction_beyond_1D.pdf) |
+| Transient conduction-Semi-infinite solid | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/7_Transient_conduction-Semi-infinite_solid/Handout/LaTex/transient_conduction_semi-infinite_solid.pdf) |
+| External flows-Boundary Layer | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/8_External_flows-Boundary_Layer/Handout/LaTex/boundary_layers-external_flows.pdf) |
+| Internal flows | [Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/9_Internal_flows/Slides/internal_flows_slides.pdf) [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/9_Internal_flows/Handout/LaTex/internal_flows.pdf) |
+| Natural convection | [Slides](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/10_Natural_convection/Slides/natural_convection_slides.pdf)  [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/10_Natural_convection/Handout/LaTex/natural_convection.pdf) |
+| Boiling and condensation | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/11_Boiling_and_condensation/Handout/LaTex/boiling_and_condensation.pdf) |
+| Heat exchangers | [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/12_Heat_exchangers/Handout/LaTex/heat_exchangers.pdf) |
+| Radiation | [View factors cylinders](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/13_Radiation/Supplemental_Material/view_factors_cylinders.pdf) [Example 13.3](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/13_Radiation/Supplemental_Material/example13.3.pdf) [General view factors](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/13_Radiation/Supplemental_Material/general_view_factors.pdf) [Handout](https://sites.ualberta.ca/~ccwj/Assets/Teaching/CHE314/13_Radiation/Handout/LaTex/radiation.pdf) |
