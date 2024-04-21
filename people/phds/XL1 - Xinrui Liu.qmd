@@ -13,8 +13,8 @@ about:
 
 **Prior Degrees:** Bachelor degree and Master Degree of Aerospace Engineering
 
-I joined CCWJ in 2021 and met those amazing people. I enjoy so much about learning things about welding enigeering. I like badminton and playing guitars. Sometimes I will also make some videos and music by myself. My dream is to make a rocket by myself oneday!
+I joined CCWJ in 2021 and met those amazing people. I enjoy so much about learning things about welding engineering. I like badminton and playing guitars. Sometimes I will also make some videos and music by myself. My dream is to make a rocket by myself one day!
 
 #### Project
 
-Working on building mathematic models of friction stir welding, which can be used for finding proper welding parameters in a much convient and fast way.
+Working on building mathematical models of friction stir welding, which can be used for finding proper welding parameters in a much convenient and fast way.

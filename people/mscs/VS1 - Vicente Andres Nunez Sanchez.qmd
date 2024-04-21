@@ -10,16 +10,17 @@ about:
       text: nunezsan@ualberta.ca
       href: mailto:nunezsan@ualberta.ca
     - icon: linkedin
-      text: vicente-n%C3%BA%C3%B1ez-s%C3%A1nchez-04a13716a
+      text: vicente-nunez-sanchez
       href: https://www.linkedin.com/in/vicente-n%C3%BA%C3%B1ez-s%C3%A1nchez-04a13716a
 ---
+
 **Prior Degrees:** Mechanical Engineer, Universidad de Chile, 2021
 
-Vicente joined the CCWJ the year 2021 as a visiting student and came back in 2022 to start his MSc programm. Vicente comes from Chile, where he holds the degree of Mechanical Engineer from the Universidad de Chile. His interest in welding started the year 2019 when he took a welding course with Lincoln Electric in Chile. He received the ELAP scholarship, that allowed him to travel to Canada and work on the CCWJ.
+Vicente joined the CCWJ the year 2021 as a visiting student and came back in 2022 to start his MSc program. Vicente comes from Chile, where he holds the degree of Mechanical Engineer from the Universidad de Chile. His interest in welding started the year 2019 when he took a welding course with Lincoln Electric in Chile. He received the ELAP scholarship, that allowed him to travel to Canada and work on the CCWJ.
 
-Vicente is part of the AWS/CWBA Student Chapter comitee and is working on making new opportunities for his colleages back in Chile.
+Vicente is part of the AWS/CWBA Student Chapter committee and is working on making new opportunities for his colleagues back in Chile.
 
-Vicente has been a volleyball player his entire life and now is exploring new parts of the world with his bike. As a sportman, he is always happy to do sports with friends!
+Vicente has been a volleyball player his entire life and now is exploring new parts of the world with his bike. As a sportsman, he is always happy to do sports with friends!
 
 #### Project
 
