@@ -1,5 +1,6 @@
 ---
 title: Metallurgy
+description: Science of metals
 image: ccwj-research-areas-metallurgy.jpg
 about:
   template: solana

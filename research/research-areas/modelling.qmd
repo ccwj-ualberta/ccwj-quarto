@@ -1,6 +1,6 @@
 ---
 title: Numerical modelling
-subtitle: Numerical modelling and finite element simulation of welding
+description: Modelling and simulation of welding
 image: ccwj-research-areas-modelling.jpg
 about:
   template: solana

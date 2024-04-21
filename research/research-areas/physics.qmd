@@ -1,5 +1,6 @@
 ---
 title: Physics of Welding
+description: The physics of weld bonds and welding processes
 image: ccwj-research-areas-physics.jpg
 about:
   template: solana

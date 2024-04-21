@@ -3,7 +3,7 @@ title: "MATE 481/681 - Fundamentals of Welding"
 author: "Professor Patricio Mendez"
 image: welding-fundamentals.png
 date: "2021-09-01"
-date-format: Q YYYY
+date-format: YYYY
 format:
   html:
     toc: true

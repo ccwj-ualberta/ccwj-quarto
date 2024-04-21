@@ -5,8 +5,8 @@ listing:
   contents: research-areas
   sort: "date desc"
   type: grid
-  grid-columns: 4
-  max-description-length: 1
+  grid-columns: 2
+  max-description-length: 50
 toc: true
 ---
 
