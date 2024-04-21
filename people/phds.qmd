@@ -5,4 +5,5 @@ listing:
   type: default
   image-height: 200px
   image-placeholder: ../assets/UA-COLOUR-NARROW.png
+  max-description-length: 300
 ---

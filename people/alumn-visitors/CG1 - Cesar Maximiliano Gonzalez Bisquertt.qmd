@@ -1,7 +1,7 @@
 ---
 title: Cesar Gonzalez
 image: CG1 - Cesar Maximiliano Gonzalez Bisquertt.jpeg
-subtitle: ELAP
+subtitle: Emerging Leaders in the Americas Program (ELAP)
 about:
   template: solana
   image: CG1 - Cesar Maximiliano Gonzalez Bisquertt.jpeg
@@ -10,15 +10,14 @@ about:
       text: cesarmax@ualberta.ca
       href: mailto:cesarmax@ualberta.ca
 ---
-**Prior Degrees:** BSc, Mechanical engineering, 2020
 
-None
+**Prior Degrees:** BSc, Mechanical engineering, 2020
 
 #### Project
 
-*MODELS OF RESIDUAL STRESSES AND DISTORTIONS IN PIPE WELDING, CONSIDERING MISALIGNED JOINTS*
+Models of residual stresses and distortions in pipe welding, considering misaligned joints.
 
-The project uses the finite-element software Simufact.welding to model the
+The project uses the finite-element software Simufact welding to model the
 residual stresses and strains during the welding of pipeline, especially considering the case when
 the joint is not perfect, but misaligned. This is a project of much industrial interest because of its
 direct and very important implications for pipeline integrity.

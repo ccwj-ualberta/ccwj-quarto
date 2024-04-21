@@ -10,9 +10,10 @@ about:
       text: arthur.bardy@gmail.com
       href: mailto:arthur.bardy@gmail.com
 ---
-**Prior Degrees:** baccalauréat
 
-Arthur BARDY student in 4th year of engineering school at Polytech Montpellier in the mechanics of industrial structures. Having for objectives to deepen my knowledge in the field of the welding I thus came to carry out an internship of 2 months within the CCWJ. 
+**Prior Degrees:** Currently pursuing a Bachelor's degree in the mechanics of industrial structure
+
+I'm in the 4th year of engineering school at Polytech Montpellier, studying the mechanics of industrial structures. My objectives are to deepen my knowledge in the field of the welding. Thus, I came to carry out an internship of 2 months within the CCWJ. 
 
 #### Project
 

@@ -13,8 +13,8 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
 
-// $primary: #231e1a !default;
-$primary: #2d4067 !default;
+$primary: #231e1a !default;
+// $primary: #2d4067 !default;
 $link-color:   #5da366 !default;
 
 // Fonts
@@ -44,7 +44,7 @@ h3, h4, h5, h6 {
 
 // Navbar
 .navbar {
-  // background-image: url("assets/background_bar.png");
+  background-image: url("assets/background_bar.png");
   font-size: 1.1rem;
   font-family: 'Anivers';
 }
