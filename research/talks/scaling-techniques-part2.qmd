@@ -2,6 +2,7 @@
 title: "Scaling Techniques in Modeling - Part 2"
 author: "Patricio Mendez"
 date: "2021-03-27"
+image: scaling-techniques-part2.png
 description: "In the second part of this workshop, Prof. Mendez continues his presentation on scaling techniques in engineering, and starts from the concepts of Minimal Representation and Correction Factors."
 ---
 

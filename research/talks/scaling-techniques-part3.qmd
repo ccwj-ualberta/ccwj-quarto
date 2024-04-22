@@ -2,6 +2,7 @@
 title: "Scaling Techniques in Modeling - Part 3"
 author: "Patricio Mendez"
 date: "2021-06-03"
+image: scaling-techniques-part3.png
 description: "This final part of the workshop on Scaling Techniques, Prof. Mendez covers the topic of Characteristic Values."
 ---
 

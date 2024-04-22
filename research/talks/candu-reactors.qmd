@@ -2,6 +2,7 @@
 title: "Materials and Manufacturing Issues in CANDU Reactors"
 author: "Marcelo Liendo"
 date: "2013-03-14"
+image: candu-reactors.png
 description: "Operation principles of the CANDU reactor, the history and evolution of the technology, and a comparison with other power reactors. This includes also a brief description of the main components of the reactor, materials and manufacturing processed involved."
 ---
 

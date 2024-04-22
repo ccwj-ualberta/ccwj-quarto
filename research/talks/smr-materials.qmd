@@ -3,6 +3,7 @@ title: "SMR Materials and Manufacturing: Integral Molten Salt Reactor (IMSR)"
 subtitle: "Terrestrial Energy"
 author: "William Smith"
 date: "2022-09-19"
+image: smr-materials.png
 description: "The presentation discusses ongoing collaborative R&D opportunities that are related to the technology, to manufacturing, and to the materials employed, and was followed by a Q&A session."
 ---
 

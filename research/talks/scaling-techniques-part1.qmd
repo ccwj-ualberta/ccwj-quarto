@@ -2,6 +2,7 @@
 title: "Scaling Techniques in Modeling - Part 1"
 author: "Patricio Mendez"
 date: "2021-03-26"
+image: scaling-techniques-part1.png
 description: "Prof. Mendez discusses the ideas behind scaling techniques in engineering. Part 1 covers the basic principles, with Part 2 and 3 going into specifics."
 ---
 
