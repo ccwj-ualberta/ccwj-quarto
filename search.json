@@ -130,7 +130,7 @@
     "href": "research/research.html",
     "title": "Research at the CCWJ",
     "section": "",
-    "text": "Welding is an inherently multi-disciplinary area, and has been referred to as the most interdisciplinary research field in engineering. This complexity is creating a rich research field that spans various faculties and academic backgrounds, and the CCWJ is proudly working with numerous academic and industrial partners to carry out research activities across the whole spectrum of welding.\n\nCore research themes\n\n\n\n\n\n\n\n\n\n\nPhysics of Welding\n\n\nThe physics of weld bonds and welding processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelding Automation\n\n\nRobotic welding systems\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumerical modelling\n\n\nModelling and simulation of welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetallurgy\n\n\nScience of metals\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nDetailed project descriptions can be found in the Projects section.\nWe are grateful to acknowledge the support of several sponsors in this area:\n\nSimufact Welding\nVrWeld Software\nTransvalor",
+    "text": "Welding is an inherently multi-disciplinary area, and has been referred to as the most interdisciplinary research field in engineering. This complexity is creating a rich research field that spans various faculties and academic backgrounds, and the CCWJ is proudly working with numerous academic and industrial partners to carry out research activities across the whole spectrum of welding.\n\nCore research themes\n\n\n\n\n\n\n\n\n\n\nPhysics of Welding\n\n\nThe physics of weld bonds and welding processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelding Automation\n\n\nRobotic welding systems\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumerical modelling\n\n\nModelling and simulation of welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetallurgy\n\n\nThe science of metals\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nDetailed project descriptions can be found in the Projects section.\nWe are grateful to acknowledge the support of several sponsors in this area:\n\nSimufact Welding\nVrWeld Software\nTransvalor",
     "crumbs": [
       "Research",
       "Research at the CCWJ"
@@ -142,6 +142,13 @@
     "title": "Metallurgy",
     "section": "",
     "text": "Metallurgy is the science and technology of metals. It involves the study of the physical and chemical properties of metals and the processes used to extract, refine, and shape them. Metallurgy is a key area of research at the CCWJ, where we are exploring new materials and processes that can help to improve the performance and durability of welded structures. Our research in this area is focused on developing new welding techniques, materials, and processes that can help to improve the efficiency and quality of welding processes."
+  },
+  {
+    "objectID": "research/research-areas/metallurgy.html#research-highlights",
+    "href": "research/research-areas/metallurgy.html#research-highlights",
+    "title": "Metallurgy",
+    "section": "Research highlights",
+    "text": "Research highlights\n\nMicrostructure effect on sliding wear of 316L stainless steel selectively laser melted. Barrionuevo, Germán Omar, Walczak, Magdalena, Ramos-Grez, Jorge, Mendez, Patricio, Debut, Alexis. Materials Science and Technology 40: 466-478 (2024)."
   },
   {
     "objectID": "research/research-areas/automation.html",
@@ -461,7 +468,7 @@
     "href": "about/lab.html",
     "title": "Facilities",
     "section": "",
-    "text": "The Canadian Center for Welding and Joining offers many welding and metallography facilities for our partners and sponsors. We have access to centralized microstructural analysis facilities (SEM, TEM, XRD, EBSD, etc.), and are a completely independent research center, focusing our intellectual capabilities, and manpower on producing results. Explore our lab on our virtual lab tour, or take a look at our equipment list, and see what our lab has to offer.",
+    "text": "The Canadian Centre for Welding and Joining offers many welding and metallography facilities for our partners and sponsors. We have access to centralized microstructural analysis facilities (SEM, TEM, XRD, EBSD, etc.), and are a completely independent research centre, focusing our intellectual capabilities, and manpower on producing results. Explore our lab on our virtual lab tour, or take a look at our equipment list, and see what our lab has to offer.",
     "crumbs": [
       "Home",
       "About Us",
@@ -1281,7 +1288,7 @@
     "href": "index.html",
     "title": "Canadian Centre for Welding and Joining",
     "section": "",
-    "text": "Welcome to the Canadian Centre for Welding and Joining (CCWJ) located in the Department of Chemical and Materials Engineering in the University of Alberta.\nThe Canadian Centre for Welding and Joining (CCWJ) is a $5M research facility employing researchers at all stages of their career and awarding doctoral degrees through the Department of Chemical and Materials Engineering at the University of Alberta. Our research has historically been centered on steel applications and product development, wear protective overlays, numerical modeling of welding, and laser-based advanced manufacturing. Our results in this area have been published in leading journals including Acta Materialia, Materials Transactions A. Our funding support in the last 10 years exceeds $6M, and our experimental facilities include all arc welding processes, resistance spot welding, laser welding, high speed imaging, thermal imaging, instrumented impact testing, computer assisted hardness mapping, hydrogen testing, and more. The centralized facilities at the University of Alberta include characterization facilities reaching atomic-resolution TEM.",
+    "text": "Welcome to the Canadian Centre for Welding and Joining (CCWJ) located in the Department of Chemical and Materials Engineering in the University of Alberta.\nThe Canadian Centre for Welding and Joining (CCWJ) is a $5M research facility employing researchers at all stages of their career and awarding doctoral degrees through the Department of Chemical and Materials Engineering at the University of Alberta. Our research has historically been centred on steel applications and product development, wear protective overlays, numerical modelling of welding, and laser-based advanced manufacturing. Our results in this area have been published in leading journals including Acta Materialia, Materials Transactions A. Our funding support in the last 10 years exceeds $6M, and our experimental facilities include all arc welding processes, resistance spot welding, laser welding, high speed imaging, thermal imaging, instrumented impact testing, computer assisted hardness mapping, hydrogen testing, and more. The centralized facilities at the University of Alberta include characterization facilities reaching atomic-resolution TEM.",
     "crumbs": [
       "Home",
       "About Us",
