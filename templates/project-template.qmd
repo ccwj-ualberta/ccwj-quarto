@@ -1,0 +1,14 @@
+---
+title: Name of the project
+subtitle: Companies and/or funding bodies
+date: "2006-12-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
+categories: [Physics of Welding, Metallurgy, Welding Automation, Numerical Modelling]
+---
+
+Put your description of the project here.
+
+The default categories match those in the 'Research themes' [Physics of Welding, Metallurgy, Welding Automation, Numerical Modelling]. You are free to remove any. New categories can also be added by simply including another/new element in the list, which will automatically be added to the filter/table of contents in the projects page.
+
+Each project needs to have a sponsor logo image. Logos for a number of granting organizations are already present in the `research/projects/granting-logos` directory. You can also add a new logo in this directory and then link to it by updating the `image: granting-logos/my-new-logo.png` field in the header.

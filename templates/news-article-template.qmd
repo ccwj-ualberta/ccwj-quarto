@@ -1,0 +1,14 @@
+---
+title: "My event title"
+image: https://link-to-your-image.png
+date: "2024-04-02"
+about:
+  template: marquee
+  image: https://link-to-your-image.png
+  links:
+    - icon: calendar-event
+      text: "Name of your event"
+      href: https://link-to-your-event.html
+---
+
+Add your text here (and place completed document in the `/news/news-articles` folder)
