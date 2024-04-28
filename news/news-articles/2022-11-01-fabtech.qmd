@@ -1,0 +1,14 @@
+---
+title: "Fabtech 2022 / AWS Professional Program"
+image: https://cdn.fabtechexpo.com/wp-content/webp-express/webp-images/uploads/BII6316-900x600.jpg.webp
+date: "2022-11-01"
+about:
+  template: marquee
+  image: https://cdn.fabtechexpo.com/wp-content/webp-express/webp-images/uploads/BII6316-900x600.jpg.webp
+  links:
+    - icon: calendar-event
+      text: Fabtech Expo
+      href: (https://www.fabtechexpo.com/blog/2022/11/01/fabtech-2022-to-welcome-140-new-exhibitors-and-showcase-the-latest-industry-advancements
+---
+
+Atlanta will host this year's Fabtech Expo and AWS Professional Program again. Look for CCWJ presenters in the program to learn more about our ongoing research projects.

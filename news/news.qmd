@@ -2,5 +2,10 @@
 title: "News"
 listing: 
   contents: news-articles
+  type: default
+  fields: [title, image, description, date]
+  image-height: "175px"
+  max-description-length: 400
 page-layout: full
 ---
+

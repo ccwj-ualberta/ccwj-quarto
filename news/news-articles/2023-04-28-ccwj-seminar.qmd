@@ -1,0 +1,14 @@
+---
+title: "CCWJ Annual Seminar 2023"
+image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F452376979%2F19375881351%2F1%2Foriginal.20230222-200750?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C5106%2C2553&s=0da97d894163f1c32651f1504a5adb23
+date: "2023-04-28"
+about:
+  template: marquee
+  image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F452376979%2F19375881351%2F1%2Foriginal.20230222-200750?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C5106%2C2553&s=0da97d894163f1c32651f1504a5adb23
+  links:
+    - icon: calendar-event
+      text: Eventbrite
+      href: https://www.eventbrite.com/e/2023-ccwj-seminar-welding-for-the-hydrogen-economy-tickets-520703517237
+---
+
+Our upcoming annual seminar will take place in the late spring/ealy summer of 2023 and cover the topic of welding for hydrogen applications, such as hydrogen transport. This one-day seminar will feature international speakers with manufacturing experience for hydrogen applications and cover the fundamental knowledge you will need to work in this field.
