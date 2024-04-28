@@ -7,9 +7,6 @@ toc: true
 
 The CCWJ main lab is located in the CME Building on level L1, in room L1-108.
 
-:::: {.columns}
-::: {.column width="75%"}
-
 ```{r leaflet-map}
 #| echo: false
 #| message: false
@@ -24,16 +21,15 @@ leaflet() |>
   fitBounds(-113.52956, 53.52830, -113.52956, 53.52830)
 ```
 
+:::: {.columns}
+::: {.column width="80%"}
+If you take the entrance on the South-West side of the building (through the entrance marked in the image below), just go down one flight of stairs, and then straight through the two double doors. Click image for Google StreetView Link.
 :::
 
-::: {.column width="25%"}
+::: {.column width="20%"}
 [![](directions/qr-code.png)](https://goo.gl/maps/eFCG23QcXG8RGnKc7)
 :::
 ::::
-
-<br>
-
-If you take the entrance on the South-West side of the building (through the entrance marked in the image below), just go down one flight of stairs, and then straight through the two double doors. Click image for Google StreetView Link.
 
 [![](directions/Directions_2.png)](https://maps.app.goo.gl/j8y9by5qFWRJJ5m97)
 
