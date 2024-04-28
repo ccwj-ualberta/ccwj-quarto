@@ -6,6 +6,7 @@ listing:
   fields: [title, image, description, date]
   image-height: "175px"
   max-description-length: 400
+  filter-ui: true
 page-layout: full
 ---
 
