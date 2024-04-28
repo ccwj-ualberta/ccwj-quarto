@@ -9,4 +9,3 @@ listing:
   filter-ui: true
 page-layout: full
 ---
-

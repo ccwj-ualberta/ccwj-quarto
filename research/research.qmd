@@ -7,7 +7,6 @@ listing:
   type: grid
   grid-columns: 2
   max-description-length: 50
-toc: true
 ---
 
 Welding is an inherently multi-disciplinary area, and has been referred to as the most interdisciplinary research field in engineering. This complexity is creating a rich research field that spans various faculties and academic backgrounds, and the CCWJ is proudly working with numerous academic and industrial partners to carry out research activities across the whole spectrum of welding.
