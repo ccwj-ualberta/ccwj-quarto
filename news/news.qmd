@@ -7,5 +7,6 @@ listing:
   image-height: "175px"
   max-description-length: 400
   filter-ui: true
+  sort: "date desc"
 page-layout: full
 ---
