@@ -11,5 +11,8 @@ Metallurgy is the science and technology of metals. It involves the study of the
 
 ## Research highlights
 
-- Microstructure effect on sliding wear of 316L stainless steel selectively laser melted. Barrionuevo, Germán Omar, Walczak, Magdalena, Ramos-Grez, Jorge, Mendez, Patricio, Debut, Alexis. Materials Science and Technology 40: 466-478 (2024).
+- Microstructure effect on sliding wear of 316L stainless steel selectively laser melted. Barrionuevo, GO, Walczak, M, Ramos-Grez, J, Mendez, P, Debut, A. Materials Science and Technology (2024); 40(6): 466-478.
 
+- Conflat cell for in-situ electrochemical X-ray studies of lithium-ion battery materials in commercially-relevant conditions. Sendetskyi, O, Salomons, M, Mendez, P, Fleischauer, M. Journal of Applied Crystallography (2021); 54: 1416-1423.
+
+- Effect of the heating rate on austenite formation in low carbon microalloyed steels. Hintze C, Alejandro, Mendez, P. Welding Journal (2021); 100: 338s-347s.
