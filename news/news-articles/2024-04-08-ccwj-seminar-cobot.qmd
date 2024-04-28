@@ -1,0 +1,16 @@
+---
+title: "CCWJ Seminar 2024: COBOT WELDING INNOVATION"
+image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F736279099%2F19375881351%2F1%2Foriginal.20240405-003413?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=f9478876e7a3b55e69b1db25e7aa5448
+date: "2024-04-02"
+about:
+  template: marquee
+  image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F736279099%2F19375881351%2F1%2Foriginal.20240405-003413?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=f9478876e7a3b55e69b1db25e7aa5448
+  links:
+    - icon: calendar-event
+      text: Eventbrite
+      href: https://www.eventbrite.com/e/ccwj-seminar-2024-cobot-welding-innovation-tickets-852424884777
+---
+
+CCWJ is proud to present our annual seminar for 2024 on "Cobot Welding Innovation: Bridging the gap between automation and collaboration". Speakers from renowned organizations like Lincoln Electric, Miller and ABB Robotics are presenting. Cobot demonstrations are also arranged.
+
+In-person attendees will be provided with catering and beverages for the whole day of the event. Student fees are designated to cover only the food and beverage costs.
