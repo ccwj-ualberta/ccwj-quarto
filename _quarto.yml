@@ -8,6 +8,9 @@ project:
 
 website:
   title: CCWJ
+  favicon: assets/CCWJ_white_logo.png
+  twitter-card: true
+  open-graph: true
 
   navbar:
     title: false
@@ -43,10 +46,6 @@ website:
         href: https://twitter.com/search?q=centre%20for%20welding%20and%20joining&src=typed_query&f=top
       - icon: linkedin
         href: https://www.linkedin.com/company/ccwj/
-      - icon: github
-        menu:
-          - text: GitHub projects
-            url:  https://github.com/ccwj-ualberta
 
   sidebar:
     - title: "Home"
