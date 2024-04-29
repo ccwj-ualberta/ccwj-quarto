@@ -20,8 +20,8 @@ website:
     logo-alt: Canada Centre for Welding and Joining
 
     left:
-      - text: Home
-        file: index.qmd
+      - text: About
+        file: about/about.qmd
 
       - text: People
         file: people/director.qmd
@@ -29,17 +29,17 @@ website:
       - text: Research
         file: research/research.qmd
 
-      - text: Teaching
-        file: teaching/teaching.qmd
-
       - text: Publications
         file: publications/publications-articles.qmd
 
-      - text: Apply
-        file: apply/canadian.qmd
+      - text: Teaching
+        file: teaching/teaching.qmd
 
       - text: News
         file: news/news.qmd
+
+      - text: Join Us
+        file: apply/canadian.qmd
 
     tools:
       - icon: twitter
@@ -47,13 +47,12 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/company/ccwj/
 
-  sidebar:
-    - title: "Home"
+  sidebar:    
+    - title: "About"
       style: "docked"
       contents:
       - section: "About Us"
         contents:
-        - index.qmd
         - about/about.qmd
         - about/what-we-do.qmd
         - about/lab.qmd
@@ -100,7 +99,7 @@ website:
         - publications/publications-reports.qmd
         - publications/publications-theses.qmd
 
-    - title: "Apply"
+    - title: "Join Us"
       style: "docked"
       contents:
         - section: "Canadian"

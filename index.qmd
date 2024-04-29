@@ -1,5 +1,6 @@
 ---
 title: "Canadian Centre for Welding and Joining"
+page-layout: full
 ---
 
 ::: {layout-nrow=1}
