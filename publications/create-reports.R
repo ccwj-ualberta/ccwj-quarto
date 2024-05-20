@@ -4,7 +4,7 @@ library(dplyr)
 library(stringr)
 library(glue)
 
-reports <- bib2df(here("publications/references-cleaned.bib")) |>
+reports <- bib2df(here("publications/references.bib")) |>
   rename_with(tolower) |>
   filter(category == "TECHREPORT") |>
   select(c(author, institution, title, year)) |>
@@ -13,7 +13,8 @@ reports <- bib2df(here("publications/references-cleaned.bib")) |>
     title = str_remove_all(title, "\\{|\\}"),
     title = str_remove_all(title, "\\\\"),
     institution = str_remove_all(institution, "\\{|\\}"),
-    institution = str_remove_all(institution, "\\\\")
+    institution = str_remove_all(institution, "\\\\"),
+    institution = if_else(is.na(institution), "", institution)
   )
 
 create_report <- function(author, institution, title, year) {

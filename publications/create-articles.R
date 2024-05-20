@@ -4,7 +4,7 @@ library(dplyr)
 library(stringr)
 library(glue)
 
-journals <- bib2df(here("publications/references-cleaned.bib")) |>
+journals <- bib2df(here("publications/references.bib")) |>
   rename_with(tolower) |>
   filter(category == "ARTICLE") |>
   select(c(author, title, journal, year, volume, number, pages, doi)) |>

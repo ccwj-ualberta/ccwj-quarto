@@ -9,7 +9,7 @@
             </div>
 
             <div class="listing-pub-author listing-author">
-              <%= item.author %>, <%= item.institution %> (<%= item.year %>)
+              <%= item.author %><% if (item.institution) { %>, <%= item.institution %><% } %> (<%= item.year %>)
               <br>
               <br>
             </div>

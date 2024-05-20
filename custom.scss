@@ -1,20 +1,8 @@
 /*-- scss:defaults --*/
 
 // Colours
-$white:    #fff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #e9ecef !default;
-$gray-300: #dee2e6 !default;
-$gray-400: #ced4da !default;
-$gray-500: #adb5bd !default;
-$gray-600: #868e96 !default;
 $gray-700: #495057 !default;
-$gray-800: #343a40 !default;
-$gray-900: #212529 !default;
-$black:    #000 !default;
-
 $primary: #231e1a !default;
-// $primary: #2d4067 !default;
 $link-color:   #5da366 !default;
 
 // Fonts
@@ -38,15 +26,13 @@ h1, h2 {
 }
 
 h3, h4, h5, h6 {
-  font-family: 'assets/Anivers';
+  font-family: 'Anivers';
   margin-top: 1rem;
 }
 
 // Navbar
 .navbar {
-  // background-image: url("assets/background-bar.png");
-  // background-image: url("assets/banner-weld-greens.jpg");
-  background-color: #2F4858 !important;
+  background-image: url("assets/background-bar.png");
   font-size: 1.1rem;
   font-family: 'Anivers';
 }
@@ -60,23 +46,22 @@ h3, h4, h5, h6 {
   font-family: 'Anivers';
 }
 
-// publications listing appearance
-.no-anchor.listing-pub-title {
-  /* font-family: 'Anivers'; */
-  font-size: 1.1rem;
+// listing appearances
+// articles
+.no-anchor.listing-title {
+  font-family: "system-ui";
+  font-weight: 500;
+  font-family: "system-ui";
 }
 
 .listing-pub-author {
-  /* font-family: 'Anivers'; */
   font-size: 0.9rem;
 }
 
 .listing-pub-journ {
-  /* font-family: 'Anivers'; */
   font-size: 0.9rem;
 }
 
 .listing-pub-url {
-  /* font-family: 'Anivers'; */
   font-size: 0.9rem;
 }

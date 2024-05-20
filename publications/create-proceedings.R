@@ -4,7 +4,7 @@ library(dplyr)
 library(stringr)
 library(glue)
 
-papers <- bib2df(here("publications/references-cleaned.bib")) |>
+papers <- bib2df(here("publications/references.bib")) |>
   rename_with(tolower) |>
   filter(category == "INPROCEEDINGS") |>
   select(c(author, title, year, booktitle)) |>
