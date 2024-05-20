@@ -28,7 +28,7 @@ depends on level of studies of the intern.
   Burkina Faso, Ethiopia, Ghana, Ivory Coast, Kenya, Nigeria, Rwanda,
   Senegal, Tanzania, Uganda
 
-- [Rocca](https://www.robertorocca.org/es/becas/doctorado/fellowships)
+- [Rocca](https://www.robertorocca.org/en)
 
   - Scholarships to exceptional university graduates, with the aim of
 helping them finance doctoral studies in the areas of Materials Science,
