@@ -3,6 +3,14 @@ title: "Canadian Centre for Welding and Joining (CCWJ) Website Repository"
 format: gfm
 ---
 
+<!-- badges: start -->
+
+[![Launch Posit Cloud](https://img.shields.io/badge/launch-posit%20cloud-447099?style=flat)](https://posit.cloud/spaces/417662/join?access_code=E9OvQn6lI_mMg9VazqLy6zOqBYd4_wN1DSE0a0Nw)
+
+[![R-CMD-check](https://github.com/stevenpawley/ccwj-quarto/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/stevenpawley/ccwj-quarto/actions/workflows/publish.yml)
+
+<!-- badges: end -->
+
 ## Overview
 
 The CCWJ website is based on the [Quarto](https://quarto.org) framework, which is a lightweight, flexible, and extensible static site generator for academic websites. The website is hosted on GitHub Pages and is automatically built and deployed using GitHub Actions.
@@ -81,10 +89,10 @@ For talks that were recorded, new items can be added to the Research \> Talks pa
 
 The teaching page uses the document listing mechanism for each individual course. Any course files in the `teaching/courses` directory will automatically be added to the teaching page. A template for a course page is included in the `templates/course-template.qmd` file. Anything in the template can be changed when creating a new course, but the header structure needs to remain the same. The current template is structured as:
 
-- Introduction
-- Link to syllabus document hosted in Google Drive
-- Link to opening lecture hosting in Google Drive
-- Course materials table (a series of rows and columns)
+-   Introduction
+-   Link to syllabus document hosted in Google Drive
+-   Link to opening lecture hosting in Google Drive
+-   Course materials table (a series of rows and columns)
 
 Any of these sections can be removed if desired.
 
@@ -98,7 +106,4 @@ A template for a new news item is present in `templates/news-article-template.qm
 
 The publications listings are automatically regenerated from the bibtex files in the "/publications" folder. These bibtex files have to be exported as \*plain bibtex", not using other extensions like "Better Bibtex". This is because these extensions insert lots of special escaping characters, for example, double curly braces, that prevent software from changing the case of the titles and authors. These extensions also escape special characters like accents. However, the code in this repository reads the bibtex files 'as-is', so it is important to export them as plain bibtex.
 
-Some entries contained missing items, particularly DOIs, which have been completed in the repository version of the `publications/references.bib`. To add new publications, you can download this file, add
-new entries to it, and upload it back to the same location (overwriting the file). Alternatively, a new Bibtex file can exported from some other reference manager such as Zotero or Refworks, assuming that
-the citations are complete.
-
+Some entries contained missing items, particularly DOIs, which have been completed in the repository version of the `publications/references.bib`. To add new publications, you can download this file, add new entries to it, and upload it back to the same location (overwriting the file). Alternatively, a new Bibtex file can exported from some other reference manager such as Zotero or Refworks, assuming that the citations are complete.

@@ -1,6 +1,15 @@
 # My name
 
 
+<!-- badges: start -->
+
+[![Launch Posit
+Cloud](https://img.shields.io/badge/launch-posit%20cloud-447099?style=flat.png)](https://posit.cloud/spaces/417662/join?access_code=E9OvQn6lI_mMg9VazqLy6zOqBYd4_wN1DSE0a0Nw)
+
+[![R-CMD-check](https://github.com/stevenpawley/ccwj-quarto/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/stevenpawley/ccwj-quarto/actions/workflows/publish.yml)
+
+<!-- badges: end -->
+
 ## Overview
 
 The CCWJ website is based on the [Quarto](https://quarto.org) framework,
