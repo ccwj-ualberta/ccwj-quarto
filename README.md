@@ -5,7 +5,6 @@
 
 [![Launch Posit
 Cloud](https://img.shields.io/badge/launch-posit%20cloud-447099?style=flat.png)](https://posit.cloud/spaces/417662/join?access_code=E9OvQn6lI_mMg9VazqLy6zOqBYd4_wN1DSE0a0Nw)
-
 <!-- badges: end -->
 
 ## Overview
