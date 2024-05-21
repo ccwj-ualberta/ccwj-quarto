@@ -15,21 +15,28 @@ which is a lightweight, flexible, and extensible static site generator
 for academic websites. The website is hosted on GitHub Pages and is
 automatically built and deployed using GitHub Actions.
 
-## Redeploying the website
+## Rendering/rebuilding the website
 
-Changes and rebuilding of the website are triggered by pushing changes
-to the `main` branch of the repository. The website is built using the
-`quarto` command-line tool, which is installed in the GitHub Actions
-environment. The website is built using the `quarto site build` command,
-which generates the website in the `_site` folder. The contents of the
-`_site` folder are then copied to the `gh-pages` branch, which is used
-by GitHub Pages to serve the website.
+Changes and rebuilding/rendering of the website are triggered by pushing
+changes to the `main` branch of the repository. The website is built
+using the `quarto` command-line tool, which is installed in the GitHub
+Actions environment. The website is built using the `quarto site build`
+command, which generates the website in the `_site` folder.
 
-The website can be deployed to any web server that supports static
-websites. To deploy the website to another web server, you can download
-the repository from the `gh_pages` branch and then upload it to a
-different webs server, e.g., the `https://sites.ualberta.ca`, using any
-method you prefer (e.g., FTP, SCP, etc.), or using a GUI tool like
+## Deploying the rendered website
+
+The contents of the `_site` folder are automatically copied to the
+`gh-pages` branch of the repository, which is used by GitHub Pages to
+serve the website at [](https://stevenpawley.github.io/ccwj-quarto/).
+The GitHub Pages deployment can be used to preview any changes that have
+been made to the website.
+
+The website can also be deployed to any other web server that supports
+static sites. To deploy the website to another web server, you can
+download the repository content from the `gh_pages` branch, and then
+upload it to any other web server, e.g., the
+`https://sites.ualberta.ca`, using any method you prefer (e.g., FTP,
+SCP, etc.), or using a GUI tool like
 [WinSCP](https://winscp.net/eng/download.php) etc.
 
 ![To deploy the website to another web server, download the repository
@@ -66,6 +73,15 @@ interface by creating, editing, or deleting files from the respective
 directories (and/or uploading new image files). For more substantial
 changes, it is recommended to clone the repository from GitHub and then
 commit the changes, but this requires familiarity with Git.
+
+Alternatively, a complete version of this repository is also available
+on [Posit
+Cloud](https://posit.cloud/spaces/417662/join?access_code=E9OvQn6lI_mMg9VazqLy6zOqBYd4_wN1DSE0a0Nw),
+which is an online development environment, which can be used for
+editing and previewing the website content without needing to install
+any software. Changes to the website can be made directly in the Posit
+Cloud environment, and then the changes can be committed to the GitHub
+repository.
 
 ### Detailed Instructions
 
