@@ -1,22 +1,9 @@
-# My name
-
-
-- [Canadian Centre for Welding and Joining (CCWJ) Website
-  Repository](#canadian-centre-for-welding-and-joining-ccwj-website-repository)
-  - [Overview](#overview)
-  - [Rendering/rebuilding the website](#renderingrebuilding-the-website)
-  - [Deploying the rendered website](#deploying-the-rendered-website)
-  - [Adding / Updating Website
-    Content](#adding--updating-website-content)
-    - [Detailed Instructions](#detailed-instructions)
+# Canadian Centre for Welding and Joining (CCWJ) Website Repository
 
 <!-- badges: start -->
-
 [![Launch Posit
 Cloud](https://img.shields.io/badge/launch-posit%20cloud-447099?style=flat.png)](https://posit.cloud/spaces/417662/join?access_code=E9OvQn6lI_mMg9VazqLy6zOqBYd4_wN1DSE0a0Nw)
 <!-- badges: end -->
-
-# Canadian Centre for Welding and Joining (CCWJ) Website Repository
 
 ## Overview
 
