@@ -7,4 +7,4 @@ about:
   image: SIMF-simufact-forming.jfif
 ---
 
-Simulation tool for metal forming manufacturing processes.	Can determine the optimal number and sequence of stages and process window with minimal material usage.	Save material, time, tool life and money by replacing expensive and time-consuming physical testing with virtual testing.
+Simulation tool for metal forming manufacturing processes. Can determine the optimal number and sequence of stages and process window with minimal material usage.	Save material, time, tool life and money by replacing expensive and time-consuming physical testing with virtual testing.
