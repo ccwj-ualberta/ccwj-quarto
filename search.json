@@ -307,39 +307,32 @@
     "text": "Used to heat up materials until 1100°C to study the behavior of them at different temperatures. It complies with ASTM D36174. Useful to study heating curves and dilation of materials. Small scale furnace to characterize materials under different temperatures regimens"
   },
   {
-    "objectID": "about/equipment/DA1-ni-daq-system-usb-6351.html",
-    "href": "about/equipment/DA1-ni-daq-system-usb-6351.html",
+    "objectID": "about/equipment/FLIR-flir-a6751sc-thermal-camera.html",
+    "href": "about/equipment/FLIR-flir-a6751sc-thermal-camera.html",
+    "title": "Flir A6751sc Thermal Camera",
+    "section": "",
+    "text": "The FLIR A6751sc thermal imaging camera is a high-performance, high-speed thermal camera. The camera features a high-resolution detector that provides excellent image quality and temperature measurement accuracy."
+  },
+  {
+    "objectID": "about/equipment/KUKA-kuka-kr16-dkp-450.html",
+    "href": "about/equipment/KUKA-kuka-kr16-dkp-450.html",
+    "title": "KUKA KR16 / DKP-450",
+    "section": "",
+    "text": "8-axis robotic arm and positioner system suitable for repetitive industrial tasks with a 16 kg payload. Used to operate a 9 KW laser cladding system. Kuka provides a friendly programming ecosystem that allows implementation of a parametric programming technique for repair purpose."
+  },
+  {
+    "objectID": "about/equipment/GEOM-geomagic.html",
+    "href": "about/equipment/GEOM-geomagic.html",
+    "title": "Geomagic Design X",
+    "section": "",
+    "text": "Geomagic Design X is a comprehensive reverse engineering software that combines history-based CAD with 3D scan data processing. Geomagic Design X enables the creating of accurate CAD models from 3D scans, using a combination of automatic and guided solid model extraction."
+  },
+  {
+    "objectID": "about/equipment/DAQ1-ni-daq-system-usb-6351.html",
+    "href": "about/equipment/DAQ1-ni-daq-system-usb-6351.html",
     "title": "NI DAQ System USB-6351",
     "section": "",
     "text": "As a multi-functional I/O device, this allows users to process signal data. With a variety of analog and digital inputs/outputs, it enables users to simplify measurements or even automate aspects of testing. It’s multifunctionality makes it useful anywhere advanced signal processing is required."
-  },
-  {
-    "objectID": "about/equipment/SMIC-nikon-smz-745t-stereomicroscope.html",
-    "href": "about/equipment/SMIC-nikon-smz-745t-stereomicroscope.html",
-    "title": "Nikon SMZ 745T Stereomicroscope",
-    "section": "",
-    "text": "Optical microscope designed for low magnification observation of a sample with 7.5x zoom and 115 mm working distance. Used to study the surfaces of solid samples, and observe fracture surfaces and to inspect larger objects such as small mechanical pieces, and minerals. They are essential in the preparation of samples for light microscopy and the two microscopes complement each other."
-  },
-  {
-    "objectID": "about/equipment/APC-cyclomatic-arc-pattern-controller-90a.html",
-    "href": "about/equipment/APC-cyclomatic-arc-pattern-controller-90a.html",
-    "title": "Cyclomatic Arc Pattern Controller 90A",
-    "section": "",
-    "text": "Magnetic arc control provides even heat distribution, prevents undercutting, eliminated excessive porosity, ensures sufficient penetration, and evens out the weld puddle. Reduces variability of welding arc to produce improved experiment consistency. Aids in maintaining a consistent welding arc to prevent rework for industries involved with fabrications/manufacturing."
-  },
-  {
-    "objectID": "about/equipment/VICK-hardness-mapper-wilson-tukon-2500-vickers.html",
-    "href": "about/equipment/VICK-hardness-mapper-wilson-tukon-2500-vickers.html",
-    "title": "Hardness Mapper - Wilson Tukon 2500 Vickers",
-    "section": "",
-    "text": "Fully automated high precision hardness quantification of a broad spectrum of materials. Used to create hardness maps and study the hardness of carbides inserted on the material matrix. Useful to determine if a material meets the minimum industrial requirements for selling and distribution regarding depth and width."
-  },
-  {
-    "objectID": "about/equipment/ALI-alicat-scientific-mass-flow-controllers.html",
-    "href": "about/equipment/ALI-alicat-scientific-mass-flow-controllers.html",
-    "title": "Alicat Scientific high-precision mass flow controllers",
-    "section": "",
-    "text": "Use mass flow controllers to measure and control gas flow from 0.5 SCCM to 5,000 SPM. Can mix multiple gases at specific ratios. Digital feedback from PLC or PC allows real-time changes to the flow rate setpoint to maintain optimal process conditions."
   },
   {
     "objectID": "about/equipment/SIMF-simufact-forming.html",
@@ -356,130 +349,116 @@
     "text": "Electrolytic thinning of conductive materials is an effective method of quickly producing specimens for transmission electron microscopy (TEM) without any induced artifacts. In the Model 110 Twin-Jet Electropolisher, twin jets simultaneously polish both sides of the sample, creating electron transparent specimens within a few minutes. With this equipment it is possible to make phase identification in high strength steels, Characterize nano-precipitates as also the grain and dislocation structure."
   },
   {
-    "objectID": "about/equipment/HOTW-hitachi-hotwire.html",
-    "href": "about/equipment/HOTW-hitachi-hotwire.html",
-    "title": "Hitachi Hotwire",
+    "objectID": "about/equipment/SIMU-simufact-welding.html",
+    "href": "about/equipment/SIMU-simufact-welding.html",
+    "title": "MSC Simufact Welding",
     "section": "",
-    "text": "Used to resistively heat simultaneous secondary wire feed. Incorporating the use of hot-wire feed into arc welding processes helps stabilize the arc by reducing magnetic arc blow. It also reduces the nominal heat input to the primary wire at the torch. In all welding positions, it can significantly bolster productivity rates while reducing heat input to the weld metal."
+    "text": "Welding software used to model and optimize a variety of thermal joining processes, taking into account the orientation. It can predict phase transformations in the heat-affected zone, thus helps understand the weld structure in the HAZ. Simufact Welding succeeds in realistically predicting the distortions and residual stresses that occur during welding."
   },
   {
-    "objectID": "about/equipment/3DSC-creaform-metrascan-750.html",
-    "href": "about/equipment/3DSC-creaform-metrascan-750.html",
-    "title": "Creaform MetraScan 750 3D Scanner",
+    "objectID": "about/equipment/HOTM-buehler-simplimet-1000-hot-mount.html",
+    "href": "about/equipment/HOTM-buehler-simplimet-1000-hot-mount.html",
+    "title": "Buehler SimpliMet 1000 Hot Mount",
     "section": "",
-    "text": "The MetraScan 750 is a CMM scanner to perform highly accurate and repeatable metrology-grade measurements and 3D geometrical surface inspections. At the CCWJ it is implemented to aid with toolpath generation for zero-programming repair of worn out surfaces using robotic welding. In industry it is comonly used to capture 3D point cloud of objects and metrological inspection in a manufacturing process."
+    "text": "Traditional automatic mounting press machine that uses hot compression system for making mounting metal samples. Used to make mounting metal samples in thermosetting resins, which protects and preserves edges and surface defects during preparation steps and provides excellent sample quality The samples are essential to study the material itself, and from them all the information is obtain through microscope or different kind of tests."
   },
   {
-    "objectID": "about/equipment/DILA-linseis-dilatometer-l78.html",
-    "href": "about/equipment/DILA-linseis-dilatometer-l78.html",
-    "title": "Linseis Dilatometer L78 R.I.T.A.",
+    "objectID": "about/equipment/ROCK-hardness-tester-rockwell-2000.html",
+    "href": "about/equipment/ROCK-hardness-tester-rockwell-2000.html",
+    "title": "Hardness Tester - Wilson Rockwell 2000",
     "section": "",
-    "text": "With a dilatometer it is possible to study the different deformation diagrams of a sample. A key point in welding study is the cooling rates and resulting microstructures process that can be studied with this machine. Knowing cooling rates and final microstructure is used to know the final behaviours of piecces and so it affects the design."
+    "text": "Semi-automated high precision hardness measurement of different shape pieces. Study the effect in hardness of different powder mixtures in the welded surfaces. Characterize hardness pieces allowing the repeatability and reproducibility of the experiments."
   },
   {
-    "objectID": "about/equipment/FMON-primes-beam-profiler.html",
-    "href": "about/equipment/FMON-primes-beam-profiler.html",
-    "title": "Primes FM+ Beam Profiler",
+    "objectID": "about/equipment/CALI-dmmcheck-calibration-reference.html",
+    "href": "about/equipment/CALI-dmmcheck-calibration-reference.html",
+    "title": "DMMCheck Plus Multi-Function Calibration Reference",
     "section": "",
-    "text": "Quick and reliable measurement of laser beam parameters, such as the spacial power density distribution and size of laser spot. Used to quantify the laser beam parameter and input to models for bead characteristics prediction. Used to find optimum working distance for laser and detect laser optics deterioration in high power lasers (ISO 11146)."
+    "text": "The DMMCheck Plus Multi-Function Calibration Reference is a precision voltage and current reference designed to calibrate a wide variety of test and measurement instruments. It is a versatile and easy-to-use calibration reference that ensures that test equipment is accurate and in compliance with industry standards."
   },
   {
-    "objectID": "about/equipment/TORM-tormach-pcnc-770m.html",
-    "href": "about/equipment/TORM-tormach-pcnc-770m.html",
-    "title": "Tormach PCNC 770M CNC",
+    "objectID": "about/equipment/SPT3-hl-wd-dental-spot_welder.html",
+    "href": "about/equipment/SPT3-hl-wd-dental-spot_welder.html",
+    "title": "HL-WD Dental Spot Welder",
     "section": "",
-    "text": "Medium size CNC Milling machine for general purpose machining. We use this machine for the rapid production of custom parts for experimental setups as well as production of charpy samples. In-House machining capabilities allows for rapid deployment of new designs and fixtures to machines."
+    "text": "Perform a spot weld on thin plates of metal. In car manufacturing, many joints are made by a spot weld, due to it’s velocity and effectiveness."
   },
   {
-    "objectID": "about/equipment/WAAM-lincoln-sculptprint-waam.html",
-    "href": "about/equipment/WAAM-lincoln-sculptprint-waam.html",
-    "title": "Lincoln Sculptprint WAAM",
+    "objectID": "about/equipment/BRO1-charpy-broach.html",
+    "href": "about/equipment/BRO1-charpy-broach.html",
+    "title": "Charpy Broach",
     "section": "",
-    "text": "It can 3D print a variety of industrial metals including combinations of materials. Can manufacture part geometries and features that are challenging or not possible for traditional casting or machining. A promising application in industry is print on demand, which can help eliminate supply chain bottlenecks."
+    "text": "Used to create the notch in Charpy V-Notch testing. This equipment is essential to impact testing which provides impact properties of materials, and it is used in industry where impact testing in required."
   },
   {
-    "objectID": "about/equipment/PUNC-roper-whitney-sample-punch.html",
-    "href": "about/equipment/PUNC-roper-whitney-sample-punch.html",
-    "title": "Roper Whitney Sample Punch",
+    "objectID": "about/equipment/ONH-Bruker-Galileo-G8.html",
+    "href": "about/equipment/ONH-Bruker-Galileo-G8.html",
+    "title": "Bruker Galileo G8",
     "section": "",
-    "text": "Easy-use machine to obtain different shapes samples from 1/16 to 9/16 in. Used to obtain coupons that fit the Galileo G8 crucibles for posterior characterization. Used in industry to punch holes or obtain different samples sizes to fit the required experiments."
+    "text": "High precision quantification of total hydrogen, oxygen and nitrogen in metals. Used on assessment of welding consumables, study of hydrogen transport and diffusivity. Quantifying oxygen in weldments and study of nitrogen in duplex stainless. This chromatographer is useful to study the viability of a material in a high hydrogen environment concentration. It can be used to study the pipelines repurposing and the life expectancy."
   },
   {
-    "objectID": "about/equipment/S500-lincoln-s500.html",
-    "href": "about/equipment/S500-lincoln-s500.html",
-    "title": "Lincoln S500 with variable polarity module",
+    "objectID": "about/equipment/STUD-stud-welder.html",
+    "href": "about/equipment/STUD-stud-welder.html",
+    "title": "Stud Welder TRW",
     "section": "",
-    "text": "Can perform Stick, DC TIG, Pulsed DC TIG, MIG, Pulsed MIG, Flux-Cored processes. Provides an extremely fast arc response, includes over 65 standard welding waveforms for optimized performance. Exceptional welding performance with high power factor and efficiency for welding thicker materials"
+    "text": "Arc welds metal “studs” onto the base plate material with controller burst current. We use this to study various stud welding techniques and material combinations and their effectiveness. Used across industries for affixing any kind of stand off, bolt, or other stud type piece onto a base matterial. Commonly used for threaded connections, PCB standoffs, and many automotive parts."
   },
   {
-    "objectID": "about/equipment/COMS-comsol-multiphysics.html",
-    "href": "about/equipment/COMS-comsol-multiphysics.html",
-    "title": "COMSOL",
+    "objectID": "about/equipment/ARBO-arbour-press.html",
+    "href": "about/equipment/ARBO-arbour-press.html",
+    "title": "DAKE Arbour Press",
     "section": "",
-    "text": "General-purpose simulation software based on advanced numerical methods. The Model Builder includes all of the steps in the modeling workflow — from defining geometries, material properties, and the physics that describe specific phenomena to solving and postprocessing models for producing accurate results. It is used to simulate designs, devices, and processes in all fields of engineering, manufacturing, and scientific research."
+    "text": "The DAKE arbour press is a manually operated press that is used for pressing small samples. It is a versatile tool that can be used for a variety of applications, including pressing, punching, and bending. The press is equipped with a handwheel that allows for precise control of the pressure applied to the sample. The DAKE arbour press is an essential tool for any laboratory that works with small samples and requires precise control over the pressing process."
   },
   {
-    "objectID": "about/equipment/WETS-struers-labotom-3-wet-saw.html",
-    "href": "about/equipment/WETS-struers-labotom-3-wet-saw.html",
-    "title": "Struers Labotom 3 Wet Saw",
+    "objectID": "about/equipment/DIFH-hydrogen-clamp.html",
+    "href": "about/equipment/DIFH-hydrogen-clamp.html",
+    "title": "Diffusible Hydrogen Clamp",
     "section": "",
-    "text": "This saw is used in cutting a wide range of workpiece shapes, sizes, complexities and materials, to understand weld metallurgy, affected areas around weld and penetration characteristics. In industry, this type of equipment is used in evaluating weld penetration characteristics to meet requirements."
+    "text": "Designed to be used to create weldments in accordance to ISO 3690 / AWS A4.3 Ensures results are comparable to academic and industry data obtained through the same standards. Post-weld hydrogen levels must be beneath a threshold level to prevent hydrogen cracking."
   },
   {
-    "objectID": "about/equipment/ZYGO-zegage-pro.html",
-    "href": "about/equipment/ZYGO-zegage-pro.html",
-    "title": "Zygo Zegage Plus Surface Profilometer",
+    "objectID": "about/equipment/POWM-primes-cpm-f10.html",
+    "href": "about/equipment/POWM-primes-cpm-f10.html",
+    "title": "Primes Power Meter CPM-F10",
     "section": "",
-    "text": "Used for very high resolution imaging of matterial surfaces profiles. Provides highly detailed information on post weld surfaces, worn surfaces, and fracture surfaces. Used for quality control and design verification in a variety of surface related industries including casting, machining, glass shaping, and packaging."
+    "text": "High precision measuring device for industrial laser. Used to quantify effective laser power and loss of laser power through different optics medium. Can detect degradation of diode lasers and laser optics."
   },
   {
-    "objectID": "about/equipment/DIAS-presi-mecatome-t180-diamond-saw.html",
-    "href": "about/equipment/DIAS-presi-mecatome-t180-diamond-saw.html",
-    "title": "Presi Mecatome T180 Micro Cutter (Diamond Saw)",
+    "objectID": "about/equipment/SPT2-hotspot-ii-heavy-duty-thermocouple-spotwelder.html",
+    "href": "about/equipment/SPT2-hotspot-ii-heavy-duty-thermocouple-spotwelder.html",
+    "title": "HotSpot II Heavy Duty Thermocouple Spotwelder",
     "section": "",
-    "text": "Precision manual micro-cutting machine with the ability to section a large range of materials (from the hardest to the softest ones). Used for sectioning medium sized samples from a wide variety of materials obtaining the ideal size of samples to study. The ideal size of sample can easily study with metallographic analysis to obtain the properties and identify possible defects in the material itself."
+    "text": "The spotwelder allows to permanently attach Thermocouples. The weld helps to keep the thermocouple on the right spot and have better readings."
   },
   {
-    "objectID": "about/equipment/FUR1-carbolite-furnace.html",
-    "href": "about/equipment/FUR1-carbolite-furnace.html",
-    "title": "Furnace - Carbolit Chamber Furnace",
+    "objectID": "about/equipment/PRC-kuka-prc.html",
+    "href": "about/equipment/PRC-kuka-prc.html",
+    "title": "KUKA PRC",
     "section": "",
-    "text": "Heating furnace for welded samples that reaches around 1150°C. It can be used for heat treatment of samples, or study the piece weight change due to organic matter or diffusible atoms. In industry this is also used to determine inorganic matter of differents mixtures of cement, coal and lime."
+    "text": "Software tool connect Rhino/Grasshopper to KUKA robots. This software allows fully parametrical control over the robots, and is used in architecture and artistic installations."
   },
   {
-    "objectID": "about/equipment/MLAT-mini-lathe-king-kg-8712mi.html",
-    "href": "about/equipment/MLAT-mini-lathe-king-kg-8712mi.html",
-    "title": "Mini Lathe King KG-8712MI",
+    "objectID": "about/equipment/PTA-plasmastar-ptaw.html",
+    "href": "about/equipment/PTA-plasmastar-ptaw.html",
+    "title": "Plasmastar PTAW with 230 MV and 400 MV torch",
     "section": "",
-    "text": "Performs subtractive manufacturing to give workpieces the shape needed. We use this machine to create samples for characterization."
+    "text": "High power CNC plasma arc welder for welding up to 400A with powdered filler material. Powder-based filler materials allows us to experiment with custom metallurgy in overlays. Common use in industry of this type of equipment includes high speed overlay or keyhole joint welding."
   },
   {
-    "objectID": "about/equipment/VXE-vxelements.html",
-    "href": "about/equipment/VXE-vxelements.html",
-    "title": "VXelements",
+    "objectID": "about/equipment/ZOOM-laserline-otz.html",
+    "href": "about/equipment/ZOOM-laserline-otz.html",
+    "title": "Laserline OTZ 2-axis zoom optics with spot sizes from 5x5mm to 32x32mm",
     "section": "",
-    "text": "3D scanning software platform that works in complete synergy with the entire fleet of Creaform’s 3D measurement solutions. VXelements is able to manipulate coordinates of 3D scans to user specification enabling to sync with robot coordinates and generate inspection report of mismatch between objects. Industrial use includes quality check ability for manufacturing process using tight measurement capability."
+    "text": "Motorized heat treatment laser optics with the capability to change beam radius, track-width and focal length of laser."
   },
   {
-    "objectID": "about/equipment/APEX-msc-apex.html",
-    "href": "about/equipment/APEX-msc-apex.html",
-    "title": "MSC Apex",
+    "objectID": "about/equipment/JMAT-jmatpro.html",
+    "href": "about/equipment/JMAT-jmatpro.html",
+    "title": "JMatPro",
     "section": "",
-    "text": "A CAE specific direct modeling and meshing solution software that streamlines CAD clean-up, simplification and meshing workflow. This solution is unique in that it combines computational parts and assemblies technology with a generative framework, which enables interactive and incremental analysis. It provides a truly end to end solution for designers making high-precision, industrial components."
-  },
-  {
-    "objectID": "about/equipment/BRO2-charpy-broach-ultra-hard.html",
-    "href": "about/equipment/BRO2-charpy-broach-ultra-hard.html",
-    "title": "Charpy Broach Ultra Hard",
-    "section": "",
-    "text": "This broach is used to create the notch in Charpy V-Notch testing for materials with higher hardnesses. This equipment is essential to impact testing which provides impact properties of materials, and is used in industry where impact testing in required."
-  },
-  {
-    "objectID": "about/equipment/OCTO-octopuz.html",
-    "href": "about/equipment/OCTO-octopuz.html",
-    "title": "Octopuz",
-    "section": "",
-    "text": "Offline programming software used to simulate and program the workflow of robotic equipment. It can easily import commands from CAM software to verify robot work paths. Can implement different welding strategies with its offline path-sensitive software to optimize manufacturing processes."
+    "text": "JMatPro is used to calculate a wide range of materials properties for alloys, particularly to make calculations for thermo-physical, physical, and chemical properties, and phase transformations. The software provides extensive validation of the models to ensure sound predictions of the properties."
   },
   {
     "objectID": "about/equipment/MIC1-nikon-eclipse-inverted-microscope.html",
@@ -1127,116 +1106,130 @@
     "text": "Quick and reliable measurement of laser beam parameters, such as the spacial power density distribution and size of laser spot. Used to quantify the laser beam parameter and input to models for bead characteristics prediction. Used to find optimum working distance for laser and detect laser optics deterioration in high power lasers upto 20KW"
   },
   {
-    "objectID": "about/equipment/SIMI-simufact-welding.html",
-    "href": "about/equipment/SIMI-simufact-welding.html",
-    "title": "MSC Simufact Welding",
+    "objectID": "about/equipment/OCTO-octopuz.html",
+    "href": "about/equipment/OCTO-octopuz.html",
+    "title": "Octopuz",
     "section": "",
-    "text": "Welding software used to model and optimize a variety of thermal joining processes, taking into account the orientation. It can predict phase transformations in the heat-affected zone, thus helps understand the weld structure in the HAZ. Simufact Welding succeeds in realistically predicting the distortions and residual stresses that occur during welding."
+    "text": "Offline programming software used to simulate and program the workflow of robotic equipment. It can easily import commands from CAM software to verify robot work paths. Can implement different welding strategies with its offline path-sensitive software to optimize manufacturing processes."
   },
   {
-    "objectID": "about/equipment/JMAT-jmatpro.html",
-    "href": "about/equipment/JMAT-jmatpro.html",
-    "title": "JMatPro",
+    "objectID": "about/equipment/BRO2-charpy-broach-ultra-hard.html",
+    "href": "about/equipment/BRO2-charpy-broach-ultra-hard.html",
+    "title": "Charpy Broach Ultra Hard",
     "section": "",
-    "text": "JMatPro is used to calculate a wide range of materials properties for alloys, particularly to make calculations for thermo-physical, physical, and chemical properties, and phase transformations. The software provides extensive validation of the models to ensure sound predictions of the properties."
+    "text": "This broach is used to create the notch in Charpy V-Notch testing for materials with higher hardnesses. This equipment is essential to impact testing which provides impact properties of materials, and is used in industry where impact testing in required."
   },
   {
-    "objectID": "about/equipment/ZOOM-laserline-otz.html",
-    "href": "about/equipment/ZOOM-laserline-otz.html",
-    "title": "Laserline OTZ 2-axis zoom optics with spot sizes from 5x5mm to 32x32mm",
+    "objectID": "about/equipment/APEX-msc-apex.html",
+    "href": "about/equipment/APEX-msc-apex.html",
+    "title": "MSC Apex",
     "section": "",
-    "text": "Motorized heat treatment laser optics with the capability to change beam radius, track-width and focal length of laser."
+    "text": "A CAE specific direct modeling and meshing solution software that streamlines CAD clean-up, simplification and meshing workflow. This solution is unique in that it combines computational parts and assemblies technology with a generative framework, which enables interactive and incremental analysis. It provides a truly end to end solution for designers making high-precision, industrial components."
   },
   {
-    "objectID": "about/equipment/PTA-plasmastar-ptaw.html",
-    "href": "about/equipment/PTA-plasmastar-ptaw.html",
-    "title": "Plasmastar PTAW with 230 MV and 400 MV torch",
+    "objectID": "about/equipment/VXE-vxelements.html",
+    "href": "about/equipment/VXE-vxelements.html",
+    "title": "VXelements",
     "section": "",
-    "text": "High power CNC plasma arc welder for welding up to 400A with powdered filler material. Powder-based filler materials allows us to experiment with custom metallurgy in overlays. Common use in industry of this type of equipment includes high speed overlay or keyhole joint welding."
+    "text": "3D scanning software platform that works in complete synergy with the entire fleet of Creaform’s 3D measurement solutions. VXelements is able to manipulate coordinates of 3D scans to user specification enabling to sync with robot coordinates and generate inspection report of mismatch between objects. Industrial use includes quality check ability for manufacturing process using tight measurement capability."
   },
   {
-    "objectID": "about/equipment/PRC-kuka-prc.html",
-    "href": "about/equipment/PRC-kuka-prc.html",
-    "title": "KUKA PRC",
+    "objectID": "about/equipment/MLAT-mini-lathe-king-kg-8712mi.html",
+    "href": "about/equipment/MLAT-mini-lathe-king-kg-8712mi.html",
+    "title": "Mini Lathe King KG-8712MI",
     "section": "",
-    "text": "Software tool connect Rhino/Grasshopper to KUKA robots. This software allows fully parametrical control over the robots, and is used in architecture and artistic installations."
+    "text": "Performs subtractive manufacturing to give workpieces the shape needed. We use this machine to create samples for characterization."
   },
   {
-    "objectID": "about/equipment/SPT2-hotspot-ii-heavy-duty-thermocouple-spotwelder.html",
-    "href": "about/equipment/SPT2-hotspot-ii-heavy-duty-thermocouple-spotwelder.html",
-    "title": "HotSpot II Heavy Duty Thermocouple Spotwelder",
+    "objectID": "about/equipment/FUR1-carbolite-furnace.html",
+    "href": "about/equipment/FUR1-carbolite-furnace.html",
+    "title": "Furnace - Carbolit Chamber Furnace",
     "section": "",
-    "text": "The spotwelder allows to permanently attach Thermocouples. The weld helps to keep the thermocouple on the right spot and have better readings."
+    "text": "Heating furnace for welded samples that reaches around 1150°C. It can be used for heat treatment of samples, or study the piece weight change due to organic matter or diffusible atoms. In industry this is also used to determine inorganic matter of differents mixtures of cement, coal and lime."
   },
   {
-    "objectID": "about/equipment/POWM-primes-cpm-f10.html",
-    "href": "about/equipment/POWM-primes-cpm-f10.html",
-    "title": "Primes Power Meter CPM-F10",
+    "objectID": "about/equipment/DIAS-presi-mecatome-t180-diamond-saw.html",
+    "href": "about/equipment/DIAS-presi-mecatome-t180-diamond-saw.html",
+    "title": "Presi Mecatome T180 Micro Cutter (Diamond Saw)",
     "section": "",
-    "text": "High precision measuring device for industrial laser. Used to quantify effective laser power and loss of laser power through different optics medium. Can detect degradation of diode lasers and laser optics."
+    "text": "Precision manual micro-cutting machine with the ability to section a large range of materials (from the hardest to the softest ones). Used for sectioning medium sized samples from a wide variety of materials obtaining the ideal size of samples to study. The ideal size of sample can easily study with metallographic analysis to obtain the properties and identify possible defects in the material itself."
   },
   {
-    "objectID": "about/equipment/DIFH-hydrogen-clamp.html",
-    "href": "about/equipment/DIFH-hydrogen-clamp.html",
-    "title": "Diffusible Hydrogen Clamp",
+    "objectID": "about/equipment/ZYGO-zegage-pro.html",
+    "href": "about/equipment/ZYGO-zegage-pro.html",
+    "title": "Zygo Zegage Plus Surface Profilometer",
     "section": "",
-    "text": "Designed to be used to create weldments in accordance to ISO 3690 / AWS A4.3 Ensures results are comparable to academic and industry data obtained through the same standards. Post-weld hydrogen levels must be beneath a threshold level to prevent hydrogen cracking."
+    "text": "Used for very high resolution imaging of matterial surfaces profiles. Provides highly detailed information on post weld surfaces, worn surfaces, and fracture surfaces. Used for quality control and design verification in a variety of surface related industries including casting, machining, glass shaping, and packaging."
   },
   {
-    "objectID": "about/equipment/ARBO-arbour-press.html",
-    "href": "about/equipment/ARBO-arbour-press.html",
-    "title": "DAKE Arbour Press",
+    "objectID": "about/equipment/WETS-struers-labotom-3-wet-saw.html",
+    "href": "about/equipment/WETS-struers-labotom-3-wet-saw.html",
+    "title": "Struers Labotom 3 Wet Saw",
     "section": "",
-    "text": "The DAKE arbour press is a manually operated press that is used for pressing small samples. It is a versatile tool that can be used for a variety of applications, including pressing, punching, and bending. The press is equipped with a handwheel that allows for precise control of the pressure applied to the sample. The DAKE arbour press is an essential tool for any laboratory that works with small samples and requires precise control over the pressing process."
+    "text": "This saw is used in cutting a wide range of workpiece shapes, sizes, complexities and materials, to understand weld metallurgy, affected areas around weld and penetration characteristics. In industry, this type of equipment is used in evaluating weld penetration characteristics to meet requirements."
   },
   {
-    "objectID": "about/equipment/STUD-stud-welder.html",
-    "href": "about/equipment/STUD-stud-welder.html",
-    "title": "Stud Welder TRW",
+    "objectID": "about/equipment/COMS-comsol-multiphysics.html",
+    "href": "about/equipment/COMS-comsol-multiphysics.html",
+    "title": "COMSOL",
     "section": "",
-    "text": "Arc welds metal “studs” onto the base plate material with controller burst current. We use this to study various stud welding techniques and material combinations and their effectiveness. Used across industries for affixing any kind of stand off, bolt, or other stud type piece onto a base matterial. Commonly used for threaded connections, PCB standoffs, and many automotive parts."
+    "text": "General-purpose simulation software based on advanced numerical methods. The Model Builder includes all of the steps in the modeling workflow — from defining geometries, material properties, and the physics that describe specific phenomena to solving and postprocessing models for producing accurate results. It is used to simulate designs, devices, and processes in all fields of engineering, manufacturing, and scientific research."
   },
   {
-    "objectID": "about/equipment/ONH-Bruker-Galileo-G8.html",
-    "href": "about/equipment/ONH-Bruker-Galileo-G8.html",
-    "title": "Bruker Galileo G8",
+    "objectID": "about/equipment/S500-lincoln-s500.html",
+    "href": "about/equipment/S500-lincoln-s500.html",
+    "title": "Lincoln S500 with variable polarity module",
     "section": "",
-    "text": "High precision quantification of total hydrogen, oxygen and nitrogen in metals. Used on assessment of welding consumables, study of hydrogen transport and diffusivity. Quantifying oxygen in weldments and study of nitrogen in duplex stainless. This chromatographer is useful to study the viability of a material in a high hydrogen environment concentration. It can be used to study the pipelines repurposing and the life expectancy."
+    "text": "Can perform Stick, DC TIG, Pulsed DC TIG, MIG, Pulsed MIG, Flux-Cored processes. Provides an extremely fast arc response, includes over 65 standard welding waveforms for optimized performance. Exceptional welding performance with high power factor and efficiency for welding thicker materials"
   },
   {
-    "objectID": "about/equipment/BRO1-charpy-broach.html",
-    "href": "about/equipment/BRO1-charpy-broach.html",
-    "title": "Charpy Broach",
+    "objectID": "about/equipment/PUNC-roper-whitney-sample-punch.html",
+    "href": "about/equipment/PUNC-roper-whitney-sample-punch.html",
+    "title": "Roper Whitney Sample Punch",
     "section": "",
-    "text": "Used to create the notch in Charpy V-Notch testing. This equipment is essential to impact testing which provides impact properties of materials, and it is used in industry where impact testing in required."
+    "text": "Easy-use machine to obtain different shapes samples from 1/16 to 9/16 in. Used to obtain coupons that fit the Galileo G8 crucibles for posterior characterization. Used in industry to punch holes or obtain different samples sizes to fit the required experiments."
   },
   {
-    "objectID": "about/equipment/SPT3-hl-wd-dental-spot_welder.html",
-    "href": "about/equipment/SPT3-hl-wd-dental-spot_welder.html",
-    "title": "HL-WD Dental Spot Welder",
+    "objectID": "about/equipment/WAAM-lincoln-sculptprint-waam.html",
+    "href": "about/equipment/WAAM-lincoln-sculptprint-waam.html",
+    "title": "Lincoln Sculptprint WAAM",
     "section": "",
-    "text": "Perform a spot weld on thin plates of metal. In car manufacturing, many joints are made by a spot weld, due to it’s velocity and effectiveness."
+    "text": "It can 3D print a variety of industrial metals including combinations of materials. Can manufacture part geometries and features that are challenging or not possible for traditional casting or machining. A promising application in industry is print on demand, which can help eliminate supply chain bottlenecks."
   },
   {
-    "objectID": "about/equipment/CALI-dmmcheck-calibration-reference.html",
-    "href": "about/equipment/CALI-dmmcheck-calibration-reference.html",
-    "title": "DMMCheck Plus Multi-Function Calibration Reference",
+    "objectID": "about/equipment/TORM-tormach-pcnc-770m.html",
+    "href": "about/equipment/TORM-tormach-pcnc-770m.html",
+    "title": "Tormach PCNC 770M CNC",
     "section": "",
-    "text": "The DMMCheck Plus Multi-Function Calibration Reference is a precision voltage and current reference designed to calibrate a wide variety of test and measurement instruments. It is a versatile and easy-to-use calibration reference that ensures that test equipment is accurate and in compliance with industry standards."
+    "text": "Medium size CNC Milling machine for general purpose machining. We use this machine for the rapid production of custom parts for experimental setups as well as production of charpy samples. In-House machining capabilities allows for rapid deployment of new designs and fixtures to machines."
   },
   {
-    "objectID": "about/equipment/ROCK-hardness-tester-rockwell-2000.html",
-    "href": "about/equipment/ROCK-hardness-tester-rockwell-2000.html",
-    "title": "Hardness Tester - Wilson Rockwell 2000",
+    "objectID": "about/equipment/FMON-primes-beam-profiler.html",
+    "href": "about/equipment/FMON-primes-beam-profiler.html",
+    "title": "Primes FM+ Beam Profiler",
     "section": "",
-    "text": "Semi-automated high precision hardness measurement of different shape pieces. Study the effect in hardness of different powder mixtures in the welded surfaces. Characterize hardness pieces allowing the repeatability and reproducibility of the experiments."
+    "text": "Quick and reliable measurement of laser beam parameters, such as the spacial power density distribution and size of laser spot. Used to quantify the laser beam parameter and input to models for bead characteristics prediction. Used to find optimum working distance for laser and detect laser optics deterioration in high power lasers (ISO 11146)."
   },
   {
-    "objectID": "about/equipment/HOTM-buehler-simplimet-1000-hot-mount.html",
-    "href": "about/equipment/HOTM-buehler-simplimet-1000-hot-mount.html",
-    "title": "Buehler SimpliMet 1000 Hot Mount",
+    "objectID": "about/equipment/DILA-linseis-dilatometer-l78.html",
+    "href": "about/equipment/DILA-linseis-dilatometer-l78.html",
+    "title": "Linseis Dilatometer L78 R.I.T.A.",
     "section": "",
-    "text": "Traditional automatic mounting press machine that uses hot compression system for making mounting metal samples. Used to make mounting metal samples in thermosetting resins, which protects and preserves edges and surface defects during preparation steps and provides excellent sample quality The samples are essential to study the material itself, and from them all the information is obtain through microscope or different kind of tests."
+    "text": "With a dilatometer it is possible to study the different deformation diagrams of a sample. A key point in welding study is the cooling rates and resulting microstructures process that can be studied with this machine. Knowing cooling rates and final microstructure is used to know the final behaviours of piecces and so it affects the design."
+  },
+  {
+    "objectID": "about/equipment/3DSC-creaform-metrascan-750.html",
+    "href": "about/equipment/3DSC-creaform-metrascan-750.html",
+    "title": "Creaform MetraScan 750 3D Scanner",
+    "section": "",
+    "text": "The MetraScan 750 is a CMM scanner to perform highly accurate and repeatable metrology-grade measurements and 3D geometrical surface inspections. At the CCWJ it is implemented to aid with toolpath generation for zero-programming repair of worn out surfaces using robotic welding. In industry it is comonly used to capture 3D point cloud of objects and metrological inspection in a manufacturing process."
+  },
+  {
+    "objectID": "about/equipment/HOTW-hitachi-hotwire.html",
+    "href": "about/equipment/HOTW-hitachi-hotwire.html",
+    "title": "Hitachi Hotwire",
+    "section": "",
+    "text": "Used to resistively heat simultaneous secondary wire feed. Incorporating the use of hot-wire feed into arc welding processes helps stabilize the arc by reducing magnetic arc blow. It also reduces the nominal heat input to the primary wire at the torch. In all welding positions, it can significantly bolster productivity rates while reducing heat input to the weld metal."
   },
   {
     "objectID": "about/equipment/MIRO-phantom-ex4.html",
@@ -1274,25 +1267,32 @@
     "text": "CAD software that specializes in complex geometries and model applications. It can create, edit and analyze a variety of 3D model formats including solids, surfaces, point clouds, meshes and NURBS curves. Not only can it model, but with appropriate plug-ins such as Grasshopper, it can play an integral role in automating the virtual analysis of real-world industry parts."
   },
   {
-    "objectID": "about/equipment/GEOM-geomagic.html",
-    "href": "about/equipment/GEOM-geomagic.html",
-    "title": "Geomagic Design X",
+    "objectID": "about/equipment/ALI-alicat-scientific-mass-flow-controllers.html",
+    "href": "about/equipment/ALI-alicat-scientific-mass-flow-controllers.html",
+    "title": "Alicat Scientific high-precision mass flow controllers",
     "section": "",
-    "text": "Geomagic Design X is a comprehensive reverse engineering software that combines history-based CAD with 3D scan data processing. Geomagic Design X enables the creating of accurate CAD models from 3D scans, using a combination of automatic and guided solid model extraction."
+    "text": "Use mass flow controllers to measure and control gas flow from 0.5 SCCM to 5,000 SPM. Can mix multiple gases at specific ratios. Digital feedback from PLC or PC allows real-time changes to the flow rate setpoint to maintain optimal process conditions."
   },
   {
-    "objectID": "about/equipment/KUKA-kuka-kr16-dkp-450.html",
-    "href": "about/equipment/KUKA-kuka-kr16-dkp-450.html",
-    "title": "KUKA KR16 / DKP-450",
+    "objectID": "about/equipment/VICK-hardness-mapper-wilson-tukon-2500-vickers.html",
+    "href": "about/equipment/VICK-hardness-mapper-wilson-tukon-2500-vickers.html",
+    "title": "Hardness Mapper - Wilson Tukon 2500 Vickers",
     "section": "",
-    "text": "8-axis robotic arm and positioner system suitable for repetitive industrial tasks with a 16 kg payload. Used to operate a 9 KW laser cladding system. Kuka provides a friendly programming ecosystem that allows implementation of a parametric programming technique for repair purpose."
+    "text": "Fully automated high precision hardness quantification of a broad spectrum of materials. Used to create hardness maps and study the hardness of carbides inserted on the material matrix. Useful to determine if a material meets the minimum industrial requirements for selling and distribution regarding depth and width."
   },
   {
-    "objectID": "about/equipment/FLIR-flir-a6751sc-thermal-camera.html",
-    "href": "about/equipment/FLIR-flir-a6751sc-thermal-camera.html",
-    "title": "Flir A6751sc Thermal Camera",
+    "objectID": "about/equipment/APC-cyclomatic-arc-pattern-controller-90a.html",
+    "href": "about/equipment/APC-cyclomatic-arc-pattern-controller-90a.html",
+    "title": "Cyclomatic Arc Pattern Controller 90A",
     "section": "",
-    "text": "The FLIR A6751sc thermal imaging camera is a high-performance, high-speed thermal camera. The camera features a high-resolution detector that provides excellent image quality and temperature measurement accuracy."
+    "text": "Magnetic arc control provides even heat distribution, prevents undercutting, eliminated excessive porosity, ensures sufficient penetration, and evens out the weld puddle. Reduces variability of welding arc to produce improved experiment consistency. Aids in maintaining a consistent welding arc to prevent rework for industries involved with fabrications/manufacturing."
+  },
+  {
+    "objectID": "about/equipment/SMIC-nikon-smz-745t-stereomicroscope.html",
+    "href": "about/equipment/SMIC-nikon-smz-745t-stereomicroscope.html",
+    "title": "Nikon SMZ 745T Stereomicroscope",
+    "section": "",
+    "text": "Optical microscope designed for low magnification observation of a sample with 7.5x zoom and 115 mm working distance. Used to study the surfaces of solid samples, and observe fracture surfaces and to inspect larger objects such as small mechanical pieces, and minerals. They are essential in the preparation of samples for light microscopy and the two microscopes complement each other."
   },
   {
     "objectID": "about/equipment/LLIN-laserline-ldf9000-40.html",
