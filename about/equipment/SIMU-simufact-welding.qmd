@@ -1,7 +1,7 @@
 ---
 title: MSC Simufact Welding
 categories: [Computer / Software]
-image: SIMI-simufact-welding.jpg
+image: SIMU-simufact-welding.jpg
 about:
   template: solana
   image: SIMU-simufact-welding.jpg
