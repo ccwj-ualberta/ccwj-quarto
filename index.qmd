@@ -4,7 +4,7 @@ page-layout: full
 
 ::: {.column-screen}
 
-![](assets/index-banner2.png)
+![](assets/index-banner1.png)
 
 :::
 
@@ -17,5 +17,27 @@ page-layout: full
 The Canadian Centre for Welding and Joining (CCWJ) is a \$5M research facility employing researchers at all stages of their career and awarding doctoral degrees through the Department of Chemical and Materials Engineering at the University of Alberta.
 
 Our research has historically been centred on steel applications and product development, wear protective overlays, numerical modelling of welding, and laser-based advanced manufacturing. Our results in this area have been published in leading journals including Acta Materialia, Materials Transactions A. Our funding support in the last 10 years exceeds \$6M, and our experimental facilities include all arc welding processes, resistance spot welding, laser welding, high speed imaging, thermal imaging, instrumented impact testing, computer assisted hardness mapping, hydrogen testing, and more. The centralized facilities at the University of Alberta include characterization facilities reaching atomic-resolution TEM.
+
+<br>
+
+## Learn more about the CCWJ
+
+<br>
+
+:::: {.grid}
+
+::: {.g-col-4}
+[![<u>About Us</u>](assets/about-us.png)](about/about.qmd)
+:::
+
+::: {.g-col-4}
+[![<u>Our Research</u>](assets/our-research.png)](research/research.qmd)
+:::
+
+::: {.g-col-4}
+[![<u>Our Impact</u>](assets/our-impact.png)](about/what-we-do.qmd)
+:::
+::::
+
 
 :::
