@@ -35,7 +35,7 @@ Our research has historically been centred on steel applications and product dev
 :::
 
 ::: {.g-col-4}
-[![<u>Our Impact</u>](assets/our-impact.png)](about/what-we-do.qmd)
+[![<u>What we Offer</u>](assets/our-impact.png)](about/what-we-do.qmd)
 :::
 ::::
 
