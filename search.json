@@ -307,6 +307,13 @@
     "text": "Used to heat up materials until 1100°C to study the behavior of them at different temperatures. It complies with ASTM D36174. Useful to study heating curves and dilation of materials. Small scale furnace to characterize materials under different temperatures regimens"
   },
   {
+    "objectID": "about/equipment/VRWE-vrweld.html",
+    "href": "about/equipment/VRWE-vrweld.html",
+    "title": "vrWeld",
+    "section": "",
+    "text": "VR Weld is a welding simulator designed to immerse students in the welding profession, simulating and gamifying the welding environment using Oculus hardware."
+  },
+  {
     "objectID": "about/equipment/FLIR-flir-a6751sc-thermal-camera.html",
     "href": "about/equipment/FLIR-flir-a6751sc-thermal-camera.html",
     "title": "Flir A6751sc Thermal Camera",
@@ -325,7 +332,14 @@
     "href": "about/equipment/GEOM-geomagic.html",
     "title": "Geomagic Design X",
     "section": "",
-    "text": "Geomagic Design X is a comprehensive reverse engineering software that combines history-based CAD with 3D scan data processing. Geomagic Design X enables the creating of accurate CAD models from 3D scans, using a combination of automatic and guided solid model extraction."
+    "text": "Geomagic Design X is a comprehensive reverse engineering software that combines history-based CAD with 3D scan data processing. Geomagic Design X enables the creation of accurate CAD models from 3D scans, using a combination of automatic and guided solid model extraction."
+  },
+  {
+    "objectID": "about/equipment/YASK-yaskawa-motoman-robot.html",
+    "href": "about/equipment/YASK-yaskawa-motoman-robot.html",
+    "title": "Yaskawa Motoman Robot",
+    "section": "",
+    "text": "The Yaskawa Motoman MC Series robot is a high-speed robot designed with high rigidity and precision drives. It provides superior path accuracy and is used for laser cutting, laser welding, plasma cutting, and dispensing applications."
   },
   {
     "objectID": "about/equipment/DAQ1-ni-daq-system-usb-6351.html",
@@ -335,11 +349,39 @@
     "text": "As a multi-functional I/O device, this allows users to process signal data. With a variety of analog and digital inputs/outputs, it enables users to simplify measurements or even automate aspects of testing. It’s multifunctionality makes it useful anywhere advanced signal processing is required."
   },
   {
+    "objectID": "about/equipment/XIMI-xiris-weldmic.html",
+    "href": "about/equipment/XIMI-xiris-weldmic.html",
+    "title": "XIRIS WeldMic",
+    "section": "",
+    "text": "The Xiris WeldMic™ is a welding microphone specifically designed for integration with a Xiris weld camera. It allows fabricators to clearly hear, record, and playback welding sounds."
+  },
+  {
+    "objectID": "about/equipment/XIR1-xiris-xvc-1100-camera.html",
+    "href": "about/equipment/XIR1-xiris-xvc-1100-camera.html",
+    "title": "XIRIS XVC-1100 Camera",
+    "section": "",
+    "text": "The Xiris XVC-1100 Weld Camera is a fully digital camera designed for monitoring open arc welding processes. It features a spectacular 140+ dB High Dynamic Range (HDR) capability."
+  },
+  {
     "objectID": "about/equipment/SIMF-simufact-forming.html",
     "href": "about/equipment/SIMF-simufact-forming.html",
     "title": "MSC Simufact Forming",
     "section": "",
     "text": "Simulation tool for metal forming manufacturing processes. Can determine the optimal number and sequence of stages and process window with minimal material usage. Save material, time, tool life and money by replacing expensive and time-consuming physical testing with virtual testing."
+  },
+  {
+    "objectID": "about/equipment/SAW-lincoln-acdc-1000.html",
+    "href": "about/equipment/SAW-lincoln-acdc-1000.html",
+    "title": "Lincoln ACDC 1000 + Gantry",
+    "section": "",
+    "text": "The Lincoln Electric Power Wave® AC/DC 1000SD Advanced Submerged Arc Welder is an industry-leading machine for submerged arc welding. The software-driven AC, DC positive, or DC negative output provides advanced control over deposition rate and penetration, resulting in increased weld speeds, consistently higher quality welds, and improved efficiency. The machine also offers automatic polarity switching, multi-arc configuration, advanced connectivity, and severe-duty reliability."
+  },
+  {
+    "objectID": "about/equipment/ROBO-robodk.html",
+    "href": "about/equipment/ROBO-robodk.html",
+    "title": "RoboDK",
+    "section": "",
+    "text": "RoboDK is a powerful and cost-effective simulator for industrial robots and robot programming. It allows users to program robots offline, eliminating production downtime caused by shop floor programming. The software provides tools for simulation, offline programming, and automated tool calibration."
   },
   {
     "objectID": "about/equipment/EPOL-fischione-110-electro-polisher.html",
@@ -374,7 +416,7 @@
     "href": "about/equipment/CALI-dmmcheck-calibration-reference.html",
     "title": "DMMCheck Plus Multi-Function Calibration Reference",
     "section": "",
-    "text": "The DMMCheck Plus Multi-Function Calibration Reference is a precision voltage and current reference designed to calibrate a wide variety of test and measurement instruments. It is a versatile and easy-to-use calibration reference that ensures that test equipment is accurate and in compliance with industry standards."
+    "text": "The DMMCheck Plus Multi-Function Calibration Reference is a precision voltage and current reference designed to calibrate measurement instruments."
   },
   {
     "objectID": "about/equipment/SPT3-hl-wd-dental-spot_welder.html",
@@ -391,11 +433,39 @@
     "text": "Used to create the notch in Charpy V-Notch testing. This equipment is essential to impact testing which provides impact properties of materials, and it is used in industry where impact testing in required."
   },
   {
+    "objectID": "about/equipment/XMT-miller-xmt450.html",
+    "href": "about/equipment/XMT-miller-xmt450.html",
+    "title": "Miller XMT450",
+    "section": "",
+    "text": "The Miller XMT 450 is a versatile multiprocess welder known for its excellent arc performance. It supports stick (SMAW), TIG (GTAW), MIG (GMAW), Air Carbon Arc Cutting, and Flux-Cored (FCAW) processes."
+  },
+  {
     "objectID": "about/equipment/ONH-Bruker-Galileo-G8.html",
     "href": "about/equipment/ONH-Bruker-Galileo-G8.html",
     "title": "Bruker Galileo G8",
     "section": "",
     "text": "High precision quantification of total hydrogen, oxygen and nitrogen in metals. Used on assessment of welding consumables, study of hydrogen transport and diffusivity. Quantifying oxygen in weldments and study of nitrogen in duplex stainless. This chromatographer is useful to study the viability of a material in a high hydrogen environment concentration. It can be used to study the pipelines repurposing and the life expectancy."
+  },
+  {
+    "objectID": "about/equipment/DYNA-miller-dynasty-700.html",
+    "href": "about/equipment/DYNA-miller-dynasty-700.html",
+    "title": "Miller Dynasty 700",
+    "section": "",
+    "text": "The Miller Dynasty 700 is a AC/DC, compact TIG welding machine suitable for various industrial applications, including precision metal fabrication, heavy manufacturing, maintenance and repair, pipe and tube manufacturing, aerospace, and TIG automation."
+  },
+  {
+    "objectID": "about/equipment/PIPE-miller-pipepro-450rfc.html",
+    "href": "about/equipment/PIPE-miller-pipepro-450rfc.html",
+    "title": "Miller PipePro 450RFC",
+    "section": "",
+    "text": "The Miller PipePro 450 RFC is a versatile multiprocess welding power source. It supports various welding processes, including MIG (GMAW), pulsed MIG (GMAW-P), flux-cored (FCAW), TIG (GTAW), stick (SMAW), and air carbon arc (CAC-A) cutting and gouging."
+  },
+  {
+    "objectID": "about/equipment/TWEL-transvalor-transweld.html",
+    "href": "about/equipment/TWEL-transvalor-transweld.html",
+    "title": "Transvalor Transweld",
+    "section": "",
+    "text": "TRANSWELD software, developed by Transvalor, is used for predicting the thermomechanical behavior of assemblies during welding processes. It integrates multi-physical models to simulate the real behavior of metal in liquid, mushy, and solid states, allowing for a comprehensive analysis of material evolution."
   },
   {
     "objectID": "about/equipment/STUD-stud-welder.html",
@@ -405,11 +475,18 @@
     "text": "Arc welds metal “studs” onto the base plate material with controller burst current. We use this to study various stud welding techniques and material combinations and their effectiveness. Used across industries for affixing any kind of stand off, bolt, or other stud type piece onto a base matterial. Commonly used for threaded connections, PCB standoffs, and many automotive parts."
   },
   {
+    "objectID": "about/equipment/LIHW-liburdi-hotwire-mig-system.html",
+    "href": "about/equipment/LIHW-liburdi-hotwire-mig-system.html",
+    "title": "Liburdi Hotwire MIG System",
+    "section": "",
+    "text": "Automatic MIG welding system designed by Liburdi Dimetrics."
+  },
+  {
     "objectID": "about/equipment/ARBO-arbour-press.html",
     "href": "about/equipment/ARBO-arbour-press.html",
     "title": "DAKE Arbour Press",
     "section": "",
-    "text": "The DAKE arbour press is a manually operated press that is used for pressing small samples. It is a versatile tool that can be used for a variety of applications, including pressing, punching, and bending. The press is equipped with a handwheel that allows for precise control of the pressure applied to the sample. The DAKE arbour press is an essential tool for any laboratory that works with small samples and requires precise control over the pressing process."
+    "text": "The DAKE arbour, manually-operated press is used for the pressing, punching, and bending of small samples. The press is equipped with a handwheel that allows for precise control of the pressure applied to the sample."
   },
   {
     "objectID": "about/equipment/DIFH-hydrogen-clamp.html",
@@ -424,6 +501,13 @@
     "title": "Primes Power Meter CPM-F10",
     "section": "",
     "text": "High precision measuring device for industrial laser. Used to quantify effective laser power and loss of laser power through different optics medium. Can detect degradation of diode lasers and laser optics."
+  },
+  {
+    "objectID": "about/equipment/SPEC-ocean-optics-spectrometer.html",
+    "href": "about/equipment/SPEC-ocean-optics-spectrometer.html",
+    "title": "Ocean Optics Spectrometer",
+    "section": "",
+    "text": "The Ocean Optics Spectrometer covers UV, visible, and near-infrared wavelengths."
   },
   {
     "objectID": "about/equipment/SPT2-hotspot-ii-heavy-duty-thermocouple-spotwelder.html",
@@ -466,6 +550,13 @@
     "title": "Nikon Eclipse MA200 Inverted Microscope",
     "section": "",
     "text": "Used for optical contrast method such as brightfield, and differential interference contrast (DIC) without the need for sample leveling. Study different defects in metal surfaces, it also allows to identify the crystal grain boundaries in metal alloys and metallurgical material inspection in general. An inverted microscope is useful to decide which materials are stable enough for specific purposes and is also use as a form of quality assurance."
+  },
+  {
+    "objectID": "about/equipment/VEO-phantom-veo1310-camera.html",
+    "href": "about/equipment/VEO-phantom-veo1310-camera.html",
+    "title": "Phantom VEO1310 High Speed Camera (monochrome)",
+    "section": "",
+    "text": "The Phantom VEO 1310 is an advanced high-speed camera featuring a custom 1.2-megapixel CMOS sensor, achieving recording speeds of over 10,800 frames per second (fps) at full resolution and even higher rates at reduced resolutions."
   },
   {
     "objectID": "about/equipment/IMPA-ceast-9350-drop-tower-impact-system.html",
@@ -1106,6 +1197,13 @@
     ]
   },
   {
+    "objectID": "about/equipment/PLAS-miller-spectrum-2050.html",
+    "href": "about/equipment/PLAS-miller-spectrum-2050.html",
+    "title": "Miller Spectrum 2050",
+    "section": "",
+    "text": "The Miller Spectrum 2050 is an industrial plasma cutting and gouging system."
+  },
+  {
     "objectID": "about/equipment/BMON-primes-beam-profiler.html",
     "href": "about/equipment/BMON-primes-beam-profiler.html",
     "title": "Primes BM+ Beam Profiler",
@@ -1134,11 +1232,25 @@
     "text": "A CAE specific direct modeling and meshing solution software that streamlines CAD clean-up, simplification and meshing workflow. This solution is unique in that it combines computational parts and assemblies technology with a generative framework, which enables interactive and incremental analysis. It provides a truly end to end solution for designers making high-precision, industrial components."
   },
   {
+    "objectID": "about/equipment/FSW-indumatic-fsw.html",
+    "href": "about/equipment/FSW-indumatic-fsw.html",
+    "title": "Indumatic FSW",
+    "section": "",
+    "text": "Indumatic’s Friction Stir Welding (FSW) equipment is designed for efficient and high-quality welding. The FSW tool consists of a rotating component with a shoulder and pin, which can vary in design (threaded, scrolled, fluted, or smooth) based on material thickness"
+  },
+  {
     "objectID": "about/equipment/VXE-vxelements.html",
     "href": "about/equipment/VXE-vxelements.html",
     "title": "VXelements",
     "section": "",
     "text": "3D scanning software platform that works in complete synergy with the entire fleet of Creaform’s 3D measurement solutions. VXelements is able to manipulate coordinates of 3D scans to user specification enabling to sync with robot coordinates and generate inspection report of mismatch between objects. Industrial use includes quality check ability for manufacturing process using tight measurement capability."
+  },
+  {
+    "objectID": "about/equipment/TARC-thermalarc-sp4000w.html",
+    "href": "about/equipment/TARC-thermalarc-sp4000w.html",
+    "title": "ThermalArc SP4000W / 500SP",
+    "section": "",
+    "text": "The Thermal Arc PowerMaster 400SP and 500SP are versatile welding systems designed for various applications. They offer features like adjustable voltage change-over, menu-driven controls, and compatibility with MIG, pulse GMAW, and stick welding."
   },
   {
     "objectID": "about/equipment/MLAT-mini-lathe-king-kg-8712mi.html",
@@ -1204,6 +1316,13 @@
     "text": "It can 3D print a variety of industrial metals including combinations of materials. Can manufacture part geometries and features that are challenging or not possible for traditional casting or machining. A promising application in industry is print on demand, which can help eliminate supply chain bottlenecks."
   },
   {
+    "objectID": "about/equipment/CAVI-cavitar-cavilux-hf-810nm-500w-laser.html",
+    "href": "about/equipment/CAVI-cavitar-cavilux-hf-810nm-500w-laser.html",
+    "title": "Cavitar Cavilux HF 810nm 500W laser",
+    "section": "",
+    "text": "The CAVILUX HF is a versatile and powerful pulsed diode laser light source designed for high-speed illumination in scientific and industrial applications. It operates at either 640 nm (visible) or 810 nm (invisible), with an output power of up to 500 W coupled to a 1.5 mm diameter fiber. The laser offers precise illumination, camera synchronization, and compatibility with high-speed cameras."
+  },
+  {
     "objectID": "about/equipment/TORM-tormach-pcnc-770m.html",
     "href": "about/equipment/TORM-tormach-pcnc-770m.html",
     "title": "Tormach PCNC 770M CNC",
@@ -1225,6 +1344,13 @@
     "text": "With a dilatometer it is possible to study the different deformation diagrams of a sample. A key point in welding study is the cooling rates and resulting microstructures process that can be studied with this machine. Knowing cooling rates and final microstructure is used to know the final behaviours of piecces and so it affects the design."
   },
   {
+    "objectID": "about/equipment/MMAT-miller-millermatic-212.html",
+    "href": "about/equipment/MMAT-miller-millermatic-212.html",
+    "title": "Miller Millermatic 212",
+    "section": "",
+    "text": "The Millermatic 212 Auto-Set is a versatile MIG welding system by Miller Electric. It offers an amperage range of 30–210 A, with a rated output of 160 A at 24.5 VDC and a 60% duty cycle. The system supports both MIG (GMAW) and flux-cored (FCAW) processes."
+  },
+  {
     "objectID": "about/equipment/3DSC-creaform-metrascan-750.html",
     "href": "about/equipment/3DSC-creaform-metrascan-750.html",
     "title": "Creaform MetraScan 750 3D Scanner",
@@ -1237,6 +1363,27 @@
     "title": "Hitachi Hotwire",
     "section": "",
     "text": "Used to resistively heat simultaneous secondary wire feed. Incorporating the use of hot-wire feed into arc welding processes helps stabilize the arc by reducing magnetic arc blow. It also reduces the nominal heat input to the primary wire at the torch. In all welding positions, it can significantly bolster productivity rates while reducing heat input to the weld metal."
+  },
+  {
+    "objectID": "about/equipment/SPT1-miller-msw-spotwelder.html",
+    "href": "about/equipment/SPT1-miller-msw-spotwelder.html",
+    "title": "Miller MSW Spotwelder",
+    "section": "",
+    "text": "The Miller MSW Series is a lightweight, air-cooled spot welder designed for portability and ease of operation. It provides a quick and effective means for spot welding mild, galvanized, or stainless materials."
+  },
+  {
+    "objectID": "about/equipment/V210-phantom-camera.html",
+    "href": "about/equipment/V210-phantom-camera.html",
+    "title": "Phantom V 210 High Speed Camera (colour)",
+    "section": "",
+    "text": "The Phantom V210 is a one-megapixel digital high-speed camera designed for capturing fast events. It can take over 2000 frames per second (fps) at full 1280 x 800 resolution and up to 300,000 fps at reduced resolution."
+  },
+  {
+    "objectID": "about/equipment/SYNC-miller-syncrowave-200.html",
+    "href": "about/equipment/SYNC-miller-syncrowave-200.html",
+    "title": "Miller SyncroWave 200",
+    "section": "",
+    "text": "The Miller Electric Syncrowave 200 is a TIG/stick welding power source designed for various applications. It features squarewave output with adjustable AC balance for aluminum welding, preventing tungsten spitting and arc rectification."
   },
   {
     "objectID": "about/equipment/MIRO-phantom-ex4.html",
@@ -1272,6 +1419,13 @@
     "title": "Rhino 6.0",
     "section": "",
     "text": "CAD software that specializes in complex geometries and model applications. It can create, edit and analyze a variety of 3D model formats including solids, surfaces, point clouds, meshes and NURBS curves. Not only can it model, but with appropriate plug-ins such as Grasshopper, it can play an integral role in automating the virtual analysis of real-world industry parts."
+  },
+  {
+    "objectID": "about/equipment/FANU-lincoln-fanuc-robot-s455.html",
+    "href": "about/equipment/FANU-lincoln-fanuc-robot-s455.html",
+    "title": "Lincoln /Fanuc Robot S455",
+    "section": "",
+    "text": "The Lincoln Electric Power Wave 455M/STT is a welding system that can be connected to a FANUC robot."
   },
   {
     "objectID": "about/equipment/ALI-alicat-scientific-mass-flow-controllers.html",
