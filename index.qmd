@@ -4,7 +4,7 @@ page-layout: full
 
 ::: {.column-screen}
 
-![](assets/index-banner1.png)
+![](assets/index-banner5.png)
 
 :::
 
