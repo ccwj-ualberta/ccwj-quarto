@@ -6,3 +6,5 @@ about:
   template: solana
   image: FANU-lincoln-fanuc-robot-s455.png
 ---
+
+The Lincoln Electric Power Wave 455M/STT is a welding system that can be connected to a FANUC robot.

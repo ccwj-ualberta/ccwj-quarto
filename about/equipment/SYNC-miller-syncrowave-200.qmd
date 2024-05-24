@@ -6,3 +6,5 @@ about:
   template: solana
   image: SYNC-miller-syncrowave-200.png
 ---
+
+The Miller Electric Syncrowave 200 is a TIG/stick welding power source designed for various applications. It features squarewave output with adjustable AC balance for aluminum welding, preventing tungsten spitting and arc rectification.

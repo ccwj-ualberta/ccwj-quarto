@@ -7,3 +7,4 @@ about:
   image: FSW-induma-mill.png
 ---
 
+Indumatic’s Friction Stir Welding (FSW) equipment is designed for efficient and high-quality welding. The FSW tool consists of a rotating component with a shoulder and pin, which can vary in design (threaded, scrolled, fluted, or smooth) based on material thickness

@@ -6,3 +6,5 @@ about:
   template: solana
   image: LIHW-liburdi-hotwire-mig-system.jpg
 ---
+
+Automatic MIG welding system designed by Liburdi Dimetrics.

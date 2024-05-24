@@ -7,4 +7,4 @@ about:
   image: CALI-dmmcheck-calibration-reference.jpg
 ---
 
-The DMMCheck Plus Multi-Function Calibration Reference is a precision voltage and current reference designed to calibrate a wide variety of test and measurement instruments. It is a versatile and easy-to-use calibration reference that ensures that  test equipment is accurate and in compliance with industry standards.
+The DMMCheck Plus Multi-Function Calibration Reference is a precision voltage and current reference designed to calibrate measurement instruments.

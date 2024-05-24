@@ -6,3 +6,5 @@ about:
   template: solana
   image: VRWE-vrweld.png
 ---
+
+VR Weld is a welding simulator designed to immerse students in the welding profession, simulating and gamifying the welding environment using Oculus hardware.
