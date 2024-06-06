@@ -5,10 +5,8 @@ title: "Programs and Scholarships"
 ### Research / Internship Projects
 
 Here you can find an overview of some of the research/internship
-projects currently available at the CCWJ. The complexity of each project
+[projects](../research/projects.qmd) currently available at the CCWJ. The complexity of each project
 depends on level of studies of the intern.
-
-- [Current projects](https://drive.google.com/file/d/1pCJWDJuLi54t099CGPH-2eS1knklj02x/view?usp=sharing)
 
 ### Scholarships and Exchange Programs
 
