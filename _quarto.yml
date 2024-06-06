@@ -46,12 +46,13 @@ website:
         href: https://twitter.com/search?q=centre%20for%20welding%20and%20joining&src=typed_query&f=top
       - icon: linkedin
         href: https://www.linkedin.com/company/ccwj/
+      - icon: instagram
 
   sidebar:
     - title: "About"
       style: "docked"
       contents:
-      - section: "About Us"
+      - section: "The CCWJ"
         contents:
         - about/about.qmd
         - about/what-we-do.qmd
