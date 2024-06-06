@@ -4,6 +4,7 @@
 $gray-700: #495057 !default;
 $primary: #231e1a !default;
 $link-color:   #5da366 !default;
+// $sidebar-bg: #E9E9E9 !default;
 
 // Fonts
 @font-face {
@@ -41,9 +42,19 @@ h3, h4, h5, h6 {
   max-height: 66px;
 }
 
+.quarto-navbar-tools {
+  height: 30px !important;
+}
+
 // left sidebar item appearance
 .list-group-item {
   font-family: 'Anivers';
+}
+
+.sidebar-item-text {
+  line-height: 22px;
+  font-family: 'Anivers';
+  font-size: 18px;
 }
 
 // listing appearances
