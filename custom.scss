@@ -17,17 +17,14 @@ $link-color:   #5da366 !default;
   src: url("assets/GoodTimes_CCWJ.ttf");
 }
 
-$h1-font-size: 1.9rem;
-$h2-font-size: 1.3rem;
-
-h1, h2 {
+h1 {
   font-family: 'Good Times';
   font-weight: 550 !important;
   color:$gray-700 !important;
 }
 
-h3, h4, h5, h6 {
-  font-family: 'Anivers';
+h2, h3, h4, h5, h6 {
+  // font-family: 'Anivers';
   margin-top: 1rem;
 }
 
@@ -35,7 +32,7 @@ h3, h4, h5, h6 {
 .navbar {
   background-image: url("assets/background-bar.png");
   font-size: 1.2rem;
-  font-family: 'Anivers';
+  // font-family: 'Anivers';
 }
 
 .navbar-brand > img {
@@ -47,14 +44,17 @@ h3, h4, h5, h6 {
 }
 
 // left sidebar item appearance
+/*
 .list-group-item {
   font-family: 'Anivers';
 }
+*/
+
 
 .sidebar-item-text {
-  line-height: 22px;
-  font-family: 'Anivers';
-  font-size: 18px;
+  line-height: 20px;
+  // font-family: 'Anivers';
+  font-size: 16px;
 }
 
 // listing appearances
