@@ -3,7 +3,7 @@ title: Gurbarn Singh
 image: GS1 - Gurbarn Singh.jpg
 subtitle: Materials Engineering
 about:
-  template: solana
+  template: trestles
   image: GS1 - Gurbarn Singh.jpg
   links:
     - icon: email
@@ -11,9 +11,11 @@ about:
       href: mailto:gurbarn@ualberta.ca
 ---
 
-**Prior Degrees:** Master's in Materials Engineering, 2020
-
 Ph.D. student at IITM JDP with UofA, Current position Quality Control Manager at Oil & Gas Industry. Origin of Country - India, Joined CCWJ in 2022. 15 Years Industrial experience in Quality Control and Welding Technology departments.
+
+##### Prior Degrees
+
+Master's in Materials Engineering, 2020
 
 #### Project
 

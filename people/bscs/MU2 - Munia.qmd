@@ -3,7 +3,7 @@ title: Munia
 image: MU2 - Munia.jpg
 subtitle: Chemical Engineering
 about:
-  template: solana
+  template: trestles
   image: MU2 - Munia.jpg
   links:
     - icon: email

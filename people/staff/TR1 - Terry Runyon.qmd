@@ -3,7 +3,7 @@ title: Terry Runyon
 image: TR1 - Terry Runyon.jpg
 subtitle: Materials Engineering, Chemical Engineering
 about:
-  template: solana
+  template: trestles
   image: TR1 - Terry Runyon.jpg
   links:
     - icon: email

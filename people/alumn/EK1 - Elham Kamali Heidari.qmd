@@ -3,7 +3,7 @@ title: Elham Kamali Heidari
 image: EK1 - Elham Kamali Heidari.jpg
 subtitle: Mechanical Engineering- Hong Kong University of Science and Technology (HKUST)
 about:
-  template: solana
+  template: trestles
   image: EK1 - Elham Kamali Heidari.jpg
   links:
     - icon: email
@@ -11,11 +11,13 @@ about:
       href: mailto:kamalihe@ualberta.ca
 ---
 
-**Prior Degrees:** PhD, Mechanical Engineering, 2016
-
 Elham joined CCWJ in October 2018 as a visiting professor. She is currently a Research Associate at National Research Council of Canada.
 
-#### Project
+##### Prior Degrees
+
+PhD, Mechanical Engineering, 2016
+
+##### Project
 
 *Study of the growth mechanism of chromium carbide overlays by electron microscopy techniques*
 

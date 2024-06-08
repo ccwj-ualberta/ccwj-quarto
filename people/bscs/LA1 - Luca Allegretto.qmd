@@ -3,7 +3,7 @@ title: Luca Allegretto
 image: LA1 - Luca Allegretto.jpg
 subtitle: Civil, materials, mining or mechanical engineering
 about:
-  template: solana
+  template: trestles
   image: LA1 - Luca Allegretto.jpg
   links:
     - icon: email

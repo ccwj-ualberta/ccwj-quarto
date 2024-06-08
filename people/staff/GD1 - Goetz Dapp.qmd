@@ -3,7 +3,7 @@ title: Goetz Dapp
 image: GD1 - Goetz Dapp.jpg
 subtitle: Associate Direct
 about:
-  template: solana
+  template: trestles
   image: GD1 - Goetz Dapp.jpg
   links:
     - icon: email

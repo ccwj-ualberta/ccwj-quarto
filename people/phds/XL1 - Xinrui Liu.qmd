@@ -3,7 +3,7 @@ title: Xinrui Liu
 image: XL1 - Xinrui Liu.jpg
 subtitle: Aerospace Engineering
 about:
-  template: solana
+  template: trestles
   image: XL1 - Xinrui Liu.jpg
   links:
     - icon: email
@@ -11,9 +11,11 @@ about:
       href: mailto:xinrui19@ualberta.ca
 ---
 
-**Prior Degrees:** Bachelor degree and Master Degree of Aerospace Engineering
-
 I joined CCWJ in 2021 and met those amazing people. I enjoy so much about learning things about welding engineering. I like badminton and playing guitars. Sometimes I will also make some videos and music by myself. My dream is to make a rocket by myself one day!
+
+##### Prior Degrees
+
+Bachelor degree and Master Degree of Aerospace Engineering
 
 #### Project
 

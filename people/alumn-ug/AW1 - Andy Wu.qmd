@@ -3,7 +3,7 @@ title: AW1 - Andy Wu
 image: AW1 - Andy Wu.jpg
 subtitle: Chemical Engineering
 about:
-  template: solana
+  template: trestles
   image: AW1 - Andy Wu.jpg
   links:
     - icon: email
@@ -13,6 +13,6 @@ about:
 
 First joined the CCWJ in 2021, my parents immigrated from China but I am born in Canada! My dream is to work towards making the world better by addressing climate change. My main hobbies includes sports such as basketball and hockey. I was awarded the Alliance Pipeline award in 2017, and I have no publications. I will be graduating the University of Alberta in Spring 2021.
 
-#### Project
+##### Project
 
 Calculating Effective Thermal Properties from Commercial Software JMatPro or ThermalCal, 

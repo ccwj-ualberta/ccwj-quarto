@@ -3,7 +3,7 @@ title: Rishiekesh Ramgopal
 image: RR7 - Rishiekesh Ramgopal.jpg
 subtitle: Materials Engineering
 about:
-  template: solana
+  template: trestles
   image: RR7 - Rishiekesh Ramgopal.jpg
   links:
     - icon: email
@@ -14,10 +14,12 @@ about:
       href: https://www.linkedin.com/in/rishiekesh-ramgopal/
 ---
 
-**Prior Degrees:** BTech, Metallurgical and Materials Enginnering, 2021
-
 I initially joined the CCWJ lab through the MITACS Research internship Scholarship in the summer of 2019. After my internship, I went back to India to complete my undergrad, then I returned to the CCWJ to pursue my Masters. Recently my favorite pastimes are Skiing and hockey. My poster based on the internship was accepted for presentation at Fabtech 2019. I have a publication based on the importance of additive manufacturing in the automotive industry.
 
-#### Project
+##### Prior Degrees
+
+BTech, Metallurgical and Materials Enginnering, 2021
+
+##### Project
 
 I am working on methods to reduce fume emission during welding by understanding the deposition rate and controlling the heat input to the ideal amount through mass and energy balance.

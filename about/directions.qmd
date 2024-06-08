@@ -1,6 +1,5 @@
 ---
 title: "Directions"
-toc: true
 ---
 
 ## CCWJ Main Lab

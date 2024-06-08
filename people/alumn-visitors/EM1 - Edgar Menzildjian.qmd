@@ -3,19 +3,22 @@ title: Edgar Menzildjian
 image: EM1 - Edgar Menzildjian.jpg
 subtitle: Materials Engineering, Chemical Engineering, Mechanical Engineering
 about:
-  template: solana
+  template: trestles
   image: EM1 - Edgar Menzildjian.jpg
   links:
     - icon: email
       text: menzildj@ualberta.ca
       href: mailto:menzildj@ualberta.ca
 ---
-**Prior Degrees:** BAC in France, 2018
 
 Hello, I am a student at the school of Polytech Montpellier in France, I work in a company called VELAN SAS, in which we manufacture valves for nuclear power plants.
 
 My passions are sports (gym, mountain biking, and hiking) and astronomy, I love to discover new things and I take advantage of this international mobility in Canada to learn new ways of thinking, here people are different and I love that.
 
-#### Project
+##### Prior Degrees
+
+BAC in France, 2018
+
+##### Project
 
 I work on Friction Stir Welding, and others ways to weld 

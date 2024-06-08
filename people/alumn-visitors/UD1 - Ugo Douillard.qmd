@@ -3,7 +3,7 @@ title: Ugo Douillard
 image: UD1 - Ugo Douillard.jpg
 subtitle: Materials Engineering, exchange program (ENSICAEN in France)
 about:
-  template: solana
+  template: trestles
   image: UD1 - Ugo Douillard.jpg
   links:
     - icon: email
@@ -13,10 +13,13 @@ about:
       text: ugo-douillard-407975222
       href: https://www.linkedin.com/in/ugo-douillard-407975222/
 ---
-**Prior Degrees:** Baccalauréat specialised in science in 2018
 
 I am Ugo DOUILLARD a french student doing an internship at the CCWJ for 4 months. It is my first time in Canada. I have arrived at the end of April 2022. In France I am doing an Meng specialised in the study of structural materials. I have already done a research projet on superconducting materials with J. Noudem at the CRISMAT in Caen. At the CCWJ I will be working on the FSW machine to learn more about friction stir welding. I like playing soccer and video games, and hang out with my friends. 
 
-#### Project
+##### Prior Degrees
+
+Baccalauréat specialised in science in 2018
+
+##### Project
 
 I am doing an internship at the ccwj to fullfil my Meng in France. I will be working on the FSW machine on aluminium aloys or on steel.

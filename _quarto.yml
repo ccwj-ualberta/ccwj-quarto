@@ -42,15 +42,12 @@ website:
         file: apply/canadian.qmd
 
     tools:
-      - icon: twitter
-        href: https://twitter.com/search?q=centre%20for%20welding%20and%20joining&src=typed_query&f=top
       - icon: linkedin
         href: https://www.linkedin.com/company/ccwj/
-      - icon: instagram
 
   sidebar:
     - title: "About"
-      style: "docked"
+      style: "floating"
       contents:
       - section: "The CCWJ"
         contents:
@@ -131,5 +128,6 @@ website:
 format:
   html:
     toc: false
+    page-layout: full
 
 theme: custom.scss

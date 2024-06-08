@@ -3,7 +3,7 @@ title: Sandeep Singh Parmar
 image: SS3 - Sandeep Singh Parmar.jpg
 subtitle: Materials Engineering
 about:
-  template: solana
+  template: trestles
   image: SS3 - Sandeep Singh Parmar.jpg
   links:
     - icon: email
@@ -13,8 +13,6 @@ about:
       text: sandeep-singh-b3194019
       href: https://www.linkedin.com/in/sandeep-singh-b3194019/
 ---
-
-**Prior Degrees:** Bachelor of Technology, Mechanical Engineering, 2008
 
 First Joined CCWJ: Sept 28, 2022
 Country of Origin: India
@@ -36,6 +34,10 @@ Awards:
 5. 2nd Rank (Equivalent to a silver medal-well from 3rd year onwards university started giving money instead of medals) in 3rd year during my undergraduate study at Ganpat University in the year 2007.
 
 6. Best Fielder Award in District level cricket tournament held in the year 1998.
+
+##### Prior Degrees:
+
+Bachelor of Technology, Mechanical Engineering, 2008
 
 #### Project
 

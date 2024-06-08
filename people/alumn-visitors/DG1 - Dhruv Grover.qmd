@@ -3,7 +3,7 @@ title: Dhruv Grover
 image: DG1 - Dhruv Grover.jpeg
 subtitle: Chemical Engineering
 about:
-  template: solana
+  template: trestles
   image: DG1 - Dhruv Grover.jpeg
   links:
     - icon: email
@@ -13,10 +13,13 @@ about:
       text: dhruv-grover-8329481a1
       href: linkedin.com/in/dhruv-grover-8329481a1
 ---
-**Prior Degrees:** Currently pursuing B. Tech. in Chemical Engineering
 
 I am Dhruv Grover, a third-year undergraduate student at the Indian Institute of Technology (IIT) Roorkee, India. I was born and brought up in India. I love listening to music and have recently learned guitar. I am always available to play a badminton match. I joined CCWJ on 10th May 2022 as a Mitacs GRI intern. I will be working on segmentation of droplets in GMAW welding process. This project applies machine learning techniques to the automated high-speed video images of molten metal in welding.
 
-#### Project
+##### Prior Degrees
+
+Currently pursuing B. Tech. in Chemical Engineering
+
+##### Project
 
 Artificial Intelligence and TensorFlow for High Speed Video Analysis. 

@@ -3,7 +3,7 @@ title: Eric Stuparyk
 image: ES1 - Eric Stuparyk.jpeg
 subtitle: Chemical
 about:
-  template: solana
+  template: trestles
   image: ES1 - Eric Stuparyk.jpeg
   links:
     - icon: email
@@ -11,11 +11,8 @@ about:
       href: mailto:estupary@ualberta.ca
 ---
 
-Joined: 2021
-Country of Origin: Canada
-Hobbies: Hunting game birds, snowmobiling, skiing
-Awards: U of A Engineering Entrance Award, KERN Undergraduate Scholarship in Petroleum Engineering, Governor General Bronze Medal
+Joined: 2021. Country of Origin: Canada. Hobbies: Hunting game birds, snowmobiling, skiing. Awards: U of A Engineering Entrance Award, KERN Undergraduate Scholarship in Petroleum Engineering, Governor General Bronze Medal
 
-#### Project
+##### Project
 
 Database of material properties

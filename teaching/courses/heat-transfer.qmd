@@ -6,7 +6,6 @@ date: "2020"
 date-format: YYYY
 format:
   html:
-    toc: true
     toc-expand: 3
     link-external-icon: true
     link-external-new-tab: true

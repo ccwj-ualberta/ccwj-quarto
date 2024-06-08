@@ -6,7 +6,6 @@ date: "2021-09-01"
 date-format: YYYY
 format:
   html:
-    toc: true
     toc-expand: 2
     toc-depth: 2
     link-external-icon: true

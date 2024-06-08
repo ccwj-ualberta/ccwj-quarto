@@ -3,7 +3,7 @@ title: Yi Lu
 image: YL1 - Yi Lu.png
 subtitle: Materials Engineering
 about:
-  template: solana
+  template: trestles
   image: YL1 - Yi Lu.png
   links:
     - icon: email
@@ -11,10 +11,12 @@ about:
       href: mailto:ylu13@ualberta.ca
 ---
 
-**Prior Degrees:** Bachelor
-
 Lu Yi (Louie) is a Ph.D. candidate coming from China and he joined the CCWJ in 2018. He works on scaling analysis of characteristic values under a moving heat source on a 2D panel. Louie enjoys exploring culturing differences and playing video games in his spare time. Louie received DB Robinson Graduate Scholarship, CWA Foundation UofA Graduate Student Award, Neil McEwen Memorial Graduate Scholarship in Welding Engineering, CWA Edmonton Chapter Scholarship for Graduate Student, UofA Faculty of Graduate Studies & Research Graduate Student Travel Award, UofA Graduate Student’s Association Academic Travel Award, Captain Thomas Farrell Greenhalgh Memorial Graduate Scholarship. He published Width of Thermal Features Induced by a 2-D Moving Heat Source.
 
-#### Project
+##### Prior Degrees
+
+Bachelor
+
+##### Project
 
 Characteristics of moving heat source
