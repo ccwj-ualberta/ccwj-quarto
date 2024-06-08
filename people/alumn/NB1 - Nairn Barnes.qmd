@@ -19,6 +19,7 @@ Country of Origin: Canada
 CCWJ Join Date: 2011
 
 Awards:
+
 - AWS Fellowship Award (2)
 - CWBA-CCWJ Welding Engineering Scholarship
 - Neil McEwen Memorial Graduate Scholarship in Welding (Materials) Engineering
@@ -34,6 +35,7 @@ Awards:
 - University of Alberta Academic Excellence Scholarship
 
 Key Publications:
+
 1.	Nairn Barnes, John Andreiuk, Steven D. Borle, Matthew Dewar, and Patricio F. Mendez (2014), 3D Microstructure Reconstruction of Chrome Carbide Weld Overlays, Science and Technology of Welding and Joining, 19(8), 696-702.
 
 2.	Patricio F. Mendez, Nairn Barnes, Kurtis Bell, Steven D. Borle, Satya S. Gajapathi, Stuart D. Guest, Hossein Izadi, Ata Kamyabi Gol, and Gentry Wood. (2014), Welding processes for wear resistant overlays, Journal of Manufacturing Processes, 16(1), 4-25.
