@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-sidebar docked nav-fixed fullcontent">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -127,10 +127,8 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools tools-wide">
-    <a href="https://twitter.com/search?q=centre%20for%20welding%20and%20joining&amp;src=typed_query&amp;f=top" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+          <div class="quarto-navbar-tools">
     <a href="https://www.linkedin.com/company/ccwj/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
-    <a href="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-instagram"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -146,9 +144,9 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -188,7 +186,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -197,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-right">
 
     
   
@@ -218,7 +216,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="posters/POS1_Simulating_Welds.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Accurately simulating a weld as a moving point heat source"><img src="posters/POS1_Simulating_Welds.jpg" class="img-fluid figure-img" alt="Accurately simulating a weld as a moving point heat source"></a></p>
+<p><a href="posters/POS1_Simulating_Welds.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Accurately simulating a weld as a moving point heat source"><img src="posters/POS1_Simulating_Welds.jpg" class="img-fluid figure-img" alt="Accurately simulating a weld as a moving point heat source"></a></p>
 <figcaption>Accurately simulating a weld as a moving point heat source</figcaption>
 </figure>
 </div>
@@ -226,7 +224,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="posters/POS2_Ni.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="Ni-WC classifying overlay wear performance"><img src="posters/POS2_Ni.jpg" class="img-fluid figure-img" alt="Ni-WC classifying overlay wear performance"></a></p>
+<p><a href="posters/POS2_Ni.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2" title="Ni-WC classifying overlay wear performance"><img src="posters/POS2_Ni.jpg" class="img-fluid figure-img" alt="Ni-WC classifying overlay wear performance"></a></p>
 <figcaption>Ni-WC classifying overlay wear performance</figcaption>
 </figure>
 </div>
@@ -234,7 +232,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="posters/altasteel-hydrogen-diffusion.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="quarto-lightbox-gallery-3" title="Hydrogen Diffusion and Microstructure"><img src="posters/altasteel-hydrogen-diffusion.jpg" class="img-fluid figure-img" alt="Hydrogen Diffusion and Microstructure"></a></p>
+<p><a href="posters/altasteel-hydrogen-diffusion.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" data-glightbox="description: .lightbox-desc-3" title="Hydrogen Diffusion and Microstructure"><img src="posters/altasteel-hydrogen-diffusion.jpg" class="img-fluid figure-img" alt="Hydrogen Diffusion and Microstructure"></a></p>
 <figcaption>Hydrogen Diffusion and Microstructure</figcaption>
 </figure>
 </div>
@@ -673,7 +671,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","selector":".lightbox","closeEffect":"zoom","loop":false,"descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom","selector":".lightbox","loop":false});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
