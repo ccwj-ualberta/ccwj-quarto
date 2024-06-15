@@ -2,7 +2,7 @@
 title: "What we do"
 ---
 
-## What we are offering to Industry and to Students
+## What We Are Offering to Industry and to Students
 
 - 3018 participants networked through 61 seminars with global leaders of industry led by the CCWJ (satisfaction rate was very high at 92%, selected quotes listed in Appendix A).
 
@@ -16,7 +16,7 @@ title: "What we do"
 
 - Memorandum of Understanding between Germany and the Province of Alberta on an Exchange on Welding Technologies.
 
-- Access to unique equipment at CCWJ for industry.
+- We hosted tours and demonstrations for the general public with 3658 participants at events such as CWA/AWS Open Labs, UofA Open House, and Engineering Expo.
 
 [Overview of Welding Programs](../teaching/courses/welding-fundamentals.qmd)
 
@@ -30,9 +30,11 @@ title: "What we do"
 
 - Provide access to wide range of welding processes and specialized/unique analysis equipment to the industry: GMAW; GTAW; PTAW; SAW; SMAW; FSW; LBW; laser cladding; Hot-Wire; plasma cutting; high speed video; thermography; complete data acquisition; full metallography lab; hardness mapper (Rockwell, Vickers); gas chromatographer (O,N,H); Charpy / instrumented impact tester; surface profilometer; dilatometer; all levels optical and electron microscopy; ThermoCalc and COMSOL; JMatPro ; Simufact.Welding; TransWeld; VrWeld.
 
-## Programs for students
+## Programs for Students
 
-### High School and Young Talent
+::: {.panel-tabset}
+
+### High School
 
 - We hosted 30 High School internships, and tours for 6 teachers and 454 High School students from St Joseph’s High School, J. Percy Page High School, Old Scona Academic High School, Grandview Heights School, Harry Ainlay School, Archbishop MacDonald High School, Ottewell Junior High School, and the WISEST program (since 2016), USchool program (since 2016), and TeamUP (2017).
 
@@ -42,17 +44,11 @@ title: "What we do"
 - Free access to our high-speed videos for teaching.
 - Award-winning interdisciplinary projects attract young talent and expose them to welding: CCWJ outreach program has been successful in getting people, and has won a first prize in the AWS poster competition at Fabtech 2015.
 
-### Open Labs
+### Undergraduates
 
-- We hosted tours and demonstrations for the general public with 3658 participants at events such as CWA/AWS Open Labs, UofA Open House, and Engineering Expo.
+- A total of 232, 4-month research projects with 168 individual students since 2010.
 
-### Undergraduate Students
-
-- Total of 232 4-month research projects, 168 individual students since 2010.
-
-- 33 summer students and 56.
-
-- international visiting students since 2010.
+- 33 summer students and 56 international visiting students since 2010.
 
 - In-depth exposure to welding with a wide range of projects from practical to theoretical through formal classroom teaching and hands-on experience in research.
 
@@ -66,15 +62,18 @@ title: "What we do"
 
 - Interact with industry and develop an understanding of industry needs - and get help finding industry internships / co-op placements / jobs.
 
-### Graduate Students
+### Graduates
 
-- Multiple streams of studies: MSc in Welding Engineering, MEng in Welding Engineering, PhD, Post-doc.
+Multiple streams of studies: MSc in Welding Engineering, MEng in Welding Engineering, PhD, Post-doctoral research.
 
-- Two tracks:
-    - Leaders in the practical application of advanced welding processes, metallurgy, and automation.
-    - Leaders in the creation of new technologies in advanced welding processes, metallurgy, and automation.
-    - Gain in-depth understanding of welding processes, science, and needs of industry.
-    - Exposure to international welding research.
+**Two tracks:**
+
+1. Leaders in the practical application of advanced welding processes, metallurgy, and automation.
+
+2. Leaders in the creation of new technologies in advanced welding processes, metallurgy, and automation.
+
+- Gain in-depth understanding of welding processes, science, and needs of industry.
+- Exposure to international welding research.
     - Solid understanding of current welding technology.
     - Hands-on welding experience.
     - Knowledge: understanding of welding fundamentals.
@@ -84,6 +83,8 @@ title: "What we do"
     - Communication: Open and clear discussion of ideas with the whole spectrum of welding professionals.
     - Team players: collaboration with international researchers and teamwork in the group.
     - Exposure: attend trade shows (Fabtech, GPS, etc.) and conferences (e.g. CanWeld, IIW).
+
+:::
 
 ### CCWJ has a strong focus on Equity, Diversity, and Inclusivity
 
