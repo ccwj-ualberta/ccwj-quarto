@@ -4,7 +4,7 @@ listing:
   contents: equipment
   type: grid
   fields: [title, image, categories]
-  grid-columns: 4
+  grid-columns: 3
   image-height: 175px
   image-placeholder: ../assets/placeholder.png
   categories: unnumbered

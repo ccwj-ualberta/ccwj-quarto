@@ -6,6 +6,7 @@ listing:
   sort: "date desc"
   type: grid
   grid-columns: 2
+  image-height: 250px
   max-description-length: 50
 ---
 
