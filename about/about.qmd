@@ -2,9 +2,13 @@
 title: "About Us"
 ---
 
+## Our Research Centre
+
 The Canadian Centre for Welding and Joining (CCWJ) is one of the world's largest university initiatives in welding with a global reputation reflected in multiple awards, such as the “Image of Welding Award” awarded by the American Welding Society as a leading education institution in 2013.
 
 The CCWJ’s $5M facility houses all forms of arc welding, a 9 kW laser, and several robots. Diagnostic tools include high speed cameras, laser lighting, a specialized thermal camera, wavelength spectrometer, and data acquisition. Characterization capabilities include hardness mapping, surface profilometry, instrumented impact, hydrogen, oxygen, and nitrogen testing, dilatometry, and metallography. Centralized facilities at the UofA also provide access to high end electron microscopy and composition analysis tools. Tools of analysis at the CCWJ include latest generation weld modeling software such as VRWeld, Simufact, and Transweld, and general purpose modeling software such as Comsol and Matlab. Materials properties software includes ThermoCalc and JMatPro.
+
+## Working with Industry
 
 The CCWJ has a long track record of working with industry. All the projects are industry oriented, and nearly all are funded by industry. Distinguishing traits of the CCWJ are the highly selected students, world-class facilities, ability to use fundamentals concepts to explain observable phenomena, a culture of collaboration and love of our work, a vast network of contacts worldwide, and strong brand recognition. The Weldco/Industry Chair in Welding and Joining was created in 2007 at the request and with the support of industry. After a worldwide search, Prof. Patricio Mendez came to the University of Alberta in 2009 as the inaugural Chair. The CCWJ Laboratory opened on May 5, 2010 with significant contributions of equipment from Lincoln Electric and Miller Electric. The Alberta Metal Fabrication Innovation program (AMFI) was created on Jan 1, 2011 in partnership between the Canadian Centre for Welding and Joining and Alberta Innovates, with support from Western Economic Diversification and the Government of Alberta. AMFI is a unique company development opportunity designed specifically for the Alberta metal manufacturing and fabrication sector. The Program provides innovation and improvement opportunities for sector companies and stakeholders. Participants gain access to both production and business enhancement expertise, developed and provided by some of Alberta’s top research, technology development and process improvement institutions. In 2018, the CCWJ received over $1M from Western Economic Diversification to launch a project in advanced manufacturing system capable of performing automated repairs together with several industry partners, and contributions support from KUKA Canada and Octopuz. 
 
@@ -16,3 +20,25 @@ The Weldco/Industry Endowment was signed in 2008 with the goal to establish the 
 
 ## Learn More
 
+::: {.columns}
+
+::: {.column width="50%"}
+
+{{< iconify carbon:concept size=5x >}} [What we do](what-we-do.qmd)
+
+{{< iconify material-symbols:precision-manufacturing size=5x >}} [Facilities](lab.qmd)
+
+{{< iconify uiw:map size=5x >}} [Directions](directions.qmd)
+
+
+:::
+
+::: {.column width="50%"}
+
+{{< iconify bi:people-fill size=5x >}} [Advisory boards](advisory-boards.qmd)
+
+{{< iconify mdi:partnership-outline size=5x >}} [Sponsors](sponsors.qmd)
+
+:::
+
+:::

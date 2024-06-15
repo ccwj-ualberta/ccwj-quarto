@@ -1,6 +1,5 @@
 ---
 title: "Sponsors"
-toc: true
 fig-cap-location: bottom
 
 ---

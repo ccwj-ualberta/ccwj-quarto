@@ -48,13 +48,13 @@ website:
   sidebar:
     - title: "About"
       style: "floating"
+      border: true
       contents:
       - section: "The CCWJ"
         contents:
         - about/about.qmd
         - about/what-we-do.qmd
         - about/lab.qmd
-        - about/welco-chair.qmd
         - about/directions.qmd
       - section: "Advisory Boards and Sponsors"
         contents:
