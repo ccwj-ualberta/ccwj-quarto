@@ -4,10 +4,6 @@ title: "Programs and Scholarships"
 
 ### Research / Internship Projects
 
-Here you can find an overview of some of the research/internship
-[projects](../research/projects.qmd) currently available at the CCWJ. The complexity of each project
-depends on level of studies of the intern.
-
 ### Scholarships and Exchange Programs
 
 - [Emerging Leaders in the Americas Program (ELAP)](https://www.scholarships-bourses.gc.ca/scholarships-bourses/can/institutions/elap-pfla.aspx?lang=eng)
