@@ -196,3 +196,69 @@ this file, add new entries to it, and upload it back to the same
 location (overwriting the file). Alternatively, a new Bibtex file can
 exported from some other reference manager such as Zotero or Refworks,
 assuming that the citations are complete.
+
+##### Required fields in the Bibtex entries
+
+Entry '@' tags that are used in the site are: article, inproceedings, 
+techreport, phdthesis, mastersthesis.
+
+###### @article
+
+- title
+- year
+- author
+- doi
+- journ
+- number
+- pages
+- volume or number (mutually-exclusive)
+
+###### @inproceedings
+
+- title
+- author
+- conference
+- year
+
+##### @incollection
+
+- title
+- author
+- year
+- booktitle
+- pages
+- publisher (optional)
+
+##### @techreport
+
+- title
+- author
+- year
+- institution (optional)
+
+##### @phdthesis, @mastersthesis
+
+- title
+- author
+- school
+- year
+
+#### Books
+
+The only publication type that is not created automatically from the bibtex
+file relates to book articles, because this page also uses an image of book.
+To add an additional book publication, add a new plain text file using the
+following header into the `publications/publications-books` folder along with
+an accompanying photo:
+
+```
+---
+title: "Asymptotics and blending in the modeling of welding"
+author: "Wang, Ying, Lu, Yi, Grams, Mitchell, Cesaro, Alejandro Hintze, Mendez, Patricio F."
+year: 2018
+booktitle: "Mathematical modelling of weld phenomena 12"
+pages: "NA"
+publisher: "NA"
+image: "mathematical-modelling-of-weld-phenomena-12.jpeg"
+---
+```
