@@ -1,17 +1,18 @@
 project:
   type: website
 
-  pre-render:
-    - publications/create-articles.R
-    - publications/create-proceedings.R
-    - publications/create-reports.R
-    - publications/create-theses.R
+  # pre-render:
+  #   - publications/create-articles.R
+  #   - publications/create-proceedings.R
+  #   - publications/create-reports.R
+  #   - publications/create-theses.R
 
 website:
   title: CCWJ
   favicon: assets/CCWJ_white_logo.png
   twitter-card: true
   open-graph: true
+  back-to-top-navigation: true
 
   navbar:
     title: false
@@ -22,16 +23,40 @@ website:
 
     left:
       - text: About
-        file: about/about.qmd
+        menu:
+          - about/about.qmd
+          - about/what-we-do.qmd
+          - about/lab.qmd
+          - about/directions.qmd
+          - about/advisory-boards.qmd
+          - about/sponsors.qmd
 
       - text: People
-        file: people/director.qmd
+        menu:
+          - people/director.qmd
+          - people/staff.qmd
+          - people/phds.qmd
+          - people/mscs.qmd
+          - people/bscs.qmd
+          - people/alumn.qmd
+          - people/alumn-ug.qmd
+          - people/alumn-visitors.qmd
 
       - text: Research
-        file: research/research.qmd
+        menu:
+          - research/research.qmd
+          - research/projects.qmd
+          - research/talks.qmd
+          - research/posters.qmd
+          - research/videos.qmd
 
       - text: Publications
-        file: publications/publications-articles.qmd
+        menu:
+          - publications/publications-articles.qmd
+          - publications/publications-books.qmd
+          - publications/publications-proceedings.qmd
+          - publications/publications-reports.qmd
+          - publications/publications-theses.qmd
 
       - text: Teaching
         file: teaching/teaching.qmd
@@ -40,77 +65,14 @@ website:
         file: news/news.qmd
 
       - text: Join Us
-        file: apply/canadian.qmd
+        menu:
+          - apply/canadian.qmd
+          - apply/international-graduate.qmd
+          - apply/international-resources-for-visiting.qmd
 
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/company/ccwj/
-
-  sidebar:
-    - title: "About"
-      style: "floating"
-      border: true
-      contents:
-      - section: "The CCWJ"
-        contents:
-        - about/about.qmd
-        - about/what-we-do.qmd
-        - about/lab.qmd
-        - about/directions.qmd
-      - section: "Advisory Boards and Sponsors"
-        contents:
-        - about/advisory-boards.qmd
-        - about/sponsors.qmd
-
-    - title: "People"
-      style: "docked"
-      contents:
-        - people/director.qmd
-        - people/staff.qmd
-        - people/phds.qmd
-        - people/mscs.qmd
-        - people/bscs.qmd
-        - people/alumn.qmd
-        - people/alumn-ug.qmd
-        - people/alumn-visitors.qmd
-
-    - title: "Research"
-      style: "docked"
-      contents:
-        - research/research.qmd
-        - research/projects.qmd
-        - research/talks.qmd
-        - research/posters.qmd
-        - research/videos.qmd
-
-    - title: "Teaching"
-      style: "docked"
-      contents:
-        - teaching/teaching.qmd
-
-    - title: "Publications"
-      style: "docked"
-      contents:
-        - publications/publications-articles.qmd
-        - publications/publications-books.qmd
-        - publications/publications-proceedings.qmd
-        - publications/publications-reports.qmd
-        - publications/publications-theses.qmd
-
-    - title: "Join Us"
-      style: "docked"
-      contents:
-        - section: "Canadian"
-          contents:
-          - apply/canadian.qmd
-
-        - section: "International"
-          contents:
-            - section: "Graduate Studies"
-              contents:
-                - apply/international-graduate.qmd
-                - apply/international-resources-for-visiting.qmd
-            - apply/international-undergrad.qmd
 
   page-footer:
     left: |
