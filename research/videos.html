@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
@@ -345,8 +345,14 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="g-col-1" data-index="0" data-categories="Alternative" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <a href="../research/videos/alternative-processes.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -354,16 +360,18 @@ window.Quarto = {
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Alternative processes
-</h5>
-<div class="card-subtitle listing-subtitle">
 Alternative welding processes
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Alternative'); return false;">
+Alternative
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="g-col-1" data-index="1" data-categories="FCAW" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <a href="../research/videos/fcaw.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -371,33 +379,18 @@ Alternative welding processes
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-FCAW
-</h5>
-<div class="card-subtitle listing-subtitle">
 Flux-cored arc welding
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
-<a href="../research/videos/fun.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://img.youtube.com/vi/Y9kYm7rOQEs/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Fun
 </h5>
-<div class="card-subtitle listing-subtitle">
-High speed camera videos
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('FCAW'); return false;">
+FCAW
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
+<div class="g-col-1" data-index="2" data-categories="GMAW" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
 <a href="../research/videos/gmaw.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -405,16 +398,18 @@ High speed camera videos
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-GMAW
-</h5>
-<div class="card-subtitle listing-subtitle">
 Gas metal arc welding
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('GMAW'); return false;">
+GMAW
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="g-col-1" data-index="3" data-categories="GTAW" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
 <a href="../research/videos/gtaw.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -422,31 +417,54 @@ Gas metal arc welding
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-GTAW
-</h5>
-<div class="card-subtitle listing-subtitle">
 Gas tungsten arc welding
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('GTAW'); return false;">
+GTAW
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="4" data-categories="High-speed" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/videos/fun.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/Y9kYm7rOQEs/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+High speed camera videos
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('High-speed'); return false;">
+High-speed
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Laser cladding" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="../research/videos/laser-cladding.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="listing-item-img-placeholder card-img-top" style="height: 250px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Laser cladding
+Laser cladding and related processes
 </h5>
-<div class="card-subtitle listing-subtitle">
-Videos on laser cladding and related processes
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Laser cladding'); return false;">
+Laser cladding
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="g-col-1" data-index="6" data-categories="PTAW" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <a href="../research/videos/ptaw.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -454,16 +472,18 @@ Videos on laser cladding and related processes
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-PTAW
-</h5>
-<div class="card-subtitle listing-subtitle">
 Plasma-transferred arc welding
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('PTAW'); return false;">
+PTAW
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="g-col-1" data-index="7" data-categories="Robots" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="13">
 <a href="../research/videos/robots.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -471,16 +491,18 @@ Plasma-transferred arc welding
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Robots
-</h5>
-<div class="card-subtitle listing-subtitle">
 Robotic welding and welding automation
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Robots'); return false;">
+Robots
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="g-col-1" data-index="8" data-categories="SMAW" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
 <a href="../research/videos/smaw.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -488,16 +510,18 @@ Robotic welding and welding automation
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-SMAW
-</h5>
-<div class="card-subtitle listing-subtitle">
 Shielded metal arc welding
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('SMAW'); return false;">
+SMAW
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1719553381425" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="g-col-1" data-index="9" data-categories="Metal transfer" data-listing-file-modified-sort="1719585210661" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
 <a href="../research/videos/discontinuities.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -507,8 +531,10 @@ Shielded metal arc welding
 <h5 class="no-anchor card-title listing-title">
 Welding discontinuities
 </h5>
-<div class="card-subtitle listing-subtitle">
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Metal transfer'); return false;">
 Metal transfer
+</div>
 </div>
 </div>
 </div>

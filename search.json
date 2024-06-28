@@ -2144,37 +2144,37 @@
   {
     "objectID": "research/videos/fcaw.html",
     "href": "research/videos/fcaw.html",
-    "title": "FCAW",
+    "title": "Flux-cored arc welding",
     "section": "",
-    "text": "Back to top"
+    "text": "GMAW Ni-WC 100Ar CCWJ Calorimeter\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/gmaw.html",
     "href": "research/videos/gmaw.html",
-    "title": "GMAW",
+    "title": "Gas metal arc welding",
     "section": "",
-    "text": "Gases\nOverview of the effect of shielding gas on GMAW metal transfer modes.\n\n\n\nMetal transfer\nOverview of fundamental transfer modes in GMAW.\n\n\n\nWaveforms\nComplex waveforms.\n\n\n\n\n\n Back to top"
+    "text": "Gases\n\nGMAW Steel 70Ar-30CO2 Globular\nOverview of the effect of shielding gas on GMAW metal transfer modes.\n\n\n\n\nMetal transfer\n\nGMAW_Steel_85Ar-15CO2_Globular\nOverview of fundamental transfer modes in GMAW.\n\n\n\n\nWaveforms\n\nGTAW Steel 100He Autogenous DCEN Pulse 300A average\nComplex waveforms.\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/smaw.html",
     "href": "research/videos/smaw.html",
-    "title": "SMAW",
+    "title": "Shielded metal arc welding",
     "section": "",
-    "text": "Back to top"
+    "text": "SMAW_E7018_01\nSMAW (stick) welding using E7018 electrode in slow motion.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/fun.html",
     "href": "research/videos/fun.html",
-    "title": "Fun",
+    "title": "High speed camera videos",
     "section": "",
-    "text": "Back to top"
+    "text": "Two Water Balloons Popped With An Oxyacetylene Torch\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/gtaw.html",
     "href": "research/videos/gtaw.html",
-    "title": "GTAW",
+    "title": "Gas tungsten arc welding",
     "section": "",
-    "text": "Effect of Shielding Gas on GTAW\n\n\n\n\n\n Back to top"
+    "text": "GTAW Steel 100Ar Autogenous DCEN CC 150A\nEffect of Shielding Gas on GTAW\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/posters.html",
@@ -2440,7 +2440,7 @@
     "href": "research/videos.html",
     "title": "Videos",
     "section": "",
-    "text": "Alternative processes\n\n\nAlternative welding processes\n\n\n\n\n\n\n\n\n\n\n\n\n\nFCAW\n\n\nFlux-cored arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\nFun\n\n\nHigh speed camera videos\n\n\n\n\n\n\n\n\n\n\n\n\n\nGMAW\n\n\nGas metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\nGTAW\n\n\nGas tungsten arc welding\n\n\n\n\n\n\n\n\n\n\n\nLaser cladding\n\n\nVideos on laser cladding and related processes\n\n\n\n\n\n\n\n\n\n\n\n\n\nPTAW\n\n\nPlasma-transferred arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobots\n\n\nRobotic welding and welding automation\n\n\n\n\n\n\n\n\n\n\n\n\n\nSMAW\n\n\nShielded metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelding discontinuities\n\n\nMetal transfer\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Alternative welding processes\n\n\n\nAlternative\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlux-cored arc welding\n\n\n\nFCAW\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGas metal arc welding\n\n\n\nGMAW\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGas tungsten arc welding\n\n\n\nGTAW\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh speed camera videos\n\n\n\nHigh-speed\n\n\n\n\n\n\n\n\n\n\n\n\nLaser cladding and related processes\n\n\n\nLaser cladding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlasma-transferred arc welding\n\n\n\nPTAW\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobotic welding and welding automation\n\n\n\nRobots\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShielded metal arc welding\n\n\n\nSMAW\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelding discontinuities\n\n\n\nMetal transfer\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "research/research-areas/automation.html",
@@ -2473,37 +2473,37 @@
   {
     "objectID": "research/videos/robots.html",
     "href": "research/videos/robots.html",
-    "title": "Robots",
+    "title": "Robotic welding and welding automation",
     "section": "",
-    "text": "Back to top"
+    "text": "Lincoln Fanuc lOOiC Robotic Welder Welding a Box (No Arc)\nLincoln Fanuc lOOiC Robotic Welder and Lincoln 455M/STT power supply.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/laser-cladding.html",
     "href": "research/videos/laser-cladding.html",
-    "title": "Laser cladding",
+    "title": "Laser cladding and related processes",
     "section": "",
     "text": "Back to top"
   },
   {
     "objectID": "research/videos/ptaw.html",
     "href": "research/videos/ptaw.html",
-    "title": "PTAW",
+    "title": "Plasma-transferred arc welding",
     "section": "",
-    "text": "Back to top"
+    "text": "PTAW Ni-WC 100Ar\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/discontinuities.html",
     "href": "research/videos/discontinuities.html",
     "title": "Welding discontinuities",
     "section": "",
-    "text": "Overview of metal transfer leading to common welding discontinuities\n\n\n\n\n\n Back to top"
+    "text": "GTAW Steel 100Ar DCEN CC Pulsing Parallel Humping\nOverview of metal transfer leading to common welding discontinuities.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/alternative-processes.html",
     "href": "research/videos/alternative-processes.html",
-    "title": "Alternative processes",
+    "title": "Alternative welding processes",
     "section": "",
-    "text": "Back to top"
+    "text": "PTAW Ni-WC 100Ar\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/projects.html",
