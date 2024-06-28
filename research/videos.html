@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.556">
+<meta name="generator" content="quarto-1.4.557">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../assets/CCWJ_white_logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,13 +69,69 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <meta property="og:title" content="CCWJ - Videos">
-<meta property="og:description" content="">
 <meta property="og:site_name" content="CCWJ">
 <meta name="twitter:title" content="CCWJ - Videos">
-<meta name="twitter:description" content="">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -257,30 +315,11 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#welding-discontinuities" id="toc-welding-discontinuities" class="nav-link active" data-scroll-target="#welding-discontinuities">Welding Discontinuities</a></li>
-  <li><a href="#effect-of-shielding-gas-on-gmaw-metal-transfer-modes" id="toc-effect-of-shielding-gas-on-gmaw-metal-transfer-modes" class="nav-link" data-scroll-target="#effect-of-shielding-gas-on-gmaw-metal-transfer-modes">Effect of Shielding Gas on GMAW Metal Transfer Modes</a></li>
-  <li><a href="#robotic-welding-welding-automation" id="toc-robotic-welding-welding-automation" class="nav-link" data-scroll-target="#robotic-welding-welding-automation">Robotic Welding &amp; Welding Automation</a></li>
-  <li><a href="#fundamental-gmaw-transfer-modes" id="toc-fundamental-gmaw-transfer-modes" class="nav-link" data-scroll-target="#fundamental-gmaw-transfer-modes">Fundamental GMAW Transfer Modes</a></li>
-  <li><a href="#ptaw" id="toc-ptaw" class="nav-link" data-scroll-target="#ptaw">PTAW</a></li>
-  <li><a href="#laser-cladding" id="toc-laser-cladding" class="nav-link" data-scroll-target="#laser-cladding">Laser Cladding</a>
-  <ul class="collapse">
-  <li><a href="#fun-high-speed" id="toc-fun-high-speed" class="nav-link" data-scroll-target="#fun-high-speed">Fun High Speed</a></li>
-  <li><a href="#smaw" id="toc-smaw" class="nav-link" data-scroll-target="#smaw">SMAW</a></li>
-  <li><a href="#alternative-welding-processes" id="toc-alternative-welding-processes" class="nav-link" data-scroll-target="#alternative-welding-processes">Alternative Welding Processes</a></li>
-  <li><a href="#tubular-wires" id="toc-tubular-wires" class="nav-link" data-scroll-target="#tubular-wires">Tubular Wires</a></li>
-  <li><a href="#complex-waveforms" id="toc-complex-waveforms" class="nav-link" data-scroll-target="#complex-waveforms">Complex Waveforms</a></li>
-  <li><a href="#effect-of-shielding-gas-on-gtaw" id="toc-effect-of-shielding-gas-on-gtaw" class="nav-link" data-scroll-target="#effect-of-shielding-gas-on-gtaw">Effect of Shielding Gas on GTAW</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -289,7 +328,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -301,63 +340,185 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="welding-discontinuities" class="level2">
-<h2 class="anchored" data-anchor-id="welding-discontinuities">Welding Discontinuities</h2>
-<p>Overview of metal transfer leading to common welding discontinuities</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/tJwr9MjKBVo?list=PL38954225764CCB92" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="effect-of-shielding-gas-on-gmaw-metal-transfer-modes" class="level2">
-<h2 class="anchored" data-anchor-id="effect-of-shielding-gas-on-gmaw-metal-transfer-modes">Effect of Shielding Gas on GMAW Metal Transfer Modes</h2>
-<p>Overview of the effect of shielding gas on GMAW metal transfer modes</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/D037ghCUIRw?list=PL1C619E4411CC8D97" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="robotic-welding-welding-automation" class="level2">
-<h2 class="anchored" data-anchor-id="robotic-welding-welding-automation">Robotic Welding &amp; Welding Automation</h2>
-<p>Videos featuring robotic welding and welding automation</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/OneaQeG2DR8?list=PLq-4Q87XIqZGr2lHrZ_YMKBdwoIckfB_r" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="fundamental-gmaw-transfer-modes" class="level2">
-<h2 class="anchored" data-anchor-id="fundamental-gmaw-transfer-modes">Fundamental GMAW Transfer Modes</h2>
-<p>Overview of fundamental transfer modes in GMAW</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ngrqcDdVyhM?list=PL0EF42C3430979734" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="ptaw" class="level2">
-<h2 class="anchored" data-anchor-id="ptaw">PTAW</h2>
-<p>Overview of videos on Plasma-transferred Arc Welding</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/7Vah3zEO6yw?list=PLq-4Q87XIqZFBSFcGoSnptV7loQozt1F2" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="laser-cladding" class="level2">
-<h2 class="anchored" data-anchor-id="laser-cladding">Laser Cladding</h2>
-<p>Overview of videos on laser cladding and related processes</p>
-<section id="fun-high-speed" class="level3">
-<h3 class="anchored" data-anchor-id="fun-high-speed">Fun High Speed</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Y9kYm7rOQEs?list=PLCBD5B4AAD9633DF1" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="smaw" class="level3">
-<h3 class="anchored" data-anchor-id="smaw">SMAW</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ECK12klRe0c?list=PLq-4Q87XIqZFE0l_D5djUJLhQrfcXV7z7" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="alternative-welding-processes" class="level3">
-<h3 class="anchored" data-anchor-id="alternative-welding-processes">Alternative Welding Processes</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/7Vah3zEO6yw?list=PLC05A48021E00F4AB" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="tubular-wires" class="level3">
-<h3 class="anchored" data-anchor-id="tubular-wires">Tubular Wires</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/aXPZdDWjpkk?list=PLD71C43DB964C69C5" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="complex-waveforms" class="level3">
-<h3 class="anchored" data-anchor-id="complex-waveforms">Complex Waveforms</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/716R4QrP6hM?list=PL70A1DCB9EB2A2952" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="effect-of-shielding-gas-on-gtaw" class="level3">
-<h3 class="anchored" data-anchor-id="effect-of-shielding-gas-on-gtaw">Effect of Shielding Gas on GTAW</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Qq-nUuTL-d4?list=PLABB99C3E544782EA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
-</section>
-</section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/videos/alternative-processes.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/7Vah3zEO6yw/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Alternative processes
+</h5>
+<div class="card-subtitle listing-subtitle">
+Alternative welding processes
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/videos/fcaw.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/aXPZdDWjpkk/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FCAW
+</h5>
+<div class="card-subtitle listing-subtitle">
+Flux-cored arc welding
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/videos/fun.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/Y9kYm7rOQEs/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fun
+</h5>
+<div class="card-subtitle listing-subtitle">
+High speed camera videos
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
+<a href="../research/videos/gmaw.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/D037ghCUIRw/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+GMAW
+</h5>
+<div class="card-subtitle listing-subtitle">
+Gas metal arc welding
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/videos/gtaw.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/Qq-nUuTL-d4/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+GTAW
+</h5>
+<div class="card-subtitle listing-subtitle">
+Gas tungsten arc welding
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../research/videos/laser-cladding.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 250px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Laser cladding
+</h5>
+<div class="card-subtitle listing-subtitle">
+Videos on laser cladding and related processes
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/videos/ptaw.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/7Vah3zEO6yw/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+PTAW
+</h5>
+<div class="card-subtitle listing-subtitle">
+Plasma-transferred arc welding
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/videos/robots.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/OneaQeG2DR8/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Robots
+</h5>
+<div class="card-subtitle listing-subtitle">
+Robotic welding and welding automation
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/videos/smaw.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/ECK12klRe0c/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+SMAW
+</h5>
+<div class="card-subtitle listing-subtitle">
+Shielded metal arc welding
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1719550806524" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/videos/discontinuities.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://img.youtube.com/vi/tJwr9MjKBVo/hqdefault.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Welding discontinuities
+</h5>
+<div class="card-subtitle listing-subtitle">
+Metal transfer
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
