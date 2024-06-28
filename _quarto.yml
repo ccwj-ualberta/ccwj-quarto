@@ -67,8 +67,8 @@ website:
       - text: Join Us
         menu:
           - apply/canadian.qmd
-          - apply/international-graduate.qmd
-          - apply/international-resources-for-visiting.qmd
+          - apply/international.qmd
+          - apply/resources-for-visiting-students.qmd
 
     tools:
       - icon: linkedin
