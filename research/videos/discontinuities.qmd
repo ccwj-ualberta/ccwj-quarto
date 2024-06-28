@@ -1,11 +1,7 @@
 ---
-title: Welding discontinuities
+title: GTAW Steel 100Ar DCEN CC Pulsing Parallel Humping
 image: https://img.youtube.com/vi/tJwr9MjKBVo/hqdefault.jpg
-categories: Metal transfer
+categories: [Welding discontinuities]
 ---
-
-### GTAW Steel 100Ar DCEN CC Pulsing Parallel Humping
-
-Overview of metal transfer leading to common welding discontinuities.
 
 {{< video https://youtu.be/tJwr9MjKBVo?list=PL38954225764CCB92 >}}

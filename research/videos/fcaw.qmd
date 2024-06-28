@@ -1,9 +1,7 @@
 ---
-title: Flux-cored arc welding
+title: GMAW Ni-WC 100Ar CCWJ Calorimeter
 image: https://img.youtube.com/vi/aXPZdDWjpkk/hqdefault.jpg
-categories: FCAW
+categories: Flux-cored arc welding
 ---
-
-### GMAW Ni-WC 100Ar CCWJ Calorimeter
 
 {{< video https://youtu.be/aXPZdDWjpkk?list=PLD71C43DB964C69C5 >}}

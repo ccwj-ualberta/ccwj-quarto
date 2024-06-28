@@ -1,0 +1,7 @@
+---
+title: GMAW Steel 85Ar-15 CO2 Globular
+image: https://img.youtube.com/vi/ngrqcDdVyhM/hqdefault.jpg
+categories: [Gas metal arc welding]
+---
+
+{{< video https://youtu.be/ngrqcDdVyhM?list=PL0EF42C3430979734 >}}

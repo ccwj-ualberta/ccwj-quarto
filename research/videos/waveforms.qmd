@@ -1,0 +1,7 @@
+---
+title: GTAW Steel 100He Autogenous DCEN Pulse 300A average
+image: https://img.youtube.com/vi/716R4QrP6hM/hqdefault.jpg
+categories: [Gas metal arc welding]
+---
+
+{{< video https://youtu.be/716R4QrP6hM?list=PL70A1DCB9EB2A2952 >}}

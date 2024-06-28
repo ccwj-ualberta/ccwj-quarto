@@ -1,0 +1,7 @@
+---
+title: GMAW Steel 70Ar-30CO2 Globular
+image: https://img.youtube.com/vi/D037ghCUIRw/hqdefault.jpg
+categories: [Gas metal arc welding]
+---
+
+{{< video https://youtu.be/D037ghCUIRw?list=PL1C619E4411CC8D97 >}}

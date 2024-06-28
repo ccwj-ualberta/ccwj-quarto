@@ -1,9 +1,7 @@
 ---
-title: Plasma-transferred arc welding
+title: PTAW Ni-WC 100Ar
 image: https://img.youtube.com/vi/7Vah3zEO6yw/hqdefault.jpg
-categories: PTAW
+categories: Plasma-transferred arc welding
 ---
-
-### PTAW Ni-WC 100Ar
 
 {{< video https://youtu.be/7Vah3zEO6yw?list=PLq-4Q87XIqZFBSFcGoSnptV7loQozt1F2 >}}

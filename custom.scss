@@ -4,7 +4,6 @@
 $gray-700: #495057 !default;
 $primary: #231e1a !default;
 $link-color:   #5da366 !default;
-// $sidebar-bg: #E9E9E9 !default;
 
 // Fonts
 @font-face {
@@ -17,13 +16,7 @@ $link-color:   #5da366 !default;
   src: url("assets/GoodTimes_CCWJ.ttf");
 }
 
-/*
-h1 {
-  font-family: 'Good Times';
-  font-weight: 550 !important;
-  color:$gray-700 !important;
-}
-*/
+$font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 .navbar {
   background-image: url("assets/background-bar.png");

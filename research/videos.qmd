@@ -1,12 +1,15 @@
 ---
-title: "Videos"
+title: "Video Gallery"
 toc: true
 listing: 
   contents: videos
   type: grid
+  grid-columns: 3
+  page-size: 9
   image-height: 250px
   fields: [title, image, categories]
-  categories: false
-  filter-ui: true
+  categories: unnumbered
+  sort: [categories]
+  sort-ui: [categories, title]
 page-layout: full
 ---

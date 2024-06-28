@@ -1,11 +1,7 @@
 ---
-title: Shielded metal arc welding
+title: SMAW (stick) welding using E7018 electrode
 image: https://img.youtube.com/vi/ECK12klRe0c/hqdefault.jpg
-categories: SMAW
+categories: Shielded metal arc welding
 ---
-
-### SMAW_E7018_01
-
-SMAW (stick) welding using E7018 electrode in slow motion.
 
 {{< video https://youtu.be/ECK12klRe0c?list=PLq-4Q87XIqZFE0l_D5djUJLhQrfcXV7z7 >}}

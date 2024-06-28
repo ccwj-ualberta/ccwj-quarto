@@ -44,7 +44,7 @@ title: "What we do"
 - Free access to our high-speed videos for teaching.
 - Award-winning interdisciplinary projects attract young talent and expose them to welding: CCWJ outreach program has been successful in getting people, and has won a first prize in the AWS poster competition at Fabtech 2015.
 
-### Undergraduates
+### Undergraduate
 
 - A total of 232, 4-month research projects with 168 individual students since 2010.
 
@@ -62,7 +62,7 @@ title: "What we do"
 
 - Interact with industry and develop an understanding of industry needs - and get help finding industry internships / co-op placements / jobs.
 
-### Graduates
+### Graduate
 
 Multiple streams of studies: MSc in Welding Engineering, MEng in Welding Engineering, PhD, Post-doctoral research.
 

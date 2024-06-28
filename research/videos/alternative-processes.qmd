@@ -1,9 +1,7 @@
 ---
-title: Alternative welding processes
+title: PTAW Ni-WC 100Ar
 image: https://img.youtube.com/vi/7Vah3zEO6yw/hqdefault.jpg
-categories: [Alternative]
+categories: [Alternative welding processes]
 ---
-
-### PTAW Ni-WC 100Ar
 
 {{< video https://youtu.be/7Vah3zEO6yw?list=PLC05A48021E00F4AB >}}
