@@ -1,9 +1,11 @@
 ---
-title: GTAW
-subtitle: Gas tungsten arc welding
+title: Gas tungsten arc welding
 image: https://img.youtube.com/vi/Qq-nUuTL-d4/hqdefault.jpg
+categories: GTAW
 ---
 
-#### Effect of Shielding Gas on GTAW
+### GTAW Steel 100Ar Autogenous DCEN CC 150A
+
+Effect of Shielding Gas on GTAW
 
 {{< video https://youtu.be/Qq-nUuTL-d4?list=PLABB99C3E544782EA >}}

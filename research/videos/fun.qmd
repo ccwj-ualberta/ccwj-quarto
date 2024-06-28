@@ -1,7 +1,9 @@
 ---
-title: Fun
-subtitle: High speed camera videos
+title: High speed camera videos
 image: https://img.youtube.com/vi/Y9kYm7rOQEs/hqdefault.jpg
+categories: High-speed
 ---
+
+### Two Water Balloons Popped With An Oxyacetylene Torch
 
 {{< video https://youtu.be/Y9kYm7rOQEs?list=PLCBD5B4AAD9633DF1 >}}

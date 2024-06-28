@@ -5,6 +5,8 @@ listing:
   contents: videos
   type: grid
   image-height: 250px
-  fields: [title, subtitle, image]
+  fields: [title, image, categories]
+  categories: false
+  filter-ui: true
 page-layout: full
 ---

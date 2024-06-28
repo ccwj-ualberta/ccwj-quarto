@@ -1,5 +1,5 @@
 ---
-title: Laser cladding
-subtitle: Videos on laser cladding and related processes
+title: Laser cladding and related processes
+categories: Laser cladding
 ---
 
