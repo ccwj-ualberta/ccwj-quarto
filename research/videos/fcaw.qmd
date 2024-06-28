@@ -1,0 +1,7 @@
+---
+title: FCAW
+subtitle: Flux-cored arc welding
+image: https://img.youtube.com/vi/aXPZdDWjpkk/hqdefault.jpg
+---
+
+{{< video https://youtu.be/aXPZdDWjpkk?list=PLD71C43DB964C69C5 >}}

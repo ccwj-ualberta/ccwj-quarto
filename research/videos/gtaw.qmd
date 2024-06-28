@@ -1,0 +1,9 @@
+---
+title: GTAW
+subtitle: Gas tungsten arc welding
+image: https://img.youtube.com/vi/Qq-nUuTL-d4/hqdefault.jpg
+---
+
+#### Effect of Shielding Gas on GTAW
+
+{{< video https://youtu.be/Qq-nUuTL-d4?list=PLABB99C3E544782EA >}}

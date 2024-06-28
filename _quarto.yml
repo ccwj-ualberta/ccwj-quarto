@@ -1,11 +1,11 @@
 project:
   type: website
 
-  # pre-render:
-  #   - publications/create-articles.R
-  #   - publications/create-proceedings.R
-  #   - publications/create-reports.R
-  #   - publications/create-theses.R
+  pre-render:
+    - publications/create-articles.R
+    - publications/create-proceedings.R
+    - publications/create-reports.R
+    - publications/create-theses.R
 
 website:
   title: CCWJ

@@ -1,0 +1,23 @@
+---
+title: GMAW
+subtitle: Gas metal arc welding
+image: https://img.youtube.com/vi/D037ghCUIRw/hqdefault.jpg
+---
+
+#### Gases
+
+Overview of the effect of shielding gas on GMAW metal transfer modes.
+
+{{< video https://youtu.be/D037ghCUIRw?list=PL1C619E4411CC8D97 >}}
+
+#### Metal transfer
+
+Overview of fundamental transfer modes in GMAW.
+
+{{< video https://youtu.be/ngrqcDdVyhM?list=PL0EF42C3430979734 >}}
+
+#### Waveforms
+
+Complex waveforms.
+
+{{< video https://youtu.be/716R4QrP6hM?list=PL70A1DCB9EB2A2952 >}}

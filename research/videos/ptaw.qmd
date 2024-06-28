@@ -1,0 +1,7 @@
+---
+title: PTAW
+subtitle: Plasma-transferred arc welding
+image: https://img.youtube.com/vi/7Vah3zEO6yw/hqdefault.jpg
+---
+
+{{< video https://youtu.be/7Vah3zEO6yw?list=PLq-4Q87XIqZFBSFcGoSnptV7loQozt1F2 >}}

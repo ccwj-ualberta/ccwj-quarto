@@ -1,0 +1,7 @@
+---
+title: Alternative processes
+subtitle: Alternative welding processes
+image: https://img.youtube.com/vi/7Vah3zEO6yw/hqdefault.jpg
+---
+
+{{< video https://youtu.be/7Vah3zEO6yw?list=PLC05A48021E00F4AB >}}

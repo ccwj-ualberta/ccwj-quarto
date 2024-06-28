@@ -1,0 +1,7 @@
+---
+title: SMAW
+subtitle: Shielded metal arc welding
+image: https://img.youtube.com/vi/ECK12klRe0c/hqdefault.jpg
+---
+
+{{< video https://youtu.be/ECK12klRe0c?list=PLq-4Q87XIqZFE0l_D5djUJLhQrfcXV7z7 >}}
