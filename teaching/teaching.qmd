@@ -1,11 +1,12 @@
 ---
 title: "Teaching"
-sidebar: false
 page-layout: full
 listing: 
   id: course-listings
   contents: courses
   type: default
+  fields: [title, date, description, image]
+  max-description-length: 400
   date-format: YYYY
   sort: "date desc"
 ---
