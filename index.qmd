@@ -3,7 +3,6 @@ page-layout: full
 ---
 
 ::: {.column-screen}
-
 ![](assets/index-banner5.png)
 
 :::
