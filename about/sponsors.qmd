@@ -4,6 +4,8 @@ fig-cap-location: bottom
 
 ---
 
+We are grateful to acknowledge the support of our sponsors.
+
 ### Welco industry chair
 
 ::: {layout="[[1,1,1], [1,1,1], [1,1,1]]"}

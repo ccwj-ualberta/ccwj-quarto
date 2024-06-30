@@ -1,27 +1,31 @@
 ---
 page-layout: full
+back-to-top-navigation: false
 ---
 
 ::: {.column-screen}
 ![](assets/index-banner5.png)
-
 :::
 
 ::: {.column-page}
-
-<br>
-
 ## Advancing welding and joining through cutting-edge research
 
 The Canadian Centre for Welding and Joining (CCWJ) is a \$5M research facility employing researchers at all stages of their career and awarding doctoral degrees through the Department of Chemical and Materials Engineering at the University of Alberta.
 
-Our research has historically been centred on steel applications and product development, wear protective overlays, numerical modelling of welding, and laser-based advanced manufacturing. Our results in this area have been published in leading journals including Acta Materialia, Materials Transactions A. Our funding support in the last 10 years exceeds \$6M, and our experimental facilities include all arc welding processes, resistance spot welding, laser welding, high speed imaging, thermal imaging, instrumented impact testing, computer assisted hardness mapping, hydrogen testing, and more. The centralized facilities at the University of Alberta include characterization facilities reaching atomic-resolution TEM.
+Our mission is to advance interdisciplinary research and share comprehensive expertise in welding, joining, metallurgy, and joining process development.
 
-<br>
+The research of the CCWJ has historically been centred on steel applications and product development, wear protective overlays, numerical modelling of welding, and laser-based advanced manufacturing. Our results in this area have been published in leading journals including Acta Materialia, Materials Transactions A. Our funding support in the last 10 years exceeds \$6M, and our experimental facilities include all arc welding processes, resistance spot welding, laser welding, high speed imaging, thermal imaging, instrumented impact testing, computer assisted hardness mapping, hydrogen testing, and more. The centralized facilities at the University of Alberta include characterization facilities reaching atomic-resolution TEM.
 
 ## Learn more about the CCWJ
 
-<br>
+
+The CCWJ represents a unique place to study welding and materials engineering, and is recognized worldwide through the scope of its interdisciplinary research, state-of-the-art infrastructure, collaboration with industry, and education in welding engineering. The CCWJ is commited to supporting the deepest level of fundamental research into welding and joining processes and procedures, coupled with practical, industry-related and industry-driven applications.
+
+Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fluid mechanics, plasma physics, solid mechanics, computer and mathematical modelling, and health sciences for welding applications.
+
+::: {.highlight-row}
+Learn more about our mission and vision, our research, and what we offer.
+:::
 
 :::: {.grid}
 

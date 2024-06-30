@@ -25,7 +25,7 @@ $toc-color: #495057 !default;
 $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 h1, h2, h3, h4, h5, h6 {
-  color: #45681EFF !important;
+  color: #464849 !important;
 }
 
 // navbar customization
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .dropdown-menu > li > a:hover {
     background-image: none;
-    background-color: #CDE5F9FF;
+    background-color: #d9dcdf;
 }
 
 // aligns default listing photos and titles
@@ -75,4 +75,13 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
 
 .listing-pub-url {
   font-size: 0.9rem;
+}
+
+// custom divs
+.highlight-row {
+  background-color: #f1f1e3;
+  color: #466B46;
+  font-weight: regular;
+  padding-top: 1.5em;
+  padding-bottom: 0.5em;
 }
