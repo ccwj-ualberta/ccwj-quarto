@@ -1,5 +1,6 @@
 ---
 title: "What we do"
+format: html
 ---
 
 ## What We Are Offering to Industry and to Students
