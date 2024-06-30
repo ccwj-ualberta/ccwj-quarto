@@ -1,5 +1,5 @@
 ---
-title: "Video Gallery"
+title: "Video Resources"
 toc: true
 listing: 
   contents: videos

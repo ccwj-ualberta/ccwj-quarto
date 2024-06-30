@@ -1,0 +1,69 @@
+---
+title: "Publications"
+page-layout: full
+listing:
+  - id: articles
+    template: _ejs/publications-articles.ejs
+    contents: publications-articles
+    sort: "year desc"
+    page-size: 20
+    filter-ui: [title, author, journ]
+
+  - id: conferences
+    template: _ejs/publications-proceedings.ejs
+    contents: publications-proceedings
+    sort: "year desc"
+    page-size: 20
+    filter-ui: true
+
+  - id: books
+    template: _ejs/publications-books.ejs
+    contents: publications-books
+    sort: "year desc"
+    page-size: 20
+    filter-ui: true
+
+  - id: reports
+    template: _ejs/publications-reports.ejs
+    contents: publications-reports
+    sort: "year desc"
+    page-size: 20
+    filter-ui: true
+
+  - id: theses
+    template: _ejs/publications-reports.ejs
+    contents: publications-theses
+    sort: "year desc"
+    page-size: 20
+    filter-ui: true
+---
+
+::: {.panel-tabset}
+
+### Articles
+
+:::{#articles}
+:::
+
+### Conference Proceedings
+
+
+:::{#conferences}
+:::
+
+### Books
+
+:::{#books}
+:::
+
+### Reports
+
+:::{#reports}
+:::
+
+### Theses
+
+:::{#theses}
+:::
+
+:::

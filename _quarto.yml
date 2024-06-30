@@ -46,17 +46,10 @@ website:
         menu:
           - research/research.qmd
           - research/projects.qmd
+          - publications/publications.qmd
           - research/talks.qmd
           - research/posters.qmd
           - research/videos.qmd
-
-      - text: Publications
-        menu:
-          - publications/publications-articles.qmd
-          - publications/publications-books.qmd
-          - publications/publications-proceedings.qmd
-          - publications/publications-reports.qmd
-          - publications/publications-theses.qmd
 
       - text: Teaching
         file: teaching/teaching.qmd
