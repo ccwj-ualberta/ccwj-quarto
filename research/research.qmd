@@ -22,9 +22,3 @@ The CCWJ conducts research across a wide range of areas, including: numerical mo
 :::
 
 Detailed project descriptions can be found in the [Projects](projects.qmd) section.
-
-We are grateful to acknowledge the support of several sponsors in this area:
-
- - Simufact Welding
- - VrWeld Software
- - Transvalor
