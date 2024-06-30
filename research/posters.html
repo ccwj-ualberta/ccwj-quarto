@@ -181,6 +181,10 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Projects</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="../publications/publications.html">
+ <span class="dropdown-text">Publications</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../research/talks.html">
  <span class="dropdown-text">Talks</span></a>
   </li>  
@@ -190,34 +194,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="../research/videos.html">
- <span class="dropdown-text">Video Gallery</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-publications" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Publications</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-publications">    
-        <li>
-    <a class="dropdown-item" href="../publications/publications-articles.html">
- <span class="dropdown-text">Articles</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../publications/publications-books.html">
- <span class="dropdown-text">Books</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../publications/publications-proceedings.html">
- <span class="dropdown-text">Conference Proceedings</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../publications/publications-reports.html">
- <span class="dropdown-text">Technical Reports</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../publications/publications-theses.html">
- <span class="dropdown-text">Theses</span></a>
+ <span class="dropdown-text">Video Resources</span></a>
   </li>  
     </ul>
   </li>
@@ -293,7 +270,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="posters/POS1_Simulating_Welds.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Accurately simulating a weld as a moving point heat source"><img src="posters/POS1_Simulating_Welds.jpg" class="img-fluid figure-img" alt="Accurately simulating a weld as a moving point heat source"></a></p>
+<p><a href="posters/POS1_Simulating_Welds.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Accurately simulating a weld as a moving point heat source"><img src="posters/POS1_Simulating_Welds.jpg" class="img-fluid figure-img" alt="Accurately simulating a weld as a moving point heat source"></a></p>
 <figcaption>Accurately simulating a weld as a moving point heat source</figcaption>
 </figure>
 </div>
@@ -301,7 +278,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="posters/POS2_Ni.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2" title="Ni-WC classifying overlay wear performance"><img src="posters/POS2_Ni.jpg" class="img-fluid figure-img" alt="Ni-WC classifying overlay wear performance"></a></p>
+<p><a href="posters/POS2_Ni.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="Ni-WC classifying overlay wear performance"><img src="posters/POS2_Ni.jpg" class="img-fluid figure-img" alt="Ni-WC classifying overlay wear performance"></a></p>
 <figcaption>Ni-WC classifying overlay wear performance</figcaption>
 </figure>
 </div>
@@ -309,7 +286,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="posters/altasteel-hydrogen-diffusion.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" data-glightbox="description: .lightbox-desc-3" title="Hydrogen Diffusion and Microstructure"><img src="posters/altasteel-hydrogen-diffusion.jpg" class="img-fluid figure-img" alt="Hydrogen Diffusion and Microstructure"></a></p>
+<p><a href="posters/altasteel-hydrogen-diffusion.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="quarto-lightbox-gallery-3" title="Hydrogen Diffusion and Microstructure"><img src="posters/altasteel-hydrogen-diffusion.jpg" class="img-fluid figure-img" alt="Hydrogen Diffusion and Microstructure"></a></p>
 <figcaption>Hydrogen Diffusion and Microstructure</figcaption>
 </figure>
 </div>
@@ -748,7 +725,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","openEffect":"zoom","loop":false,"closeEffect":"zoom","descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","loop":false,"openEffect":"zoom","descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
