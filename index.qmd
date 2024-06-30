@@ -23,6 +23,8 @@ The CCWJ represents a unique place to study welding and materials engineering, a
 
 Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fluid mechanics, plasma physics, solid mechanics, computer and mathematical modelling, and health sciences for welding applications.
 
+<br>
+
 ::: {.highlight-row}
 Learn more about our mission and vision, our research, and what we offer.
 :::

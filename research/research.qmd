@@ -16,6 +16,8 @@ Welding is an inherently multi-disciplinary area, and has been referred to as th
 The CCWJ conducts research across a wide range of areas, including: numerical modelling, the physics of welding, metallurgy, and welding automation.
 :::
 
+<br>
+
 ::: {#research-areas}
 :::
 
