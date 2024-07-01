@@ -32,15 +32,15 @@ Learn more about our mission and vision, our research, and what we offer.
 :::: {.grid}
 
 ::: {.g-col-4}
-[![<u>About Us</u>](assets/about-us.png)](about/about.qmd)
+[![About Us](assets/about-us.png)](about/about.qmd)
 :::
 
 ::: {.g-col-4}
-[![<u>Our Research</u>](assets/our-research.png)](research/research.qmd)
+[![Our Research](assets/our-research.png)](research/research.qmd)
 :::
 
 ::: {.g-col-4}
-[![<u>What we Offer</u>](assets/our-impact.png)](about/what-we-do.qmd)
+[![What we Offer](assets/our-impact.png)](about/what-we-do.qmd)
 :::
 ::::
 
