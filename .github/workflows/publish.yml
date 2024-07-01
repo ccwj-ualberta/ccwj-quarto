@@ -20,7 +20,7 @@ jobs:
         run : |
           sudo apt-get update
           sudo apt-get upgrade
-          sudo apt-get install libudunits2-dev libgdal-dev libcurl4-openssl-dev libxml2
+          sudo apt-get install libudunits2-dev libgdal-dev libcurl4-openssl-dev libxml2 libglpk-dev
 
       - name: Set up R
         uses: r-lib/actions/setup-renv@v2
