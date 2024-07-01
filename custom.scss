@@ -84,11 +84,12 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
   font-weight: 450;
   padding-top: 1.5em;
   padding-bottom: 0.5em;
+  border-radius: 0.3em;
 }
 
 .box {
-  width: 200px;
   height: 80px;
+  width: 300px;
   background-color: #477166b3;
   color: #f1f1e3;
   padding: 10px;
@@ -96,4 +97,11 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
   font-size: 14pt;
   font-weight: bold;
   text-align: center;
+  border-radius: 0.3em;
+}
+
+.three-cells {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1em;
 }

@@ -46,7 +46,7 @@ ct = get_citation_history(scholar_id)
 
 - Award-winning research: more than 150 awards since 2009, including the AWS Image of Welding: Educational Facility Award (2013) and CWA and AWS fellowships.
 
-::: {layout-ncol=3}
+::: {.three-cells}
 ::: {.box}
 `r nrow(pubs)`+  
 Publications {{< bi bar-chart-fill >}}
