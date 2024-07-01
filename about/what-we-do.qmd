@@ -1,7 +1,20 @@
 ---
 title: "What we do"
 format: html
+engine: knitr
 ---
+
+```{r setup}
+#| message: false
+#| warning: false
+#| echo: false
+library(scholar)
+
+scholar_id = get_scholar_id("Mendez", "Patricio", affiliation = "University of Alberta")
+scholar_pfl = get_profile(scholar_id)
+pubs = get_publications(scholar_id)
+ct = get_citation_history(scholar_id)
+```
 
 ## What We Are Offering to Industry and to Students
 
@@ -23,13 +36,34 @@ format: html
 
 ## Fundamentals Research
 
+::: {.highlight-row}
+
 - Leading the field of technology with latest discoveries from science and equipment: membership in key committees such as IIW: Assembly National Delegate for Canada; Expert for Commission XII and SG 212; Member of IIW TMB; and AWS: A5G Subcommittee on Hard Facing Filler Metals, EC Education Committee, Higher Education.
 
 - Engineering Subcommittee, Welding R&D Committee, Standardization in Welding Modelling Committee; MaJIC Board of Directors.
 
+- Provide access to wide range of welding processes and specialized/unique analysis equipment to the industry: GMAW; GTAW; PTAW; SAW; SMAW; FSW; LBW; laser cladding; Hot-Wire; plasma cutting; high speed video; thermography; complete data acquisition; full metallography lab; hardness mapper (Rockwell, Vickers); gas chromatographer (O,N,H); Charpy / instrumented impact tester; surface profilometer; dilatometer; all levels optical and electron microscopy; ThermoCalc and COMSOL; JMatPro ; Simufact.Welding; TransWeld; VrWeld.
+
 - Award-winning research: more than 150 awards since 2009, including the AWS Image of Welding: Educational Facility Award (2013) and CWA and AWS fellowships.
 
-- Provide access to wide range of welding processes and specialized/unique analysis equipment to the industry: GMAW; GTAW; PTAW; SAW; SMAW; FSW; LBW; laser cladding; Hot-Wire; plasma cutting; high speed video; thermography; complete data acquisition; full metallography lab; hardness mapper (Rockwell, Vickers); gas chromatographer (O,N,H); Charpy / instrumented impact tester; surface profilometer; dilatometer; all levels optical and electron microscopy; ThermoCalc and COMSOL; JMatPro ; Simufact.Welding; TransWeld; VrWeld.
+::: {layout-ncol=3}
+::: {.box}
+`r nrow(pubs)`+  
+Publications {{< bi bar-chart-fill >}}
+:::
+
+::: {.box}
+`r sum(ct$cites)`+  
+Citations {{< bi chat-quote-fill >}}
+:::
+
+::: {.box}
+`r scholar_pfl$h_index`  
+h-index {{< bi hand-index-fill >}}
+:::
+:::
+
+:::
 
 ## Programs for Students
 
