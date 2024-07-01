@@ -54,14 +54,14 @@ website:
       - text: Teaching
         file: teaching/teaching.qmd
 
-      - text: News
-        file: news/news.qmd
-
       - text: Join Us
         menu:
           - apply/canadian.qmd
           - apply/international.qmd
           - apply/resources-for-visiting-students.qmd
+
+      - text: News
+        file: news/news.qmd
 
     tools:
       - icon: linkedin
