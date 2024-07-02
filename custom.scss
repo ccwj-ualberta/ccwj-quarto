@@ -79,11 +79,12 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
 
 // custom divs
 .highlight-row {
-  background-color: #f1f1e3;
-  color: #466B46;
+  background-color: #d9e5dc;
+  color: #000000;
   font-weight: 450;
   padding-top: 1.5em;
   padding-bottom: 0.5em;
+  margin-bottom: 0.5em;
   border-radius: 0.3em;
 }
 
@@ -91,7 +92,7 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
   height: 80px;
   width: 300px;
   background-color: #477166b3;
-  color: #f1f1e3;
+  color: #d9e5dc;
   padding: 10px;
   margin: 10px;
   font-size: 14pt;
