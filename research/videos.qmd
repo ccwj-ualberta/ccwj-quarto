@@ -8,7 +8,7 @@ listing:
   page-size: 9
   image-height: 250px
   fields: [title, image, categories]
-  categories: unnumbered
+  categories: numbered
   sort: [categories]
   sort-ui: [categories, title]
 page-layout: full
