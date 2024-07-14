@@ -24,14 +24,40 @@ $toc-color: #495057 !default;
 
 $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   color: #464849 !important;
+  // font-family: 'Anivers' !important;
+}
+
+h2, h3, h4, h5, h6 {
+  color: #464849 !important;
+  // font-family: 'Anivers' !important;
 }
 
 // navbar customization
 .navbar {
   background-image: url("assets/background-bar.png");
   font-size: 1.0rem;
+}
+
+#quarto-margin-sidebar {
+  position: sticky;
+  color: #464849;
+}
+
+#quarto-margin-sidebar > div > div.category {
+  border-style: solid;
+  border-radius: 0.8ch;
+  border-color: #d9dcdf;
+  padding: 1%;
+  margin-bottom: 4%;
+  font-size: small;
+  font-variant: small-caps;
+  color: #6F757D
+}
+
+#quarto-margin-sidebar > div > div.category.active {
+  background-color: #d9dcdf;
 }
 
 .navbar-brand > img {
