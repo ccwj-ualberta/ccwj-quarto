@@ -27,7 +27,11 @@ $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvet
 h1 {
   // color: #464849 !important;
   font-family: 'Good Times' !important;
-  color: #5B813A !important;
+  color: rgb(67, 111, 71) !important;
+}
+
+.quarto-title {
+  font-family: 'Anivers' !important;
 }
 
 h2, h3, h4, h5, h6 {
