@@ -1,6 +1,6 @@
 ---
 title: "Director"
-subtitle: "Director CCWJ Professor"
+subtitle: "Professor Patricio Mendez"
 about:
     template: trestles
     image: PM1 - Patricio Mendez.jpg
