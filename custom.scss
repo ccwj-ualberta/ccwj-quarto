@@ -59,6 +59,7 @@ h2, h3, h4, h5, h6 {
 #quarto-margin-sidebar > div > div.category {
   border-style: solid;
   border-radius: 0.8ch;
+  border-width: 1px;
   border-color: #d9dcdf;
   padding: 1%;
   margin-bottom: 4%;
@@ -67,8 +68,16 @@ h2, h3, h4, h5, h6 {
   color: #6F757D
 }
 
+/*
+.quarto-grid-item .listing-categories .listing-category {
+  border-color: #BFD175 !important;
+  color: #000000 !important;
+}
+*/
+
 #quarto-margin-sidebar > div > div.category.active {
   background-color: #d9dcdf;
+  font-weight: normal;
 }
 
 .quarto-navbar-tools {
