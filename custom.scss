@@ -35,12 +35,22 @@ h2, h3, h4, h5, h6 {
   font-family: 'Anivers' !important;
 }
 
-// navbar customization
+// navbar appearance
 .navbar {
   background-image: url("assets/background-bar.png");
   font-size: 1.0rem;
 }
 
+.navbar-brand > img {
+  max-height: 55px;
+}
+
+.dropdown-menu > li > a:hover {
+  background-image: none;
+  background-color: #d9dcdf;
+}
+
+// freeform sidebar/category appearance
 #quarto-margin-sidebar {
   position: sticky;
   color: #464849;
@@ -61,17 +71,8 @@ h2, h3, h4, h5, h6 {
   background-color: #d9dcdf;
 }
 
-.navbar-brand > img {
-  max-height: 55px;
-}
-
 .quarto-navbar-tools {
   height: 30px !important;
-}
-
-.dropdown-menu > li > a:hover {
-    background-image: none;
-    background-color: #d9dcdf;
 }
 
 // aligns default listing photos and titles
