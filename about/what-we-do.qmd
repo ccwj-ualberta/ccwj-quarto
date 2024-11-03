@@ -10,7 +10,11 @@ engine: knitr
 #| echo: false
 library(scholar)
 
-scholar_id = get_scholar_id("Mendez", "Patricio", affiliation = "University of Alberta")
+scholar_id = get_scholar_id(
+  last_name = "Mendez", 
+  first_name = "Patricio", 
+  affiliation = "University of Alberta"
+)
 scholar_pfl = get_profile(scholar_id)
 pubs = get_publications(scholar_id)
 ct = get_citation_history(scholar_id)

@@ -1,15 +1,24 @@
 /*-- scss:defaults --*/
 
-// Colours
-$gray-700: #495057 !default;
-$primary: #231e1a !default;
-$link-color: #4A9152FF !default;
-$footer-bg: #F8F8F8FF !default;
-$toc-color: #495057 !default;
+// Colour palette
+$nurse-white:   #F8F8F8FF;
+$nurse-gray:    #d9dcdf;
+$manatee:       #94949C;
+$charcoal:      #464849;
+$heavy-metal:   #343534;
+$ccwj-metal:    #2E2925;
 
-#quarto-back-to-top {
-  bottom: 110px !important;
-}
+$mint:          #d9e5dc;
+$spanish-green: #829984;
+$dark-cucumber: #4D6E4B;
+$pond-water:    #477166b3;
+$ccwj-green:    #283237;
+$melanie:       #453947;
+
+// Defaults
+$primary:       #231e1a;
+$link-color:    #4A9152FF;
+$footer-bg:     $nurse-white;
 
 // Fonts
 @font-face {
@@ -25,9 +34,8 @@ $toc-color: #495057 !default;
 $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 h1 {
-  // color: #464849 !important;
   font-family: 'Good Times' !important;
-  color: rgb(67, 111, 71) !important;
+  color: $dark-cucumber !important;
 }
 
 .quarto-title {
@@ -35,14 +43,16 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  color: #464849 !important;
+  color: $charcoal !important;
   font-family: 'Anivers' !important;
 }
 
 // navbar appearance
 .navbar {
-  background-image: url("assets/background-bar.png");
+  // background-image: url("assets/background-bar.png");
   font-size: 1.0rem;
+  // background-color: $heavy-metal !important;
+  background: linear-gradient(to right, $ccwj-metal, $ccwj-green);
 }
 
 .navbar-brand > img {
@@ -51,43 +61,43 @@ h2, h3, h4, h5, h6 {
 
 .dropdown-menu > li > a:hover {
   background-image: none;
-  background-color: #d9dcdf;
+  background-color: $nurse-gray;
 }
 
-// freeform sidebar/category appearance
+// changes the category appearance
 #quarto-margin-sidebar {
   position: sticky;
-  color: #464849;
+  color: $charcoal;
 }
 
 #quarto-margin-sidebar > div > div.category {
   border-style: solid;
   border-radius: 0.8ch;
   border-width: 1px;
-  border-color: #d9dcdf;
+  border-color: $nurse-gray;
   padding: 1%;
+  padding-left: 0.5em;
   margin-bottom: 4%;
-  font-size: 10pt;
-  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11pt;
   font-variant: small-caps;
-  color: #2a2c2e
+  color: $heavy-metal;
 }
 
 .quarto-grid-item .listing-categories .listing-category {
-  border-color: #d9dcdf !important;
-  color: #2a2c2e !important;
+  border-color: $nurse-gray !important;
+  color: $heavy-metal !important;
 }
 
 #quarto-margin-sidebar > div > div.category.active {
-  background-color: #d9dcdf;
-  font-weight: lighter;
+  background-color: $melanie;
+  color: $nurse-white;
 }
 
 .quarto-navbar-tools {
   height: 30px !important;
 }
 
-// aligns default listing photos and titles
+// align default listing photos and titles
 div.quarto-post {
   margin-bottom: 0em !important;
 }
@@ -117,32 +127,46 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
   font-size: 0.9rem;
 }
 
+// Proximity of back to top button to page base
+#quarto-back-to-top {
+  bottom: 110px !important;
+}
+
 // custom divs
 .highlight-row {
-  background-color: #d9e5dc;
-  color: #000000;
+  background-color: $mint;
   font-weight: 450;
   padding-top: 1.5em;
   padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
   margin-bottom: 0.5em;
   border-radius: 0.3em;
+  border-color: $nurse-gray;
+  border-style: solid;
+  border-width: 0.1em;
+  text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
 }
 
+// publication value boxes
 .box {
   height: 80px;
   width: 300px;
-  background-color: #477166b3;
-  color: #d9e5dc;
+  background-color: $pond-water;
+  color: $mint;
   padding: 10px;
   margin: 10px;
   font-size: 14pt;
   font-weight: bold;
   text-align: center;
   border-radius: 0.3em;
+  border-color: $nurse-gray;
+  border-style: solid;
+  border-width: 0.1em;
 }
-
 .three-cells {
   display: flex;
   justify-content: space-between;
   margin-top: 1em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
