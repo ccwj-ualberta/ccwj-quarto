@@ -4,7 +4,7 @@ subtitle: "Professor Patricio Mendez"
 about:
     template: trestles
     image: PM1 - Patricio Mendez Portrait.jpg
-    image-width: 450px
+    image-width: 451px
     links:
     - icon: email
       text: pmendez@ualberta.ca
