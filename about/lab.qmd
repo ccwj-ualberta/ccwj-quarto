@@ -6,7 +6,6 @@ listing:
   type: grid
   fields: [title, image, categories]
   sort: categories
-  sort-ui: [categories, title]
   filter-ui: true
   grid-columns: 3
   image-height: 175px
