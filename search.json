@@ -1381,9 +1381,9 @@
   {
     "objectID": "research/videos/robots.html",
     "href": "research/videos/robots.html",
-    "title": "Lincoln Fanuc lOOiC Robotic Welder",
+    "title": "Intelligent High Productivity Arc Welding Robot",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.\n\n\n\n\n Back to top"
+    "text": "Demonstration of the Lincoln Fanuc Arcmate Robotic Welder tracing its programmed tool path, showcasing the precise trajectory it follows during operation. This capability highlights its potential to enhance productivity in large-scale industrial production lines.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/gases.html",
@@ -1395,23 +1395,23 @@
   {
     "objectID": "research/videos/smaw.html",
     "href": "research/videos/smaw.html",
-    "title": "SMAW (stick) welding using E7018 electrode",
+    "title": "SMAW Process with E7018 Electrode and 135A Current (DCEP)",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.\n\n\n\n\n Back to top"
+    "text": "Demonstration of SMAW using an E7018 electrode (3.2 mm) with 135A current and DCEP polarity.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/two-water-balloons-oxycetylene.html",
     "href": "research/videos/two-water-balloons-oxycetylene.html",
     "title": "Two Water Balloons Popped With An Oxyacetylene Torch",
     "section": "",
-    "text": "In the video, a striker is used to ignite an oxyacetylene torch, producing a concentrated flame. When this flame is directed at each water balloon, the intense heat causes the balloon to burst immediately.\n\n\n\n\n Back to top"
+    "text": "A striker is used to ignite an oxyacetylene torch, producing a concentrated flame. When this flame is directed at each water balloon, the intense heat causes the balloon to burst immediately.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/metal-transfer.html",
     "href": "research/videos/metal-transfer.html",
     "title": "GMAW Steel 85Ar-15 CO2 Globular",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.\n\n\n\n\n Back to top"
+    "text": "High speed video of GMAW in globular metal transfer mode with ER70S-6 wire of 0.045” diameter, 175 ipm wire feed speed, 33 V, 85% Ar 15% CO2 shielding gas mixture, 0.70” contact tip to work piece distance, and 20 ipm travel speed.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/research-areas/metallurgy.html",
@@ -1446,7 +1446,7 @@
     "href": "research/videos.html",
     "title": "Video Resources",
     "section": "",
-    "text": "GMAW Ni-WC 100Ar CCWJ Calorimeter\n\n\n\nFlux-cored arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTwo Water Balloons Popped With An Oxyacetylene Torch\n\n\n\nFun high-speed\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGMAW Steel 85Ar-15 CO2 Globular\n\n\n\nGas metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGTAW Steel 100He Autogenous DCEN Pulse 300A average\n\n\n\nGas metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGMAW Steel 70Ar-30CO2 Globular\n\n\n\nGas metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh speed videos of GTAW (Steel 100Ar Autogenous DCEN CC 150A)\n\n\n\nGas tungsten arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPTAW Ni-WC 100Ar\n\n\n\nPlasma-transferred arc welding\n\n\nAlternative processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLincoln Fanuc lOOiC Robotic Welder\n\n\n\nRobotic welding and welding automation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSMAW (stick) welding using E7018 electrode\n\n\n\nShielded metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGTAW Steel 100Ar DCEN CC Pulsing Parallel Humping\n\n\n\nWelding discontinuities\n\n\n\n\n\n\n\n\nNo matching items\n\n\n  \n\n Back to top"
+    "text": "GMAW Ni-WC 100Ar CCWJ Calorimeter\n\n\n\nFlux-cored arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTwo Water Balloons Popped With An Oxyacetylene Torch\n\n\n\nFun high-speed\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGMAW Steel 85Ar-15 CO2 Globular\n\n\n\nGas metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh-Speed GTAW Demonstration - 450A Peak Current with 100% He Shielding\n\n\n\nGas metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGMAW Steel 70Ar-30CO2 Globular\n\n\n\nGas metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh speed videos of GTAW (Steel 100Ar Autogenous DCEN CC 150A)\n\n\n\nGas tungsten arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPTAW Ni-WC 100Ar\n\n\n\nPlasma-transferred arc welding\n\n\nAlternative processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntelligent High Productivity Arc Welding Robot\n\n\n\nRobotic welding and welding automation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSMAW Process with E7018 Electrode and 135A Current (DCEP)\n\n\n\nShielded metal arc welding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHumping Welding Phenomena Produced by Pulsed High Current GTAW of Steel 100Ar\n\n\n\nWelding discontinuities\n\n\n\n\n\n\n\n\nNo matching items\n\n\n  \n\n Back to top"
   },
   {
     "objectID": "research/projects/tailor-welded-mg-alloy-parts.html",
@@ -2552,7 +2552,7 @@
     "href": "about/what-we-do.html#fundamentals-research",
     "title": "What we do",
     "section": "Fundamentals Research",
-    "text": "Fundamentals Research\n\n\nLeading the field of technology with latest discoveries from science and equipment: membership in key committees such as IIW: Assembly National Delegate for Canada; Expert for Commission XII and SG 212; Member of IIW TMB; and AWS: A5G Subcommittee on Hard Facing Filler Metals, EC Education Committee, Higher Education.\nEngineering Subcommittee, Welding R&D Committee, Standardization in Welding Modelling Committee; MaJIC Board of Directors.\nProvide access to wide range of welding processes and specialized/unique analysis equipment to the industry: GMAW; GTAW; PTAW; SAW; SMAW; FSW; LBW; laser cladding; Hot-Wire; plasma cutting; high speed video; thermography; complete data acquisition; full metallography lab; hardness mapper (Rockwell, Vickers); gas chromatographer (O,N,H); Charpy / instrumented impact tester; surface profilometer; dilatometer; all levels optical and electron microscopy; ThermoCalc and COMSOL; JMatPro ; Simufact.Welding; TransWeld; VrWeld.\nAward-winning research: more than 150 awards since 2009, including the AWS Image of Welding: Educational Facility Award (2013) and CWA and AWS fellowships.\n\n\n\n172+\nPublications \n\n\n3192+\nCitations \n\n\n27\nh-index"
+    "text": "Fundamentals Research\n\n\nLeading the field of technology with latest discoveries from science and equipment: membership in key committees such as IIW: Assembly National Delegate for Canada; Expert for Commission XII and SG 212; Member of IIW TMB; and AWS: A5G Subcommittee on Hard Facing Filler Metals, EC Education Committee, Higher Education.\nEngineering Subcommittee, Welding R&D Committee, Standardization in Welding Modelling Committee; MaJIC Board of Directors.\nProvide access to wide range of welding processes and specialized/unique analysis equipment to the industry: GMAW; GTAW; PTAW; SAW; SMAW; FSW; LBW; laser cladding; Hot-Wire; plasma cutting; high speed video; thermography; complete data acquisition; full metallography lab; hardness mapper (Rockwell, Vickers); gas chromatographer (O,N,H); Charpy / instrumented impact tester; surface profilometer; dilatometer; all levels optical and electron microscopy; ThermoCalc and COMSOL; JMatPro ; Simufact.Welding; TransWeld; VrWeld.\nAward-winning research: more than 150 awards since 2009, including the AWS Image of Welding: Educational Facility Award (2013) and CWA and AWS fellowships.\n\n\n\n172+\nPublications \n\n\n3181+\nCitations \n\n\n27\nh-index"
   },
   {
     "objectID": "about/what-we-do.html#programs-for-students",
@@ -3257,37 +3257,37 @@
   {
     "objectID": "research/videos/discontinuities.html",
     "href": "research/videos/discontinuities.html",
-    "title": "GTAW Steel 100Ar DCEN CC Pulsing Parallel Humping",
+    "title": "Humping Welding Phenomena Produced by Pulsed High Current GTAW of Steel 100Ar",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.\n\n\n\n\n Back to top"
+    "text": "High speed video of high current GTAW that produces a local gouging condition. This can occur in high productivity GTAW, and produces periodically displaced weld material adjacent to the bead, otherwise known as humping.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/ptaw.html",
     "href": "research/videos/ptaw.html",
     "title": "PTAW Ni-WC 100Ar",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.\n\n\n\n\n Back to top"
+    "text": "High speed video of Plasma Transfered Arc welding being used for deposition of a powder tungsten carbide. The bright arc and powder flow are clearly visible fusing the material to the plate.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/waveforms.html",
     "href": "research/videos/waveforms.html",
-    "title": "GTAW Steel 100He Autogenous DCEN Pulse 300A average",
+    "title": "High-Speed GTAW Demonstration - 450A Peak Current with 100% He Shielding",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.\n\n\n\n\n Back to top"
+    "text": "High-speed video of GTAW with 150A background current, 450A peak current, 100% He shielding gas, and a travel speed of 20 ipm. Performed using a 2% thoriated electrode with square wave pulse.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/fcaw.html",
     "href": "research/videos/fcaw.html",
     "title": "GMAW Ni-WC 100Ar CCWJ Calorimeter",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.\n\n\n\n\n Back to top"
+    "text": "High speed video of GMAW with a cored nickel tungsten-carbide wire on the CCWJ’s droplet temperature measurement apparatus. The apparatus involves a copper pipe with a hole that allows an arc to be sustained but also for weld droplets to fall onto a solid-state calorimeter below.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research/videos/gtaw.html",
     "href": "research/videos/gtaw.html",
     "title": "High speed videos of GTAW (Steel 100Ar Autogenous DCEN CC 150A)",
     "section": "",
-    "text": "High speed videos for GTAW with 150A current, 100%Ar, and 20ipm travel speed.\n\n\n\n\n Back to top"
+    "text": "High speed video of high current GTAW that produces a local gouging condition. This can occur in high productivity GTAW, and produces periodically displaced weld material adjacent to the bead, otherwise known as humping.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "publications/publications-proceedings/multivariate-data-analysis-of-gas-metal-arc-welding-process.html",
