@@ -4,6 +4,6 @@ image: https://img.youtube.com/vi/ngrqcDdVyhM/hqdefault.jpg
 categories: [Gas metal arc welding]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.
+High speed video of GMAW in globular metal transfer mode with ER70S-6 wire of 0.045" diameter, 175 ipm wire feed speed, 33 V, 85% Ar 15% CO2 shielding gas mixture, 0.70" contact tip to work piece distance, and 20 ipm travel speed.
 
 {{< video https://youtu.be/ngrqcDdVyhM?list=PL0EF42C3430979734 >}}

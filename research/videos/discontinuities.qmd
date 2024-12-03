@@ -1,9 +1,9 @@
 ---
-title: GTAW Steel 100Ar DCEN CC Pulsing Parallel Humping
+title: Humping Welding Phenomena Produced by Pulsed High Current GTAW of Steel 100Ar
 image: https://img.youtube.com/vi/tJwr9MjKBVo/hqdefault.jpg
 categories: [Welding discontinuities]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.
+High speed video of high current GTAW that produces a local gouging condition. This can occur in high productivity GTAW, and produces periodically displaced weld material adjacent to the bead, otherwise known as humping.
 
 {{< video https://youtu.be/tJwr9MjKBVo?list=PL38954225764CCB92 >}}
