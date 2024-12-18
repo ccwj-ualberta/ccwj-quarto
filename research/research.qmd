@@ -1,5 +1,5 @@
 ---
-title: "Research at the CCWJ"
+title: "Research Highlights"
 listing:
   id: research-areas
   contents: research-areas
@@ -18,7 +18,9 @@ The CCWJ conducts research across a wide range of areas, including: numerical mo
 
 <br>
 
+:::: {.highlight-row-gray}
 ::: {#research-areas}
 :::
+::::
 
 Detailed project descriptions can be found in the [Projects](projects.qmd) section.
