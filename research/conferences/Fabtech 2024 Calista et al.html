@@ -6,11 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Patricio Mendez">
-<meta name="dcterms.date" content="2021-03-26">
-<meta name="description" content="Prof.&nbsp;Mendez discusses the ideas behind scaling techniques in engineering. Part 1 covers the basic principles, with Part 2 and 3 going into specifics.">
+<meta name="author" content="D.D.G. Calista, G.R. Lehnhoff, U. Prisco, and P.F. Mendez">
+<meta name="dcterms.date" content="2024-10-15">
+<meta name="description" content="Fabtech 2024, Orlando, FL.">
 
-<title>Scaling Techniques in Modeling - Part 1 – CCWJ</title>
+<title>Analytical Modelling of Temperature and Vee Length Evolution in Electric Resistance Welding – CCWJ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-88b356c9e2a0a3046e0ebe16a6524c32.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-ffcd7ee072db6e9c431981e1a5cfdc49.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,17 +72,17 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Scaling Techniques in Modeling - Part 1 – CCWJ">
-<meta property="og:description" content="Prof.&nbsp;Mendez discusses the ideas behind scaling techniques in engineering. Part 1 covers the basic principles, with Part 2 and 3 going into specifics.">
-<meta property="og:image" content="https://stevenpawley.github.io/ccwj-quarto/research/talks/scaling-techniques-part1.png">
+<meta property="og:title" content="Analytical Modelling of Temperature and Vee Length Evolution in Electric Resistance Welding – CCWJ">
+<meta property="og:description" content="Fabtech 2024, Orlando, FL.">
+<meta property="og:image" content="https://stevenpawley.github.io/ccwj-quarto/research/conferences/Fabtech 2024 Calista et al.png">
 <meta property="og:site_name" content="CCWJ">
-<meta property="og:image:height" content="548">
-<meta property="og:image:width" content="724">
-<meta name="twitter:title" content="Scaling Techniques in Modeling - Part 1 – CCWJ">
-<meta name="twitter:description" content="Prof.&nbsp;Mendez discusses the ideas behind scaling techniques in engineering. Part 1 covers the basic principles, with Part 2 and 3 going into specifics.">
-<meta name="twitter:image" content="https://stevenpawley.github.io/ccwj-quarto/research/talks/scaling-techniques-part1.png">
-<meta name="twitter:image-height" content="548">
-<meta name="twitter:image-width" content="724">
+<meta property="og:image:height" content="1604">
+<meta property="og:image:width" content="2864">
+<meta name="twitter:title" content="Analytical Modelling of Temperature and Vee Length Evolution in Electric Resistance Welding – CCWJ">
+<meta name="twitter:description" content="Fabtech 2024, Orlando, FL.">
+<meta name="twitter:image" content="https://stevenpawley.github.io/ccwj-quarto/research/conferences/Fabtech 2024 Calista et al.png">
+<meta name="twitter:image-height" content="1604">
+<meta name="twitter:image-width" content="2864">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -102,12 +102,17 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> <i class="bi bi-house-door-fill" role="img">
+</i> 
+<span class="menu-text"> </span></a>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">About</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
     <a class="dropdown-item" href="../../about/about.html">
  <span class="dropdown-text">About Us</span></a>
@@ -138,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-people" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">People</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-people">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-people">    
         <li>
     <a class="dropdown-item" href="../../people/director.html">
  <span class="dropdown-text">Director</span></a>
@@ -177,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Research</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research">    
         <li>
     <a class="dropdown-item" href="../../research/research.html">
  <span class="dropdown-text">Research at the CCWJ</span></a>
@@ -191,12 +196,16 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Publications</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../research/talks.html">
- <span class="dropdown-text">Talks</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="../../research/posters.html">
  <span class="dropdown-text">Posters</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../research/seminar-presentations.html">
+ <span class="dropdown-text">Seminars</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../research/conference-presentations.html">
+ <span class="dropdown-text">Conferences</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../research/videos.html">
@@ -212,7 +221,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-join-us" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Join Us</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-join-us">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-join-us">    
         <li>
     <a class="dropdown-item" href="../../apply/canadian.html">
  <span class="dropdown-text">Canadian Students</span></a>
@@ -250,12 +259,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Scaling Techniques in Modeling - Part 1</h1>
+<h1 class="title">Analytical Modelling of Temperature and Vee Length Evolution in Electric Resistance Welding</h1>
 </div>
 
 <div>
   <div class="description">
-    Prof.&nbsp;Mendez discusses the ideas behind scaling techniques in engineering. Part 1 covers the basic principles, with Part 2 and 3 going into specifics.
+    Fabtech 2024, Orlando, FL.
   </div>
 </div>
 
@@ -265,14 +274,14 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Patricio Mendez </p>
+             <p>D.D.G. Calista, G.R. Lehnhoff, U. Prisco, and P.F. Mendez </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 26, 2021</p>
+      <p class="date">October 15, 2024</p>
     </div>
   </div>
   
@@ -284,7 +293,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<iframe src="https://drive.google.com/file/d/1InR4UuvxrAMn3lDlBcMSVbc2CuHKcfMx/preview" width="640" height="360" allow="autoplay"></iframe>
+<p>This report presents recent progress in understanding the physics of high frequency electric resistance welding (HF-ERW); in particular, the role of transient ablation which determines the duration a melt is exposed on the welding surfaces. The melt’s exposure to atmosphere typically results in pancake-type oxide inclusions usually called penetrators. Penetrators have been studied in ERW since the late 1970s; however, to date, industry does not have a quantitative model that links process parameters to penetrators. Since ERW is a continuous multi-physical process, understanding each of the occurring mechanisms is crucial to understand which ones contribute to penetrators. Fundamental to ERW is the heat distribution due to the currents imposed on the surfaces. This work presents the analytical derivation and solution of the solid-state temperature distribution in ERW as a single equation. From this analysis, the physical significance of heat penetration compared to the electrical skin depth is treated explicitly. At low temperatures, the skin depth predominates the heat penetration, whereas at higher temperatures the heat penetration predominates the skin depth. As material approaches the weld point, a molten film forms on the surfaces and is immediately expelled from the vee due to electromagnetic forces. The amount of expelled material directly affects the location of the weld point, the actual vee length in the process, and the propensity to form penetrators. The current ERW heat model has been revised to capture the effects of this transient ablation on actual vee length. As heat input increases, melting is induced earlier in the vee, resulting in an actual vee length larger than defined by system geometry. The model has been validated with published mill data from independent sources. Understanding the connection between process parameters and melt exposure is expected to elucidate the connection between process parameters and penetrators.</p>
+<iframe src="https://drive.google.com/file/d/1IPdmsVGi-oI5xNSGGw6EndXLaX757uKP/preview" width="640" height="360" allow="autoplay"></iframe>
 
 
 

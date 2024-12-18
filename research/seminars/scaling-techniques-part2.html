@@ -6,11 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Marcelo Liendo">
-<meta name="dcterms.date" content="2022-11-23">
-<meta name="description" content="Qualification to manufacturing based on practical experiences by a leading expert, including the facility certification process, batch qualification, manufacturing process, and special on-time testing.">
+<meta name="author" content="Patricio Mendez">
+<meta name="dcterms.date" content="2021-03-27">
+<meta name="description" content="In the second part of this workshop, Prof.&nbsp;Mendez continues his presentation on scaling techniques in engineering, and starts from the concepts of Minimal Representation and Correction Factors.">
 
-<title>Qualification and Manufacturing of Nuclear Components – CCWJ</title>
+<title>Scaling Techniques in Modeling - Part 2 – CCWJ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-88b356c9e2a0a3046e0ebe16a6524c32.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-ffcd7ee072db6e9c431981e1a5cfdc49.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,13 +72,17 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Qualification and Manufacturing of Nuclear Components – CCWJ">
-<meta property="og:description" content="Qualification to manufacturing based on practical experiences by a leading expert, including the facility certification process, batch qualification, manufacturing process, and special on-time testing.">
-<meta property="og:image" content="https://img.youtube.com/vi/g4Heen9lzSI/hqdefault.jpg">
+<meta property="og:title" content="Scaling Techniques in Modeling - Part 2 – CCWJ">
+<meta property="og:description" content="In the second part of this workshop, Prof.&nbsp;Mendez continues his presentation on scaling techniques in engineering, and starts from the concepts of Minimal Representation and Correction Factors.">
+<meta property="og:image" content="https://stevenpawley.github.io/ccwj-quarto/research/seminars/scaling-techniques-part2.png">
 <meta property="og:site_name" content="CCWJ">
-<meta name="twitter:title" content="Qualification and Manufacturing of Nuclear Components – CCWJ">
-<meta name="twitter:description" content="Qualification to manufacturing based on practical experiences by a leading expert, including the facility certification process, batch qualification, manufacturing process, and special on-time testing.">
-<meta name="twitter:image" content="https://img.youtube.com/vi/g4Heen9lzSI/hqdefault.jpg">
+<meta property="og:image:height" content="716">
+<meta property="og:image:width" content="1270">
+<meta name="twitter:title" content="Scaling Techniques in Modeling - Part 2 – CCWJ">
+<meta name="twitter:description" content="In the second part of this workshop, Prof.&nbsp;Mendez continues his presentation on scaling techniques in engineering, and starts from the concepts of Minimal Representation and Correction Factors.">
+<meta name="twitter:image" content="https://stevenpawley.github.io/ccwj-quarto/research/seminars/scaling-techniques-part2.png">
+<meta name="twitter:image-height" content="716">
+<meta name="twitter:image-width" content="1270">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -98,12 +102,17 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> <i class="bi bi-house-door-fill" role="img">
+</i> 
+<span class="menu-text"> </span></a>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">About</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
     <a class="dropdown-item" href="../../about/about.html">
  <span class="dropdown-text">About Us</span></a>
@@ -134,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-people" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">People</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-people">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-people">    
         <li>
     <a class="dropdown-item" href="../../people/director.html">
  <span class="dropdown-text">Director</span></a>
@@ -173,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Research</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research">    
         <li>
     <a class="dropdown-item" href="../../research/research.html">
  <span class="dropdown-text">Research at the CCWJ</span></a>
@@ -187,12 +196,16 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Publications</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../research/talks.html">
- <span class="dropdown-text">Talks</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="../../research/posters.html">
  <span class="dropdown-text">Posters</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../research/seminar-presentations.html">
+ <span class="dropdown-text">Seminars</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../research/conference-presentations.html">
+ <span class="dropdown-text">Conferences</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../research/videos.html">
@@ -208,7 +221,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-join-us" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Join Us</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-join-us">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-join-us">    
         <li>
     <a class="dropdown-item" href="../../apply/canadian.html">
  <span class="dropdown-text">Canadian Students</span></a>
@@ -246,12 +259,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Qualification and Manufacturing of Nuclear Components</h1>
+<h1 class="title">Scaling Techniques in Modeling - Part 2</h1>
 </div>
 
 <div>
   <div class="description">
-    Qualification to manufacturing based on practical experiences by a leading expert, including the facility certification process, batch qualification, manufacturing process, and special on-time testing.
+    In the second part of this workshop, Prof.&nbsp;Mendez continues his presentation on scaling techniques in engineering, and starts from the concepts of Minimal Representation and Correction Factors.
   </div>
 </div>
 
@@ -261,14 +274,14 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Marcelo Liendo </p>
+             <p>Patricio Mendez </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">November 23, 2022</p>
+      <p class="date">March 27, 2021</p>
     </div>
   </div>
   
@@ -280,8 +293,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The emergence of small modular nuclear reactors (SMRs) marks a paradigm shift towards shop-produced prefab modules, which makes the technology appealing for fabricators and also allows for the use new technologies and materials. At the same time, the highly regulated environment poses high entry barriers for companies entering the sector and for qualifying new technologies and materials. This presentation will cover the steps from qualification to manufacturing based on practical experiences by a leading expert, including the facility certification process, batch qualification, manufacturing process, and special on-time testing. The presentation will be followed by a Q&amp;A - which will be an amazing opportunity to discuss practical details and get first-hand insights.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/g4Heen9lzSI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<iframe src="https://drive.google.com/file/d/1mGeBgNbvazqRLj-S8ceozllUfKEJnHve/preview" width="640" height="360" allow="autoplay"></iframe>
 
 
 

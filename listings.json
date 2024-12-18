@@ -439,6 +439,18 @@
     ]
   },
   {
+    "listing": "/research/seminar-presentations.html",
+    "items": [
+      "/research/seminars/nuclear-components.html",
+      "/research/seminars/smr-materials.html",
+      "/research/seminars/scaling-techniques-part3.html",
+      "/research/seminars/scaling-techniques-part2.html",
+      "/research/seminars/scaling-techniques-part1.html",
+      "/research/seminars/joys-of-welding-mets-2013.html",
+      "/research/seminars/candu-reactors.html"
+    ]
+  },
+  {
     "listing": "/research/videos.html",
     "items": [
       "/research/videos/fcaw.html",
@@ -460,89 +472,6 @@
       "/research/research-areas/automation.html",
       "/research/research-areas/modelling.html",
       "/research/research-areas/metallurgy.html"
-    ]
-  },
-  {
-    "listing": "/people/alumn-visitors.html",
-    "items": [
-      "/people/alumn-visitors/AK2 - Aditya Rahul Kelkar.html",
-      "/people/alumn-visitors/AB3 - Arthur  Bardy.html",
-      "/people/alumn-visitors/CG1 - Cesar Maximiliano Gonzalez Bisquertt.html",
-      "/people/alumn-visitors/CC1 - Charly Cluchier.html",
-      "/people/alumn-visitors/DG1 - Dhruv Grover.html",
-      "/people/alumn-visitors/EM1 - Edgar Menzildjian.html",
-      "/people/alumn-visitors/FR1 - Francisca Javiera Ramirez Vidal.html",
-      "/people/alumn-visitors/FB1 - Francisco Javier Basaure Figueroa.html",
-      "/people/alumn-visitors/FA1 - Freddy Brian Agama Santana.html",
-      "/people/alumn-visitors/GB1 - German Omar Barrionuevo Chiluiza.html",
-      "/people/alumn-visitors/IG1 - Ivan Gonzalez Perez.html",
-      "/people/alumn-visitors/JR1 - Juan Pablo Romero Campos.html",
-      "/people/alumn-visitors/MU1 - Magdalena Estela Urrutia Unda.html",
-      "/people/alumn-visitors/NK1 - Nitheesh Kumar Ramasamy.html",
-      "/people/alumn-visitors/RC1 - Renata Belen Cancino Silva.html",
-      "/people/alumn-visitors/TP1 - Tiare Andrea Susana Perez Neira.html",
-      "/people/alumn-visitors/UD1 - Ugo Douillard.html"
-    ]
-  },
-  {
-    "listing": "/people/alumn-ug.html",
-    "items": [
-      "/people/alumn-ug/AW1 - Andy Wu.html",
-      "/people/alumn-ug/ES1 - Eric Stuparyk.html",
-      "/people/alumn-ug/JB1 - Jolene Borrelli.html",
-      "/people/alumn-ug/MJ1 - Mackenzi Johnston.html",
-      "/people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
-      "/people/alumn-ug/TN1 - Thuong Nguyen.html",
-      "/people/alumn-ug/WW1 - Wesley Wood.html"
-    ]
-  },
-  {
-    "listing": "/people/staff.html",
-    "items": [
-      "/people/staff/GD1 - Goetz Dapp.html",
-      "/people/staff/TR1 - Terry Runyon.html"
-    ]
-  },
-  {
-    "listing": "/people/bscs.html",
-    "items": [
-      "/people/bscs/LA1 - Luca Allegretto.html",
-      "/people/bscs/MU2 - Munia.html",
-      "/people/bscs/TO1 - Tian Ooi.html"
-    ]
-  },
-  {
-    "listing": "/people/phds.html",
-    "items": [
-      "/people/phds/AC1 - Alisha Cardanini.html",
-      "/people/phds/DC1 - Daniele Calista.html",
-      "/people/phds/GS1 - Gurbarn Singh.html",
-      "/people/phds/XL1 - Xinrui Liu.html"
-    ]
-  },
-  {
-    "listing": "/people/mscs.html",
-    "items": [
-      "/people/mscs/CT1 - Carter Trautmann.html",
-      "/people/mscs/PP1 - Preetam Panja.html",
-      "/people/mscs/RR7 - Rishiekesh Ramgopal.html",
-      "/people/mscs/SS3 - Sandeep Singh Parmar.html",
-      "/people/mscs/SS1 - Stefano Sacco Hawas.html",
-      "/people/mscs/SA1 - Syed Irtiaz Alam.html",
-      "/people/mscs/VS1 - Vicente Andres Nunez Sanchez.html"
-    ]
-  },
-  {
-    "listing": "/people/alumn.html",
-    "items": [
-      "/people/alumn/AK1 - Ata Kamyabi.html",
-      "/people/alumn/DH1 - Dmytro Havrylov.html",
-      "/people/alumn/EK1 - Elham Kamali Heidari.html",
-      "/people/alumn/GW1 - Gentry Wood.html",
-      "/people/alumn/NB1 - Nairn Barnes.html",
-      "/people/alumn/SB1 - Steven Borle.html",
-      "/people/alumn/VP1 - Viraj Patel.html",
-      "/people/alumn/YL1 - Yi Lu.html"
     ]
   },
   {
@@ -630,15 +559,86 @@
     ]
   },
   {
-    "listing": "/research/talks.html",
+    "listing": "/people/alumn.html",
     "items": [
-      "/research/talks/nuclear-components.html",
-      "/research/talks/smr-materials.html",
-      "/research/talks/scaling-techniques-part3.html",
-      "/research/talks/scaling-techniques-part2.html",
-      "/research/talks/scaling-techniques-part1.html",
-      "/research/talks/joys-of-welding-mets-2013.html",
-      "/research/talks/candu-reactors.html"
+      "/people/alumn/AK1 - Ata Kamyabi.html",
+      "/people/alumn/DH1 - Dmytro Havrylov.html",
+      "/people/alumn/EK1 - Elham Kamali Heidari.html",
+      "/people/alumn/GW1 - Gentry Wood.html",
+      "/people/alumn/NB1 - Nairn Barnes.html",
+      "/people/alumn/SB1 - Steven Borle.html",
+      "/people/alumn/VP1 - Viraj Patel.html",
+      "/people/alumn/YL1 - Yi Lu.html"
+    ]
+  },
+  {
+    "listing": "/people/mscs.html",
+    "items": [
+      "/people/mscs/CT1 - Carter Trautmann.html",
+      "/people/mscs/PP1 - Preetam Panja.html",
+      "/people/mscs/RR7 - Rishiekesh Ramgopal.html",
+      "/people/mscs/SS3 - Sandeep Singh Parmar.html",
+      "/people/mscs/SS1 - Stefano Sacco Hawas.html",
+      "/people/mscs/SA1 - Syed Irtiaz Alam.html",
+      "/people/mscs/VS1 - Vicente Andres Nunez Sanchez.html"
+    ]
+  },
+  {
+    "listing": "/people/phds.html",
+    "items": [
+      "/people/phds/AC1 - Alisha Cardanini.html",
+      "/people/phds/DC1 - Daniele Calista.html",
+      "/people/phds/GS1 - Gurbarn Singh.html",
+      "/people/phds/XL1 - Xinrui Liu.html"
+    ]
+  },
+  {
+    "listing": "/people/bscs.html",
+    "items": [
+      "/people/bscs/LA1 - Luca Allegretto.html",
+      "/people/bscs/MU2 - Munia.html",
+      "/people/bscs/TO1 - Tian Ooi.html"
+    ]
+  },
+  {
+    "listing": "/people/staff.html",
+    "items": [
+      "/people/staff/GD1 - Goetz Dapp.html",
+      "/people/staff/TR1 - Terry Runyon.html"
+    ]
+  },
+  {
+    "listing": "/people/alumn-ug.html",
+    "items": [
+      "/people/alumn-ug/AW1 - Andy Wu.html",
+      "/people/alumn-ug/ES1 - Eric Stuparyk.html",
+      "/people/alumn-ug/JB1 - Jolene Borrelli.html",
+      "/people/alumn-ug/MJ1 - Mackenzi Johnston.html",
+      "/people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
+      "/people/alumn-ug/TN1 - Thuong Nguyen.html",
+      "/people/alumn-ug/WW1 - Wesley Wood.html"
+    ]
+  },
+  {
+    "listing": "/people/alumn-visitors.html",
+    "items": [
+      "/people/alumn-visitors/AK2 - Aditya Rahul Kelkar.html",
+      "/people/alumn-visitors/AB3 - Arthur  Bardy.html",
+      "/people/alumn-visitors/CG1 - Cesar Maximiliano Gonzalez Bisquertt.html",
+      "/people/alumn-visitors/CC1 - Charly Cluchier.html",
+      "/people/alumn-visitors/DG1 - Dhruv Grover.html",
+      "/people/alumn-visitors/EM1 - Edgar Menzildjian.html",
+      "/people/alumn-visitors/FR1 - Francisca Javiera Ramirez Vidal.html",
+      "/people/alumn-visitors/FB1 - Francisco Javier Basaure Figueroa.html",
+      "/people/alumn-visitors/FA1 - Freddy Brian Agama Santana.html",
+      "/people/alumn-visitors/GB1 - German Omar Barrionuevo Chiluiza.html",
+      "/people/alumn-visitors/IG1 - Ivan Gonzalez Perez.html",
+      "/people/alumn-visitors/JR1 - Juan Pablo Romero Campos.html",
+      "/people/alumn-visitors/MU1 - Magdalena Estela Urrutia Unda.html",
+      "/people/alumn-visitors/NK1 - Nitheesh Kumar Ramasamy.html",
+      "/people/alumn-visitors/RC1 - Renata Belen Cancino Silva.html",
+      "/people/alumn-visitors/TP1 - Tiare Andrea Susana Perez Neira.html",
+      "/people/alumn-visitors/UD1 - Ugo Douillard.html"
     ]
   },
   {
@@ -668,6 +668,19 @@
       "/research/projects/welding-defects-catalog.html",
       "/research/projects/protective-overlays-oil-sands.html",
       "/research/projects/abrasion-resistant-ni-wc-composites.html"
+    ]
+  },
+  {
+    "listing": "/research/conference-presentations.html",
+    "items": [
+      "/research/conferences/Fabtech 2024 Abdulla.html",
+      "/research/conferences/Fabtech 2024 Trautmann.html",
+      "/research/conferences/Fabtech 2024 Calista et al.html",
+      "/research/conferences/Fabtech 2024 Alvarez-Rocha.html",
+      "/research/conferences/CANWELD 2024 Calista et al.html",
+      "/research/conferences/CANWELD 2023 Calista and Mendez.html",
+      "/research/conferences/CANWELD 2023 Ramgopa and Mendez.html",
+      "/research/conferences/CANWELD 2023 Núñez and Mendez.html"
     ]
   },
   {
