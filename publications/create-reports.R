@@ -40,7 +40,8 @@ create_report <- function(author, institution, title, year) {
   writeLines(output, file_path)
 }
 
-list.files(here("publications/publications-reports"), full.names = TRUE) |>
+msg <-
+  list.files(here("publications", "publications-reports"), full.names = TRUE) |>
   file.remove()
 
 for (i in 1:nrow(reports)) {

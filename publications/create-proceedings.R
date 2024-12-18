@@ -41,7 +41,8 @@ create_conference <- function(title, author, conference, year) {
   writeLines(output, file_path)
 }
 
-list.files(here("publications/publications-proceedings"), full.names = TRUE) |>
+msg <-
+  list.files(here("publications/publications-proceedings"), full.names = TRUE) |>
   file.remove()
 
 for (i in 1:nrow(papers)) {

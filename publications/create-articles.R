@@ -45,7 +45,8 @@ create_article <- function(title, author, journal, year, volume, number, pages, 
   writeLines(output, file_path)
 }
 
-list.files(here("publications/publications-articles"), full.names = TRUE) |>
+msg <-
+  list.files(here("publications/publications-articles"), full.names = TRUE) |>
   file.remove()
 
 for (i in 1:nrow(journals)) {
