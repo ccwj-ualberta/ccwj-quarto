@@ -21,7 +21,11 @@ website:
     logo: assets/CCWJ_white_logo.png
     logo-alt: Canada Centre for Welding and Joining
 
-    left:
+    right:
+      - text: " "
+        icon: house-door-fill
+        href: index.html
+
       - text: About
         menu:
           - about/about.qmd
@@ -47,8 +51,9 @@ website:
           - research/research.qmd
           - research/projects.qmd
           - publications/publications.qmd
-          - research/talks.qmd
           - research/posters.qmd
+          - research/seminar-presentations.qmd
+          - research/conference-presentations.qmd
           - research/videos.qmd
 
       - text: Teaching

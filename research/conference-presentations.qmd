@@ -1,0 +1,11 @@
+---
+title: "Conferences"
+listing: 
+  contents: conferences
+  type: default
+  image-height: 200px
+  image-placeholder: ../assets/UA-COLOUR-NARROW.png
+  filter-ui: true
+  sort: "date desc"
+page-layout: full
+---

@@ -1,7 +1,7 @@
 ---
-title: "Talks"
+title: "Seminars"
 listing: 
-  contents: talks
+  contents: seminars
   type: default
   image-height: 200px
   image-placeholder: ../assets/UA-COLOUR-NARROW.png

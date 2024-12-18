@@ -18,7 +18,6 @@ The research of the CCWJ has historically been centred on steel applications and
 
 ## Learn more about the CCWJ
 
-
 The CCWJ represents a unique place to study welding and materials engineering, and is recognized worldwide through the scope of its interdisciplinary research, state-of-the-art infrastructure, collaboration with industry, and education in welding engineering. The CCWJ is commited to supporting the deepest level of fundamental research into welding and joining processes and procedures, coupled with practical, industry-related and industry-driven applications.
 
 Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fluid mechanics, plasma physics, solid mechanics, computer and mathematical modelling, and health sciences for welding applications.
@@ -43,6 +42,5 @@ Learn more about our mission and vision, our research, and what we offer.
 [![What we Offer](assets/our-impact.png)](about/what-we-do.qmd)
 :::
 ::::
-
 
 :::

@@ -1,6 +1,7 @@
 /*-- scss:defaults --*/
 
 // Colour palette
+$white:         #FFFFFF;
 $nurse-white:   #F8F8F8FF;
 $nurse-gray:    #d9dcdf;
 $manatee:       #94949C;
@@ -50,18 +51,27 @@ h2, h3, h4, h5, h6 {
 // navbar appearance
 .navbar {
   // background-image: url("assets/background-bar.png");
-  font-size: 1.0rem;
+  font-size: 1.05rem;
+  font-weight: 450;
   // background-color: $heavy-metal !important;
   background: linear-gradient(to right, $ccwj-metal, $ccwj-green);
 }
 
+.nav-link {
+  color: $nurse-white !important;
+}
+
 .navbar-brand > img {
-  max-height: 55px;
+  max-height: 65px;
 }
 
 .dropdown-menu > li > a:hover {
   background-image: none;
   background-color: $nurse-gray;
+}
+
+i.bi.bi-linkedin {
+  padding-left: 0.5em;
 }
 
 // changes the category appearance
