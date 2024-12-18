@@ -57,7 +57,11 @@ h2, h3, h4, h5, h6 {
   background: linear-gradient(to right, $ccwj-metal, $ccwj-green);
 }
 
-.nav-link {
+.menu-text {
+  color: $nurse-white !important;
+}
+
+.dropdown-toggle {
   color: $nurse-white !important;
 }
 
@@ -72,6 +76,19 @@ h2, h3, h4, h5, h6 {
 
 i.bi.bi-linkedin {
   padding-left: 0.5em;
+  color: $nurse-white;
+}
+
+.bi-house-door-fill {
+  color: $nurse-white;
+}
+
+.bi-youtube {
+  color: $nurse-white;
+}
+
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+color: $nurse-white !important;
 }
 
 // changes the category appearance

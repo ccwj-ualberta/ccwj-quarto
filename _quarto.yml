@@ -89,6 +89,13 @@ website:
       [Directions](https://sites.ualberta.ca/~ccwj/About/directions.html) <br>
       [University of Alberta](https://www.ualberta.ca/)
 
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "New conference presentation videos by CCWJ members! [Click here to find out more](research/conference-presentations.qmd)."
+    type: light
+    position: below-navbar
+
 format:
   html:
     toc: false
