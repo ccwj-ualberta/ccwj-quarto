@@ -16,6 +16,7 @@ $dark-cucumber: #4D6E4B;
 $pond-water:    #477166b3;
 $ccwj-green:    #283237;
 $melanie:       #453947;
+$blue:          #DAD9DCFF;
 
 // Defaults
 $primary:       #231e1a;
@@ -178,6 +179,22 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
 
 .highlight-row-gray {
   background-color: $nurse-white;
+  font-weight: 450;
+  padding-top: 1.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 0.5em;
+  border-radius: 0.3em;
+  border-color: $nurse-gray;
+  border-style: solid;
+  border-width: 0.1em;
+  text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
+}
+
+.accomplishment {
+  height: 250px;
+  background-color: $blue;
   font-weight: 450;
   padding-top: 1.5em;
   padding-bottom: 0.5em;
