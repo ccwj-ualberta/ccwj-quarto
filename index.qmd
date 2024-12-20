@@ -25,7 +25,7 @@ The CCWJ represents a unique place to study welding and materials engineering, a
 Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fluid mechanics, plasma physics, solid mechanics, computer and mathematical modelling, and health sciences for welding applications.
 
 ::: {.highlight-row}
-{{< li qgqtgdxf style=width:50px;height:50px;vertical-align:middle; >}} Learn more about our mission and vision, our research, and what we offer.
+{{< li smjqtlxm style=width:50px;height:50px;vertical-align:middle; >}} Learn more about our mission and vision, our research, and what we offer.
 :::
 
 <br>
@@ -34,19 +34,19 @@ Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fl
 
 ::: {.g-col-4}
 ::: {.highlight-row-gray}
-[![{{< li dznelzdk style=width:50px;height:50px;vertical-align:middle; >}} About Us](assets/about-us.png)](about/about.qmd)
+[![{{< li osqflufj style=width:50px;height:50px;vertical-align:middle; >}} About Us](assets/about-us.png)](about/about.qmd)
 :::
 :::
 
 ::: {.g-col-4}
 ::: {.highlight-row-gray}
-[![{{< li yudxjmzy style=width:50px;height:50px;vertical-align:middle; >}}Our Research](assets/our-research.png)](research/research.qmd)
+[![{{< li xzndjsfc style=width:50px;height:50px;vertical-align:middle; >}}Our Research](assets/our-research.png)](research/research.qmd)
 :::
 :::
 
 ::: {.g-col-4}
 ::: {.highlight-row-gray}
-[![{{< li zdwrqfmb style=width:50px;height:50px;vertical-align:middle; >}}What we Offer](assets/our-impact.png)](about/what-we-do.qmd)
+[![{{< li rigpimbi style=width:50px;height:50px;vertical-align:middle; >}}What we Offer](assets/our-impact.png)](about/what-we-do.qmd)
 :::
 :::
 ::::
