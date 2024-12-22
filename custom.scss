@@ -53,7 +53,7 @@ h2, h3, h4, h5, h6 {
 // navbar appearance
 .navbar {
   // background-image: url("assets/background-bar.png");
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   font-weight: 450;
   // background-color: $heavy-metal !important;
   background: linear-gradient(to right, $ccwj-metal, $ccwj-green);
@@ -66,6 +66,10 @@ h2, h3, h4, h5, h6 {
 
 .dropdown-toggle {
   color: $nurse-white !important;
+}
+
+.dropdown-item {
+  font-family: $font-family-sans-serif !important;
 }
 
 .navbar-brand > img {
