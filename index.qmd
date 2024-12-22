@@ -4,7 +4,7 @@ back-to-top-navigation: false
 ---
 
 ::: column-screen
-![](assets/index-banner5.png)
+![](assets/CCWJ video banner.gif)
 :::
 
 ::::::::::::::::::::::: column-page
