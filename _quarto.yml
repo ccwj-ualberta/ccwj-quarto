@@ -92,7 +92,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**New conference presentation** videos by CCWJ members! [Click here to find out more](research/conference-presentations.qmd)."
+    content: "**New conference presentation** videos by CCWJ members! [Click here to find out more](https://stevenpawley.github.io/ccwj-quarto/research/conference-presentations.html)."
     type: light
     position: below-navbar
 
