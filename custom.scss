@@ -131,6 +131,10 @@ color: $nurse-white !important;
   height: 30px !important;
 }
 
+img {
+  border-radius: 0.3em;
+}
+
 // align default listing photos and titles
 div.quarto-post {
   margin-bottom: 0em !important;
@@ -198,7 +202,7 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
 }
 
 .accomplishment {
-  height: 250px;
+  min-height: 250px;
   background-color: $blue;
   font-weight: 450;
   padding-top: 1.5em;

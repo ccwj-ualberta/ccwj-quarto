@@ -1,5 +1,5 @@
 ---
-title: Intelligent High Productivity Arc Welding Robot
+title: Programmable Arc Welding FANUC Robot
 image: https://img.youtube.com/vi/OneaQeG2DR8/hqdefault.jpg
 categories: Robotic welding and welding automation
 ---
