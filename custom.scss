@@ -36,6 +36,18 @@ $footer-bg:     $nurse-white;
 
 $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
+#title-block-header > div.quarto-title-banner.page-columns.page-full {
+  min-height: 200px;
+  align-items: center;
+  background-blend-mode: hard-light;
+}
+
+#title-block-header > div.quarto-title-banner.page-columns.page-full h1 {
+  color: $nurse-white !important;
+  font-size: 28pt !important;
+  text-shadow: 2px 2px 4px rgb(0, 0, 0); /* Horizontal offset, vertical offset, blur radius, shadow color */
+}
+
 h1 {
   font-family: 'Good Times' !important;
   color: $dark-cucumber !important;
@@ -47,8 +59,18 @@ h1 {
 
 h2, h3, h4, h5, h6 {
   color: $charcoal !important;
+  // color: $nurse-gray !important;
   font-family: 'Anivers' !important;
 }
+
+// The main body
+// $grid-body-width: 1250px !default;
+
+// The left hand margin bar
+// $grid-sidebar-width: 200px !default;
+
+// The right hand margin bar
+// $grid-margin-width: 200px !default;
 
 // navbar appearance
 .navbar {
@@ -129,10 +151,6 @@ color: $nurse-white !important;
 
 .quarto-navbar-tools {
   height: 30px !important;
-}
-
-img {
-  border-radius: 0.3em;
 }
 
 // align default listing photos and titles
