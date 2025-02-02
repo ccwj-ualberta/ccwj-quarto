@@ -27,11 +27,18 @@ The CCWJ has a long track record of working with industry. All the projects are 
 
  AMFI is a unique company development opportunity designed specifically for the Alberta metal manufacturing and fabrication sector. The Program provides innovation and improvement opportunities for sector companies and stakeholders. Participants gain access to both production and business enhancement expertise, developed and provided by some of Alberta’s top research, technology development and process improvement institutions. In 2018, the CCWJ received over $1M from Western Economic Diversification to launch a project in advanced manufacturing system capable of performing automated repairs together with several industry partners, and contributions support from KUKA Canada and Octopuz. 
 
-The newest initiative is the Canadian Cluster for Laser and ADvanced Manufacturing (C:CLAD), a pan-Canadian initiative with numerous industry partners and international collaborators. C:CLAD will combine resources to market Alberta as a region of excellence, and make it a global destination for advanced manufacturing including laser cladding, laser heat treatment, plasma-transferred arc, and advanced automation / digital technologies, servicing industries including oil and gas, mining, agriculture, aerospace, renewable energy, nuclear, and heavy machinery.
+::: {layout="[75, 25]"}
+
+The newest initiative is the [Canadian Cluster for Laser and ADvanced Manufacturing (C:CLAD)](https://www.canada.ca/en/prairies-economic-development/news/2024/08/minister-boissonnault-announces-federal-investments-to-commercialize-innovative-alberta-technologies.html), a pan-Canadian initiative with numerous industry partners and international collaborators. C:CLAD will combine resources to market Alberta as a region of excellence, and make it a global destination for advanced manufacturing including laser cladding, laser heat treatment, plasma-transferred arc, and advanced automation / digital technologies, servicing industries including oil and gas, mining, agriculture, aerospace, renewable energy, nuclear, and heavy machinery.
+
+![](https://ised-isde.canada.ca/site/global-innovation-clusters/sites/default/files/img/manufacturing.png){width="160px" fig-align="center"}
+:::
 
 ## Weldco/Industry Chair in Welding and Joining
 
+::: {.highlight-row}
 The Weldco/Industry Endowment was signed in 2008 with the goal to establish the Canadian Centre for Welding and Joining through a series of gifts from key industrial partners. Contributing companies include Weldco-Beales Manufacturing, Metal Fabricators & Welding Inc., Canadian Welding Bureau (CWB Group), Acklands Grainger Inc., CESSCO Fabrication & Engineering Ltd., Syncrude, Suncor, Lincoln Electric, and Miller/Hobart (ITW). The $1.73M endowment was matched in contributions by the University of Alberta in the form of space and renovations. As the endowment continues to grow, it ensures the operation of the CCWJ, and contributes to educating new leaders in the welding community, and provides numerous professional development opportunities for industry professionals.
+:::
 
 ## University of Alberta AWS/CWBA Student Chapter
 
