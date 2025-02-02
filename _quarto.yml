@@ -104,6 +104,8 @@ format:
     theme:
       light:
         - custom.scss
+        - light.scss
       dark:
         - solar
-        - custom-dark.scss
+        - custom.scss
+        - dark.scss

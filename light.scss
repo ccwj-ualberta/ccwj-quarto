@@ -1,0 +1,88 @@
+/*-- scss:defaults --*/
+$dark-cucumber: #4D6E4B;
+$charcoal:      #464849;
+$mint:          #d9e5dc;
+$nurse-gray:    #d9dcdf;
+$nurse-white:   #F8F8F8FF;
+$blue:          #DAD9DCFF;
+$pond-water:    #477166b3;
+
+h1 {
+  font-family: 'Good Times' !important;
+  color: $dark-cucumber !important;
+}
+
+h2, h3, h4, h5, h6 {
+  color: $charcoal !important;
+  font-family: 'Anivers' !important;
+}
+
+// custom divs
+.highlight-row {
+  background-color: $mint;
+  font-weight: 450;
+  padding-top: 1.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 0.5em;
+  border-radius: 0.3em;
+  border-color: $nurse-gray;
+  border-style: solid;
+  border-width: 0.1em;
+  text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
+}
+
+.highlight-row-gray {
+  background-color: $nurse-white;
+  font-weight: 450;
+  padding-top: 1.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 0.5em;
+  border-radius: 0.3em;
+  border-color: $nurse-gray;
+  border-style: solid;
+  border-width: 0.1em;
+  text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
+}
+
+.accomplishment {
+  min-height: 250px;
+  background-color: $blue;
+  font-weight: 450;
+  padding-top: 1.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 0.5em;
+  border-radius: 0.3em;
+  border-color: $nurse-gray;
+  border-style: solid;
+  border-width: 0.1em;
+  text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
+}
+
+// publication value boxes
+.box {
+  height: 80px;
+  width: 300px;
+  background-color: $pond-water;
+  color: $mint;
+  padding: 10px;
+  margin: 10px;
+  font-size: 14pt;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 0.3em;
+  border-color: $nurse-gray;
+  border-style: solid;
+  border-width: 0.1em;
+}
+.three-cells {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}

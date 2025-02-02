@@ -5,20 +5,24 @@ back-to-top-navigation: false
 custom-callout:
   industry:
     title: "Industry Collaboration"
-    icon-symbol: "🏭"
+    icon-symbol: "🧑🏻‍🏭"
     color: "#000000"
+    appearance: simple
   global:
     title: "Global Impact"
     icon-symbol: "🌎"
     color: "#319031"
+    appearance: simple
   education:
     title: "Educational Leadership"
-    icon-symbol: "📚"
+    icon-symbol: "🎓"
     color: "#003efa"
+    appearance: simple
   startup:
     title: "Startup Support"
-    icon-symbol: "🏁"
+    icon-symbol: "🤝"
     color: "#ff4848"
+    appearance: simple
 filters:
 - custom-callout
 ---
@@ -29,11 +33,16 @@ filters:
 :::: {#first-column}
 **The Canadian Centre for Welding and Joining** (CCWJ) at the University of Alberta (UofA) is a world-class research and training facility employing researchers at all stages of their career and awarding doctoral degrees through the [Department of Chemical and Materials Engineering at the University of Alberta](https://www.ualberta.ca/en/engineering/chemical-materials-engineering/index.html).
 
+
+::::{.callout}
 Our mission is to advance interdisciplinary research and share comprehensive expertise in welding, joining, metallurgy, and joining process development. Our research activities focus on everything from fundamentals to applied research, and cover virtually all welding and joining processes in a broad range of material systems.
+::::
 ::::
 
 :::: {#first-column}
+::::: {.accomplishment}
 ![](assets/CCWJ_logo_dark_alpha.png)
+:::::
 ::::
 :::
 
@@ -67,7 +76,7 @@ The CCWJ has backed two successful startups in advanced manufacturing, and throu
 :::::
 :::
 
-## Research Areas
+## Research
 
 ::: {layout="[ 60, 35 ]"}
 :::: {#first-column}
@@ -89,7 +98,7 @@ The research of the CCWJ has historically been centred on steel applications and
 ::::
 
 :::: {#second-column}
-![](assets/photos/aesthetic/041019_160over90_ALTA_Engineering_3495.jpg)
+![](assets/photos/aesthetic/041019_160over90_ALTA_Engineering_3495.jpg){width="340px"}
 ::::
 :::
 
@@ -103,13 +112,15 @@ The research of the CCWJ has historically been centred on steel applications and
 :::: {#column-two}
 The CCWJ boasts a range of advanced lab facilities:
 
-**Welding Processes:** All Arc welding processes, resistance spot welding, and laser welding.
+<br>
 
-**Imaging and Thermal Technologies:** Advanced high-speed imaging and thermal technologies.
+- **Welding Processes:** All Arc welding processes, resistance spot welding, and laser welding.
 
-**Testing Capabilities:** Instrumented testing, hydrogen testing, and computer assisted hardness mapping.
+- **Imaging and Thermal Technologies:** Advanced high-speed imaging and thermal technologies.
 
-**Microscopy and Modelling:** Atomic-resolution TEM and computational modelling.
+- **Testing Capabilities:** Instrumented testing, hydrogen testing, and computer assisted hardness mapping.
+
+- **Microscopy and Modelling:** Atomic-resolution TEM and computational modelling.
 ::::
 :::
 
