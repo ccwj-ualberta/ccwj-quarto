@@ -20,8 +20,8 @@ $blue:          #DAD9DCFF;
 
 // Defaults
 $primary:       #231e1a;
-$link-color:    #4A9152FF;
-$footer-bg:     $nurse-white;
+$link-color:    rgb(184, 209, 171);
+$footer-bg:     $ccwj-metal;
 
 // Fonts
 @font-face {
@@ -50,7 +50,7 @@ $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvet
 
 h1 {
   font-family: 'Good Times' !important;
-  color: $dark-cucumber !important;
+  color: $nurse-white !important;
 }
 
 .quarto-title {
@@ -58,7 +58,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  color: $charcoal !important;
+  color: $nurse-gray !important;
   font-family: 'Anivers' !important;
 }
 
@@ -178,7 +178,8 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
 
 // custom divs
 .highlight-row {
-  background-color: $mint;
+  background-color: $ccwj-metal;
+  color: $nurse-gray;
   font-weight: 450;
   padding-top: 1.5em;
   padding-bottom: 0.5em;

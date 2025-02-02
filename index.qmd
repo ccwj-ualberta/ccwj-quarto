@@ -2,18 +2,37 @@
 title: "Canadian Centre for Welding and Joining"
 title-block-banner: "assets/CCWJ_video_banner.gif"
 back-to-top-navigation: false
+custom-callout:
+  industry:
+    title: "Industry Collaboration"
+    icon-symbol: "🏭"
+    color: "#000000"
+  global:
+    title: "Global Impact"
+    icon-symbol: "🌎"
+    color: "#319031"
+  education:
+    title: "Educational Leadership"
+    icon-symbol: "📚"
+    color: "#003efa"
+  startup:
+    title: "Startup Support"
+    icon-symbol: "🏁"
+    color: "#ff4848"
+filters:
+- custom-callout
 ---
 
 ## Advancing Welding and Joining Through Cutting-Edge Research
 
-::: {.grid style="--bs-gap: .25rem 1rem;"}
-:::: {.g-col-7}
+::: {layout="[ 60, 40 ]"}
+:::: {#first-column}
 **The Canadian Centre for Welding and Joining** (CCWJ) at the University of Alberta (UofA) is a world-class research and training facility employing researchers at all stages of their career and awarding doctoral degrees through the [Department of Chemical and Materials Engineering at the University of Alberta](https://www.ualberta.ca/en/engineering/chemical-materials-engineering/index.html).
 
 Our mission is to advance interdisciplinary research and share comprehensive expertise in welding, joining, metallurgy, and joining process development. Our research activities focus on everything from fundamentals to applied research, and cover virtually all welding and joining processes in a broad range of material systems.
 ::::
 
-:::: {.g-col-5}
+:::: {#first-column}
 ![](assets/CCWJ_logo_dark_alpha.png)
 ::::
 :::
@@ -22,83 +41,79 @@ Our mission is to advance interdisciplinary research and share comprehensive exp
 
 The centre addresses the needs of manufacturing, construction, and natural resources sectors in Alberta and Canada. We offer innovation and improvement opportunities for the Alberta metal manufacturing and fabrication sector through programs like the Alberta Metal Fabrication Innovation program (AMFI).
 
-::: {.grid style="--bs-gap: .25rem 1rem;"}
-:::: {.g-col-6}
-::::: {.callout-tip icon=false appearance="simple"}
-# Industry Collaboration
+::: {layout="[ [50, 50], [50, 50] ]"}
+::::: {.industry}
+::::: {style="height:130px"}
 The CCWJ has a long track record of working with industry partners globally. Nearly all of its projects are industry-oriented and funded by industry, ensuring that its research has practical applications and benefits for the global manufacturing and construction sectors.
 :::::
-::::
-
-:::: {.g-col-6}
-::::: {.callout-important icon=false appearance="simple"}
-# Educational Leadership
-The CCWJ provides education and training in welding and materials engineering, helping to develop the next generation of experts in the field. Its programs attract students and researchers from around the world, graduating over 55 graduate students, and contributing to the global knowledge base.
 :::::
-::::
 
-:::: {.g-col-6}
-::::: {.callout-caution icon=false appearance="simple"}
-# Global Impact
-The CCWJ collaborates with international researchers and industry partners, including initiating a Memorandum of Understanding with Germany for an exchange on welding technologies, hosting seminars and roundtables with leaders in the welding and manufacturing industries, and leading trade missions at major international events.
+::::: {.global}
+::::: {style="height:130px"}
+The CCWJ collaborates with international researchers and industry partners to exchange welding technologies, host seminars and roundtables with leaders in the welding and manufacturing industries, and lead trade missions at major international events.
 :::::
-::::
-
-:::: {.g-col-6}
-::::: {.callout-warning icon=false appearance="simple"}
-# Startup Support
-The CCWJ has backed two successful startups in advanced manufacturing, and assists startups through industry networking, training and education, and access to a state-of-the-art research facility. Through initiatives like the Alberta Metal Fabrication Innovation program (AMFI), the CCWJ supports startups in adopting new technologies and improving their processes.
 :::::
-::::
 
+::::: {.education}
+::::: {style="height:130px"}
+The CCWJ provides education and training in welding and materials engineering, helping to develop the next generation of experts in the field. Its programs attract students and researchers from around the world, graduating over 55 graduate students.
+:::::
+:::::
+
+::::: {.startup}
+::::: {style="height:130px"}
+The CCWJ has backed two successful startups in advanced manufacturing, and through initiatives like the Alberta Metal Fabrication Innovation program (AMFI), the CCWJ supports startups in adopting new technologies and improving their processes.
+:::::
+:::::
 :::
 
 ## Research Areas
 
-::: {.grid}
-:::: {.g-col-8}
+::: {layout="[ 60, 35 ]"}
+:::: {#first-column}
 The CCWJ is recognized globally for its cutting-edge research in welding and joining technologies. Over the past decade, our funding support exceeds \$6M.
 
 The research of the CCWJ has historically been centred on steel applications and product development, wear protective overlays, numerical modelling of welding, and laser-based advanced manufacturing. Our results in this area have been published in leading journals including [Acta Materialia](https://doi.org/10.1016/j.actamat.2018.03.050), and [Materials Transactions A](https://doi.org/10.1007/s11661-014-2603-8).
 
-**Welding Processes:** Research on all arc welding processes, resistance spot welding, and laser welding.
+<br>
 
-**Material Systems:** Focus on steel applications, wear protective overlays, and laser-based advanced manufacturing.
+- **Welding Processes:** Research on all arc welding processes, resistance spot welding, and laser welding.
 
-**Friction Stir Welding:** Progress towards predictive models and understanding defect formation in this solid-state welding process.
+- **Material Systems:** Focus on steel applications, wear protective overlays, and laser-based advanced manufacturing.
 
-**Numerical Modelling:** Development of models to predict welding features such as cooling rates, heat-affected zone (HAZ) width, and residual stresses.
+- **Friction Stir Welding:** Progress towards predictive models and understanding defect formation in this solid-state welding process.
 
-**Automation and AI:** Application of artificial intelligence to quantify metal transfer from high-speed videos and other automation initiatives.
+- **Numerical Modelling:** Development of models to predict welding features such as cooling rates, heat-affected zone (HAZ) width, and residual stresses.
+
+- **Automation and AI:** Application of artificial intelligence to quantify metal transfer from high-speed videos and other automation initiatives.
 ::::
 
-:::: {.g-col-4}
+:::: {#second-column}
 ![](assets/photos/aesthetic/041019_160over90_ALTA_Engineering_3495.jpg)
 ::::
 :::
 
 ## Welding Research Lab Capabilities
 
-::: {.grid}
-:::: {.g-col-5}
+::: {layout="[ 35, 60 ]"}
+:::: {#column-one}
 [![Welding Lab Facilities](assets/photos/lab-equipment/CCWJ%20Laser%20Lab%201.JPG)](about/lab.qmd)
 ::::
 
-:::: {.g-col-7}
-The Canadian Centre for Welding and Joining (CCWJ) at the University of Alberta boasts a range of advanced lab facilities, with advanced capabilities that support:
+:::: {#column-two}
+The CCWJ boasts a range of advanced lab facilities:
 
 **Welding Processes:** All Arc welding processes, resistance spot welding, and laser welding.
 
-**Imaging and Thermal Technologies:** Advanced high-speed imaging, and thermal technologies.
+**Imaging and Thermal Technologies:** Advanced high-speed imaging and thermal technologies.
 
 **Testing Capabilities:** Instrumented testing, hydrogen testing, and computer assisted hardness mapping.
 
 **Microscopy and Modelling:** Atomic-resolution TEM and computational modelling.
-
 ::::
 :::
 
-## Learn more about the CCWJ
+## Learn More About Us
 
 The CCWJ represents a unique place to study welding and materials engineering, and is recognized worldwide through the scope of its interdisciplinary research, state-of-the-art infrastructure, collaboration with industry, and education in welding engineering. The CCWJ is commited to supporting the deepest level of fundamental research into welding and joining processes and procedures, coupled with practical, industry-related and industry-driven applications.
 
@@ -110,17 +125,10 @@ Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fl
 
 <br>
 
-::: {.grid}
-:::: {.g-col-4}
+::: {layout="[ 33, 33, 33 ]"}
 [![About Us](assets/about-us.png)](about/about.qmd)
-::::
 
-:::: {.g-col-4}
 [![Our Research](assets/our-research.png)](research/research.qmd)
-::::
 
-:::: {.g-col-4}
 [![What we Offer](assets/our-impact.png)](about/what-we-do.qmd)
-::::
-
-::::
+:::

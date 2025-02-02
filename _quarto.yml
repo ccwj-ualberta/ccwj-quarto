@@ -106,4 +106,4 @@ format:
         - custom.scss
       dark:
         - solar
-        - custom.scss
+        - custom-dark.scss
