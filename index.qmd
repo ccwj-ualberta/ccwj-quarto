@@ -104,23 +104,23 @@ The research of the CCWJ has historically been centred on steel applications and
 
 ## Welding Research Lab Capabilities
 
-::: {layout="[ 35, 60 ]"}
+::: {layout="[ 40, 60 ]"}
 :::: {#column-one}
 [![Welding Lab Facilities](assets/photos/lab-equipment/CCWJ%20Laser%20Lab%201.JPG)](about/lab.qmd)
 ::::
 
 :::: {#column-two}
-The CCWJ boasts a range of advanced lab facilities:
+The CCWJ boasts state-of-the-art welding equipment, advanced diagnostic tools, comprehensive characterization tools, and sophisticated modeling software:
 
 <br>
 
-- **Welding Processes:** All Arc welding processes, resistance spot welding, and laser welding.
+- **Welding Equipment:** Arc welding, laser welding, and robotic welding systems.
 
-- **Imaging and Thermal Technologies:** Advanced high-speed imaging and thermal technologies.
+- **Diagnostic Tools:** High-speed cameras, laser lighting, specialized thermal cameras, wavelength spectrometers, and data acquisition systems.
 
-- **Testing Capabilities:** Instrumented testing, hydrogen testing, and computer assisted hardness mapping.
+- **Characterization Tools:** Hardness mapping, surface profilometry, instrumented impact testing, hydrogen, oxygen, and nitrogen testing.
 
-- **Microscopy and Modelling:** Atomic-resolution TEM and computational modelling.
+- **Modeling Software:** Weld modeling software like VRWeld, Simufact, and Transweld, as well as general-purpose modeling software like Comsol and Matlab.
 ::::
 :::
 
@@ -131,7 +131,7 @@ The CCWJ represents a unique place to study welding and materials engineering, a
 Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fluid mechanics, plasma physics, solid mechanics, computer and mathematical modelling, and health sciences for welding applications.
 
 ::: {.highlight-row}
-{{< li cwctqqhb style=width:50px;height:50px;vertical-align:middle; >}} Learn more about our mission and vision, our research, and what we offer.
+{{< li yudxjmzy style=width:50px;height:50px;vertical-align:middle trigger="hover" colors="primary:#ebe6ef,secondary:#16a9c7,tertiary:#b26836"; >}} Learn more about our mission and vision, our research, and what we offer.
 :::
 
 <br>
