@@ -39,8 +39,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8003315bfccd69282e607671784e6628.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-39bde28a8fa338e531ed3201a69cdbcd.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-92fbe6fea6f5b8e9b68bdd16989ee814.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-d98d9ddf7e36e4837d77e78efaea7138.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script src="site_libs/quarto-contrib/lordicon-bundle-1.9.0/bundle.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -77,6 +77,28 @@ background-size: cover;
       }
 </style>
 <style>
+div.callout-education.callout {
+  border-left-color: #003efa;
+}
+div.callout-education.callout-style-default > .callout-header {
+  background-color: rgba(0, 62, 250, 0.13);
+}
+div.callout-education .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-education.callout-style-default .callout-icon::before, div.callout-education.callout-titled .callout-icon::before {
+  content: '🎓';
+  background-image: none;
+}
+div.callout-startup.callout {
+  border-left-color: #ff4848;
+}
+div.callout-startup.callout-style-default > .callout-header {
+  background-color: rgba(255, 72, 72, 0.13);
+}
+div.callout-startup .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-startup.callout-style-default .callout-icon::before, div.callout-startup.callout-titled .callout-icon::before {
+  content: '🤝';
+  background-image: none;
+}
 div.callout-global.callout {
   border-left-color: #319031;
 }
@@ -88,17 +110,6 @@ div.callout-global.callout-style-default .callout-icon::before, div.callout-glob
   content: '🌎';
   background-image: none;
 }
-div.callout-education.callout {
-  border-left-color: #003efa;
-}
-div.callout-education.callout-style-default > .callout-header {
-  background-color: rgba(0, 62, 250, 0.13);
-}
-div.callout-education .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-education.callout-style-default .callout-icon::before, div.callout-education.callout-titled .callout-icon::before {
-  content: '📚';
-  background-image: none;
-}
 div.callout-industry.callout {
   border-left-color: #000000;
 }
@@ -107,18 +118,7 @@ div.callout-industry.callout-style-default > .callout-header {
 }
 div.callout-industry .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-industry.callout-style-default .callout-icon::before, div.callout-industry.callout-titled .callout-icon::before {
-  content: '🏭';
-  background-image: none;
-}
-div.callout-startup.callout {
-  border-left-color: #ff4848;
-}
-div.callout-startup.callout-style-default > .callout-header {
-  background-color: rgba(255, 72, 72, 0.13);
-}
-div.callout-startup .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-startup.callout-style-default .callout-icon::before, div.callout-startup.callout-titled .callout-icon::before {
-  content: '🏁';
+  content: '🧑🏻‍🏭';
   background-image: none;
 }
 </style>
@@ -342,10 +342,21 @@ div.callout-startup.callout-style-default .callout-icon::before, div.callout-sta
 <div class="quarto-layout-row">
 <div id="first-column" class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
 <p><strong>The Canadian Centre for Welding and Joining</strong> (CCWJ) at the University of Alberta (UofA) is a world-class research and training facility employing researchers at all stages of their career and awarding doctoral degrees through the <a href="https://www.ualberta.ca/en/engineering/chemical-materials-engineering/index.html">Department of Chemical and Materials Engineering at the University of Alberta</a>.</p>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
 <p>Our mission is to advance interdisciplinary research and share comprehensive expertise in welding, joining, metallurgy, and joining process development. Our research activities focus on everything from fundamentals to applied research, and cover virtually all welding and joining processes in a broad range of material systems.</p>
 </div>
-<div id="first-column" class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+</div>
+</div>
+</div>
+<div id="first-column" class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<div class="accomplishment">
 <p><img src="assets/CCWJ_logo_dark_alpha.png" class="img-fluid"></p>
+</div>
 </div>
 </div>
 </div>
@@ -359,7 +370,7 @@ div.callout-startup.callout-style-default .callout-icon::before, div.callout-sta
 <div class="quarto-layout-panel" data-layout="[ [50, 50], [50, 50] ]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="callout callout-style-default callout-industry callout-titled">
+<div class="callout callout-style-simple callout-industry callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -376,7 +387,7 @@ Industry Collaboration
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="callout callout-style-default callout-global callout-titled">
+<div class="callout callout-style-simple callout-global callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -395,7 +406,7 @@ Global Impact
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="callout callout-style-default callout-education callout-titled">
+<div class="callout callout-style-simple callout-education callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -412,7 +423,7 @@ Educational Leadership
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="callout callout-style-default callout-startup callout-titled">
+<div class="callout callout-style-simple callout-startup callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -431,8 +442,8 @@ Startup Support
 </div>
 </div>
 </section>
-<section id="research-areas" class="level2">
-<h2 class="anchored" data-anchor-id="research-areas">Research Areas</h2>
+<section id="research" class="level2">
+<h2 class="anchored" data-anchor-id="research">Research</h2>
 <div>
 
 </div>
@@ -451,7 +462,7 @@ Startup Support
 </ul>
 </div>
 <div id="second-column" class="quarto-layout-cell" style="flex-basis: 36.8%;justify-content: center;">
-<p><img src="assets/photos/aesthetic/041019_160over90_ALTA_Engineering_3495.jpg" class="img-fluid"></p>
+<p><img src="assets/photos/aesthetic/041019_160over90_ALTA_Engineering_3495.jpg" class="img-fluid" width="340"></p>
 </div>
 </div>
 </div>
@@ -473,10 +484,13 @@ Startup Support
 </div>
 <div id="column-two" class="quarto-layout-cell" style="flex-basis: 63.2%;justify-content: flex-start;">
 <p>The CCWJ boasts a range of advanced lab facilities:</p>
-<p><strong>Welding Processes:</strong> All Arc welding processes, resistance spot welding, and laser welding.</p>
-<p><strong>Imaging and Thermal Technologies:</strong> Advanced high-speed imaging and thermal technologies.</p>
-<p><strong>Testing Capabilities:</strong> Instrumented testing, hydrogen testing, and computer assisted hardness mapping.</p>
-<p><strong>Microscopy and Modelling:</strong> Atomic-resolution TEM and computational modelling.</p>
+<p><br></p>
+<ul>
+<li><p><strong>Welding Processes:</strong> All Arc welding processes, resistance spot welding, and laser welding.</p></li>
+<li><p><strong>Imaging and Thermal Technologies:</strong> Advanced high-speed imaging and thermal technologies.</p></li>
+<li><p><strong>Testing Capabilities:</strong> Instrumented testing, hydrogen testing, and computer assisted hardness mapping.</p></li>
+<li><p><strong>Microscopy and Modelling:</strong> Atomic-resolution TEM and computational modelling.</p></li>
+</ul>
 </div>
 </div>
 </div>
