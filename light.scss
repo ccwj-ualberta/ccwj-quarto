@@ -6,7 +6,10 @@ $nurse-gray:    #d9dcdf;
 $nurse-white:   #F8F8F8FF;
 $blue:          #DAD9DCFF;
 $pond-water:    #477166b3;
+$heavy-metal:   #343534;
+$melanie:       #453947;
 $footer-bg:     $nurse-white;
+$link-color:    #4A9152FF;
 
 h1 {
   font-family: 'Good Times' !important;
@@ -16,6 +19,53 @@ h1 {
 h2, h3, h4, h5, h6 {
   color: $charcoal !important;
   font-family: 'Anivers' !important;
+}
+
+// Navbar menu text
+.menu-text {
+  color: $nurse-white !important;
+}
+
+.dropdown-toggle {
+  color: $nurse-white !important;
+}
+
+.dropdown-menu > li > a:hover {
+  background-image: none;
+  background-color: $nurse-gray;
+}
+
+// changes the category appearance
+#quarto-margin-sidebar {
+  position: sticky;
+  color: $charcoal;
+}
+
+#quarto-margin-sidebar > div > div.category {
+  border-style: solid;
+  border-radius: 0.8ch;
+  border-width: 1px;
+  border-color: $nurse-gray;
+  padding: 1%;
+  padding-left: 0.5em;
+  margin-bottom: 4%;
+  font-size: 11pt;
+  font-variant: small-caps;
+  color: $heavy-metal;
+}
+
+.quarto-grid-item .listing-categories .listing-category {
+  border-color: $nurse-gray !important;
+  color: $heavy-metal !important;
+}
+
+#quarto-margin-sidebar > div > div.category.active {
+  background-color: $melanie;
+  color: $nurse-white;
+}
+
+.quarto-navbar-tools {
+  height: 30px !important;
 }
 
 // custom divs

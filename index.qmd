@@ -106,7 +106,7 @@ The research of the CCWJ has historically been centred on steel applications and
 
 ::: {layout="[ 40, 60 ]"}
 :::: {#column-one}
-[![Welding Lab Facilities](assets/photos/lab-equipment/CCWJ%20Laser%20Lab%201.JPG)](about/lab.qmd)
+[![The new CCWJ laser lab facility](assets/photos/lab-equipment/CCWJ%20Laser%20Lab%201.JPG)](about/lab.qmd)
 ::::
 
 :::: {#column-two}
