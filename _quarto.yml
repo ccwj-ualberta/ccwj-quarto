@@ -105,7 +105,3 @@ format:
       light:
         - custom.scss
         - light.scss
-      dark:
-        - solar
-        - custom.scss
-        - dark.scss
