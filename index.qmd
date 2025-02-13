@@ -78,7 +78,7 @@ The CCWJ has backed two successful startups in advanced manufacturing, and throu
 
 ## Research
 
-::: {layout="[ 60, 35 ]"}
+::: {layout="[ 60, 28 ]"}
 :::: {#first-column}
 The CCWJ is recognized globally for its cutting-edge research in welding and joining technologies. Over the past decade, our funding support exceeds \$6M.
 
