@@ -82,6 +82,7 @@ h2, h3, h4, h5, h6 {
   border-style: solid;
   border-width: 0.1em;
   text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
 .highlight-row-gray {
@@ -97,6 +98,7 @@ h2, h3, h4, h5, h6 {
   border-style: solid;
   border-width: 0.1em;
   text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
 .accomplishment {
@@ -130,6 +132,7 @@ h2, h3, h4, h5, h6 {
   border-color: $nurse-gray;
   border-style: solid;
   border-width: 0.1em;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 .three-cells {
   display: flex;
