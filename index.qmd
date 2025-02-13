@@ -6,22 +6,22 @@ custom-callout:
   industry:
     title: "Industry Collaboration"
     icon-symbol: "🧑🏻‍🏭"
-    color: "#000000"
+    color: "#5C9D4F"
     appearance: simple
   global:
     title: "Global Impact"
     icon-symbol: "🌎"
-    color: "#74ac74"
+    color: "#5C9D4F"
     appearance: simple
   education:
     title: "Educational Leadership"
     icon-symbol: "🎓"
-    color: "#87c1f0"
+    color: "#5C9D4F"
     appearance: simple
   startup:
     title: "Startup Support"
     icon-symbol: "🤝"
-    color: "#9d2501"
+    color: "#5C9D4F"
     appearance: simple
 filters:
 - custom-callout
@@ -126,12 +126,12 @@ The CCWJ boasts state-of-the-art welding equipment, advanced diagnostic tools, c
 
 ## Learn More About Us
 
+::: {.highlight-row}
+
 The CCWJ represents a unique place to study welding and materials engineering, and is recognized worldwide through the scope of its interdisciplinary research, state-of-the-art infrastructure, collaboration with industry, and education in welding engineering. The CCWJ is commited to supporting the deepest level of fundamental research into welding and joining processes and procedures, coupled with practical, industry-related and industry-driven applications.
 
 Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fluid mechanics, plasma physics, solid mechanics, computer and mathematical modelling, and health sciences for welding applications.
 
-::: {.highlight-row}
-{{< li yudxjmzy style=width:50px;height:50px;vertical-align:middle trigger="hover" colors="primary:#ebe6ef,secondary:#16a9c7,tertiary:#b26836"; >}} Learn more about our mission and vision, our research, and what we offer.
 :::
 
 <br>
