@@ -29,6 +29,7 @@ $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvet
   color: $nurse-white !important;
   font-size: 28pt !important;
   text-shadow: 2px 2px 4px rgb(0, 0, 0); /* Horizontal offset, vertical offset, blur radius, shadow color */
+  text-align: center;
 }
 
 .quarto-title {

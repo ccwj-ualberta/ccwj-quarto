@@ -11,17 +11,17 @@ custom-callout:
   global:
     title: "Global Impact"
     icon-symbol: "🌎"
-    color: "#319031"
+    color: "#74ac74"
     appearance: simple
   education:
     title: "Educational Leadership"
     icon-symbol: "🎓"
-    color: "#003efa"
+    color: "#87c1f0"
     appearance: simple
   startup:
     title: "Startup Support"
     icon-symbol: "🤝"
-    color: "#ff4848"
+    color: "#9d2501"
     appearance: simple
 filters:
 - custom-callout
@@ -98,7 +98,7 @@ The research of the CCWJ has historically been centred on steel applications and
 ::::
 
 :::: {#second-column}
-![](assets/photos/aesthetic/041019_160over90_ALTA_Engineering_3495.jpg){width="340px"}
+![](assets/photos/aesthetic/041019_160over90_ALTA_Engineering_3495.jpg)
 ::::
 :::
 
