@@ -71,7 +71,7 @@ website:
 
     tools:
       - icon: linkedin
-        href: https://www.linkedin.com/company/ccwj/
+        href: https://www.linkedin.com/company/ccwj
 
       - icon: youtube
         href: https://www.youtube.com/channel/UCjmYTs5g-pmBGTJncDJwVjg
@@ -94,6 +94,8 @@ format:
   html:
     toc: false
     page-layout: full
+    link-external-icon: true
+    link-external-newwindow: true
     theme:
       light:
         - custom.scss
