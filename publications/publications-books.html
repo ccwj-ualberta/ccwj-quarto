@@ -295,7 +295,7 @@ window.Quarto = {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-    <a href="https://www.linkedin.com/company/ccwj/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
+    <a href="https://www.linkedin.com/company/ccwj" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
     <a href="https://www.youtube.com/channel/UCjmYTs5g-pmBGTJncDJwVjg" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-youtube"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -341,7 +341,7 @@ window.Quarto = {
 </div>
 <div class="list quarto-listing-default">
     
-        <div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
                 <p>
@@ -368,7 +368,7 @@ window.Quarto = {
 
         </div>
     
-        <div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
                 <p>
@@ -395,7 +395,7 @@ window.Quarto = {
 
         </div>
     
-        <div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
                 <p>
@@ -422,7 +422,7 @@ window.Quarto = {
 
         </div>
     
-        <div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
                 <p>
@@ -449,7 +449,7 @@ window.Quarto = {
 
         </div>
     
-        <div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
                 <p>
@@ -476,7 +476,7 @@ window.Quarto = {
 
         </div>
     
-        <div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
                 <p>
@@ -503,7 +503,7 @@ window.Quarto = {
 
         </div>
     
-        <div class="quarto-post image-right" data-index="6" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="6" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
             </div>
@@ -526,7 +526,7 @@ window.Quarto = {
 
         </div>
     
-        <div class="quarto-post image-right" data-index="7" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="7" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
             </div>
@@ -549,7 +549,7 @@ window.Quarto = {
 
         </div>
     
-        <div class="quarto-post image-right" data-index="8" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="8" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
                 <p>
@@ -576,7 +576,7 @@ window.Quarto = {
 
         </div>
     
-        <div class="quarto-post image-right" data-index="9" data-listing-file-modified-sort="1739505296481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-right" data-index="9" data-listing-file-modified-sort="1739509738583" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
             <div class="thumbnail">
               
                 <p>
@@ -712,6 +712,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -291,7 +291,7 @@ window.Quarto = {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-    <a href="https://www.linkedin.com/company/ccwj/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
+    <a href="https://www.linkedin.com/company/ccwj" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
     <a href="https://www.youtube.com/channel/UCjmYTs5g-pmBGTJncDJwVjg" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-youtube"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -337,7 +337,7 @@ window.Quarto = {
 </div>
 <div class="list quarto-listing-default">
     
-        <div class="quarto-post image-left" data-index="0" data-listing-file-modified-sort="1739505615335" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="0" data-listing-file-modified-sort="1739510142012" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -354,7 +354,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="1" data-listing-file-modified-sort="1739505615335" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="1" data-listing-file-modified-sort="1739510142016" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -480,6 +480,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
