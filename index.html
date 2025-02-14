@@ -85,6 +85,17 @@ div.callout-global.callout-style-default .callout-icon::before, div.callout-glob
   content: '🌎';
   background-image: none;
 }
+div.callout-startup.callout {
+  border-left-color: #5C9D4F;
+}
+div.callout-startup.callout-style-default > .callout-header {
+  background-color: rgba(92, 157, 79, 0.13);
+}
+div.callout-startup .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-startup.callout-style-default .callout-icon::before, div.callout-startup.callout-titled .callout-icon::before {
+  content: '🤝';
+  background-image: none;
+}
 div.callout-industry.callout {
   border-left-color: #5C9D4F;
 }
@@ -105,17 +116,6 @@ div.callout-education.callout-style-default > .callout-header {
 div.callout-education .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-education.callout-style-default .callout-icon::before, div.callout-education.callout-titled .callout-icon::before {
   content: '🎓';
-  background-image: none;
-}
-div.callout-startup.callout {
-  border-left-color: #5C9D4F;
-}
-div.callout-startup.callout-style-default > .callout-header {
-  background-color: rgba(92, 157, 79, 0.13);
-}
-div.callout-startup .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-startup.callout-style-default .callout-icon::before, div.callout-startup.callout-titled .callout-icon::before {
-  content: '🤝';
   background-image: none;
 }
 </style>
@@ -288,8 +288,8 @@ div.callout-startup.callout-style-default .callout-icon::before, div.callout-sta
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-    <a href="https://www.linkedin.com/company/ccwj" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
-    <a href="https://www.youtube.com/channel/UCjmYTs5g-pmBGTJncDJwVjg" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-youtube"></i></a>
+    <a href="https://www.linkedin.com/company/ccwj" title="" class="quarto-navigation-tool px-1" aria-label="" target="_blank"><i class="bi bi-linkedin"></i></a>
+    <a href="https://www.youtube.com/channel/UCjmYTs5g-pmBGTJncDJwVjg" title="" class="quarto-navigation-tool px-1" aria-label="" target="_blank"><i class="bi bi-youtube"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -634,8 +634,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
           if (link.getAttribute("rel") === null) {
             link.setAttribute("rel", "noopener");
           }
-          // default icon
-          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
