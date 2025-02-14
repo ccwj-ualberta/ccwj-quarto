@@ -1,11 +1,11 @@
 project:
   type: website
 
-  # pre-render:
-  #   - publications/create-articles.R
-  #   - publications/create-proceedings.R
-  #   - publications/create-reports.R
-  #   - publications/create-theses.R
+  pre-render:
+    - publications/create-articles.R
+    - publications/create-proceedings.R
+    - publications/create-reports.R
+    - publications/create-theses.R
 
 website:
   title: CCWJ
@@ -89,13 +89,6 @@ website:
       [Department of Chemical and Materials Engineering](https://www.ualberta.ca/engineering/chemical-materials-engineering/about-us/index.html) <br>
       [Directions](https://sites.ualberta.ca/~ccwj/About/directions.html) <br>
       [University of Alberta](https://www.ualberta.ca/)
-
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "**New conference presentation** videos by CCWJ members! [Click here to find out more](https://stevenpawley.github.io/ccwj-quarto/research/conference-presentations.html)."
-    type: light
-    position: below-navbar
 
 format:
   html:
