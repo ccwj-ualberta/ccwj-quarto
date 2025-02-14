@@ -71,6 +71,10 @@ h2, h3, h4, h5, h6 {
   height: 30px !important;
 }
 
+.page-link.disabled, .disabled>.page-link {
+  background-color: #4D6E4B !important;
+}
+
 // Changes the listing grid title font
 #listing-equipment > div.list.grid.quarto-listing-cols-3 > div > a > div > div > h5 {
   // font-family: $font-family-sans-serif !important;
