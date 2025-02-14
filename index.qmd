@@ -29,7 +29,7 @@ filters:
 
 ## Advancing Welding and Joining Through Cutting-Edge Research
 
-::: {layout="[ 60, 40 ]"}
+::: {layout="[ 54, 46 ]"}
 :::: {#first-column}
 **The Canadian Centre for Welding and Joining** (CCWJ) at the University of Alberta (UofA) is a world-class research and training facility employing researchers at all stages of their career and awarding doctoral degrees through the [Department of Chemical and Materials Engineering at the University of Alberta](https://www.ualberta.ca/en/engineering/chemical-materials-engineering/index.html).
 
@@ -40,9 +40,7 @@ Our mission is to advance interdisciplinary research and share comprehensive exp
 ::::
 
 :::: {#first-column}
-::::: {.accomplishment}
-![](assets/CCWJ_logo_dark_alpha.png)
-:::::
+![](assets/CCWJ_Logo_Black.jpg)
 ::::
 :::
 
