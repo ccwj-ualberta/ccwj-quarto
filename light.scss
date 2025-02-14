@@ -7,9 +7,9 @@ $nurse-white:   #F8F8F8FF;
 $blue:          #DAD9DCFF;
 $pond-water:    #477166b3;
 $heavy-metal:   #343534;
-$melanie:       #453947;
 $footer-bg:     $nurse-white;
 $link-color:    #4A9152FF;
+$font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 h1 {
   font-family: 'Good Times' !important;
@@ -35,7 +35,7 @@ h2, h3, h4, h5, h6 {
   background-color: $nurse-gray;
 }
 
-// changes the category appearance
+// changes the category menu appearance
 #quarto-margin-sidebar {
   position: sticky;
   color: $charcoal;
@@ -50,7 +50,7 @@ h2, h3, h4, h5, h6 {
   padding-left: 0.5em;
   margin-bottom: 4%;
   font-size: 11pt;
-  font-variant: small-caps;
+  font-variant-caps: all-small-caps;
   color: $heavy-metal;
 }
 
@@ -60,12 +60,21 @@ h2, h3, h4, h5, h6 {
 }
 
 #quarto-margin-sidebar > div > div.category.active {
-  background-color: $melanie;
+  background-color: $dark-cucumber;
   color: $nurse-white;
+  font-size: 11pt;
+  font-variant-caps: all-small-caps;
+  font-weight: 400;
 }
 
 .quarto-navbar-tools {
   height: 30px !important;
+}
+
+// Changes the listing grid title font
+#listing-equipment > div.list.grid.quarto-listing-cols-3 > div > a > div > div > h5 {
+  // font-family: $font-family-sans-serif !important;
+  // font-size: medium;
 }
 
 // custom divs
