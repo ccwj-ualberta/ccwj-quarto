@@ -114,22 +114,6 @@ h2, h3, h4, h5, h6 {
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
-.accomplishment {
-  min-height: 250px;
-  background-color: $blue;
-  font-weight: 450;
-  padding-top: 1.5em;
-  padding-bottom: 0.5em;
-  padding-left: 1em;
-  padding-right: 1em;
-  margin-bottom: 0.5em;
-  border-radius: 0.3em;
-  border-color: $nurse-gray;
-  border-style: solid;
-  border-width: 0.1em;
-  text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
-}
-
 // publication value boxes
 .box {
   height: 80px;
@@ -146,10 +130,4 @@ h2, h3, h4, h5, h6 {
   border-style: solid;
   border-width: 0.1em;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
-}
-.three-cells {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 1em;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
