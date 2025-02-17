@@ -50,27 +50,19 @@ The centre addresses the needs of manufacturing, construction, and natural resou
 
 ::: {layout="[ [50, 50], [50, 50] ]"}
 ::::: {.industry}
-::::: {style="height:130px"}
 The CCWJ has a long track record of working with industry partners globally. Nearly all of its projects are industry-oriented and funded by industry, ensuring that its research has practical applications and benefits for the global manufacturing and construction sectors.
-:::::
 :::::
 
 ::::: {.global}
-::::: {style="height:130px"}
 The CCWJ collaborates with international researchers and industry partners to exchange welding technologies, host seminars and roundtables with leaders in the welding and manufacturing industries, and lead trade missions at major international events.
-:::::
 :::::
 
 ::::: {.education}
-::::: {style="height:130px"}
 The CCWJ provides education and training in welding and materials engineering, helping to develop the next generation of experts in the field. Its programs attract students and researchers from around the world, graduating over 55 graduate students.
-:::::
 :::::
 
 ::::: {.startup}
-::::: {style="height:130px"}
 The CCWJ has backed two successful startups in advanced manufacturing, and through initiatives like the Alberta Metal Fabrication Innovation program (AMFI), the CCWJ supports startups in adopting new technologies and improving their processes.
-:::::
 :::::
 :::
 
