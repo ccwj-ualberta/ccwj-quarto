@@ -19,11 +19,9 @@ $primary:       #231e1a;
 
 $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
-#title-block-header > div.quarto-title-banner.page-columns.page-full {
-  min-height: 200px;
-  align-items: center;
+// title block banner
+#title-block-header {
   background-blend-mode: hard-light;
-  //background-color: rgb(108, 123, 115);
 }
 
 #title-block-header > div.quarto-title-banner.page-columns.page-full h1 {
@@ -33,6 +31,7 @@ $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvet
   text-align: center;
 }
 
+// titles
 .quarto-title {
   font-family: 'Anivers' !important;
 }

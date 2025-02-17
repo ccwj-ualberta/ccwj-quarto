@@ -1,6 +1,6 @@
 ---
 title: "Canadian Centre for Welding and Joining"
-title-block-banner: "assets/CCWJ_video_banner.gif"
+title-block-banner: "assets/CCWJ_cropped2.gif"
 back-to-top-navigation: false
 custom-callout:
   industry:
