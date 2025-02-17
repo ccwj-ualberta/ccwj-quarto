@@ -20,7 +20,7 @@ $primary:       #231e1a;
 $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 // title block banner
-#title-block-header {
+#title-block-header > div.quarto-title-banner.page-columns.page-full {
   background-blend-mode: hard-light;
   min-height: 250px !important;
   margin-block-end: -40px !important;
