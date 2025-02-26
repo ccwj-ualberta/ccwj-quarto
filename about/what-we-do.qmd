@@ -22,7 +22,7 @@ ct = get_citation_history(scholar_id)
 
 ## What We Are Offering to Industry and to Students
 
-- 3018 participants networked through 61 seminars with global leaders of industry led by the CCWJ (satisfaction rate was very high at 92%, selected quotes listed in Appendix A).
+- 3018 participants networked through 61 seminars with global leaders of industry led by the CCWJ (satisfaction rate was very high at 92%).
 
 - 60 businesses and 200 participants learned about latest technologies through the CCWJ-led AMFI program.
 
