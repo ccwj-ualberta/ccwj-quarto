@@ -117,7 +117,7 @@ h2, h3, h4, h5, h6 {
 // publication value boxes
 .box {
   height: 80px;
-  width: 300px;
+  min-width: 200px;
   background-color: $pond-water;
   color: $mint;
   padding: 10px;
