@@ -5,24 +5,25 @@ back-to-top-navigation: false
 custom-callout:
   industry:
     title: "Industry Collaboration"
-    icon-symbol: "🧑🏻‍🏭"
-    color: "#5C9D4F"
-    appearance: simple
+    icon: false
+    color: "#367C88"
+    appearance: minimal
   global:
     title: "Global Impact"
-    icon-symbol: "🌎"
-    color: "#5C9D4F"
-    appearance: simple
+    icon: false
+    color: "#E9C05E"
+    appearance: minimal
   education:
     title: "Educational Leadership"
-    icon-symbol: "🎓"
-    color: "#5C9D4F"
-    appearance: simple
+    icon: false
+    color: "#D15C46"
+    appearance: minimal
   startup:
     title: "Startup Support"
-    icon-symbol: "🤝"
-    color: "#5C9D4F"
-    appearance: simple
+    icon: false
+    color: "#7f98fb"
+    appearance: minimal
+page-layout: full
 filters:
 - custom-callout
 ---
@@ -33,10 +34,9 @@ filters:
 :::: {#first-column}
 **The Canadian Centre for Welding and Joining** (CCWJ) at the University of Alberta (UofA) is a world-class research and training facility employing researchers at all stages of their career and awarding doctoral degrees through the [Department of Chemical and Materials Engineering at the University of Alberta](https://www.ualberta.ca/en/engineering/chemical-materials-engineering/index.html).
 
+<br>
 
-::::{.callout}
 Our mission is to advance interdisciplinary research and share comprehensive expertise in welding, joining, metallurgy, and joining process development. Our research activities focus on everything from fundamentals to applied research, and cover virtually all welding and joining processes in a broad range of material systems.
-::::
 ::::
 
 :::: {#first-column}
@@ -66,6 +66,9 @@ The CCWJ has backed two successful startups in advanced manufacturing, and throu
 :::::
 :::
 
+::: {.highlight-row}
+::: {.highlight-row-content}
+
 ## Research
 
 ::: {layout="[ 60, 28 ]"}
@@ -91,6 +94,8 @@ The research of the CCWJ has historically been centred on steel applications and
 ![](assets/photos/aesthetic/041019_160over90_ALTA_Engineering_3495.jpg)
 ::::
 :::
+:::
+:::
 
 ## Welding Research Lab Capabilities
 
@@ -114,14 +119,16 @@ The CCWJ boasts state-of-the-art welding equipment, advanced diagnostic tools, c
 ::::
 :::
 
-## Learn More About Us
-
 ::: {.highlight-row}
+::: {.highlight-row-content}
+
+## Learn More About Us
 
 The CCWJ represents a unique place to study welding and materials engineering, and is recognized worldwide through the scope of its interdisciplinary research, state-of-the-art infrastructure, collaboration with industry, and education in welding engineering. The CCWJ is commited to supporting the deepest level of fundamental research into welding and joining processes and procedures, coupled with practical, industry-related and industry-driven applications.
 
 Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fluid mechanics, plasma physics, solid mechanics, computer and mathematical modelling, and health sciences for welding applications.
 
+:::
 :::
 
 <br>

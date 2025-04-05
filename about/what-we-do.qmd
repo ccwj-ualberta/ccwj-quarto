@@ -38,9 +38,10 @@ ct = get_citation_history(scholar_id)
 
 [Overview of Welding Programs](../teaching/courses/welding-fundamentals.qmd)
 
-## Fundamentals Research
-
 ::: {.highlight-row}
+::: {.highlight-row-content}
+
+## Fundamentals Research
 
 - Leading the field of technology with latest discoveries from science and equipment: membership in key committees such as IIW: Assembly National Delegate for Canada; Expert for Commission XII and SG 212; Member of IIW TMB; and AWS: A5G Subcommittee on Hard Facing Filler Metals, EC Education Committee, Higher Education.
 
@@ -68,6 +69,7 @@ h-index {{< bi hand-index-fill >}}
 :::
 :::
 
+:::
 :::
 
 ## Programs for Students

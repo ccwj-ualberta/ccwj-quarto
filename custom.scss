@@ -5,6 +5,15 @@ $nurse-gray:    #d9dcdf;
 $ccwj-metal:    #2E2925;
 $ccwj-green:    #283237;
 $primary:       #231e1a;
+$dark-cucumber: #4D6E4B;
+$charcoal:      #464849;
+$mint:          #d9e5dc;
+$blue:          #DAD9DCFF;
+$pond-water:    #477166b3;
+$heavy-metal:   #343534;
+$footer-bg:     $nurse-white;
+$link-color:    #4A9152FF;
+$font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 // Fonts
 @font-face {
@@ -19,11 +28,21 @@ $primary:       #231e1a;
 
 $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
-// title block banner
+// Headings
+h1 {
+  font-family: 'Good Times' !important;
+  color: $dark-cucumber !important;
+}
+
+h2, h3, h4, h5, h6 {
+  color: $charcoal !important;
+  font-family: 'Anivers' !important;
+}
+
+// Banner customization
 #title-block-header > div.quarto-title-banner.page-columns.page-full {
-  // background-blend-mode: hard-light;
-  // min-height: 250px !important;
-  // margin-block-end: -10px !important;
+  background-color: #2d3135;
+  background-blend-mode: soft-light;
   text-align: center !important;
 }
 
@@ -33,6 +52,19 @@ $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvet
   text-shadow: 2px 2px 4px rgb(0, 0, 0); /* Horizontal offset, vertical offset, blur radius, shadow color */
   text-align: center;
   // transform: translateY(25px);
+}
+
+.quarto-title-banner {
+  width: 100%; /* Set the width to 100% of the screen width */
+  height: 35vh;
+  background-size: cover; /* Ensure the background image covers the entire banner */
+  background-position: center; /* Centre the background image */
+
+  /* Flexbox for vertical + horizontal centering */
+  display: flex;
+  justify-content: center; /* Horizontally center content */
+  align-items: center;     /* Vertically center content */
+  text-align: center;      /* Optional: center text inside block-level elements */
 }
 
 // titles
@@ -50,6 +82,19 @@ $font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvet
 
 .dropdown-item {
   font-family: $font-family-sans-serif !important;
+}
+
+.menu-text {
+  color: $nurse-white !important;
+}
+
+.dropdown-toggle {
+  color: $nurse-white !important;
+}
+
+.dropdown-menu > li > a:hover {
+  background-image: none;
+  background-color: $nurse-gray;
 }
 
 .navbar-brand > img {
@@ -106,4 +151,123 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
 // Proximity of back to top button to page base
 #quarto-back-to-top {
   bottom: 110px !important;
+}
+
+// changes the category menu appearance
+#quarto-margin-sidebar {
+  position: sticky;
+  color: $charcoal;
+}
+
+#quarto-margin-sidebar > div > div.category {
+  border-style: solid;
+  border-radius: 0.8ch;
+  border-width: 1px;
+  border-color: $nurse-gray;
+  padding: 1%;
+  padding-left: 0.5em;
+  margin-bottom: 4%;
+  font-size: 11pt;
+  font-variant-caps: all-small-caps;
+  color: $heavy-metal;
+}
+
+.quarto-grid-item .listing-categories .listing-category {
+  border-color: $nurse-gray !important;
+  color: $heavy-metal !important;
+}
+
+#quarto-margin-sidebar > div > div.category.active {
+  background-color: $dark-cucumber;
+  color: $nurse-white;
+  font-size: 11pt;
+  font-variant-caps: all-small-caps;
+  font-weight: 400;
+}
+
+.quarto-navbar-tools {
+  height: 30px !important;
+}
+
+.page-link.disabled, .disabled>.page-link {
+  background-color: #4D6E4B !important;
+}
+
+// Changes the listing grid title font
+#listing-equipment > div.list.grid.quarto-listing-cols-3 > div > a > div > div > h5 {
+  // font-family: $font-family-sans-serif !important;
+  // font-size: medium;
+}
+
+// custom divs
+.highlight-row {
+  background-color: $mint;
+  font-weight: 450;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 0.5em;
+  // border-radius: 0.2em;
+  // border-color: $nurse-gray;
+  // border-style: solid;
+  // border-width: 0.1em;
+  // box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
+  margin-left: calc(-50vw + 50%); /* cancel out page padding/margin */
+  margin-right: calc(-50vw + 50%);
+}
+
+.highlight-row .highlight-row-content {
+  max-width: var(--content-max-width, 1170px);
+  margin: 0 auto;
+  padding: 0 1rem;
+  align-items: center;
+}
+
+.highlight-row-content h2 {
+  border-bottom: 1px solid #ccc; /* or match the default style */
+  padding-bottom: 0.3em;         /* optional: to space text from line */
+}
+
+.highlight-row-gray {
+  background-color: $nurse-white;
+  font-weight: 450;
+  padding-top: 1.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 0.5em;
+  // border-radius: 0.3em;
+  border-color: $nurse-gray;
+  border-style: solid;
+  border-width: 0.1em;
+  text-shadow: 1px 1px 8x rgba(0, 0, 0, 0.5);
+  // box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.circle-image {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 8px solid #fff;
+  }
+
+// publication value boxes
+.box {
+  height: 80px;
+  min-width: 200px;
+  background-color: $pond-water;
+  color: $mint;
+  padding: 10px;
+  margin: 10px;
+  font-size: 14pt;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 0.3em;
+  border-color: $nurse-gray;
+  border-style: solid;
+  border-width: 0.1em;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
