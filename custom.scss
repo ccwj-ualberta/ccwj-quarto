@@ -7,9 +7,8 @@ $ccwj-green:    #283237;
 $primary:       #231e1a;
 $dark-cucumber: #4D6E4B;
 $charcoal:      #464849;
-$mint:          #d9e5dc;
-$blue:          #DAD9DCFF;
-$pond-water:    #477166b3;
+$blue:          #343f4e;
+$pond-water:    #B1CE99;
 $heavy-metal:   #343534;
 $footer-bg:     $nurse-white;
 $link-color:    #4A9152FF;
@@ -201,7 +200,7 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
 
 // custom divs
 .highlight-row {
-  background-color: $mint;
+  background-color: $blue;
   font-weight: 450;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
@@ -223,11 +222,17 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
   margin: 0 auto;
   padding: 0 1rem;
   align-items: center;
+  color: $nurse-gray !important;
 }
 
 .highlight-row-content h2 {
   border-bottom: 1px solid #ccc; /* or match the default style */
   padding-bottom: 0.3em;         /* optional: to space text from line */
+  color: $nurse-gray !important;
+}
+
+.highlight-row-content figcaption {
+  color: $nurse-gray !important;
 }
 
 .highlight-row-gray {
@@ -259,7 +264,7 @@ div.quarto-post .body h3.listing-title, div.quarto-post .body .listing-title.h3 
   height: 80px;
   min-width: 200px;
   background-color: $pond-water;
-  color: $mint;
+  color: $blue;
   padding: 10px;
   margin: 10px;
   font-size: 14pt;
