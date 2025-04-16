@@ -13,6 +13,7 @@ website:
   twitter-card: true
   open-graph: true
   back-to-top-navigation: true
+  site-url: https://sites.ualberta.ca/~ccwj/
 
   navbar:
     title: false

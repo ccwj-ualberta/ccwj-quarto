@@ -3,6 +3,7 @@
 <!-- badges: start -->
 [![Launch Posit
 Cloud](https://img.shields.io/badge/launch-posit%20cloud-447099?style=flat.png)](https://posit.cloud/spaces/417662/join?access_code=E9OvQn6lI_mMg9VazqLy6zOqBYd4_wN1DSE0a0Nw)
+[![build](https://github.com/stevenpawley/ccwj-quarto/actions/workflows/publish.yml/badge.svg)](https://github.com/stevenpawley/ccwj-quarto/actions/workflows/publish.yml)
 <!-- badges: end -->
 
 ## Overview
@@ -14,27 +15,31 @@ automatically built and deployed using GitHub Actions.
 
 ## Rendering/rebuilding the website
 
-Changes and rebuilding/rendering of the website are triggered by pushing
-changes to the `main` branch of the repository. The website is built
-using the `quarto` command-line tool, which is installed in the GitHub
-Actions environment. The website is built using the `quarto site build`
-command, which generates the website in the `_site` folder.
+Changes and rebuilding/rendering of the website are triggered by pushing changes
+to the `main` branch of the repository. Behind the scenes (automated by GitHub
+Actions), the website is built using the `quarto` command-line tool, which is
+automatically installed in the GitHub Actions environment. The website is built
+using the `quarto site build` command, which generates the website in the
+`_site` folder.
 
 ## Deploying the rendered website
 
 The contents of the `_site` folder are automatically copied to the
 `gh-pages` branch of the repository, which is used by GitHub Pages to
-serve the website at [](https://stevenpawley.github.io/ccwj-quarto/).
+serve the website deployed in [GitHub Pages](https://stevenpawley.github.io/ccwj-quarto/).
 The GitHub Pages deployment can be used to preview any changes that have
 been made to the website.
 
 The website can also be deployed to any other web server that supports
 static sites. To deploy the website to another web server, you can
-download the repository content from the `gh_pages` branch, and then
-upload it to any other web server, e.g., the
+download the repository content from the `gh_pages` branch as a Zipfile, and then
+upload the uncompressed folder to any other web server, e.g., the
 `https://sites.ualberta.ca`, using any method you prefer (e.g., FTP,
 SCP, etc.), or using a GUI tool like
 [WinSCP](https://winscp.net/eng/download.php) etc.
+
+This cannot be automatically performed by GitHub because the University of 
+Alberta's web server is only accessible from within the network.
 
 ![To deploy the website to another web server, download the repository
 contents from the ‘gh-pages’ branch as a ZIP
@@ -42,16 +47,20 @@ file.](docs/downloading-gh-pages-branch.png)
 
 ## Adding / Updating Website Content
 
-The Quarto project has been setup to make use of [document
+The Quarto project makes use of [document
 listings](https://quarto.org/docs/websites/website-listings.html) for
-the components of the website that are most likely to change on a
+the components of the website that may change on a
 regular basis. These components relate to the following website
 sections:
 
 - About (Facilities (equipment) sub page)
 - People (staff, PhD Students, MSc Students, BSc Students, Alumn, Alumn
   UG, Alumn Visitor sub pages)
-- Research (Projects sub page)
+- Research (sub-pages)
+  - Projects
+  - Seminars
+  - Conferences
+  - Video resources
 - Teaching
 - News
 
@@ -137,9 +146,9 @@ Images for these are found in the `research/projects/granting-logos`
 directory, so unless the granting organization is new, these images can
 be reused for new projects.
 
-#### Research \> Talks
+#### Research \> Seminars (and Conferences)
 
-For talks that were recorded, new items can be added to the Research \>
+For seminars and/or conferences that were recorded, new items can be added to the Research \>
 Talks page by using the `templates/talks-template.qmd`. In addition to
 updating the required fields, this file needs to be altered depending on
 where the video is stored - either on YouTube or in Google Drive, which

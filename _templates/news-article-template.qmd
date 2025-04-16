@@ -1,7 +1,7 @@
 ---
 title: "My event title"
+date: "2022-06-02"
 image: https://link-to-your-image.png
-date: "2024-04-02"
 about:
   template: marquee
   image: https://link-to-your-image.png

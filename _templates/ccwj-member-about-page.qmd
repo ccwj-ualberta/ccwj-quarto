@@ -3,7 +3,7 @@ title: My name
 image: CCWJID - My name.jpg
 subtitle: Course that you are enrolled in
 about:
-  template: solana
+  template: trestles
   image: CCWJID - My name.jpg
   links:
     - icon: email
