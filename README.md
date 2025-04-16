@@ -271,3 +271,9 @@ publisher: "NA"
 image: "mathematical-modelling-of-weld-phenomena-12.jpeg"
 ---
 ```
+
+### Notes
+
+The `build` folder contains python scripts that were used to originally pull student and equipment information from the google sheets documents used in the original site. The files are kept for completeness, but are not used directly by the website.
+
+All of the website rebuilds automatically in GitHub. One exception is the publication/citation index in the 'What we do' page. These numbers get pulled from Google Scholar, but google blocks automated attempts from some URLs. To re-render this page, it is best to do it locally by cloning the repository and running `quarto render about/what-we-do.qmd` (assuming that [Quarto](https://quarto.org/docs/get-started/) is installed on the system).
