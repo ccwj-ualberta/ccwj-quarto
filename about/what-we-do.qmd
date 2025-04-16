@@ -1,7 +1,8 @@
 ---
 title: "What we do"
 format: html
-engine: knitr
+execute:
+  freeze: auto
 ---
 
 ```{r setup}
