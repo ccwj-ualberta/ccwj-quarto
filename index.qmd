@@ -101,7 +101,7 @@ The research of the CCWJ has historically been centred on steel applications and
 
 ::: {layout="[ 40, 60 ]"}
 :::: {#column-one}
-[![The new CCWJ laser lab facility](assets/photos/lab-equipment/CCWJ%20Laser%20Lab%201.JPG)](about/lab.qmd)
+[![The new CCWJ laser lab facility](assets/photos/lab-equipment/CCWJ%20Laser%20Lab%201.JPG)](about/lab.qmd){fig-alt="The CCWJ laser welding laboratory"}
 ::::
 
 :::: {#column-two}
@@ -132,11 +132,11 @@ Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fl
 <br>
 
 ::: {layout="[ 33, 33, 33 ]"}
-[![About Us](assets/about-us.png)](about/about.qmd)
+[![About Us](assets/about-us.png)](about/about.qmd){fig-alt="CCWJ seminar series."}
 
-[![Our Research](assets/our-research.png)](research/research.qmd)
+[![Our Research](assets/our-research.png)](research/research.qmd){fig-alt="CCWJ research facilities."}
 
-[![What we Offer](assets/our-impact.png)](about/what-we-do.qmd)
+[![What we Offer](assets/our-impact.png)](about/what-we-do.qmd){fig-alt="Trade event."}
 :::
 :::
 :::

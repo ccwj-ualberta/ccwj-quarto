@@ -12,7 +12,7 @@ The Canadian Centre for Welding and Joining (CCWJ) is one of the world's largest
 The CCWJ’s $5.5M facility houses all forms of arc welding, a 9 kW laser, and several robots. Diagnostic tools include high speed cameras, laser lighting, a specialized thermal camera, wavelength spectrometer, and data acquisition. Characterization capabilities include hardness mapping, surface profilometry, instrumented impact, hydrogen, oxygen, and nitrogen testing, dilatometry, and metallography. Centralized facilities at the UofA also provide access to high end electron microscopy and composition analysis tools. Tools of analysis at the CCWJ include latest generation weld modeling software such as VRWeld, Simufact, and Transweld, and general purpose modeling software such as Comsol and Matlab. Materials properties software includes ThermoCalc and JMatPro.
 
 :::
-![](IMG_1701.JPG){fig-align="right"}
+![](IMG_1701.JPG){fig-align="right" fig-alt="The CCWJ research facility."}
 :::
 
 ::: {.highlight-row}
@@ -21,7 +21,7 @@ The CCWJ’s $5.5M facility houses all forms of arc welding, a 9 kW laser, and s
 ## Working with Industry
 
 ::: {layout="[35,65]"}
-![](cobot2.jpeg)
+![](cobot2.jpeg){fig-alt="Cobot welding equipment."}
 
 The CCWJ has a long track record of working with industry. All the projects are industry oriented, and nearly all are funded by industry. Distinguishing traits of the CCWJ are the highly selected students, world-class facilities, ability to use fundamentals concepts to explain observable phenomena, a culture of collaboration and love of our work, a vast network of contacts worldwide, and strong brand recognition. The Weldco/Industry Chair in Welding and Joining was created in 2007 at the request and with the support of industry. After a worldwide search, Prof. Patricio Mendez came to the University of Alberta in 2009 as the inaugural Chair. The CCWJ Laboratory opened on May 5, 2010 with significant contributions of equipment from Lincoln Electric and Miller Electric. The Alberta Metal Fabrication Innovation program (AMFI) was created on Jan 1, 2011 in partnership between the Canadian Centre for Welding and Joining and Alberta Innovates, with support from Western Economic Diversification and the Government of Alberta.
 :::
