@@ -1,11 +1,41 @@
 [
   {
-    "listing": "/people/phds.html",
+    "listing": "/people/staff.html",
+    "items": []
+  },
+  {
+    "listing": "/people/bscs.html",
     "items": [
-      "/people/phds/AC1 - Alisha Cardanini.html",
-      "/people/phds/DC1 - Daniele Calista.html",
-      "/people/phds/GS1 - Gurbarn Singh.html",
-      "/people/phds/XL1 - Xinrui Liu.html"
+      "/people/bscs/LA1 - Luca Allegretto.html",
+      "/people/bscs/MU2 - Munia.html",
+      "/people/bscs/TO1 - Tian Ooi.html"
+    ]
+  },
+  {
+    "listing": "/people/alumn.html",
+    "items": [
+      "/people/alumn/AK1 - Ata Kamyabi.html",
+      "/people/alumn/DH1 - Dmytro Havrylov.html",
+      "/people/alumn/EK1 - Elham Kamali Heidari.html",
+      "/people/alumn/GW1 - Gentry Wood.html",
+      "/people/alumn/GD1 - Goetz Dapp.html",
+      "/people/alumn/NB1 - Nairn Barnes.html",
+      "/people/alumn/SB1 - Steven Borle.html",
+      "/people/alumn/TR1 - Terry Runyon.html",
+      "/people/alumn/VP1 - Viraj Patel.html",
+      "/people/alumn/YL1 - Yi Lu.html"
+    ]
+  },
+  {
+    "listing": "/people/mscs.html",
+    "items": [
+      "/people/mscs/CT1 - Carter Trautmann.html",
+      "/people/mscs/PP1 - Preetam Panja.html",
+      "/people/mscs/RR7 - Rishiekesh Ramgopal.html",
+      "/people/mscs/SS3 - Sandeep Singh Parmar.html",
+      "/people/mscs/SS1 - Stefano Sacco Hawas.html",
+      "/people/mscs/SA1 - Syed Irtiaz Alam.html",
+      "/people/mscs/VS1 - Vicente Andres Nunez Sanchez.html"
     ]
   },
   {
@@ -971,43 +1001,12 @@
     ]
   },
   {
-    "listing": "/people/mscs.html",
+    "listing": "/people/phds.html",
     "items": [
-      "/people/mscs/CT1 - Carter Trautmann.html",
-      "/people/mscs/PP1 - Preetam Panja.html",
-      "/people/mscs/RR7 - Rishiekesh Ramgopal.html",
-      "/people/mscs/SS3 - Sandeep Singh Parmar.html",
-      "/people/mscs/SS1 - Stefano Sacco Hawas.html",
-      "/people/mscs/SA1 - Syed Irtiaz Alam.html",
-      "/people/mscs/VS1 - Vicente Andres Nunez Sanchez.html"
-    ]
-  },
-  {
-    "listing": "/people/alumn.html",
-    "items": [
-      "/people/alumn/AK1 - Ata Kamyabi.html",
-      "/people/alumn/DH1 - Dmytro Havrylov.html",
-      "/people/alumn/EK1 - Elham Kamali Heidari.html",
-      "/people/alumn/GW1 - Gentry Wood.html",
-      "/people/alumn/GD1 - Goetz Dapp.html",
-      "/people/alumn/NB1 - Nairn Barnes.html",
-      "/people/alumn/SB1 - Steven Borle.html",
-      "/people/alumn/VP1 - Viraj Patel.html",
-      "/people/alumn/YL1 - Yi Lu.html"
-    ]
-  },
-  {
-    "listing": "/people/bscs.html",
-    "items": [
-      "/people/bscs/LA1 - Luca Allegretto.html",
-      "/people/bscs/MU2 - Munia.html",
-      "/people/bscs/TO1 - Tian Ooi.html"
-    ]
-  },
-  {
-    "listing": "/people/staff.html",
-    "items": [
-      "/people/staff/TR1 - Terry Runyon.html"
+      "/people/phds/AC1 - Alisha Cardanini.html",
+      "/people/phds/DC1 - Daniele Calista.html",
+      "/people/phds/GS1 - Gurbarn Singh.html",
+      "/people/phds/XL1 - Xinrui Liu.html"
     ]
   }
 ]
