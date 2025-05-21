@@ -964,7 +964,6 @@
       "/people/alumn-visitors/IG1 - Ivan Gonzalez Perez.html",
       "/people/alumn-visitors/JR1 - Juan Pablo Romero Campos.html",
       "/people/alumn-visitors/MU1 - Magdalena Estela Urrutia Unda.html",
-      "/people/alumn-visitors/NK1 - Nitheesh Kumar Ramasamy.html",
       "/people/alumn-visitors/RC1 - Renata Belen Cancino Silva.html",
       "/people/alumn-visitors/TP1 - Tiare Andrea Susana Perez Neira.html",
       "/people/alumn-visitors/UD1 - Ugo Douillard.html"
@@ -973,7 +972,8 @@
   {
     "listing": "/people/mscs.html",
     "items": [
-      "/people/mscs/CT1 - Carter Trautmann.html"
+      "/people/mscs/CT1 - Carter Trautmann.html",
+      "/people/mscs/NK1 - Nitheesh Kumar Ramasamy.html"
     ]
   },
   {
