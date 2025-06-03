@@ -169,13 +169,14 @@
       "/people/phds/AC1 - Alisha Cardanini.html",
       "/people/phds/DC1 - Daniele Calista.html",
       "/people/phds/GS1 - Gurbarn Singh.html",
-      "/people/phds/XL1 - Xinrui Liu.html"
+      "/people/phds/XL1- Xinrui Liu.html"
     ]
   },
   {
-    "listing": "/people/bscs.html",
+    "listing": "/people/staff.html",
     "items": [
-      "/people/bscs/SS5 - Samantha Skiba.html"
+      "/people/staff/JK2 - Jay Kahar.html",
+      "/people/staff/RR7 - Rishiekesh Ramgopal.html"
     ]
   },
   {
@@ -200,9 +201,9 @@
     ]
   },
   {
-    "listing": "/people/staff.html",
+    "listing": "/people/bscs.html",
     "items": [
-      "/people/staff/RR7 - Rishiekesh Ramgopal.html"
+      "/people/bscs/SS5 - Samantha Skiba.html"
     ]
   },
   {
