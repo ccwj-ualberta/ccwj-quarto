@@ -162,20 +162,11 @@
     ]
   },
   {
-    "listing": "/people/phds.html",
+    "listing": "/people/staff.html",
     "items": [
-      "/people/phds/AC1 - Alisha Cardanini.html",
-      "/people/phds/DC1 - Daniele Calista.html",
-      "/people/phds/GS1 - Gurbarn Singh.html",
-      "/people/phds/XL1- Xinrui Liu.html"
-    ]
-  },
-  {
-    "listing": "/people/bscs.html",
-    "items": [
-      "/people/bscs/KC1 - Kathryn Craig.html",
-      "/people/bscs/NS1 - Nathaniel Schurek.html",
-      "/people/bscs/SS5 - Samantha Skiba.html"
+      "/people/staff/JK2 - Jay Kahar.html",
+      "/people/staff/MM1 - Melody Mah.html",
+      "/people/staff/RR7 - Rishiekesh Ramgopal.html"
     ]
   },
   {
@@ -200,17 +191,27 @@
     ]
   },
   {
-    "listing": "/people/staff.html",
+    "listing": "/people/bscs.html",
     "items": [
-      "/people/staff/JK2 - Jay Kahar.html",
-      "/people/staff/MM1 - Melody Mah.html",
-      "/people/staff/RR7 - Rishiekesh Ramgopal.html"
+      "/people/bscs/KC1 - Kathryn Craig.html",
+      "/people/bscs/NS1 - Nathaniel Schurek.html",
+      "/people/bscs/SS5 - Samantha Skiba.html"
+    ]
+  },
+  {
+    "listing": "/people/phds.html",
+    "items": [
+      "/people/phds/AC1 - Alisha Cardanini.html",
+      "/people/phds/DC1 - Daniele Calista.html",
+      "/people/phds/GS1 - Gurbarn Singh.html",
+      "/people/phds/XL1- Xinrui Liu.html"
     ]
   },
   {
     "listing": "/people/mscs.html",
     "items": [
       "/people/mscs/CT1 - Carter Trautmann.html",
+      "/people/mscs/MA1 - Mia Abdulla.html",
       "/people/mscs/NK1 - Nitheesh Kumar Ramasamy.html"
     ]
   },
