@@ -43,6 +43,10 @@
     ]
   },
   {
+    "listing": "/people/visitors.html",
+    "items": []
+  },
+  {
     "listing": "/people/bscs.html",
     "items": [
       "/people/bscs/KC1 - Kathryn Craig.html",
@@ -887,6 +891,10 @@
       "/people/alumn-visitors/TP1 - Tiare Andrea Susana Perez Neira.html",
       "/people/alumn-visitors/UD1 - Ugo Douillard.html"
     ]
+  },
+  {
+    "listing": "/people/postdocs.html",
+    "items": []
   },
   {
     "listing": "/research/conference-presentations.html",
