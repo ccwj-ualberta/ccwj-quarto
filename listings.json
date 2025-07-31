@@ -341,6 +341,7 @@
     "listing": "/publications/publications-reports.html",
     "items": [
       "/publications/publications-reports/system-and-method-of-forming-a-wear-surface-for-a-.html",
+      "/publications/publications-reports/aluminum-mcaw-wire.html",
       "/publications/publications-reports/thermal-analysis-of-laser-heat-treatment.html",
       "/publications/publications-reports/contact-tip-studies.html",
       "/publications/publications-reports/thermodynamic-analysis-and-physical-modeling-of-ca.html",
@@ -383,13 +384,6 @@
       "/publications/publications-reports/verificaciones-experimentales-de-las-predicciones-.html",
       "/publications/publications-reports/analisis-de-los-sistemas-dinámicos-de-un-grado-de-.html",
       "/publications/publications-reports/conceptos-del-funcionamiento-de-los-reguladores-ce.html"
-    ]
-  },
-  {
-    "listing": "/publications/publications-theses.html",
-    "items": [
-      "/publications/publications-theses/order-of-magnitude-scaling-of-complex-engineering-.html",
-      "/publications/publications-theses/joining-metals-using-semi-solid-slurries.html"
     ]
   },
   {
@@ -474,6 +468,13 @@
       "/about/equipment/LIHW-liburdi-hotwire-mig-system.html",
       "/about/equipment/SPT1-miller-msw-spotwelder.html",
       "/about/equipment/S500-lincoln-s500.html"
+    ]
+  },
+  {
+    "listing": "/publications/publications-theses.html",
+    "items": [
+      "/publications/publications-theses/order-of-magnitude-scaling-of-complex-engineering-.html",
+      "/publications/publications-theses/joining-metals-using-semi-solid-slurries.html"
     ]
   },
   {
@@ -794,6 +795,7 @@
       "/publications/publications-books/scaling-laws-in-the-welding-arc.html",
       "/publications/publications-books/estimation-of-the-characteristic-properties-of-the-weld-pool-during-high-productivity-arc-welding.html",
       "/publications/publications-reports/system-and-method-of-forming-a-wear-surface-for-a-.html",
+      "/publications/publications-reports/aluminum-mcaw-wire.html",
       "/publications/publications-reports/thermal-analysis-of-laser-heat-treatment.html",
       "/publications/publications-reports/contact-tip-studies.html",
       "/publications/publications-reports/thermodynamic-analysis-and-physical-modeling-of-ca.html",
