@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-2876fc629d858032b33b862283ec2d98.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a17108a2827fd080399abe2c9fc9bf2d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -347,19 +347,13 @@ function setupChartAnimation() {
 </script>
 <section id="our-research-centre" class="level2">
 <h2 class="anchored" data-anchor-id="our-research-centre"><i class="bi bi-building"></i> Our Research Centre</h2>
-<div class="quarto-layout-panel" data-layout="[60,40]">
-<div class="quarto-layout-row">
-<div class="div quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<div class="grid">
+<div class="g-col-7">
 <p>The Canadian Centre for Welding and Joining (CCWJ) is one of the world’s largest university initiatives in welding with a global reputation reflected in multiple awards, such as the “Image of Welding Award” awarded by the American Welding Society as a leading education institution in 2013.</p>
-<p>The CCWJ’s $5.5M facility houses all forms of arc welding, a 9 kW laser, and several robots. Diagnostic tools include high speed cameras, laser lighting, a specialized thermal camera, wavelength spectrometer, and data acquisition. Characterization capabilities include hardness mapping, surface profilometry, instrumented impact, hydrogen, oxygen, and nitrogen testing, dilatometry, and metallography. Centralized facilities at the UofA also provide access to high end electron microscopy and composition analysis tools. Tools of analysis at the CCWJ include latest generation weld modeling software such as VRWeld, Simufact, and Transweld, and general purpose modeling software such as Comsol and Matlab. Materials properties software includes ThermoCalc and JMatPro.</p>
+<p>The CCWJ’s $5.5M facility houses all forms of arc welding, a 9 kW laser, and several robots. Diagnostic tools include high speed cameras, laser lighting, a specialized thermal camera, wavelength spectrometer, and data acquisition. Characterization capabilities include hardness mapping, surface profilometry, instrumented impact, hydrogen, oxygen, and nitrogen testing, dilatometry, and metallography. Centralized facilities at the UofA also provide access to high end electron microscopy and composition analysis tools. Tools of analysis at the CCWJ include latest generation weld modeling software such as VRWeld, Simufact, and Transweld, and general purpose modeling software such as Comsol and Matlab.</p>
 </div>
-<div class="div quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-right">
-<figure class="figure">
-<p><a href="IMG_1701.JPG" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="IMG_1701.JPG" class="img-fluid quarto-figure quarto-figure-right figure-img" alt="The CCWJ research facility."></a></p>
-</figure>
-</div>
-</div>
+<div class="g-col-5">
+<p><a href="IMG_1701.JPG" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="IMG_1701.JPG" class="img-fluid" alt="The CCWJ research facility."></a></p>
 </div>
 </div>
 <div class="text-center mt-3">
@@ -396,7 +390,7 @@ After worldwide search, bringing international expertise to Alberta</p>
 <div class="timeline-marker">
 <p><strong>2010</strong></p>
 </div>
-<div class="timeline-content">
+<div class="timeline-content highlight">
 <p><strong>CCWJ Laboratory opens</strong> <i class="bi bi-calendar-date"></i> <em>May 5</em><br>
 $5.5M facility launches with Lincoln Electric and Miller Electric equipment contributions</p>
 </div>
@@ -410,7 +404,7 @@ $5.5M facility launches with Lincoln Electric and Miller Electric equipment cont
 Alberta Metal Fabrication Innovation program created with Alberta Innovates</p>
 </div>
 </div>
-<div class="timeline-item highlight">
+<div class="timeline-item">
 <div class="timeline-marker">
 <p><strong>2013</strong></p>
 </div>
@@ -424,15 +418,15 @@ Global recognition as leading welding education institution</p>
 <p><strong>2018</strong></p>
 </div>
 <div class="timeline-content">
-<p><strong>$NSERC Discovery grant funding</strong> <i class="bi bi-cash-stack"></i><br>
+<p><strong>NSERC Discovery grant funding</strong> <i class="bi bi-cash-stack"></i><br>
 Discovery of Governing Laws in Real Multiphysics, Multicoupled Systems in Materials Processing</p>
 </div>
 </div>
-<div class="timeline-item recent">
+<div class="timeline-item">
 <div class="timeline-marker">
 <p><strong>2022</strong></p>
 </div>
-<div class="timeline-content">
+<div class="timeline-content recent">
 <p><strong>C:CLAD initiative announced</strong> <i class="bi bi-globe"></i><br>
 Pan-Canadian advanced manufacturing cluster launches</p>
 </div>
@@ -446,8 +440,8 @@ Pan-Canadian advanced manufacturing cluster launches</p>
 <div class="highlight-row-content">
 <div class="cell chart-container">
 <div class="cell-output-display">
-<div class="echarts4r html-widget html-fill-item" id="htmlwidget-0293b22b81795d7cf652" style="width:100%;height:500px;"></div>
-<script type="application/json" data-for="htmlwidget-0293b22b81795d7cf652">{"x":{"theme":"","tl":false,"draw":true,"renderer":"canvas","events":[],"buttons":[],"opts":{"yAxis":[{"show":false}],"xAxis":[{"type":"value","name":"Year","splitLine":{"show":true,"lineStyle":{"type":"dashed","color":"lightgray"}},"min":2009,"max":2022,"axisLabel":{"formatter":"function(value) {return value.toString();}"}}],"legend":{"data":["Cumulative Funding"],"show":false,"type":"plain"},"series":[{"data":[{"value":[2009,214134]},{"value":[2010,504044]},{"value":[2011,714044]},{"value":[2012,891044]},{"value":[2013,1055444]},{"value":[2014,1717944]},{"value":[2015,1761744]},{"value":[2016,2071744]},{"value":[2017,2212744]},{"value":[2018,2599244]},{"value":[2019,3265324]},{"value":[2020,4100424]},{"value":[2021,4415424]},{"value":[2022,6369924]}],"yAxisIndex":0,"xAxisIndex":0,"name":"Cumulative Funding","type":"line","coordinateSystem":"cartesian2d","areaStyle":[],"itemStyle":{"color":"#2E86AB"},"lineStyle":{"width":2,"color":"#2E86AB"},"symbol":"circle","symbolSize":20,"showSymbol":true,"label":{"show":true,"position":"top","formatter":"function(d) {return '$' + (d.value[1]/1000000).toFixed(1) + 'M';}","textStyle":{"color":"#2E86AB","fontWeight":"bold","fontSize":11},"offset":[0,-7]}}],"title":[{"textStyle":{"fontSize":16,"fontWeight":"bold"},"text":"Cumulative Research Grant Funding","subtext":"Total funding has reached $6.4M with accelerated growth since 2009."}]},"dispose":true},"evals":["opts.xAxis.0.axisLabel.formatter","opts.series.0.label.formatter"],"jsHooks":[]}</script>
+<div class="echarts4r html-widget html-fill-item" id="htmlwidget-2dc5bd4ecc7a578fb9bd" style="width:100%;height:500px;"></div>
+<script type="application/json" data-for="htmlwidget-2dc5bd4ecc7a578fb9bd">{"x":{"theme":"","tl":false,"draw":true,"renderer":"canvas","events":[],"buttons":[],"opts":{"yAxis":[{"show":false}],"xAxis":[{"type":"value","name":"Year","splitLine":{"show":true,"lineStyle":{"type":"dashed","color":"lightgray"}},"min":2009,"max":2022,"axisLabel":{"formatter":"function(value) {return value.toString();}"}}],"legend":{"data":["Cumulative Funding"],"show":false,"type":"plain"},"series":[{"data":[{"value":[2009,214134]},{"value":[2010,504044]},{"value":[2011,714044]},{"value":[2012,891044]},{"value":[2013,1055444]},{"value":[2014,1717944]},{"value":[2015,1761744]},{"value":[2016,2071744]},{"value":[2017,2212744]},{"value":[2018,2599244]},{"value":[2019,3265324]},{"value":[2020,4100424]},{"value":[2021,4415424]},{"value":[2022,6369924]}],"yAxisIndex":0,"xAxisIndex":0,"name":"Cumulative Funding","type":"line","coordinateSystem":"cartesian2d","areaStyle":[],"itemStyle":{"color":"#2eab8cff"},"lineStyle":{"width":2,"color":"#2eab8cff"},"symbol":"circle","symbolSize":20,"showSymbol":true,"label":{"show":true,"position":"top","formatter":"function(d) {return '$' + (d.value[1]/1000000).toFixed(1) + 'M';}","textStyle":{"color":"#2eab8cff","fontWeight":"bold","fontSize":11},"offset":[0,-7]}}],"title":[{"textStyle":{"fontSize":18,"fontWeight":"bold"},"subtextStyle":{"fontSize":14},"text":"Cumulative Research Grant Funding","subtext":"Total funding has reached $6.4M with accelerated growth since 2009."}]},"dispose":true},"evals":["opts.xAxis.0.axisLabel.formatter","opts.series.0.label.formatter"],"jsHooks":[]}</script>
 </div>
 </div>
 </div>
@@ -457,16 +451,8 @@ Pan-Canadian advanced manufacturing cluster launches</p>
 <div class="highlight-row">
 <section id="working-with-industry" class="level2 highlight-row-content">
 <h2 class="anchored" data-anchor-id="working-with-industry"><i class="bi bi-people"></i> Working with Industry</h2>
-<div class="quarto-layout-panel" data-layout="[35,65]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 35.0%;justify-content: center;">
-<p><a href="cobot2.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="cobot2.jpeg" class="img-fluid" alt="Cobot welding equipment."></a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 65.0%;justify-content: flex-start;">
-<p>The CCWJ has a long track record of working with industry. All the projects are industry oriented, and nearly all are funded by industry. Distinguishing traits of the CCWJ are the highly selected students, world-class facilities, ability to use fundamentals concepts to explain observable phenomena, a culture of collaboration and love of our work, a vast network of contacts worldwide, and strong brand recognition. The Weldco/Industry Chair in Welding and Joining was created in 2007 at the request and with the support of industry. After a worldwide search, Prof.&nbsp;Patricio Mendez came to the University of Alberta in 2009 as the inaugural Chair. The CCWJ Laboratory opened on May 5, 2010 with significant contributions of equipment from Lincoln Electric and Miller Electric. The Alberta Metal Fabrication Innovation program (AMFI) was created on Jan 1, 2011 in partnership between the Canadian Centre for Welding and Joining and Alberta Innovates, with support from Western Economic Diversification and the Government of Alberta.</p>
-</div>
-</div>
-</div>
+<p><a href="cobot2.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="cobot2.jpeg" class="industry-banner img-fluid" alt="Cobot welding equipment."></a></p>
+<p>The CCWJ has a long track record of working with industry. All the projects are industry oriented, and nearly all are funded by industry. Distinguishing traits of the CCWJ are the highly selected students, world-class facilities, ability to use fundamentals concepts to explain observable phenomena, and a culture of collaboration. The Weldco/Industry Chair in Welding and Joining was created in 2007 at the request and with the support of industry. After a worldwide search, Prof.&nbsp;Patricio Mendez came to the University of Alberta in 2009 as the inaugural Chair. The CCWJ Laboratory opened on May 5, 2010 with significant contributions of equipment from Lincoln Electric and Miller Electric. The Alberta Metal Fabrication Innovation program (AMFI) was created on Jan 1, 2011 in partnership between the Canadian Centre for Welding and Joining and Alberta Innovates, with support from Western Economic Diversification and the Government of Alberta.</p>
 <p>AMFI is a unique company development opportunity designed specifically for the Alberta metal manufacturing and fabrication sector. The Program provides innovation and improvement opportunities for sector companies and stakeholders. Participants gain access to both production and business enhancement expertise, developed and provided by some of Alberta’s top research, technology development and process improvement institutions. In 2018, the CCWJ received over $1M from Western Economic Diversification to launch a project in advanced manufacturing system capable of performing automated repairs together with several industry partners, and contributions support from KUKA Canada and Octopuz.</p>
 </section>
 </div>
