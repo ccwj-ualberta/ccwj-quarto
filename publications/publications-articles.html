@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1a70c85688f5b2431faeed928d2b9240.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-0994dda46fb377df6294d839efcc2095.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,7 +115,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -144,7 +145,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo">
+    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo light-content">
+    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -312,7 +314,7 @@ window.Quarto = {
 </div>
 <div class="list quarto-listing-default">
     
-        <div class="quarto-post image-left" data-index="0" data-listing-file-modified-sort="1757300620457" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="0" data-listing-file-modified-sort="1758083772530" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -346,7 +348,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="1" data-listing-file-modified-sort="1757300620454" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="1" data-listing-file-modified-sort="1758083772527" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -380,7 +382,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="2" data-listing-file-modified-sort="1757300620448" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="2" data-listing-file-modified-sort="1758083772522" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -414,7 +416,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="3" data-listing-file-modified-sort="1757300620455" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="3" data-listing-file-modified-sort="1758083772529" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -448,7 +450,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="4" data-listing-file-modified-sort="1757300620463" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="4" data-listing-file-modified-sort="1758083772536" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -482,7 +484,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="5" data-listing-file-modified-sort="1757300620460" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="5" data-listing-file-modified-sort="1758083772533" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -516,7 +518,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="6" data-listing-file-modified-sort="1757300620461" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="6" data-listing-file-modified-sort="1758083772535" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -550,7 +552,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="7" data-listing-file-modified-sort="1757300620445" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="7" data-listing-file-modified-sort="1758083772519" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -584,7 +586,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="8" data-listing-file-modified-sort="1757300620458" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="8" data-listing-file-modified-sort="1758083772532" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -618,7 +620,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="9" data-listing-file-modified-sort="1757300620465" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="9" data-listing-file-modified-sort="1758083772538" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -652,7 +654,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="10" data-listing-file-modified-sort="1757300620466" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="10" data-listing-file-modified-sort="1758083772539" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -686,7 +688,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="11" data-listing-file-modified-sort="1757300620295" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="11" data-listing-file-modified-sort="1758083772377" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -720,7 +722,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="12" data-listing-file-modified-sort="1757300620290" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="12" data-listing-file-modified-sort="1758083772372" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -754,7 +756,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="13" data-listing-file-modified-sort="1757300620292" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="13" data-listing-file-modified-sort="1758083772374" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -788,7 +790,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="14" data-listing-file-modified-sort="1757300620288" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="14" data-listing-file-modified-sort="1758083772371" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -822,7 +824,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="15" data-listing-file-modified-sort="1757300620287" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="15" data-listing-file-modified-sort="1758083772369" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -856,7 +858,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="16" data-listing-file-modified-sort="1757300620297" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="16" data-listing-file-modified-sort="1758083772379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -890,7 +892,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="17" data-listing-file-modified-sort="1757300620300" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="17" data-listing-file-modified-sort="1758083772382" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -924,7 +926,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="18" data-listing-file-modified-sort="1757300620298" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="18" data-listing-file-modified-sort="1758083772380" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -958,7 +960,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="19" data-listing-file-modified-sort="1757300620306" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="19" data-listing-file-modified-sort="1758083772388" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -992,7 +994,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="20" data-listing-file-modified-sort="1757300620305" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="20" data-listing-file-modified-sort="1758083772386" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1026,7 +1028,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="21" data-listing-file-modified-sort="1757300620313" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="21" data-listing-file-modified-sort="1758083772392" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1060,7 +1062,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="22" data-listing-file-modified-sort="1757300620309" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="22" data-listing-file-modified-sort="1758083772389" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1094,7 +1096,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="23" data-listing-file-modified-sort="1757300620311" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="23" data-listing-file-modified-sort="1758083772391" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1128,7 +1130,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="24" data-listing-file-modified-sort="1757300620302" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="24" data-listing-file-modified-sort="1758083772383" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1162,7 +1164,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="25" data-listing-file-modified-sort="1757300620303" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="25" data-listing-file-modified-sort="1758083772385" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1196,7 +1198,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="26" data-listing-file-modified-sort="1757300620315" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="26" data-listing-file-modified-sort="1758083772394" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1230,7 +1232,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="27" data-listing-file-modified-sort="1757300620317" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="27" data-listing-file-modified-sort="1758083772396" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1264,7 +1266,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="28" data-listing-file-modified-sort="1757300620318" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="28" data-listing-file-modified-sort="1758083772397" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1298,7 +1300,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="29" data-listing-file-modified-sort="1757300620323" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="29" data-listing-file-modified-sort="1758083772402" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1332,7 +1334,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="30" data-listing-file-modified-sort="1757300620320" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="30" data-listing-file-modified-sort="1758083772399" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1366,7 +1368,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="31" data-listing-file-modified-sort="1757300620326" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="31" data-listing-file-modified-sort="1758083772405" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1400,7 +1402,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="32" data-listing-file-modified-sort="1757300620328" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="32" data-listing-file-modified-sort="1758083772406" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1434,7 +1436,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="33" data-listing-file-modified-sort="1757300620325" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="33" data-listing-file-modified-sort="1758083772403" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1468,7 +1470,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="34" data-listing-file-modified-sort="1757300620321" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="34" data-listing-file-modified-sort="1758083772400" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1502,7 +1504,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="35" data-listing-file-modified-sort="1757300620331" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="35" data-listing-file-modified-sort="1758083772409" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1536,7 +1538,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="36" data-listing-file-modified-sort="1757300620329" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="36" data-listing-file-modified-sort="1758083772408" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1570,7 +1572,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="37" data-listing-file-modified-sort="1757300620332" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="37" data-listing-file-modified-sort="1758083772411" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1604,7 +1606,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="38" data-listing-file-modified-sort="1757300620334" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="38" data-listing-file-modified-sort="1758083772412" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1638,7 +1640,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="39" data-listing-file-modified-sort="1757300620336" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="39" data-listing-file-modified-sort="1758083772414" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1672,7 +1674,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="40" data-listing-file-modified-sort="1757300620340" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="40" data-listing-file-modified-sort="1758083772418" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1706,7 +1708,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="41" data-listing-file-modified-sort="1757300620342" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="41" data-listing-file-modified-sort="1758083772420" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1740,7 +1742,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="42" data-listing-file-modified-sort="1757300620339" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="42" data-listing-file-modified-sort="1758083772417" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1774,7 +1776,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="43" data-listing-file-modified-sort="1757300620337" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="43" data-listing-file-modified-sort="1758083772415" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1808,7 +1810,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="44" data-listing-file-modified-sort="1757300620345" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="44" data-listing-file-modified-sort="1758083772423" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1842,7 +1844,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="45" data-listing-file-modified-sort="1757300620344" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="45" data-listing-file-modified-sort="1758083772421" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1876,7 +1878,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="46" data-listing-file-modified-sort="1757300620347" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="46" data-listing-file-modified-sort="1758083772424" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1910,7 +1912,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="47" data-listing-file-modified-sort="1757300620348" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="47" data-listing-file-modified-sort="1758083772426" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1944,7 +1946,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="48" data-listing-file-modified-sort="1757300620350" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="48" data-listing-file-modified-sort="1758083772427" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -1978,7 +1980,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="49" data-listing-file-modified-sort="1757300620355" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="49" data-listing-file-modified-sort="1758083772432" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2012,7 +2014,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="50" data-listing-file-modified-sort="1757300620361" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="50" data-listing-file-modified-sort="1758083772438" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2046,7 +2048,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="51" data-listing-file-modified-sort="1757300620351" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="51" data-listing-file-modified-sort="1758083772429" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2080,7 +2082,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="52" data-listing-file-modified-sort="1757300620353" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="52" data-listing-file-modified-sort="1758083772430" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2114,7 +2116,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="53" data-listing-file-modified-sort="1757300620367" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="53" data-listing-file-modified-sort="1758083772444" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2148,7 +2150,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="54" data-listing-file-modified-sort="1757300620362" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="54" data-listing-file-modified-sort="1758083772439" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2182,7 +2184,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="55" data-listing-file-modified-sort="1757300620364" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="55" data-listing-file-modified-sort="1758083772441" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2216,7 +2218,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="56" data-listing-file-modified-sort="1757300620370" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="56" data-listing-file-modified-sort="1758083772447" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2250,7 +2252,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="57" data-listing-file-modified-sort="1757300620375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="57" data-listing-file-modified-sort="1758083772452" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2284,7 +2286,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="58" data-listing-file-modified-sort="1757300620368" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="58" data-listing-file-modified-sort="1758083772445" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2318,7 +2320,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="59" data-listing-file-modified-sort="1757300620371" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="59" data-listing-file-modified-sort="1758083772448" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2352,7 +2354,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="60" data-listing-file-modified-sort="1757300620365" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="60" data-listing-file-modified-sort="1758083772442" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2386,7 +2388,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="61" data-listing-file-modified-sort="1757300620373" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="61" data-listing-file-modified-sort="1758083772450" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2420,7 +2422,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="62" data-listing-file-modified-sort="1757300620376" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="62" data-listing-file-modified-sort="1758083772453" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2454,7 +2456,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="63" data-listing-file-modified-sort="1757300620378" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="63" data-listing-file-modified-sort="1758083772455" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2488,7 +2490,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="64" data-listing-file-modified-sort="1757300620381" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="64" data-listing-file-modified-sort="1758083772458" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2522,7 +2524,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="65" data-listing-file-modified-sort="1757300620379" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="65" data-listing-file-modified-sort="1758083772456" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2556,7 +2558,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="66" data-listing-file-modified-sort="1757300620382" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="66" data-listing-file-modified-sort="1758083772459" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2590,7 +2592,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="67" data-listing-file-modified-sort="1757300620384" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="67" data-listing-file-modified-sort="1758083772461" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2624,7 +2626,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="68" data-listing-file-modified-sort="1757300620387" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="68" data-listing-file-modified-sort="1758083772464" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2658,7 +2660,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="69" data-listing-file-modified-sort="1757300620390" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="69" data-listing-file-modified-sort="1758083772467" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2692,7 +2694,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="70" data-listing-file-modified-sort="1757300620386" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="70" data-listing-file-modified-sort="1758083772463" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2726,7 +2728,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="71" data-listing-file-modified-sort="1757300620394" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="71" data-listing-file-modified-sort="1758083772470" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2760,7 +2762,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="72" data-listing-file-modified-sort="1757300620389" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="72" data-listing-file-modified-sort="1758083772466" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2794,7 +2796,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="73" data-listing-file-modified-sort="1757300620392" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="73" data-listing-file-modified-sort="1758083772469" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2828,7 +2830,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="74" data-listing-file-modified-sort="1757300620405" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="74" data-listing-file-modified-sort="1758083772481" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2862,7 +2864,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="75" data-listing-file-modified-sort="1757300620398" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="75" data-listing-file-modified-sort="1758083772475" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2896,7 +2898,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="76" data-listing-file-modified-sort="1757300620401" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="76" data-listing-file-modified-sort="1758083772478" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2930,7 +2932,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="77" data-listing-file-modified-sort="1757300620400" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="77" data-listing-file-modified-sort="1758083772477" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2964,7 +2966,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="78" data-listing-file-modified-sort="1757300620397" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="78" data-listing-file-modified-sort="1758083772473" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -2998,7 +3000,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="79" data-listing-file-modified-sort="1757300620403" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="79" data-listing-file-modified-sort="1758083772480" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3032,7 +3034,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="80" data-listing-file-modified-sort="1757300620395" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="80" data-listing-file-modified-sort="1758083772472" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3066,7 +3068,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="81" data-listing-file-modified-sort="1757300620408" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="81" data-listing-file-modified-sort="1758083772484" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3100,7 +3102,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="82" data-listing-file-modified-sort="1757300620406" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="82" data-listing-file-modified-sort="1758083772483" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3134,7 +3136,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="83" data-listing-file-modified-sort="1757300620414" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="83" data-listing-file-modified-sort="1758083772489" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3168,7 +3170,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="84" data-listing-file-modified-sort="1757300620411" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="84" data-listing-file-modified-sort="1758083772486" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3202,7 +3204,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="85" data-listing-file-modified-sort="1757300620416" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="85" data-listing-file-modified-sort="1758083772490" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3236,7 +3238,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="86" data-listing-file-modified-sort="1757300620413" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="86" data-listing-file-modified-sort="1758083772487" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3270,7 +3272,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="87" data-listing-file-modified-sort="1757300620419" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="87" data-listing-file-modified-sort="1758083772493" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3304,7 +3306,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="88" data-listing-file-modified-sort="1757300620417" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="88" data-listing-file-modified-sort="1758083772492" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3338,7 +3340,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="89" data-listing-file-modified-sort="1757300620422" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="89" data-listing-file-modified-sort="1758083772496" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3372,7 +3374,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="90" data-listing-file-modified-sort="1757300620424" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="90" data-listing-file-modified-sort="1758083772498" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3406,7 +3408,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="91" data-listing-file-modified-sort="1757300620420" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="91" data-listing-file-modified-sort="1758083772495" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3440,7 +3442,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="92" data-listing-file-modified-sort="1757300620425" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="92" data-listing-file-modified-sort="1758083772499" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3474,7 +3476,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="93" data-listing-file-modified-sort="1757300620428" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="93" data-listing-file-modified-sort="1758083772502" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3508,7 +3510,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="94" data-listing-file-modified-sort="1757300620427" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="94" data-listing-file-modified-sort="1758083772501" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3542,7 +3544,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="95" data-listing-file-modified-sort="1757300620430" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="95" data-listing-file-modified-sort="1758083772504" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3576,7 +3578,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="96" data-listing-file-modified-sort="1757300620433" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="96" data-listing-file-modified-sort="1758083772507" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3610,7 +3612,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="97" data-listing-file-modified-sort="1757300620444" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="97" data-listing-file-modified-sort="1758083772518" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3644,7 +3646,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="98" data-listing-file-modified-sort="1757300620431" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="98" data-listing-file-modified-sort="1758083772505" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3678,7 +3680,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="99" data-listing-file-modified-sort="1757300620438" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="99" data-listing-file-modified-sort="1758083772512" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3712,7 +3714,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="100" data-listing-file-modified-sort="1757300620434" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="100" data-listing-file-modified-sort="1758083772508" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3746,7 +3748,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="101" data-listing-file-modified-sort="1757300620439" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="101" data-listing-file-modified-sort="1758083772513" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3780,7 +3782,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="102" data-listing-file-modified-sort="1757300620441" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="102" data-listing-file-modified-sort="1758083772515" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3814,7 +3816,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="103" data-listing-file-modified-sort="1757300620436" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="103" data-listing-file-modified-sort="1758083772510" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3848,7 +3850,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="104" data-listing-file-modified-sort="1757300620442" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="104" data-listing-file-modified-sort="1758083772516" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3882,7 +3884,7 @@ window.Quarto = {
 
       </div>
     
-        <div class="quarto-post image-left" data-index="105" data-listing-file-modified-sort="1757300620447" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+        <div class="quarto-post image-left" data-index="105" data-listing-file-modified-sort="1758083772521" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 
           <div class="body">
             <div class="no-anchor listing-pub-title listing-title">
@@ -3973,13 +3975,14 @@ window.Quarto = {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

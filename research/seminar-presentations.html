@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1a70c85688f5b2431faeed928d2b9240.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-0994dda46fb377df6294d839efcc2095.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,7 +114,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -149,7 +150,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo">
+    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo light-content">
+    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -316,7 +318,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1669161600000" data-listing-file-modified-sort="1757300344083" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1669161600000" data-listing-file-modified-sort="1758083472429" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
 <div class="thumbnail"><a href="../research/seminars/nuclear-components.html" class="no-external">
 
 <img loading="lazy" src="https://img.youtube.com/vi/g4Heen9lzSI/hqdefault.jpg" class="thumbnail-image" style="height: 200px;">
@@ -344,7 +346,7 @@ Marcelo Liendo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1663545600000" data-listing-file-modified-sort="1757300344088" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="132">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1663545600000" data-listing-file-modified-sort="1758083472434" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="132">
 <div class="thumbnail"><a href="../research/seminars/smr-materials.html" class="no-external">
 
 <img loading="lazy" src="../research/seminars/smr-materials.png" class="thumbnail-image" style="height: 200px;">
@@ -372,7 +374,7 @@ William Smith
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1622678400000" data-listing-file-modified-sort="1757300344086" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1622678400000" data-listing-file-modified-sort="1758083472432" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
 <div class="thumbnail"><a href="../research/seminars/scaling-techniques-part3.html" class="no-external">
 
 <img loading="lazy" src="../research/seminars/scaling-techniques-part3.png" class="thumbnail-image" style="height: 200px;">
@@ -400,7 +402,7 @@ Patricio Mendez
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1616803200000" data-listing-file-modified-sort="1757300344085" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1616803200000" data-listing-file-modified-sort="1758083472431" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
 <div class="thumbnail"><a href="../research/seminars/scaling-techniques-part2.html" class="no-external">
 
 <img loading="lazy" src="../research/seminars/scaling-techniques-part2.png" class="thumbnail-image" style="height: 200px;">
@@ -428,7 +430,7 @@ Patricio Mendez
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1616716800000" data-listing-file-modified-sort="1757300344084" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1616716800000" data-listing-file-modified-sort="1758083472430" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
 <div class="thumbnail"><a href="../research/seminars/scaling-techniques-part1.html" class="no-external">
 
 <img loading="lazy" src="../research/seminars/scaling-techniques-part1.png" class="thumbnail-image" style="height: 200px;">
@@ -456,7 +458,7 @@ Patricio Mendez
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1363219200000" data-listing-file-modified-sort="1757300344083" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1363219200000" data-listing-file-modified-sort="1758083472429" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <div class="thumbnail"><a href="../research/seminars/joys-of-welding-mets-2013.html" class="no-external">
 
 <img loading="lazy" src="https://img.youtube.com/vi/ePulkz8F-zs/hqdefault.jpg" class="thumbnail-image" style="height: 200px;">
@@ -484,7 +486,7 @@ Patricio Mendez
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1363219200000" data-listing-file-modified-sort="1757300344083" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1363219200000" data-listing-file-modified-sort="1758083472429" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
 <div class="thumbnail"><a href="../research/seminars/candu-reactors.html" class="no-external">
 
 <img loading="lazy" src="../research/seminars/candu-reactors.png" class="thumbnail-image" style="height: 200px;">
@@ -566,13 +568,14 @@ Marcelo Liendo
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

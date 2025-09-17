@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1a70c85688f5b2431faeed928d2b9240.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-0994dda46fb377df6294d839efcc2095.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,7 +114,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -149,7 +150,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo">
+    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo light-content">
+    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -306,7 +308,7 @@ window.Quarto = {
 
 <div id="listing-collaborators" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1757300343147" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1758083471486" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/adrian-gerlich.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -325,7 +327,7 @@ Materials Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1757300343147" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1758083471486" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/bernadette-quemarais.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -344,7 +346,7 @@ Medicine
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1757300343147" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1758083471486" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/bita-fallahi.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -363,7 +365,7 @@ Electrical Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1757300343147" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1758083471486" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/jason-olfert.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -382,7 +384,7 @@ Mechanical Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1757300343147" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1758083471487" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/leijun-li.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -401,7 +403,7 @@ Materials Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1757300343148" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1758083471487" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/mostafa-yakout.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -420,7 +422,7 @@ Mechanical Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1757300343148" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1758083471487" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/rafiq-ahmad.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -439,7 +441,7 @@ Mechanical Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1757300343148" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1758083471487" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/rick-sydora.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -458,7 +460,7 @@ Physics
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1757300343155" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1758083471494" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/s-ali-khajeohddin.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -477,7 +479,7 @@ Electrical Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1757300343155" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1758083471494" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/shiva-mohajernia.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -496,7 +498,7 @@ Materials Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1757300343155" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1758083471495" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/sina-ghaemi.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -515,7 +517,7 @@ Mechanical Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1757300343155" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1758083471495" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/stephen-mcmillan.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -534,7 +536,7 @@ NAIT
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1757300343156" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1758083471495" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/tony-briggs.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -553,7 +555,7 @@ Business
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1757300343156" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1758083471495" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/xingyu-li.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -572,7 +574,7 @@ Electrical Engineering
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1757300343156" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1758083471495" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <a href="../about/collaborations/yasser-mohammad.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
@@ -650,13 +652,14 @@ Civil Engineering
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

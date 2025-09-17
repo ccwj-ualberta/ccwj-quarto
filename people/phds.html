@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1a70c85688f5b2431faeed928d2b9240.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-0994dda46fb377df6294d839efcc2095.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,7 +114,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -149,7 +150,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo">
+    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo light-content">
+    <img src="../assets/CCWJ_white_logo.png" alt="Canada Centre for Welding and Joining" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -159,7 +161,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> <i class="bi bi-house-door-fill" role="img">
+    <a class="nav-link active" href="../index.html" aria-current="page"> <i class="bi bi-house-door-fill" role="img">
 </i> 
 <span class="menu-text"> </span></a>
   </li>  
@@ -203,7 +205,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="../people/director.html" aria-current="page"> 
+    <a class="nav-link" href="../people/director.html"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -291,6 +293,10 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      </a>
+      </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
@@ -426,7 +432,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-left" data-index="0" data-listing-file-modified-sort="1757300343946" data-listing-reading-time-sort="1" data-listing-word-count-sort="121">
+<div class="quarto-post image-left" data-index="0" data-listing-file-modified-sort="1758083472291" data-listing-reading-time-sort="1" data-listing-word-count-sort="121">
 <div class="thumbnail"><a href="../people/phds/XL1- Xinrui Liu.html" class="no-external">
 
 <img loading="lazy" src="../people/phds/XL1 - Xinrui Liu.png" class="thumbnail-image" style="height: 350px;">
@@ -448,7 +454,7 @@ Xinrui Liu is a PhD Candidate with the CCWJ who joined in the Fall of 2021. Prio
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="1" data-listing-file-modified-sort="1757300343943" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
+<div class="quarto-post image-left" data-index="1" data-listing-file-modified-sort="1758083472288" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
 <div class="thumbnail"><a href="../people/phds/AC1 - Alisha Cardanini.html" class="no-external">
 
 <img loading="lazy" src="../people/phds/AC1 - Alisha Cardanini.jpg" class="thumbnail-image" style="height: 350px;">
@@ -470,7 +476,7 @@ Alisha began with the CCWJ in September, 2022. She was born in the USA and is a 
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="2" data-listing-file-modified-sort="1757300343946" data-listing-reading-time-sort="1" data-listing-word-count-sort="166">
+<div class="quarto-post image-left" data-index="2" data-listing-file-modified-sort="1758083472290" data-listing-reading-time-sort="1" data-listing-word-count-sort="166">
 <div class="thumbnail"><a href="../people/phds/DC1 - Daniele Calista.html" class="no-external">
 
 <img loading="lazy" src="../people/phds/DC1 - Daniele Calista.jpg" class="thumbnail-image" style="height: 350px;">
@@ -492,7 +498,7 @@ Daniele Calista is a PhD Candidate with the CCWJ, where he has been conducting r
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="3" data-listing-file-modified-sort="1757300343946" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
+<div class="quarto-post image-left" data-index="3" data-listing-file-modified-sort="1758083472291" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
 <div class="thumbnail"><a href="../people/phds/GS1 - Gurbarn Singh.html" class="no-external">
 
 <img loading="lazy" src="../people/phds/GS1 - Gurbarn Singh.jpg" class="thumbnail-image" style="height: 350px;">
@@ -568,13 +574,14 @@ Gurbarn Singh is a Welding Engineer and Ph.D.&nbsp;candidate at IIT Madras curre
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
