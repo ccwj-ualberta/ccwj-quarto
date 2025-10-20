@@ -21,30 +21,31 @@
     ]
   },
   {
-    "listing": "/people/alumn.html",
+    "listing": "/people/alumn-visitors.html",
     "items": [
-      "/people/alumn/AK1 - Ata Kamyabi.html",
-      "/people/alumn/CT1 - Carter Trautmann.html",
-      "/people/alumn/DH1 - Dmytro Havrylov.html",
-      "/people/alumn/EK1 - Elham Kamali Heidari.html",
-      "/people/alumn/GW1 - Gentry Wood.html",
-      "/people/alumn/GD1 - Goetz Dapp.html",
-      "/people/alumn/MG1 - Mitchell Grams.html",
-      "/people/alumn/NB1 - Nairn Barnes.html",
-      "/people/alumn/PP1 - Preetam Panja.html",
-      "/people/alumn/SS3 - Sandeep Singh Parmar.html",
-      "/people/alumn/SS1 - Stefano Sacco Hawas.html",
-      "/people/alumn/SB1 - Steven Borle.html",
-      "/people/alumn/SA1 - Syed Irtiaz Alam.html",
-      "/people/alumn/TR1 - Terry Runyon.html",
-      "/people/alumn/VS1 - Vicente Andres Nunez Sanchez.html",
-      "/people/alumn/VP1 - Viraj Patel.html",
-      "/people/alumn/YL1 - Yi Lu.html"
+      "/people/alumn-visitors/AK2 - Aditya Rahul Kelkar.html",
+      "/people/alumn-visitors/AB3 - Arthur  Bardy.html",
+      "/people/alumn-visitors/CG1 - Cesar Maximiliano Gonzalez Bisquertt.html",
+      "/people/alumn-visitors/CC1 - Charly Cluchier.html",
+      "/people/alumn-visitors/DG1 - Dhruv Grover.html",
+      "/people/alumn-visitors/EM1 - Edgar Menzildjian.html",
+      "/people/alumn-visitors/FR1 - Francisca Javiera Ramirez Vidal.html",
+      "/people/alumn-visitors/FB1 - Francisco Javier Basaure Figueroa.html",
+      "/people/alumn-visitors/FA1 - Freddy Brian Agama Santana.html",
+      "/people/alumn-visitors/GB1 - German Omar Barrionuevo Chiluiza.html",
+      "/people/alumn-visitors/IG1 - Ivan Gonzalez Perez.html",
+      "/people/alumn-visitors/JR1 - Juan Pablo Romero Campos.html",
+      "/people/alumn-visitors/MU1 - Magdalena Estela Urrutia Unda.html",
+      "/people/alumn-visitors/RC1 - Renata Belen Cancino Silva.html",
+      "/people/alumn-visitors/TP1 - Tiare Andrea Susana Perez Neira.html",
+      "/people/alumn-visitors/UD1 - Ugo Douillard.html"
     ]
   },
   {
     "listing": "/people/visitors.html",
-    "items": []
+    "items": [
+      "/people/visitors/FC2 - Felipe Castro.html"
+    ]
   },
   {
     "listing": "/publications/publications-books.html",
@@ -1024,24 +1025,25 @@
     ]
   },
   {
-    "listing": "/people/alumn-visitors.html",
+    "listing": "/people/alumn.html",
     "items": [
-      "/people/alumn-visitors/AK2 - Aditya Rahul Kelkar.html",
-      "/people/alumn-visitors/AB3 - Arthur  Bardy.html",
-      "/people/alumn-visitors/CG1 - Cesar Maximiliano Gonzalez Bisquertt.html",
-      "/people/alumn-visitors/CC1 - Charly Cluchier.html",
-      "/people/alumn-visitors/DG1 - Dhruv Grover.html",
-      "/people/alumn-visitors/EM1 - Edgar Menzildjian.html",
-      "/people/alumn-visitors/FR1 - Francisca Javiera Ramirez Vidal.html",
-      "/people/alumn-visitors/FB1 - Francisco Javier Basaure Figueroa.html",
-      "/people/alumn-visitors/FA1 - Freddy Brian Agama Santana.html",
-      "/people/alumn-visitors/GB1 - German Omar Barrionuevo Chiluiza.html",
-      "/people/alumn-visitors/IG1 - Ivan Gonzalez Perez.html",
-      "/people/alumn-visitors/JR1 - Juan Pablo Romero Campos.html",
-      "/people/alumn-visitors/MU1 - Magdalena Estela Urrutia Unda.html",
-      "/people/alumn-visitors/RC1 - Renata Belen Cancino Silva.html",
-      "/people/alumn-visitors/TP1 - Tiare Andrea Susana Perez Neira.html",
-      "/people/alumn-visitors/UD1 - Ugo Douillard.html"
+      "/people/alumn/AK1 - Ata Kamyabi.html",
+      "/people/alumn/CT1 - Carter Trautmann.html",
+      "/people/alumn/DH1 - Dmytro Havrylov.html",
+      "/people/alumn/EK1 - Elham Kamali Heidari.html",
+      "/people/alumn/GW1 - Gentry Wood.html",
+      "/people/alumn/GD1 - Goetz Dapp.html",
+      "/people/alumn/MG1 - Mitchell Grams.html",
+      "/people/alumn/NB1 - Nairn Barnes.html",
+      "/people/alumn/PP1 - Preetam Panja.html",
+      "/people/alumn/SS3 - Sandeep Singh Parmar.html",
+      "/people/alumn/SS1 - Stefano Sacco Hawas.html",
+      "/people/alumn/SB1 - Steven Borle.html",
+      "/people/alumn/SA1 - Syed Irtiaz Alam.html",
+      "/people/alumn/TR1 - Terry Runyon.html",
+      "/people/alumn/VS1 - Vicente Andres Nunez Sanchez.html",
+      "/people/alumn/VP1 - Viraj Patel.html",
+      "/people/alumn/YL1 - Yi Lu.html"
     ]
   },
   {
@@ -1054,7 +1056,9 @@
   },
   {
     "listing": "/people/postdocs.html",
-    "items": []
+    "items": [
+      "/people/postdocs/IP1 - Ivan Pigozzo.html"
+    ]
   },
   {
     "listing": "/people/alumn-ug.html",
