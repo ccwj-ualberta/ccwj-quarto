@@ -1,0 +1,6 @@
+---
+title: "A systematic approach to procedure development"
+author: "Mendez, P. F., Guest, Stuart D., Gilbank, J."
+conference: "Edmonton lecture series"
+year: 2013
+---

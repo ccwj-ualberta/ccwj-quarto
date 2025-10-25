@@ -1,0 +1,6 @@
+---
+title: "Electron beam welding at the micron scale"
+author: "Sanders, M., Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2006
+---

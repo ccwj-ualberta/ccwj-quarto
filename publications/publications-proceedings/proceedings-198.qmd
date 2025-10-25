@@ -1,0 +1,6 @@
+---
+title: "New trends in welding in the aeronautic industry"
+author: "Mendez, Patricio F., Eagar, T. W."
+conference: "Second conference on new trends for the manufacturing in the aeronautic industry"
+year: 2002
+---

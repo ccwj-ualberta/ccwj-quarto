@@ -16,10 +16,11 @@ papers <- bib2df(here("publications/references.bib")) |>
 
     # remove single backslashes
     title = str_remove_all(title, "\\\\"),
-    conference = str_remove_all(conference, "\\\\")
+    conference = str_remove_all(conference, "\\\\"),
+    file_id = row_number()
   )
 
-create_conference <- function(title, author, conference, year) {
+create_conference <- function(title, author, conference, year, file_id) {
   output <- c(
     "---",
     glue('title: "{title}"'),
@@ -29,13 +30,7 @@ create_conference <- function(title, author, conference, year) {
     "---"
   )
 
-  filename <- tolower(title)
-  filename <- gsub(" ", "-", filename)
-  filename <- gsub("[^[:alnum:]-]", "", filename)
-  filename <- gsub("--", "-", filename)
-  filename <- gsub(",", "", filename)
-  filename <- paste0(filename, ".qmd")
-
+  filename <- paste0("proceedings-", file_id, ".qmd")
   file_path <- here("publications", "publications-proceedings", filename)
   file.create(file_path)
   writeLines(output, file_path)

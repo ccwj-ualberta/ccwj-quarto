@@ -1,0 +1,6 @@
+---
+title: "Modeling of welding for engineering applications"
+author: "Mendez, P. F."
+conference: "Materials science and engineering"
+year: 2014
+---

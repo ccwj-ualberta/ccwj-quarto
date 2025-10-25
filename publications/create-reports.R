@@ -14,10 +14,11 @@ reports <- bib2df(here("publications/references.bib")) |>
     title = str_remove_all(title, "\\\\"),
     institution = str_remove_all(institution, "\\{|\\}"),
     institution = str_remove_all(institution, "\\\\"),
-    institution = if_else(is.na(institution), "", institution)
+    institution = if_else(is.na(institution), "", institution),
+    file_id = row_number()
   )
 
-create_report <- function(author, institution, title, year) {
+create_report <- function(author, institution, title, year, file_id) {
   output <- c(
     "---",
     glue('title: "{title}"'),
@@ -27,14 +28,7 @@ create_report <- function(author, institution, title, year) {
     "---"
   )
 
-  filename <- tolower(title)
-  filename <- str_sub(filename, 1, 50)
-  filename <- gsub(" ", "-", filename)
-  filename <- gsub("[^[:alnum:]-]", "", filename)
-  filename <- gsub("--", "-", filename)
-  filename <- gsub(",", "", filename)
-  filename <- paste0(filename, ".qmd")
-
+  filename <- paste0("report-", file_id, ".qmd")
   file_path <- here("publications", "publications-reports", filename)
   file.create(file_path)
   writeLines(output, file_path)

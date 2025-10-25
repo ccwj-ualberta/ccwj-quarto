@@ -1,0 +1,6 @@
+---
+title: "Advanced scaling techniques for the modeling of materials processing"
+author: "Tello, K. E., Duman, U., Mendez, P. F."
+conference: "ASME summer heat transfer conference"
+year: 2009
+---

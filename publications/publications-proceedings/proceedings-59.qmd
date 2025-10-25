@@ -1,0 +1,6 @@
+---
+title: "Effect of current on metal transfer in SAW"
+author: "Mendez, P. F., Sengupta, Vivek"
+conference: "IIW annual assembly"
+year: 2016
+---

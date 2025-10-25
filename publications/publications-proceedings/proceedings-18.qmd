@@ -1,0 +1,6 @@
+---
+title: "Reduced order models for welding and solidification processes"
+author: "Mendez, P. F."
+conference: "Metallurgy winter school, amirkabir university, iran"
+year: 2022
+---

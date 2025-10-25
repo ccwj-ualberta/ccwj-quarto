@@ -1,0 +1,6 @@
+---
+title: "Similarity analysis of temperature and fluid flow in the GTAW arc"
+author: "Sacco Hawas, Stefano, Mendez, Patricio F"
+conference: "CWB association annual meeting"
+year: 2022
+---

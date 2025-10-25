@@ -16,10 +16,11 @@ journals <- bib2df(here("publications/references.bib")) |>
       !is.na(doi),
       paste0("https://doi.org/", doi),
       doi
-    )
+    ),
+    file_id = row_number()
   )
 
-create_article <- function(title, author, journal, year, volume, number, pages, doi) {
+create_article <- function(title, author, journal, year, volume, number, pages, doi, file_id) {
   output <- c(
     "---",
     glue("title: '{title}'"),
@@ -33,13 +34,7 @@ create_article <- function(title, author, journal, year, volume, number, pages, 
     "---"
   )
 
-  filename <- tolower(title)
-  filename <- gsub(" ", "-", filename)
-  filename <- gsub("[^[:alnum:]-]", "", filename)
-  filename <- gsub("--", "-", filename)
-  filename <- gsub(",", "", filename)
-  filename <- paste0(filename, ".qmd")
-
+  filename <- paste0("article-", file_id, ".qmd")
   file_path <- here("publications", "publications-articles", filename)
   file.create(file_path)
   writeLines(output, file_path)
