@@ -1,0 +1,13 @@
+---
+title: Xingyu Li
+image: xingyu-li.png
+subtitle: Electrical Engineering
+description: Computer Vision
+about:
+  template: solana
+  image: xingyu-li.png
+---
+
+Professor Xingyu Li is an Associate Professor in the Department of Electrical and Computer Engineering at the University of Alberta. Her research focuses on machine learning and computer vision, with applications in trustworthy AI, anomaly detection, and biomedical image analysis. She is also a Fellow of the Alberta Machine Intelligence Institute (Amii) and a member of AI4Society, CRINA, and WCHRI. Professor Li collaborates with the Canadian Centre for Welding and Joining on computer-vision-based inspection and monitoring research, contributing to advancements in intelligent manufacturing and data-driven automation.
+
+Email: [xingyu@ualberta.ca](mailto:xingyu@ualberta.ca)

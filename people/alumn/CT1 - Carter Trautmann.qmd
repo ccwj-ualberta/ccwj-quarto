@@ -1,0 +1,30 @@
+---
+title: Carter Trautmann
+image: CT1 - Carter Trautmann.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: CT1 - Carter Trautmann.jpg
+  links:
+    - icon: email
+      text: cdtrautm@ualberta.ca
+      href: mailto:cdtrautm@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/carter-trautmann-9b9671159/
+---
+
+Carter Trautmann joined the CCWJ in 2020 to pursue an MSc in Materials Engineering, focusing on process development and metallurgy. Carter's research, in collaboration with Amsted Rail, aims to develop overlay materials for the rims of locomotive wheels. His work seeks to extend wheel lifespans by enhancing wear performance and enabling the repair of in-service wheels, and will also reduce emissions from the fabrication of said wheels. As the 2022 president of the CWB/AWS student chapter, Carter has remained actively involved as an advisor, demonstrating his leadership and commitment to the welding community.
+
+Outside of his work, Carter is a photographer and enjoys woodworking and climbing/mountaineering.
+
+
+##### Prior Degrees
+
+BSc in Engineering Physics, University of Alberta, 2020
+
+
+##### Selected Accomplishments
+
+US Patent US20240149367A1

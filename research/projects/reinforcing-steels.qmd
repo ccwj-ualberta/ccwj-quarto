@@ -1,0 +1,10 @@
+---
+title: "Reinforcing Steels"
+subtitle: CWB Welding Foundation, Frank Roberts & Associates
+date: "2018-10-01"
+date-format: "YYYY-MM"
+image: granting-logos/cwb-wf.png
+categories: [Metallurgy]
+---
+
+The project will investigate the metallurgical structures and hardness properties of what are described as “non-load bearing” weld joints in reinforcing steel. These are proposed to connect reinforcing steel bars in the required configuration to be placed into concrete forms and cast into concrete structures. Two joint configurations shall be evaluated, a cross joint for bars intersecting at right angles and a lap joint as described in the attached document ‘Tack Welding of Reinforcement Bar’ published by the Welding Technology Institute of Australia, document TGN-BC-01.

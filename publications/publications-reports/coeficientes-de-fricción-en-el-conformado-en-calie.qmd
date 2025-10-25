@@ -1,0 +1,6 @@
+---
+title: "Coeficientes de fricción en el conformado en caliente (friction coefficients in hot metalworking)"
+author: "Mendez, P. F., Herrera, R."
+institution: "FUDETEC"
+year: 1992
+---

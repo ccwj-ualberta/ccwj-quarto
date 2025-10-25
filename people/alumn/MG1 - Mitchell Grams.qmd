@@ -1,0 +1,27 @@
+---
+title: Mitchell Grams
+image: MG1 - Mitchell Grams.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: MG1 - Mitchell Grams.jpg
+  links:
+    - icon: email
+      text: mitch.grams@gmail.com
+      href: mailto:mitch.grams@gmail.com
+---
+
+Mitchell Grams earned his PhD in Materials Engineering with the CCWJ in 2021. His research focused on predictive modeling of welding residual stress and distortion, earning him the prestigious IIW Henry Granjon Prize (Category C) in 2022.
+
+After a MITACS postdoctoral fellowship with the CCWJ and Apollo-Clad Laser Cladding, he joined Apollo-Clad’s R&D team in 2022, where he continues to advance industrial modeling of welding processes.
+
+Mitchell has served as a young professional representative on the boards of IIW and AWS and remains active in the welding community through IIW’s WG-YP and WCDC, as well as the Edmonton chapter of the CWB-A.
+
+
+##### Prior Degrees
+
+
+PhD, Materials Engineering, University of Alberta, 2021
+
+BSc in Materials Engineering, University of Alberta, 2015

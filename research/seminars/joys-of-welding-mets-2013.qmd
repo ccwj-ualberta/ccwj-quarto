@@ -1,0 +1,9 @@
+---
+title: "Joys of Welding and Why It Is Much Deeper Than It Seems - UofA METS Technical Talk"
+author: "Patricio Mendez"
+date: "2013-03-14"
+image: https://img.youtube.com/vi/ePulkz8F-zs/hqdefault.jpg
+description: "Technical talk at the University of Alberta's Mechanical Engineering Technical Society (METS) in 2013."
+---
+
+{{< video https://youtu.be/ePulkz8F-zs >}}

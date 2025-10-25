@@ -1,0 +1,15 @@
+---
+title: Mackenzi Johnston
+image: MJ1 - Mackenzi Johnston.jpeg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: MJ1 - Mackenzi Johnston.jpeg
+  links:
+    - icon: email
+      text: mhjohnst@ualberta.ca
+      href: mailto:mhjohnst@ualberta.ca
+---
+
+Project: Involving women in welding and testing hydrogen content in welds

@@ -1,0 +1,6 @@
+---
+title: "Virtual procedure development for pipeline steel"
+author: "Mendez, P. F., Li, L., Bell, M. A., Kamyabi-Gol, A., Wood, G., Islam, S., Guest, S. D."
+conference: "Canweld/CWA annual meeting"
+year: 2014
+---

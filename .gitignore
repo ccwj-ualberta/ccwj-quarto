@@ -1,0 +1,10 @@
+# MacOS
+**/.DS_Store
+
+# Quarto
+/.quarto/
+_site/
+.Rproj.user
+
+# Python
+.venv/

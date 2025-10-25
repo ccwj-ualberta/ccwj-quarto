@@ -1,0 +1,6 @@
+---
+title: "Materiales y procesos para recubrimientos de protección en minería"
+author: "Mendez, P. F."
+conference: "IV congreso internacional de soldadura y ensayos no destructivos"
+year: 2022
+---

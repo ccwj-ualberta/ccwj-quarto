@@ -1,0 +1,6 @@
+---
+title: "Heat transfer aspects of microEBW"
+author: "Gajapathi, Satya, Mitra, S. K., Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2010
+---

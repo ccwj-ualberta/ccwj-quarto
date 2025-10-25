@@ -1,0 +1,6 @@
+---
+title: "Joining of copper alloys: Challenges and opportunities"
+author: "Mendez, P. F."
+conference: "New copper applications for the XXI century"
+year: 2006
+---

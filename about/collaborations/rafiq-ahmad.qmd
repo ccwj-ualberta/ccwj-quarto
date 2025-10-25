@@ -1,0 +1,13 @@
+---
+title: Rafiq Ahmad
+image: rafiq-ahmad.png
+subtitle: Mechanical Engineering
+description: Laser Cladding
+about:
+  template: solana
+  image: rafiq-ahmad.png
+---
+
+Professor Rafiq Ahmad is an Associate Professor in the Department of Mechanical Engineering at the University of Alberta. He leads the Smart & Sustainable Manufacturing Systems Laboratory (SMART Lab) and the Aquaponics 4.0 Learning Factory, focusing on hybrid and intelligent manufacturing systems, robotics, and sustainable production. His research integrates additive and subtractive technologies, automation, and digital design to enable advanced industrial processes. Professor Ahmad collaborates with the Canadian Centre for Welding and Joining on laser cladding research, advancing repair, remanufacturing, and surface engineering technologies for modern manufacturing.
+
+Email: [rafiq1@ualberta.ca](mailto:rafiq1@ualberta.ca)

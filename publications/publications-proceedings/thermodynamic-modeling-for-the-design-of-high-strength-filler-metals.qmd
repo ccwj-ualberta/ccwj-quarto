@@ -1,0 +1,6 @@
+---
+title: "Thermodynamic modeling for the design of high strength filler metals"
+author: "Madeni, J. C., Sarasola, G., Mendez, P. F., Liu, S."
+conference: "Fabtech/AWS annual meeting"
+year: 2006
+---

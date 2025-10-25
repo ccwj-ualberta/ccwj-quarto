@@ -1,0 +1,6 @@
+---
+title: "Engineering as a career path"
+author: "Mendez, P. F."
+conference: "Career day, grandview heights"
+year: 2015
+---

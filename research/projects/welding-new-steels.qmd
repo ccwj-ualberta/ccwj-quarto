@@ -1,0 +1,14 @@
+---
+title: "Structure-Processing Relationships for Welding New Steels with Small Alloying Additions"
+subtitle: CWB, WF, LJ Welding, Weldco, NSERC
+image: granting-logos/nserc-crd.png
+date: "2019-09-01"
+date-format: "YYYY-MM"
+categories: [Metallurgy, Physics of Welding]
+---
+
+The proposed research will address practical problems of weldability which are encountered by the industry on a daily basis when determining the feasibility of welding certain alloys, the need for heat treatment, or the potential for cracking. The welding of steel is currently based mostly on an accumulation of empirical knowledge, and quantitative use of fundamental knowledge of phase transformations and processing phenomena is rare. While the current empirical base of knowledge has been helpful with traditional steels, it is unable to provide reliable guidelines for modern steels which have small amounts of alloying elements that affect the microstructure.
+
+Among the steels not well understood for welding are fire-resistant steels, seismic steels, high grade microalloyed pipeline steels, and traditional structural steels with microalloying elements accepted in the new revised standards. Current troubleshooting efforts in industry aim at expanding the empirical knowledge base by trial and error, which is a slow, expensive, and wasteful approach when it needs to be repeated across multiple applications.
+
+The scientific objective of the proposed work is to predict the properties of a weld such as hardness, strength, residual stresses, or cold cracking susceptibility by using weld parameters accessible in practice such as current, voltage power, travel speed, heat input, and deposition rate. The project approach is simultaneously theoretical and experimental. The theoretical part involves metallurgy and heat and mass transport, and theories of phase transformations, moving heat sources, and mass and energy balances. The experimental part involves metallography and dilatometry, testing of mechanical properties, thermal imaging of welding, and testing of full-scale prototypes. The new knowledge generated will be transferred to Canadian industry as a set of reliable, quantitative guidelines for best practices in the design of weldments for steels with current compositions. Canadian industry will benefit from expanded abilities to deal with new steels, faster development of welding procedures, and a capability to weld with higher quality and higher productivity.

@@ -1,0 +1,9 @@
+---
+title: Programmable Arc Welding FANUC Robot
+image: https://img.youtube.com/vi/OneaQeG2DR8/hqdefault.jpg
+categories: Robotic welding and welding automation
+---
+
+Demonstration of the Lincoln Fanuc Arcmate Robotic Welder tracing its programmed tool path, showcasing the precise trajectory it follows during operation. This capability highlights its potential to enhance productivity in large-scale industrial production lines.
+
+{{< video https://youtu.be/OneaQeG2DR8?list=PLq-4Q87XIqZGr2lHrZ_YMKBdwoIckfB_r >}}

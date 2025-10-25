@@ -1,0 +1,34 @@
+---
+title: Ata Kamyabi
+image: AK1 - Ata Kamyabi.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: AK1 - Ata Kamyabi.jpg
+  links:
+    - icon: email
+      text: kamyabig@ualberta.ca
+      href: mailto:kamyabig@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ata-kamyabi-gol-62073a42/
+
+---
+
+Ata Kamyabi was a PhD Student with the CCWJ from September 2009 - September 2015, initially working on an industrially sponsored MITACS Accelerate Internship/scholarship project. Ata managed to publish 4 peer-reviewed papers directly derived from his thesis work during his PhD program. During his time with the CCWJ, Ata developed a novel method to quantify phase transformations using dilatometry and calorimetry through differential equations and in-situ analysis. He was also Vice Chair for the Univeristy of Alberta AWS/CWBA Student Chapter. 
+
+
+After his time with the CCWJ, Ata worked as an assistant professor at Ferdowsi University of Mashhad from 2016 to 2019 and was in charge of teaching multiple materials engineering undergraduate and graduate level courses and supervising multiple masters students. Today, Ata works has been working as an R&D engineer with the Apollo-Clad Laser Cladding Research and Development since September 2019, and has been busy working alongside talented individuals to help improve the productivity of laser cladding and unlock its potential for additive manufacturing.
+
+
+
+##### Prior Degrees
+
+
+PhD, Materials Engineering, University of Alberta, 2015
+
+MSc, Ferdowsi University of Mashhad, 2008
+
+BSc, Ferdowsi University of Mashhad, 2006
+

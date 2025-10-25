@@ -1,0 +1,8 @@
+---
+title: Praxair
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/LI3_Praxair.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/LI3_Praxair.jpg
+---

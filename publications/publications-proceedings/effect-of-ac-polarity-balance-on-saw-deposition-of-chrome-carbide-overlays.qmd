@@ -1,0 +1,6 @@
+---
+title: "Effect of AC polarity balance on SAW deposition of chrome carbide overlays"
+author: "Borle, S., Le Gall, Ivan, Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2014
+---

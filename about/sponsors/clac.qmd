@@ -1,0 +1,8 @@
+---
+title: CLAC
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/CL1_CLAC.JPG
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/CL1_CLAC.JPG
+---

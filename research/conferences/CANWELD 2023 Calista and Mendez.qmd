@@ -1,0 +1,11 @@
+---
+title: "Modelling Heat Input in Electric Resistance Welding"
+author: "D.D.G. Calista and P.F. Mendez"
+date: "2023-10-19"
+description: CANWELD 2023, Moncton, NB.
+image: https://img.youtube.com/vi/x5Y59g7SSR8/hqdefault.jpg
+---
+
+The work to be presented is the first step in establishing a multi-physical understanding of how entrapped oxides, known as penetrators, form and are retained in ERW seams. Since ERW is a complex process involving the interactions of heat transfer, oxidation, electromagnetic effects, and molten fluid flow, understanding each of these mechanisms is crucial to further understand which ones contribute to penetrator defects. The first stage in this overarching thesis work is the analytical modelling of heat input in ERW. To date, industry and academia have largely focused on numerical simulations and industrial trials of the process; however, we aim to develop a useful set of equations for industry that model the ERW process with a minimum required accuracy over a large range of process parameters. The current model was built on, compared, and contrasted with previous work. A key concept in the model includes the contrast of thermal reference depth versus power reference depth, the larger of which is proposed to indicate whether the process is in a thermal mode or electric mode, respectively. These modes can be related to the estimated power input to the weld, further inferring which process variables are most significant in the given modes. The ability to test this model has been integrated into future experimental design, which requires full scale ERW mill trials and high-speed videography.
+
+{{< video https://youtu.be/x5Y59g7SSR8 >}}

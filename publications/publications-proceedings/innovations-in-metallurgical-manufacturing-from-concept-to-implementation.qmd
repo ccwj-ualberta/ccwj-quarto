@@ -1,0 +1,6 @@
+---
+title: "Innovations in metallurgical manufacturing: From concept to implementation"
+author: "Mendez, P. F."
+conference: "Department of industrial engineering"
+year: 2005
+---

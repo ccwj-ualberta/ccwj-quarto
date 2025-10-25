@@ -1,0 +1,6 @@
+---
+title: "Functions of polarity, pulsing, gas, and fluxes in arc welding"
+author: "Mendez, P. F."
+conference: "Congreso internacional de soldadura"
+year: 2021
+---

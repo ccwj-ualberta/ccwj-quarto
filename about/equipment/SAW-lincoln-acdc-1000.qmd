@@ -1,0 +1,10 @@
+---
+title: Lincoln ACDC 1000 + Gantry
+categories: [Welding]
+image: SAW-lincoln-acdc-1000.jpg
+about:
+  template: solana
+  image: SAW-lincoln-acdc-1000.jpg
+---
+
+The Lincoln Electric Power Wave® AC/DC 1000SD Advanced Submerged Arc Welder is an industry-leading machine for submerged arc welding. The software-driven AC, DC positive, or DC negative output provides advanced control over deposition rate and penetration, resulting in increased weld speeds, consistently higher quality welds, and improved efficiency. The machine also offers automatic polarity switching, multi-arc configuration, advanced connectivity, and severe-duty reliability.

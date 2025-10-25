@@ -1,0 +1,10 @@
+---
+title: Miller MSW Spotwelder
+categories: [Welding]
+image: SPT1-miller-msw-spotwelder.jpg
+about:
+  template: solana
+  image: SPT1-miller-msw-spotwelder.jpg
+---
+
+The Miller MSW Series is a lightweight, air-cooled spot welder designed for portability and ease of operation. It provides a quick and effective means for spot welding mild, galvanized, or stainless materials.

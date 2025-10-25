@@ -1,0 +1,6 @@
+---
+title: "Scaling analysis of heat and fluid flow in a thermocapillary driven weld pool"
+author: "Havrylov, Dmytro, Mendez, Patricio F."
+conference: "IIW annual assembly"
+year: 2018
+---

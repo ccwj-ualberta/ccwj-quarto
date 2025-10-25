@@ -1,0 +1,8 @@
+---
+title: Charpy Broach
+categories: [Characterization]
+about:
+  template: solana
+---
+
+Used to create the notch in Charpy V-Notch testing. This equipment is essential to impact testing which provides impact properties of materials, and it is used in industry where impact testing in required.

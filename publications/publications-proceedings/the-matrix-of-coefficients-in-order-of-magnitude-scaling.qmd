@@ -1,0 +1,6 @@
+---
+title: "The matrix of coefficients in order of magnitude scaling"
+author: "Mendez, P. F., Eagar, T. W."
+conference: "Fourth international workshop on similarity methods"
+year: 2001
+---

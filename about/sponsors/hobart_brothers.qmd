@@ -1,0 +1,6 @@
+---
+title: Hobart Brothers
+categories: [Lab equipment and consumables]
+about:
+  template: solana
+---

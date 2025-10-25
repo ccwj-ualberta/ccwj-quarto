@@ -1,0 +1,13 @@
+---
+title: Leijun Li
+image: leijun-li.png
+subtitle: Materials Engineering
+description: Welding metallurgy
+about:
+  template: solana
+  image: leijun-li.png
+---
+
+Professor Leijun Li is a Professor and Chair of the Department of Chemical and Materials Engineering at the University of Alberta. His research focuses on welding metallurgy, additive manufacturing, and the physical metallurgy of materials under non-equilibrium conditions. With a background that spans academia in China, the United States, and Canada, Professor Li has made significant contributions to the understanding of microstructure evolution and mechanical properties in welded and additively manufactured metals. He is a Fellow of ASM International, the American Welding Society, and the Canadian Welding Association, and collaborates with the Canadian Centre for Welding and Joining on welding metallurgy.
+
+Email: [leijun@ualberta.ca](mailto:leijun@ualberta.ca)

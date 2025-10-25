@@ -1,0 +1,17 @@
+---
+title: Mane Urrutia
+image: MU1 - Magdalena Estela Urrutia Unda.jpg
+subtitle: Mechanical Engineering, Civil Engineering, Universidad de Chile
+priority: 1
+about:
+  template: trestles
+  image: MU1 - Magdalena Estela Urrutia Unda.jpg
+  links:
+    - icon: email
+      text: mane.urrutia.u@gmail.com
+      href: mailto:mane.urrutia.u@gmail.com
+---
+
+Country of Origin: Chile via ELAP  
+Affiliated Institution: Universidad de Chile, Santiago, Chile  
+Project: Friction Stir Welding for Aerospace applications

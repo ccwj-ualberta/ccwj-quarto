@@ -1,0 +1,8 @@
+---
+title: LJ Welding Automation
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/LJ1_LJ_Welding.png
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/LJ1_LJ_Welding.png
+---

@@ -1,0 +1,24 @@
+---
+title: Dmytro Havrylov
+image: DH1 - Dmytro Havrylov.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: DH1 - Dmytro Havrylov.jpg
+  links:
+    - icon: email
+      text: dhavrylo@ualberta.ca
+      href: mailto:dhavrylo@ualberta.ca
+---
+
+Dmytro Havrylov was a PhD candidate in Materials Engineering with the CCWJ, joining in September, 2016. Prior to this, Dmytro was a lead engineer in the E.O. Paton Electric Welding Institute in Kiev, Ukraine. Dmytro's research focused on the development of simple formulas that predict the effect of molten metal flows in a weld pool on weld shape and penetration.
+
+Dmytro received University of Alberta Doctoral Recruitment Scholarship (2016) and Captain Thomas Farrell Greenhalgh Memorial Graduate Scholarship (2017). He is a co-author of Sengupta, V., D. Havrylov, and P. F. Mendez. "Physical Phenomena in the Weld Zone of Submerged Arc Welding—A Review." WELDING JOURNAL 98.10 (2019): 283S-313S.
+
+##### Prior Degrees
+
+BSc in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2013
+
+MSc in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2015
+

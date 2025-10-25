@@ -1,0 +1,10 @@
+---
+title: Octopuz
+categories: [Computer / Software]
+image: OCTO-octopuz.jpg
+about:
+  template: solana
+  image: OCTO-octopuz.jpg
+---
+
+Offline programming software used to simulate and program the workflow of robotic equipment.	It can easily import commands from CAM software to verify robot work paths. Can implement different welding strategies with its offline path-sensitive software to optimize manufacturing processes.

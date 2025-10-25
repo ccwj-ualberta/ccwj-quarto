@@ -1,0 +1,8 @@
+---
+title: SAIT
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/SA1_SAIT.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/SA1_SAIT.jpg
+---

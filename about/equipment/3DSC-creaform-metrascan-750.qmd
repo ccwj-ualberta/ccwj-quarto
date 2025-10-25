@@ -1,0 +1,10 @@
+---
+title: Creaform MetraScan 750 3D Scanner
+categories: [Characterization]
+image: 3DSC-creaform-metrascan-750.jpg
+about:
+  template: solana
+  image: 3DSC-creaform-metrascan-750.jpg
+---
+
+The MetraScan 750 is a CMM scanner to perform highly accurate and repeatable metrology-grade measurements and 3D geometrical surface inspections. At the CCWJ it is implemented to aid with toolpath generation for zero-programming repair of worn out surfaces using robotic welding. In industry it is comonly used to capture 3D point cloud of objects and metrological inspection in a manufacturing process.

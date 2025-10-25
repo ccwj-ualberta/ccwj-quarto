@@ -1,0 +1,6 @@
+---
+title: "Influencia de los parámetros de diseño de un regulador (influence of design parameters of a centrifugal governor)"
+author: "Mendez, P. F."
+institution: "Universidad de Buenos Aires"
+year: 1991
+---

@@ -1,0 +1,14 @@
+---
+title: "Check our LinkedIn page for details on upcoming events!"
+date: "2022-11-17"
+image: 2022-11-17-new-linkedin-site.png
+about:
+  template: marquee
+  image: 2022-11-17-new-linkedin-site.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/ccwj
+---
+
+The CCWJ has a new LinkedIn page! Check it out for details on upcoming events, news, and more.

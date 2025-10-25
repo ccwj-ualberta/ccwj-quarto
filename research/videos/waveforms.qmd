@@ -1,0 +1,9 @@
+---
+title: High-Speed GTAW Demonstration - 450A Peak Current with 100% He Shielding
+image: https://img.youtube.com/vi/716R4QrP6hM/hqdefault.jpg
+categories: [Gas metal arc welding]
+---
+
+High-speed video of GTAW with 150A background current, 450A peak current, 100% He shielding gas, and a travel speed of 20 ipm. Performed using a 2% thoriated electrode with square wave pulse.
+
+{{< video https://youtu.be/716R4QrP6hM?list=PL70A1DCB9EB2A2952 >}}

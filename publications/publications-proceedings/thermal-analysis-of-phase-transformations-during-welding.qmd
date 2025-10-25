@@ -1,0 +1,6 @@
+---
+title: "Thermal analysis of phase transformations during welding"
+author: "Gibbs, John W., Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2008
+---

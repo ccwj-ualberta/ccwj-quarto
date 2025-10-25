@@ -1,0 +1,8 @@
+---
+title: NSERC
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/NS1_NSERC.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/NS1_NSERC.jpg
+---

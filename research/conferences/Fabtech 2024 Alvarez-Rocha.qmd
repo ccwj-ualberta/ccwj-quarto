@@ -1,0 +1,11 @@
+---
+title: "Deep Learning to Characterize the Morphology of the Arc and Metal Transfer in GMAW"
+author: "J. Eduardo Alvarez-Rocha"
+date: "2024-10-14"
+description: Fabtech 2024, Orlando, FL.
+image: https://img.youtube.com/vi/Sv3t8h5C6Ao/hqdefault.jpg
+---
+
+The mode of metal transfer is an important characteristic that is directly related to the current and fall voltages in the welding system. Understanding the interdependencies of these characteristics is important for applications including power source design, and welding output prediction. Traditionally, high-speed videography has been utilized for qualitative and quantitative analysis of metal droplet formation and arc length measurements in GMAW. However, the evaluation of these videos has been limited to human interpretation such as measuring screen captures and still frames, or even taping a ruler to a screen. These evaluations are time-consuming and prone to error. Furthermore, the assessment of critical features such as droplet size, droplet frequency, arc length, and their relationship to voltage and amperage has been limited to evaluating these individual features separately. Thus, posing challenges to comprehensively understand the welding process at large. This work focuses on using a deep learning algorithm (U-Net) to analyze high speed videos of a series of GMAW welds using ER4043 aluminum consumable with parameters to span the globular and projected spray transfer modes. This presentation will discuss performance results of the U-Net algorithm and will showcase the capability to obtain simultaneous quantifiable results of various critical features.
+
+{{< video https://youtu.be/Sv3t8h5C6Ao >}}

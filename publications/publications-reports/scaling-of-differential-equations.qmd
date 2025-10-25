@@ -1,0 +1,6 @@
+---
+title: "Scaling of differential equations"
+author: "Mendez, P. F."
+institution: "Massachusetts Institute of Technology"
+year: 1998
+---

@@ -1,0 +1,32 @@
+---
+title: "CCWJ Seminar 2024: COBOT WELDING INNOVATION"
+image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F736279099%2F19375881351%2F1%2Foriginal.20240405-003413?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=f9478876e7a3b55e69b1db25e7aa5448
+date: "2024-04-02"
+about:
+  template: marquee
+  image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F736279099%2F19375881351%2F1%2Foriginal.20240405-003413?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=f9478876e7a3b55e69b1db25e7aa5448
+  links:
+    - icon: calendar-event
+      text: Eventbrite
+      href: https://www.eventbrite.com/e/ccwj-seminar-2024-cobot-welding-innovation-tickets-852424884777
+---
+
+CCWJ is proud to present our annual seminar for 2024 on "Cobot Welding Innovation: Bridging the gap between automation and collaboration". Speakers from renowned organizations include:
+
+-   [Sam Noland](https://www.linkedin.com/in/sam-noland-66285262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BYaG2zKzoSzemr1F2d3y6pA%3D%3D), from [Miller Electric](https://www.millerwelds.com/), who is the Product Manager for the Miller Copilot™️ cobot welding system.
+
+-   Brian Sullivan, who brings a wealth of experience in automation at [Lincoln Electric](https://www.lincolnelectric.com/en).
+
+-   Nick McDonald, with [ABB Robotics](https://new.abb.com/products/robotics) who is at the forefront of industrial robotics technology in Canada.
+
+-   Fraser Wheeler and Mark Armstrong, our distinguished speakers from [LJ Welding Automation](https://www.linkedin.com/company/lj-welding-and-machine/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BYaG2zKzoSzemr1F2d3y6pA%3D%3D).
+
+Here's what you can expect:
+
+🛠️ Live Demonstrations: Witness firsthand how cobots can transform welding processes with this state-of-the-art technology
+
+🗣️ Expert Discussions: Engage with leading experts in the field as they discuss the latest technology and advancements in robotic welding technology.
+
+🤝 Networking Opportunities: Connect with industry peers, share experiences, and collaborate within this event
+
+In-person attendees will be provided with catering and beverages for the whole day of the event. Student fees are designated to cover only the food and beverage costs.

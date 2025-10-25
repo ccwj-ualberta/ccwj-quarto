@@ -1,0 +1,10 @@
+---
+title: Nikon SMZ 745T Stereomicroscope
+categories: [Characterization]
+image: SMIC-nikon-smz-745t-stereomicroscope.png
+about:
+  template: solana
+  image: SMIC-nikon-smz-745t-stereomicroscope.png
+---
+
+Optical microscope designed for low magnification observation of a sample with 7.5x zoom and 115 mm working distance. Used to study the surfaces of solid samples, and observe fracture surfaces and to inspect larger objects such as small mechanical pieces, and minerals.	They are essential in the preparation of samples for light microscopy and the two microscopes complement each other.

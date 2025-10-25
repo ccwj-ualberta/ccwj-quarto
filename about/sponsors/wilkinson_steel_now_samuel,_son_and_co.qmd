@@ -1,0 +1,8 @@
+---
+title: Wilkinson Steel - now Samuel, Son & Co.
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/WS1_Wilkinson_Steel_Samuel_Son.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/WS1_Wilkinson_Steel_Samuel_Son.jpg
+---

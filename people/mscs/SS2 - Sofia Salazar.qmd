@@ -1,0 +1,31 @@
+---
+title: Sofia Salazar Torres
+image: SS2 - Sofia Salazar.jpeg
+subtitle: Welding Engineering
+priority: 1
+about:
+  template: trestles
+  image: SS2 - Sofia Salazar.jpeg
+  links:
+    - icon: email
+      text: sofiaisa@ualberta.ca
+      href: mailto:sofiaisa@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/sofiast
+	
+
+---
+
+Sofia Salazar Torres joined the CCWJ in 2022 as a Master of Science student in Welding Engineering. Previously, she was an intern with the Centre through the ELAP scholarship. She is developing a mathematical model for friction stir welding, calculating the hot-working threshold temperature ratio for FSW optimization processes and with it, estimating welding parameters. She was President of the University of Alberta AWS/CWA Student Chapter and a Secretary in 2023. Sofia has presented her research at prestigious conferences such as Fabtech, Canweld, and IIW. She also participated in the AWS Leadership Symposium in Miami.
+
+Outside of academics, Sofia enjoys playing tennis, biking, and pottery painting.
+
+##### Prior Degrees
+
+BSc in Mechanical Engineering, Universidad de Chile, 2022
+
+
+##### Selected Accomplishments 
+
+AWS - 2025 International Meritorious Award, CWB/CCWJ 2024 Leadership in Welding, Attended the leadership symposium in Miami

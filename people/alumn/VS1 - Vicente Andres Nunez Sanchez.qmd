@@ -1,0 +1,30 @@
+---
+title: Vicente Núñez Sánchez
+image: VS1 - Vicente Andres Nunez Sanchez.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: VS1 - Vicente Andres Nunez Sanchez.jpg
+  links:
+    - icon: email
+      text: nunezsan@ualberta.ca
+      href: mailto:nunezsan@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vans14/
+---
+
+Vicente Núñez Sánchez first joined the CCWJ in 2021 as a visiting student, returning to pursue his MSc degree from 2022 - 2023. Vicente was also Tresurer for the University of Alberta AWS/CWBA Student Chapter committee. His work with the CCWJ focused on droplet temperature measurement in Gas Metal Arc Welding in Aluminum alloys.
+
+After completing his masters, Vicente has since worked as a Welding Engineer with Petricio Industrial and as an Inspector with Metaltech. Today, he works with Proingas as a Development Engineer. 
+
+
+Vicente has been a volleyball player his entire life and now is exploring new parts of the world with his bike. As a sportsman, he is always happy to play sports with friends. 
+
+
+
+##### Prior Degrees
+
+Mechanical Engineer, Universidad de Chile, 2021
+

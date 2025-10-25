@@ -1,0 +1,10 @@
+---
+title: VXelements
+categories: [Computer / Software]
+image: VXE-vxelements.png
+about:
+  template: solana
+  image: VXE-vxelements.png
+---
+
+3D scanning software platform that works in complete synergy with the entire fleet of Creaform's 3D measurement solutions. VXelements is able to manipulate coordinates of 3D scans to user specification enabling to sync with robot coordinates and generate inspection report of mismatch between objects. Industrial use includes quality check ability for manufacturing process using tight measurement capability. 

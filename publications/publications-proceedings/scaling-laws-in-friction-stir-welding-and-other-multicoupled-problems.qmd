@@ -1,0 +1,6 @@
+---
+title: "Scaling laws in friction stir welding and other multicoupled problems"
+author: "Mendez, P. F."
+conference: "Department of mechanical engineering"
+year: 2008
+---

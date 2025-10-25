@@ -1,0 +1,6 @@
+---
+title: "Dominant heat transfer mechanisms in the GTAW plasma arc welding"
+author: "Velazquez, Alberto, Álvarez, Alfredo Delgado, Ramírez Argáez, Marco A., Méndez, Patricio F., Villareal Medina, Rodrigo"
+conference: "AWS annual meeting"
+year: 2021
+---

@@ -1,0 +1,6 @@
+---
+title: "Thermal analysis of laser heat treatment"
+author: "Mendez, P. F."
+institution: "PGS Technical Consulting"
+year: 2021
+---

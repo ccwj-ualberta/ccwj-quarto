@@ -1,0 +1,6 @@
+---
+title: "Innovation & technology in the metal working industry"
+author: "Mendez, P. F."
+conference: "Innovation & technology: A forum for metal fabrication"
+year: 2010
+---

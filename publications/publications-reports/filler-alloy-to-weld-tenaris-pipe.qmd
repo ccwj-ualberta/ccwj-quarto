@@ -1,0 +1,6 @@
+---
+title: "Filler alloy to weld tenaris pipe"
+author: "Sarasola, G., Madeni, J. C., Mendez, P. F., Liu, S."
+institution: "Colorado School of Mines"
+year: 2005
+---

@@ -1,0 +1,6 @@
+---
+title: "Technologies for the education of future welding engineers. Technologies, Trades, Degrees"
+author: "Mendez, P. F."
+conference: "Welding education conference"
+year: 2013
+---

@@ -1,0 +1,12 @@
+---
+title: "DynaDur – Development and deposition of highly durable coating for dynamic-abrasive environments"
+subtitle: Group Six Technologies, DURUM, Brandenburg-Cottbus, ECCIR
+date: "2021-04-01"
+date-format: "YYYY-MM"
+image: granting-logos/eccie.png
+categories: [Metallurgy]
+---
+
+The companies DURUM and Group Six, as well as the research institutes CCWJ of the University of Alberta and F/T of BTU C-S have teamed up to develop and manufacture highly wear-resistant coatings for components simultaneously undergoing abrasion and impact wear. In order to achieve this goal material development, process optimization, and laboratory testing will be carried out.
+
+This project will study new alloy systems and novel material delivery methods in conjunction with laser welding sources, and optimize deposition parameters to reduce crack propagation, to allow for the creation of laser-welded coatings superior to any coatings currently in use.

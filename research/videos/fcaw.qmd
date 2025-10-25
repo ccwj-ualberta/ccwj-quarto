@@ -1,0 +1,9 @@
+---
+title: GMAW Ni-WC 100Ar CCWJ Calorimeter
+image: https://img.youtube.com/vi/aXPZdDWjpkk/hqdefault.jpg
+categories: Flux-cored arc welding
+---
+
+High speed video of GMAW with a cored nickel tungsten-carbide wire on the CCWJ's droplet temperature measurement apparatus. The apparatus involves a copper pipe with a hole that allows an arc to be sustained but also for weld droplets to fall onto a solid-state calorimeter below.
+
+{{< video https://youtu.be/aXPZdDWjpkk?list=PLD71C43DB964C69C5 >}}

@@ -1,0 +1,10 @@
+---
+title: 'Importancia de la educación en soldadura en el desarrollo de nuevas tecnologías (importance of welding education on the development of new technologies)'
+year: 2001
+author: 'Mendez, P. F.'
+doi: NA
+journ: 'Goierri Prest'
+volume: NA
+number: 2
+pages: '4-5'
+---

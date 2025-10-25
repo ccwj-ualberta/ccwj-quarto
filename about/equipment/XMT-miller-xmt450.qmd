@@ -1,0 +1,10 @@
+---
+title: Miller XMT450
+categories: [Welding]
+image: XMT-miller-xmt450.jpg
+about:
+  template: solana
+  image: XMT-miller-xmt450.jpg
+---
+
+The Miller XMT 450 is a versatile multiprocess welder known for its excellent arc performance. It supports stick (SMAW), TIG (GTAW), MIG (GMAW), Air Carbon Arc Cutting, and Flux-Cored (FCAW) processes. 

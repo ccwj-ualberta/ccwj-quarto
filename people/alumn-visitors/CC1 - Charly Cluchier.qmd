@@ -1,0 +1,20 @@
+---
+title: Charly Cluchier
+image: CC1 - Charly Cluchier.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: CC1 - Charly Cluchier.jpg
+  links:
+    - icon: email
+      text: cluchier@ualberta.ca
+      href: mailto:cluchier@ualberta.ca
+    - icon: linkedin
+      text: charly-cluchier
+      href: www.linkedin.com/in/charly-cluchier
+---
+
+Country of Origin: France  
+Affiliated Institution: Polytech Montpellier, Montpellier, France  
+Project: Friction Stir Welding of Dissimilar Al alloys

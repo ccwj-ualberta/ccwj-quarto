@@ -1,0 +1,13 @@
+---
+title: Adrian Gerlich
+image: adrian-gerlich.png
+subtitle: Materials Engineering
+description: Welding metallurgy
+about:
+  template: solana
+  image: adrian-gerlich.png
+---
+
+Professor Adrian Gerlich is an Associate Professor in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo. His research focuses on the physical metallurgy of welded and processed materials, with expertise in friction stir welding, roll bonding, overlay welding, and advanced material characterization of steels, light alloys, and metal matrix composites. His current work explores welding metallurgy of high-strength steels and dissimilar metal joining for transportation and energy applications. Professor Gerlich is an active member of the Canadian Welding Association, the American Welding Society, and the Society of Manufacturing Engineers.
+
+Email: [agerlich@uwaterloo.ca](mailto:agerlich@uwaterloo.ca)

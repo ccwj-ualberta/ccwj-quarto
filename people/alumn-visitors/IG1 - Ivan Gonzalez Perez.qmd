@@ -1,0 +1,18 @@
+---
+title: Ivan Gonzalez
+image: IG1 - Ivan Gonzalez Perez.jpg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: IG1 - Ivan Gonzalez Perez.jpg
+  links:
+    - icon: email
+      text: ivan.gonzalez@ug.uchile.cl
+      href: mailto:ivan.gonzalez@ug.uchile.cl
+---
+
+Country of Origin: Chile via ELAP  
+Affiliated Institution: Universidad de Chile, Santiago, Chile  
+Project: Droplet segmentation of welding videos
+

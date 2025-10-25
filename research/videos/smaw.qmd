@@ -1,0 +1,9 @@
+---
+title: SMAW Process with E7018 Electrode and 135A Current (DCEP)
+image: https://img.youtube.com/vi/ECK12klRe0c/hqdefault.jpg
+categories: Shielded metal arc welding
+---
+
+Demonstration of SMAW using an E7018 electrode (3.2 mm) with 135A current and DCEP polarity.
+
+{{< video https://youtu.be/ECK12klRe0c?list=PLq-4Q87XIqZFE0l_D5djUJLhQrfcXV7z7 >}}

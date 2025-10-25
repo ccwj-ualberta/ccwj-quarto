@@ -1,0 +1,24 @@
+---
+title: Gurbarn Singh
+image: GS1 - Gurbarn Singh.jpg
+subtitle: Materials Engineering
+priority: 3
+about:
+  template: trestles
+  image: GS1 - Gurbarn Singh.jpg
+  links:
+    - icon: email
+      text: gurbarn@ualberta.ca
+      href: mailto:gurbarn@ualberta.ca
+---
+
+Gurbarn Singh is a Welding Engineer and Ph.D. candidate at IIT Madras currently conducting research as a visiting student at the CCWJ through a Joint Doctorate Program since 2021. His research focuses on microstructural factors contributing to poor toughness performance in the high-frequency electric resistance welded bondline of API 5L X65 line pipe steel. This work aims to enhance the structural integrity and reliability of welded pipelines in critical energy applications. Gurbarn is a licensed Professional Engineer (P.Eng.), CWB Level 3 Welding Inspector, and CWB Retained Welding Engineer. 
+
+Outside of work, Gurbarn enjoys traveling, community service, and political engagement.
+
+
+##### Prior Degrees
+
+M.Eng. (Metallurgical Engineering), University of Alberta, 2020
+M.Eng. (Mechanical Engineering), Concordia University, 2011
+B.Tech. (Mechanical Engineering), Punjab Technical University, 2006

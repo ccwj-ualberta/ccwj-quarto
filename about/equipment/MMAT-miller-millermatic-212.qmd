@@ -1,0 +1,10 @@
+---
+title: Miller Millermatic 212
+categories: [Welding]
+image: MMAT-miller-millermatic-212.png
+about:
+  template: solana
+  image: MMAT-miller-millermatic-212.png
+---
+
+The Millermatic 212 Auto-Set is a versatile MIG welding system by Miller Electric. It offers an amperage range of 30–210 A, with a rated output of 160 A at 24.5 VDC and a 60% duty cycle. The system supports both MIG (GMAW) and flux-cored (FCAW) processes.

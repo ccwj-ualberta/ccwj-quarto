@@ -1,0 +1,31 @@
+---
+title: Program Manager
+subtitle: Rishiekesh Ramgopal
+image: RR1 - Rishiekesh Ramgopal.jpg
+priority: 1
+about:
+  template: trestles
+  image: RR1 - Rishiekesh Ramgopal.jpg
+  links:
+    - icon: email
+      text: rishieke@ualberta.ca
+      href: mailto:rishieke@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rishiekesh-ramgopal/
+	
+---
+
+Rishiekesh (Rishie) Ramgopal is the CCWJ's Program Manager, inaugerating into the roll in 2025 after having previously worked as a MITACS Research Intern with the Centre in 2019 and earning his Masters with the Centre from 2021-2024. He is also an Advisor for the University of Alberta AWS/CWBA Student Chapter. As Program Manager, Rishie leads the launch of the Centre's newest initiative: the Canadian Cluster for Laser and ADvanced Manufacturing (C:CLAD); a Cluster focused on laser and advanced manufacturing in Alberta. He is also responsible for managing research projects and fostering industry partnerships. 
+
+Outside of his work, Rishie enjoys skiing, backpacking, and has an interest in F1 Racing. 
+
+##### Prior Degrees
+
+MSc, University of Alberta, 2025
+
+BTech, National Institute of Technology Tiruchirappalli, 2021
+
+##### Selected Accomplishments 
+
+AWS - 2025 International Meritorious Award, CWB/CCWJ 2024 Leadership in Welding, Attended the leadership symposium in Miami

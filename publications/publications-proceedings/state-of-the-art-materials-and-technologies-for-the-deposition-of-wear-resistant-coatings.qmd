@@ -1,0 +1,6 @@
+---
+title: "State of the art materials and technologies for the deposition of wear resistant coatings"
+author: "Mendez, P. F."
+conference: "Simposio internacional de soldadura"
+year: 2021
+---

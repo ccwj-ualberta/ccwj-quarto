@@ -1,0 +1,10 @@
+---
+title: Rhino 6.0
+categories: [Computer / Software]
+image: RHIN-rhino6.jpg
+about:
+  template: solana
+  image: RHIN-rhino6.jpg
+---
+
+CAD software that specializes in complex geometries and model applications. It can create, edit and analyze a variety of 3D model formats including solids, surfaces, point clouds, meshes and NURBS curves. Not only can it model, but with appropriate plug-ins such as Grasshopper, it can play an integral role in automating the virtual analysis of real-world industry parts.

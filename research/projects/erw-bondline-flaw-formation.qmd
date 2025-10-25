@@ -1,0 +1,12 @@
+---
+title: "ERW Bondline Flaw Formation Mechanisms"
+subtitle: Evraz North America
+date: "2022-12-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-alliance.png
+categories: [Physics of Welding, Metallurgy]
+---
+
+During the ERW process, molten metal on the edge surfaces is oxidized and can remain in the final bond plane as oxide inclusions called penetrators. Penetrators are typically rich in Mn and Si, since these are strong oxidize formers present in the skelp.
+
+Previous research by other ERW pipe manufacturers have focused on two different means of modeling and preventing penetrator formation. However, the influence of penetrator characteristics, such as size, location, composition, and dispersion, on total CVN energy has not been quantified. Furthermore, the influence of penetrator characteristics on absorbed energy have not been separated into fracture initiation vs fracture propagation components. To understand the acceptable penetrator characteristics for a given CVN specification, the influence of penetrator characteristics must be known and then incorporated into the process control and nondestructive testing systems.

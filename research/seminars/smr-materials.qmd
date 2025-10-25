@@ -1,0 +1,25 @@
+---
+title: "SMR Materials and Manufacturing: Integral Molten Salt Reactor (IMSR)"
+subtitle: "Terrestrial Energy"
+author: "William Smith"
+date: "2022-09-19"
+image: smr-materials.png
+description: "The presentation discusses ongoing collaborative R&D opportunities that are related to the technology, to manufacturing, and to the materials employed, and was followed by a Q&A session."
+---
+
+The Integral Molten Salt Reactor (IMSR®) technology originates from MSR technology
+researched, developed, prototyped and demonstrated since the 1950s in a number of national
+laboratories. MSR research and development today continues through the Generation IV
+International Forum (GIF), in which Terrestrial Energy is the only private sector member
+company. The ISMR® nuclear power plant is designed for industrial cogeneration, and
+incorporates a set of proprietary pragmatic design choices that address technical issues and
+maximize the commercial opportunity for deployment. At its core is a replaceable and sealed
+“Core-unit”, which restricts volatile fission products and other radioactive particles from
+escaping to the surrounding containment and will be replaced every 7 years during operation.
+The presentation discusses ongoing collaborative R&D opportunities that are related to the
+technology, to manufacturing, and to the materials employed, and was followed by a Q&A
+session.
+
+```{=html}
+<iframe src="https://drive.google.com/file/d/1zS11yjRP32HB6vhidruor-ZIYoM5nkR8/preview" width="640" height="360" allow="autoplay"></iframe>
+```

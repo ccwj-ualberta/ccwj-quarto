@@ -1,0 +1,21 @@
+---
+title: Syed Irtiaz Alam
+image: SA1 - Syed Irtiaz Alam.jpg
+subtitle: Chemical Engineering, University of Alberta
+priority: 1
+about:
+  template: trestles
+  image: SA1 - Syed Irtiaz Alam.jpg
+  links:
+    - icon: email
+      text: sialam@ualberta.ca
+      href: mailto:sialam@ualberta.ca
+---
+
+Syed Irtiaz Alam was a Master's Student in Welding Engineering whose research focused on automation and process control. Originally from Bangladesh, he first joined the CCWJ as a recipient of the Dean’s Research Award in Winter 2017, working on sensitivity analysis of bead geometry in manual SMAW welds. He continued his involvement through the Undergraduate Research Initiative, where he commissioned a semi-automatic orbital welding system known as “Firefly,” and later contributed to an automation project for stand-off design in vertical GMAW torches.
+
+Syed has received multiple honors, including the AWS Prize in Welding Engineering, CWBA Awards for undergraduate and graduate research, and three Dean’s Research Awards. Following his BSc in Chemical Engineering from the University of Alberta, he worked at Group Six Technologies, a local laser cladding company. He has presented his research at the AWS Professional Program in Chicago in both 2017 and 2019.
+
+##### Prior Degrees
+
+BSc in Chemical Engineering, University of Alberta, 2017

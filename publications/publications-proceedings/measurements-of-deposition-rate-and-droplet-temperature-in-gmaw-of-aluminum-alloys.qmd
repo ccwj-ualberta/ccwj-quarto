@@ -1,0 +1,6 @@
+---
+title: "Measurements of deposition rate and droplet temperature in GMAW of aluminum alloys"
+author: "Ramgopal, Rishiekesh, Yan, Zhaoyang, Scott, Kevin S., Chen, Shujun, Mendez, Patricio F."
+conference: "Modelling of casting, welding and advanced solidification processes, MCWASP"
+year: 2023
+---

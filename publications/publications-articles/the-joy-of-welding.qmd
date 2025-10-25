@@ -1,0 +1,10 @@
+---
+title: 'The joy of welding'
+year: 2018
+author: 'Mendez, Patricio F'
+doi: NA
+journ: 'Welding Journal'
+volume: 97
+number: 10
+pages: '28-31'
+---

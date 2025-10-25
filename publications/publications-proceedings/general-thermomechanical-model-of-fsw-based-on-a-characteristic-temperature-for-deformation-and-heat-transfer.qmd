@@ -1,0 +1,6 @@
+---
+title: "General thermomechanical model of FSW based on a characteristic temperature for deformation and heat transfer"
+author: "Salazar, Sofia, Rojas, Diego, Mendez, Patricio F, Tello, Karem E"
+conference: "Modelling of casting, welding and advanced solidification processes, MCWASP"
+year: 2023
+---

@@ -1,0 +1,6 @@
+---
+title: "Analytical method to study the temperature distribution in case of a moving heat source in electron beam micro-welding"
+author: "Gajapathi, Satya S., Mendez, P. F., Mitra, S.K."
+conference: "HEFAT2010, 7th international conference on heat transfer, fluid mechanics and thermodynamics"
+year: 2010
+---

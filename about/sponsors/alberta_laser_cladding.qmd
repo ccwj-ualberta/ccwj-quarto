@@ -1,0 +1,8 @@
+---
+title: Alberta Laser Cladding
+categories: [C:CLAD]
+image: ../../assets/about-us/sponsors-logos/AL1_Alberta_Laser_Cladding.jfif
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/AL1_Alberta_Laser_Cladding.jfif
+---

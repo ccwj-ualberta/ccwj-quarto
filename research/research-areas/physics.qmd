@@ -1,0 +1,20 @@
+---
+title: Physics of Welding
+description: The physics of weld bonds and welding processes
+image: ccwj-research-areas-physics.jpg
+about:
+  template: solana
+  image: ccwj-research-areas-physics.jpg
+---
+
+The physics of welding is a complex and fascinating area of research. The process of welding involves the application of heat and pressure to join two materials together, and the physics of this process is influenced by a wide range of factors, including the properties of the materials being welded, the welding process itself, and the environment in which the welding is taking place.
+
+## Research highlights
+
+- Scaling modelling of penetration in high productivity gas tungsten arc welding. Prisco, U., Duman, U., Mendez, P. Journal of Materials Processing Technology (2023); 320: 1-16.
+
+- A general expression for the welding tendon force. Grams, MR, Mendez, PF. Journal of Manufacturing Science and Engineering (2021); 143: 121002-1.
+
+- Generalized representation of arc shape, arc column characteristics and arc-weld pool interactions for DC electric arcs burning in monoatomic gases. Delgado-Álvarez, A, Mendez, PF, Murphy, AB, Ramírez-Argáez, MA. Journal of Physics D: Applied Physics (2020): 54: 055001, 1-12.
+
+- Kinetics of intermetallic compound layers during initial period of reaction between mild steel and molten aluminum. He, H, Gou, W, Wang, S, Hou, Y, Ma, C, Mendez, PF. International Journal of Materials Research (2019): 110: 194-201.

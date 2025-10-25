@@ -1,0 +1,17 @@
+---
+title: Freddy Brian Agama Santana
+image: FA1 - Freddy Brian Agama Santana.jpg
+subtitle: Mechatronics Engineering
+priority: 1
+about:
+  template: trestles
+  image: FA1 - Freddy Brian Agama Santana.jpg
+  links:
+    - icon: email
+      text: agamasan@ualberta.ca
+      href: mailto:agamasan@ualberta.ca
+---
+
+Country of Origin: Peru  
+Affiliated Institution: National University of Engineering (UNI), Peru  
+Project: Closed-Loop Microcontroller Torch Control in Welding Automation

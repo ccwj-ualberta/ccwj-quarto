@@ -1,0 +1,13 @@
+---
+title: S. Ali Khajeohddin
+image: s-ali-khajeohddin.png
+subtitle: Electrical Engineering
+description: Power Electronics
+about:
+  template: solana
+  image: s-ali-khajeohddin.png
+---
+
+Professor Ali Khajehoddin is a Professor in the Department of Electrical and Computer Engineering at the University of Alberta and holds the Senior Engineering Research Chair in Energy Systems. His research focuses on power electronics, digital control, and high-frequency converter design for renewable energy, electric vehicles, and smart grid applications. He has extensive experience in microinverter development and high-power-density converter systems, bridging academic research and industrial innovation. Professor Khajehoddin collaborates with the Canadian Centre for Welding and Joining on power electronics research to advance energy efficiency and integration in modern manufacturing systems.
+
+Email: [khajehod@ualberta.ca](mailto:khajehod@ualberta.ca)

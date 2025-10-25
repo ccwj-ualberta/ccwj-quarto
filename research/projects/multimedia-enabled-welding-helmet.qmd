@@ -1,0 +1,10 @@
+---
+title: "Multimedia-enabled Welding Helmet for Teaching and Welder Evaluation"
+subtitle: CLAC
+date: "2015-05-01"
+date-format: "YYYY-MM"
+image: granting-logos/industrial-research.png
+categories: [Welding Automation]
+---
+
+We propose to create a welding helmet with a built-in camera which is suitable to be worn by a welder and capture the weld in real time, with the appropriate magnification, focus, and image quality. The ultimate goal of this helmet will be to enable video and audio recording, and two-way live communication during instruction from a remote location.

@@ -1,0 +1,29 @@
+---
+title: Nairn Barnes
+image: NB1 - Nairn Barnes.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: NB1 - Nairn Barnes.jpg
+  links:
+    - icon: email
+      text: nebarnes@ualberta.ca
+      href: mailto:nebarnes@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nairn-barnes-phd-p-eng-b5043273/
+---
+
+Nairn Barnes graduated in the Fall of 2017 from the University of Alberta with a PhD in Materials Engineering under the CCWJ. The work he did with the CCWJ aimed to bring a deeper understanding to chromium carbide overlays. He joined Supreme Steel as a welding engineer-in-training directly following successful completion of his defence. Today, he works as a Senior Welding and Materials Engineer at IRISNDT.
+
+He is the recipent of many awards and recognitions, including the University of Alberta Academic Excellence Scholarship, the Neil McEwen Memorial Graduate Scholarship in Welding (Materials) Engineering, and the U of A's Faculty of Engineering Academic Excellence Scholarship. He is also a two-time recipent of the AWS Fellowship Award and a three-time recipent of the Dean's Research Award from the U of A. 
+
+Nairn is actively involved in the American Welding Society (AWS) Technical Committee and the IIW Young Leaders Task Group. He was a past chair of AWS/CWA University of Alberta Student Chapter.
+
+
+##### Prior Degrees
+
+PhD in Materials Engineering
+
+

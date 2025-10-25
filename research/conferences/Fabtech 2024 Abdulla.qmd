@@ -1,0 +1,11 @@
+---
+title: "On demand fabrication: WAAM In Alberta's Energy Sector"
+author: "Mia Abdulla"
+date: "2024-10-17"
+description: Fabtech 2024, Orlando, Fl.
+image: https://img.youtube.com/vi/0dPo3HF-UQQ/hqdefault.jpg
+---
+
+On-demand part fabrication is of significant interest to the Albertan energy sector, particularly for its applications during shutdowns and maintenance periods. These periods are typically associated with considerable financial losses due to production halts. Unforeseen part failures can exacerbate the situation, extending downtime and increasing costs. The failure of specialty parts is especially detrimental, often leading to prolonged shutdowns due to their limited availability and extended lead times. Without rapid access to these critical components, companies risk further damage, including forced shutdowns and even greater financial repercussions. To mitigate these issues, companies are forced to pay a premium for rapid access to critical components. As the industry seeks effective strategies to address these challenges, on-demand fabrication stands out as a promising approach.
+
+{{< video https://youtu.be/0dPo3HF-UQQ >}}

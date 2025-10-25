@@ -1,0 +1,10 @@
+---
+title: Diffusible Hydrogen Clamp
+categories: [Welding]
+image: DIFH-hydrogen-clamp.jpg
+about:
+  template: solana
+  image: DIFH-hydrogen-clamp.jpg
+---
+
+Designed to be used to create weldments in accordance to ISO 3690 / AWS A4.3	Ensures results are comparable to academic and industry data obtained through the same standards.	Post-weld hydrogen levels must be beneath a threshold level to prevent hydrogen cracking.

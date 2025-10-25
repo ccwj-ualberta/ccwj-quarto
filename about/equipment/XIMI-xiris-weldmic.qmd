@@ -1,0 +1,10 @@
+---
+title: XIRIS WeldMic
+categories: [Characterization]
+image: XIMI-xiris-weldmic.jpg
+about:
+  template: solana
+  image: XIMI-xiris-weldmic.jpg
+---
+
+The Xiris WeldMic™ is a welding microphone specifically designed for integration with a Xiris weld camera. It allows fabricators to clearly hear, record, and playback welding sounds.

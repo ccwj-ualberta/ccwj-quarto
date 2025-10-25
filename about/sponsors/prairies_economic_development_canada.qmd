@@ -1,0 +1,8 @@
+---
+title: Prairies Economic Development Canada
+categories: [C:CLAD]
+image: ../../assets/about-us/sponsors-logos/WD1_PrairiesCan_Logo.png
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/WD1_PrairiesCan_Logo.png
+---

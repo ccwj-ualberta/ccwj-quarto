@@ -1,0 +1,8 @@
+---
+title: CESSCO Fabrication & Engineering Ltd.
+categories: [Welco industry chair]
+image: ../../assets/about-us/sponsors-logos/CE1_CESSCO.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/CE1_CESSCO.jpg
+---

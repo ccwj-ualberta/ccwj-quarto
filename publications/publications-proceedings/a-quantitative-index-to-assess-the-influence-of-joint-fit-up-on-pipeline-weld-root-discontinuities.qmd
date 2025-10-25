@@ -1,0 +1,6 @@
+---
+title: "A quantitative index to assess the influence of joint fit-up on pipeline weld root discontinuities"
+author: "Grams, Mitchell, Ludwig, Luke, Mendez, Patricio F"
+conference: "13th international pipeline conference"
+year: 2020
+---

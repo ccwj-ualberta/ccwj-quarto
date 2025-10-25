@@ -1,0 +1,11 @@
+---
+title: "Energy Balance in Gas Metal Arc Welding"
+author: "Núñez, V., and Mendez, P.F."
+date: "2023-10-18"
+description: CANWELD 2023, Moncton, NB.
+image: https://img.youtube.com/vi/fyBuAe0QhPM/hqdefault.jpg
+---
+
+This work allows to comprehend a part of the theory behind the droplet temperature at the Gas Metal Arc Welding (GMAW) process. The development of an energy balance on the electrode is made to understand the power at the anode and by it the droplet temperature.
+
+{{< video https://youtu.be/fyBuAe0QhPM >}}

@@ -1,0 +1,13 @@
+---
+title: Yasser Mohammad
+image: yasser-mohammad.png
+subtitle: Civil Engineering
+description: Accelerated Construction
+about:
+  template: solana
+  image: yasser-mohammad.png
+---
+
+Professor Yasser Mohamed is a Professor in the Department of Electrical and Computer Engineering at the University of Alberta and a Fellow of the IEEE and the Asia-Pacific Artificial Intelligence Association. His research focuses on power electronic converters, microgrids, renewable energy integration, and smart grid systems, with emphasis on modeling, stability, and intelligent control. He has led numerous industrial collaborations in energy systems and advanced control technologies. Professor Mohamed collaborates with the Canadian Centre for Welding and Joining on accelerated construction and energy-systems integration research, supporting innovation in digital and sustainable infrastructure.
+
+Email: [yasser2@ualberta.ca](mailto:yasser2@ualberta.ca)

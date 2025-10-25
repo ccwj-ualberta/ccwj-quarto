@@ -1,0 +1,142 @@
+---
+title: "What We Do"
+format: html
+---
+
+```{r setup}
+#| message: false
+#| warning: false
+#| echo: false
+# library(scholar)
+
+# scholar_id = get_scholar_id(
+#   last_name = "Mendez", 
+#   first_name = "Patricio", 
+#   affiliation = "University of Alberta",
+# )
+# scholar_pfl = get_profile(scholar_id)
+# pubs = get_publications(scholar_id)
+# ct = get_citation_history(scholar_id)
+
+# n_pubs = nrow(pubs)
+# n_cites = sum(ct$cites)
+# h_index = scholar_pfl$h_index
+
+n_pubs = 184
+n_cites = 3483
+h_index = 71
+```
+
+## What We Are Offering to Industry and to Students
+
+- 3018 participants networked through 61 seminars with global leaders of industry led by the CCWJ (satisfaction rate was very high at 92%).
+
+- 60 businesses and 200 participants learned about latest technologies through the CCWJ-led AMFI program.
+
+- Several participating companies disclosed investing in training and in new equipment, and were able to increase their gross margins following participation in a training session at the CCWJ.
+
+- CCWJ led trade missions for the 2009, 2013, and 2017 Schweissen & Schneiden trade show in Germany, and hosted an AB function at Fabtech 2011, 2015, 2016. Highly successful trade missions and AB function took place at Fabtech 2015 and 2016, and CanWeld Expo 2016, and similar missions are currently being prepared for 2017 Fabtech.
+
+- CCWJ hosted 3 Industry roundtables including Manufacturing for Nuclear Applications (2021, 16 participants), Alberta Industrial Manufacturing (2018, with Government of Alberta, 39 participants), Advanced Manufacturing (2018, with Western Economic Diversification, 15 participants).
+
+- Memorandum of Understanding between Germany and the Province of Alberta on an Exchange on Welding Technologies.
+
+- We hosted tours and demonstrations for the general public with 3658 participants at events such as CWA/AWS Open Labs, UofA Open House, and Engineering Expo.
+
+[Overview of Welding Programs](../teaching/courses/welding-fundamentals.qmd)
+
+::: {.highlight-row}
+::: {.highlight-row-content}
+
+## Fundamentals Research
+
+- Leading the field of technology with latest discoveries from science and equipment: membership in key committees such as IIW: Assembly National Delegate for Canada; Expert for Commission XII and SG 212; Member of IIW TMB; and AWS: A5G Subcommittee on Hard Facing Filler Metals, EC Education Committee, Higher Education.
+
+- Engineering Subcommittee, Welding R&D Committee, Standardization in Welding Modelling Committee; MaJIC Board of Directors.
+
+- Provide access to wide range of welding processes and specialized/unique analysis equipment to the industry: GMAW; GTAW; PTAW; SAW; SMAW; FSW; LBW; laser cladding; Hot-Wire; plasma cutting; high speed video; thermography; complete data acquisition; full metallography lab; hardness mapper (Rockwell, Vickers); gas chromatographer (O,N,H); Charpy / instrumented impact tester; surface profilometer; dilatometer; all levels optical and electron microscopy; ThermoCalc and COMSOL; JMatPro; Simufact Welding; TransWeld; VrWeld.
+
+- Award-winning research: more than 150 awards since 2009, including the AWS Image of Welding: Educational Facility Award (2013) and CWA and AWS fellowships.
+
+::: {layout="[33,33,33]"}
+
+::: {.box}
+`r n_pubs`+ <br>
+Publications {{< bi bar-chart-fill >}}
+:::
+
+::: {.box}
+`r n_cites`+ <br>
+Citations {{< bi chat-quote-fill >}}
+:::
+
+::: {.box}
+`r h_index` <br>
+H-index {{< bi hand-index-fill >}}
+:::
+:::
+
+:::
+:::
+
+## Programs for Students
+
+::: {.panel-tabset}
+
+### High School
+
+- We hosted 30 High School internships, and tours for 6 teachers and 454 High School students from St Joseph’s High School, J. Percy Page High School, Old Scona Academic High School, Grandview Heights School, Harry Ainlay School, Archbishop MacDonald High School, Ottewell Junior High School, and the WISEST program (since 2016), USchool program (since 2016), and TeamUP (2017).
+
+- The students learn about arc welding processes and robotics.
+- Interns benefit from contacts to industry to get internships in the industry.
+- Schools benefit from know-how and technologies that are available at CCWJ.
+- Free access to our high-speed videos for teaching.
+- Award-winning interdisciplinary projects attract young talent and expose them to welding: CCWJ outreach program has been successful in getting people, and has won a first prize in the AWS poster competition at Fabtech 2015.
+
+### Undergraduate
+
+- A total of 232, 4-month research projects with 168 individual students since 2010.
+
+- 33 summer students and 56 international visiting students since 2010.
+
+- In-depth exposure to welding with a wide range of projects from practical to theoretical through formal classroom teaching and hands-on experience in research.
+
+- Possibility to become co-authors in research publications and CWA Journal articles.
+
+- Exposure to international welding research and gaining a solid understanding of current welding technology.
+
+- Participation in exchange programs and international internships.
+
+- Guest lectures by high-profile international visitors.
+
+- Interact with industry and develop an understanding of industry needs - and get help finding industry internships / co-op placements / jobs.
+
+### Graduate
+
+Multiple streams of studies: MSc in Welding Engineering, MEng in Welding Engineering, PhD, Post-doctoral research.
+
+**Two tracks:**
+
+1. Leaders in the practical application of advanced welding processes, metallurgy, and automation.
+
+2. Leaders in the creation of new technologies in advanced welding processes, metallurgy, and automation.
+
+- Gain in-depth understanding of welding processes, science, and needs of industry.
+- Exposure to international welding research.
+    - Solid understanding of current welding technology.
+    - Hands-on welding experience.
+    - Knowledge: understanding of welding fundamentals.
+    - Resourcefulness: close familiarity with welding industry and practical considerations.
+    - Leadership: CWA student chapter executive, CWA Edmonton chapter.
+    - Flexibility: Able to discriminate important from secondary, myths from truth.
+    - Communication: Open and clear discussion of ideas with the whole spectrum of welding professionals.
+    - Team players: collaboration with international researchers and teamwork in the group.
+    - Exposure: attend trade shows (Fabtech, GPS, etc.) and conferences (e.g. CanWeld, IIW).
+
+:::
+
+### CCWJ has a strong focus on Equity, Diversity, and Inclusivity
+
+The CCWJ is a culturally diverse institution, with up to 13 different nationalities and numerous languages present. We actively and successfully focus on providing an equitable, diverse, and inclusive environment, and support our students in thriving as a lab member, and finding a career in engineering, science, and the welding industry. This support takes place on several levels: on a secondary school level we maintain an outreach program to local high-schools on both the applied (St. Joseph’s High School) and the theoretical side (Old Scona), which exposes students to welding and engineering and encourages them to consider a career in this area. We also participate in the WISEST program and we have hosted four female interns and three female summer students. When the economic downturn in Alberta made it difficult to find employment in welding for one of the female welding apprentices who worked with our lab, we used our contacts to industry and research to ensure she finds welding-related employment that allows her to build her resume, expand her experiences, and join the welding community as a successful professional.
+
+We recognize that we are still facing challenges to improve our numbers of female students and indigenous students, and we are making active efforts and seek ongoing feedback on the effectiveness of these efforts. Faculty, staff, and students regularly attend workshops to ensure that the lab environment is inclusive and welcoming to everybody, and regularly engage external resources to adjust our strategies.

@@ -1,0 +1,10 @@
+---
+title: Yaskawa Motoman Robot
+categories: [Welding]
+image: YASK-yaskawa-motoman-robot.jpg
+about:
+  template: solana
+  image: YASK-yaskawa-motoman-robot.jpg
+---
+
+The Yaskawa Motoman MC Series robot is a high-speed robot designed with high rigidity and precision drives. It provides superior path accuracy and is used for laser cutting, laser welding, plasma cutting, and dispensing applications.

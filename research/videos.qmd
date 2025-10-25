@@ -1,0 +1,15 @@
+---
+title: "Video Resources"
+toc: true
+listing: 
+  contents: videos
+  type: grid
+  grid-columns: 3
+  page-size: 9
+  image-height: 250px
+  fields: [title, image, categories]
+  categories: numbered
+  sort: [categories]
+  filter-ui: true
+page-layout: full
+---

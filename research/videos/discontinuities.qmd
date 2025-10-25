@@ -1,0 +1,9 @@
+---
+title: Humping Welding Phenomena Produced by Pulsed High Current GTAW of Steel 100Ar
+image: https://img.youtube.com/vi/tJwr9MjKBVo/hqdefault.jpg
+categories: [Welding discontinuities]
+---
+
+High speed video of high current GTAW that produces a local gouging condition. This can occur in high productivity GTAW, and produces periodically displaced weld material adjacent to the bead, otherwise known as humping.
+
+{{< video https://youtu.be/tJwr9MjKBVo?list=PL38954225764CCB92 >}}

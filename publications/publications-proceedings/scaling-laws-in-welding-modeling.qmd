@@ -1,0 +1,6 @@
+---
+title: "Scaling laws in welding modeling"
+author: "Mendez, P. F."
+conference: "Trends in welding research"
+year: 2005
+---

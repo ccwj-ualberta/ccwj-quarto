@@ -1,0 +1,6 @@
+---
+title: "DOE/BES work at the MIT welding laboratory"
+author: "Mendez, P. F."
+conference: "Department of energy, basic energy sciences review meeting"
+year: 2000
+---

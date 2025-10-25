@@ -1,0 +1,13 @@
+---
+title: Bita Fallahi
+image: bita-fallahi.png
+subtitle: Electrical Engineering
+description: Industrial Robotics
+about:
+  template: solana
+  image: bita-fallahi.png
+---
+
+Professor Bita Fallahi is an Assistant Professor in the Department of Electrical & Computer Engineering at the University of Alberta. Her work lies at the intersection of biomedical engineering and control systems, with a special focus on magnetically actuated continuum robots and robot-assisted medical procedures. She earned her BSc and MSc in Electrical Engineering from K.N. Toosi University of Technology and now leads projects in image-guided needle steering and control of medical robots.
+
+Email: [fallahi@ualberta.ca](mailto:fallahi@ualberta.ca)

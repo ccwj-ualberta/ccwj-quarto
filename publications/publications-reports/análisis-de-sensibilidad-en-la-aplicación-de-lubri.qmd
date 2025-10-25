@@ -1,0 +1,6 @@
+---
+title: "Análisis de sensibilidad en la aplicación de lubricantes para forja (sensitivity study of the application of forging lubricants)"
+author: "Mendez, P. F., Pochtaruk, M., Herrera, R."
+institution: "FUDETEC"
+year: 1992
+---

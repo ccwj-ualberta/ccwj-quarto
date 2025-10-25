@@ -1,0 +1,6 @@
+---
+title: "Independence of parameters in a dimensional or non-dimensional set"
+author: "Mendez, P. F."
+institution: "Massachusetts Institute of Technology"
+year: 1998
+---

@@ -1,0 +1,10 @@
+---
+title: 'Physical phenomena in the weld zone of submerged arc Welding—A review'
+year: 2019
+author: 'Sengupta, V, Havrylov, D, Mendez, PF'
+doi: NA
+journ: 'Welding Journal'
+volume: 98
+number: 10
+pages: '283S-313S'
+---

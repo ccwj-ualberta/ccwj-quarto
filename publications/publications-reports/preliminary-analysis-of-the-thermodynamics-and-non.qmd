@@ -1,0 +1,6 @@
+---
+title: "Preliminary analysis of the thermodynamics and non-equilibrium solidification of weld material for X80 tube"
+author: "Mendez, P. F."
+institution: "Colorado School of Mines"
+year: 2006
+---

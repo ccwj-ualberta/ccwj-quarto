@@ -1,0 +1,17 @@
+---
+title: Francisco Basaure
+image: FB1 - Francisco Javier Basaure Figueroa.jpg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: FB1 - Francisco Javier Basaure Figueroa.jpg
+  links:
+    - icon: email
+      text: basauref@ualberta.ca
+      href: mailto:basauref@ualberta.ca
+---
+
+Country of Origin: Chile via ELAP  
+Affiliated Institution: Universidad de Chile, Santiago, Chile  
+Project: Deep learning use for droplet movement prediction using high speed cameras

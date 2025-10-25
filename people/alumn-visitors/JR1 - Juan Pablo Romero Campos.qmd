@@ -1,0 +1,17 @@
+---
+title: Juan Pablo Romero Campos
+image: JR1 - Juan Pablo Romero Campos.jpg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: JR1 - Juan Pablo Romero Campos.jpg
+  links:
+    - icon: email
+      text: jromeroc@ualberta.ca
+      href: mailto:jromeroc@ualberta.ca
+---
+
+Country of Origin: Chile via Canada Chile Leadership Exchange  
+Affiliated Institution: Universidad de Chile, Santiago, Chile  
+Project: Detection of weld defect using deep learning method

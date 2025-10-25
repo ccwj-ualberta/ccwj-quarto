@@ -1,0 +1,289 @@
+---
+title: "About Us"
+---
+
+```{=html}
+<style>
+.chart-container {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.chart-container.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Hide charts initially to prevent the first draw */
+.chart-container .html-widget {
+  visibility: hidden;
+}
+
+.chart-container.visible .html-widget {
+  visibility: visible;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Wait for echarts4r to initialize
+  setTimeout(function() {
+    setupChartAnimation();
+  }, 1000);
+});
+
+function setupChartAnimation() {
+  const observeCharts = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        
+        // echarts container
+        const echartsDiv = entry.target.querySelector('div[id^="htmlwidget-"]') || 
+                          entry.target.querySelector('.echarts4r') ||
+                          entry.target.querySelector('.html-widget');
+        
+        if (echartsDiv) {
+          const chart = echarts.getInstanceByDom(echartsDiv);
+          if (chart) {
+            // Clear the chart and redraw with animation after the container becomes visible
+            setTimeout(() => {
+              const currentOption = chart.getOption();
+              chart.clear();
+              
+              // Re-set the option with animation enabled
+              chart.setOption(currentOption, {
+                notMerge: true,
+                lazyUpdate: false,
+                silent: false
+              });
+            }, 10); // Delay to ensure visibility transition has started
+          }
+        }
+        
+        // Only animate once
+        observeCharts.unobserve(entry.target);
+      }
+    });
+  }, { 
+    threshold: 0.1,
+    rootMargin: '0px 0px -20px 0px'
+  });
+
+  // Initially hide all charts and set up observation
+  document.querySelectorAll('.chart-container').forEach(el => {
+    const echartsDiv = el.querySelector('div[id^="htmlwidget-"]') || 
+                      el.querySelector('.echarts4r') ||
+                      el.querySelector('.html-widget');
+    
+    if (echartsDiv) {
+      const chart = echarts.getInstanceByDom(echartsDiv);
+      if (chart) {
+        // Disable initial animation by clearing and redrawing without animation
+        const currentOption = chart.getOption();
+        chart.clear();
+        chart.setOption(currentOption, {
+          notMerge: true,
+          lazyUpdate: false,
+          silent: true // Disable animation for initial draw
+        });
+      }
+    }
+    
+    observeCharts.observe(el);
+  });
+}
+</script>
+```
+
+## <i class="bi bi-building"></i> Our Research Centre
+
+::: {.grid}
+
+::: {.g-col-7}
+The Canadian Centre for Welding and Joining (CCWJ) is one of the world's largest university initiatives in welding with a global reputation reflected in multiple awards, such as the “Image of Welding Award” awarded by the American Welding Society as a leading education institution in 2013.
+
+The CCWJ’s $5.5M facility houses all forms of arc welding, a 9 kW laser, and several robots. Diagnostic tools include high speed cameras, laser lighting, a specialized thermal camera, wavelength spectrometer, and data acquisition. Characterization capabilities include hardness mapping, surface profilometry, instrumented impact, hydrogen, oxygen, and nitrogen testing, dilatometry, and metallography. Centralized facilities at the UofA also provide access to high end electron microscopy and composition analysis tools. Tools of analysis at the CCWJ include latest generation weld modeling software such as VRWeld, Simufact, and Transweld, and general purpose modeling software such as Comsol and Matlab.
+:::
+
+::: {.g-col-5}
+![](IMG_1701.JPG){fig-alt="The CCWJ research facility." .lightbox}
+:::
+
+:::
+
+::: {.text-center .mt-3}
+[Learn More About Our Research](../research/research.qmd){.btn .btn-primary .btn-lg}
+[Visit Our Lab](../about/lab.qmd){.btn .btn-outline-secondary .btn-lg}
+:::
+
+
+
+
+## <i class="bi bi-award"></i> Weldco/Industry Chair in Welding and Joining
+
+![](weldo-photo-grid-alpha.png){width="100%"}
+
+The Weldco/Industry Endowment was signed in 2008 with the goal to establish the Canadian Centre for Welding and Joining through a series of gifts from key industrial partners. Contributing companies include Weldco-Beales Manufacturing, Metal Fabricators & Welding Inc., Canadian Welding Bureau (CWB Group), Acklands Grainger Inc., CESSCO Fabrication & Engineering Ltd., Syncrude, Suncor, Lincoln Electric, and Miller/Hobart (ITW). The $1.73M endowment was matched in contributions by the University of Alberta in the form of space and renovations. As the endowment continues to grow, it ensures the operation of the CCWJ, and contributes to educating new leaders in the welding community, and provides numerous professional development opportunities for industry professionals.
+
+
+
+
+## <i class="bi bi-clock-history"></i> CCWJ Timeline
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-marker}
+**2008**
+:::
+::: {.timeline-content}
+**Weldco/Industry Chair created**  
+Foundation established through industry partnership and endowment commitment
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-marker}
+**2009**
+:::
+::: {.timeline-content}
+**Prof. Patricio Mendez joins as inaugural Chair**  
+After worldwide search, bringing international expertise to Alberta
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-marker}
+**2010**
+:::
+::: {.timeline-content}
+**CCWJ Laboratory opens** <i class="bi bi-calendar-date"></i> *May 5*  
+$5.5M facility launches with Lincoln Electric and Miller Electric equipment contributions
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-marker}
+**2011**
+:::
+::: {.timeline-content}
+**AMFI partnership launches** <i class="bi bi-rocket"></i>  
+Alberta Metal Fabrication Innovation program created with Alberta Innovates
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-marker}
+**2013**
+:::
+::: {.timeline-content}
+**AWS "Image of Welding Award"** <i class="bi bi-award"></i>  
+Global recognition as leading welding education institution
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-marker}
+**2018**
+:::
+::: {.timeline-content}
+**NSERC Discovery grant funding** <i class="bi bi-cash-stack"></i>  
+Discovery of Governing Laws in Real Multiphysics, Multicoupled Systems in Materials Processing
+:::
+:::
+
+::: {.timeline-item .highlight}
+::: {.timeline-marker}
+**2022**
+:::
+::: {.timeline-content}
+**C:CLAD initiative announced** <i class="bi bi-globe"></i>  
+Pan-Canadian advanced manufacturing cluster launches
+:::
+:::
+:::
+
+
+
+
+## <i class="bi bi-graph-up-arrow"></i> Research Funding
+
+The CCWJ has been very successful in securing competitive research funding from national and international agencies. Since 2010, the CCWJ has secured over $6M in competitive research funding, including NSERC Discovery Grants, CFI grants, and Alberta Innovates grants.
+
+::: {.highlight-row-gray}
+::: {.highlight-row-content}
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| class: chart-container
+#| fig-width: 12
+#| fig-height: 4
+library(here)
+source(here("about/grants-plot.R"))
+p_grants
+```
+:::
+:::
+
+<br>
+
+::: {.highlight-row}
+::: {.highlight-row-content}
+
+## <i class="bi bi-people"></i> Working with Industry
+
+![](cobot2.jpeg){fig-alt="Cobot welding equipment." .lightbox .industry-banner}
+
+The CCWJ has a long track record of working with industry. All the projects are industry oriented, and nearly all are funded by industry. Distinguishing traits of the CCWJ are the highly selected students, world-class facilities, ability to use fundamentals concepts to explain observable phenomena, and a culture of collaboration. The Weldco/Industry Chair in Welding and Joining was created in 2007 at the request and with the support of industry. After a worldwide search, Prof. Patricio Mendez came to the University of Alberta in 2009 as the inaugural Chair. The CCWJ Laboratory opened on May 5, 2010 with significant contributions of equipment from Lincoln Electric and Miller Electric. The Alberta Metal Fabrication Innovation program (AMFI) was created on Jan 1, 2011 in partnership between the Canadian Centre for Welding and Joining and Alberta Innovates, with support from Western Economic Diversification and the Government of Alberta.
+
+ AMFI is a unique company development opportunity designed specifically for the Alberta metal manufacturing and fabrication sector. The Program provides innovation and improvement opportunities for sector companies and stakeholders. Participants gain access to both production and business enhancement expertise, developed and provided by some of Alberta’s top research, technology development and process improvement institutions. In 2018, the CCWJ received over $1M from Western Economic Diversification to launch a project in advanced manufacturing system capable of performing automated repairs together with several industry partners, and contributions support from KUKA Canada and Octopuz. 
+
+:::
+:::
+
+
+
+## [Canadian Cluster for Laser and ADvanced Manufacturing (C:CLAD)](cclad.qmd)
+
+::: {layout="[75, 25]"}
+
+The [newest initiative](https://www.canada.ca/en/prairies-economic-development/news/2024/08/minister-boissonnault-announces-federal-investments-to-commercialize-innovative-alberta-technologies.html) is the Canadian Cluster for Laser and ADvanced Manufacturing (C:CLAD), a pan-Canadian initiative with numerous industry partners and international collaborators. C:CLAD will combine resources to market Alberta as a region of excellence, and make it a global destination for advanced manufacturing including laser cladding, laser heat treatment, plasma-transferred arc, and advanced automation / digital technologies, servicing industries including oil and gas, mining, agriculture, aerospace, renewable energy, nuclear, and heavy machinery.
+
+![](https://ised-isde.canada.ca/site/global-innovation-clusters/sites/default/files/img/manufacturing.png){width="160px" fig-align="center"}
+
+:::
+
+
+
+
+
+
+## <i class="bi bi-globe"></i> [Collaborations](collaborations.qmd)
+
+::: {.highlight-row-gray}
+::: {.highlight-row-content}
+
+The CCWJ actively engages in interdisciplinary collaborations across the University of Alberta, extending its impact well beyond traditional manufacturing and construction. By partnering with experts in diverse fields such as healthcare, entrepreneurship, and robotics and AI, the Centre drives itself to share the broad applicability and far-reaching potential of its research and expertise.
+
+[![](collaboration2.jpeg){fig-alt="Collaboration in the CCWJ lab."  fig-align="center" height="400px" .lightbox}](collaborations.qmd)
+
+:::
+:::
+
+
+
+
+## University of Alberta AWS/CWBA Student Chapter
+
+::: {layout="[70, 30]"}
+
+[The University of Alberta AWS/CWBA Student Chapter](https://www.instagram.com/cwba_aws_uofa) is a group of local and international students that are dedicated to aid industry's continuous development and application of welding. Founded by the CCWJ, we are Canada’s first AWS and CWBA student chapter, and we have maintained a strong relationship with the AWS and CWBA for over a decade. Since its inception, the student chapter has been actively organizing and hosting events including an annual seminar with world renowned speakers, open welding labs for the university, technical talks, CCWJ facility tours, and seminars. For over a decade, we have fostered a rich and diverse environment around welding in academia and industry, and have self-funded our students' attendance of international welding conferences.
+
+[![](../assets/photos/student-chapter/6.jpeg){.lightbox}](https://www.instagram.com/cwba_aws_uofa)
+
+:::
+

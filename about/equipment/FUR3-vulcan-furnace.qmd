@@ -1,0 +1,10 @@
+---
+title: Vulcan 3-550 Furnace
+categories: [Characterization]
+image: FUR3-vulcan-furnace.jpg
+about:
+  template: solana
+  image: FUR3-vulcan-furnace.jpg
+---
+
+Used to heat up materials until 1100°C to study the behavior of them at different temperatures. It complies with ASTM D36174. Useful to study heating curves and dilation of materials. Small scale furnace to characterize materials under different temperatures regimens

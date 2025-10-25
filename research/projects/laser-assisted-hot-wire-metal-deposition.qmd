@@ -1,0 +1,16 @@
+---
+title: "A novel laser-assisted hot-wire metal deposition technique for extreme applications"
+subtitle: Group Six Technologies, NSERC
+date: "2019-06-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
+categories: [Numerical Modelling, Welding Automation]
+---
+
+One of the most promising areas in manufacturing is what is called “advanced manufacturing,” which commonly refers to the new possibilities offered by lasers and additive manufacturing processes. While this technology is well-established in polymers (“3D printing”), applying this technique to metals brings challenges that significantly affect the feasibility on an industrial scale in manufacturing.
+
+This project focuses on a specific subset of the area of additive manufacturing, and targets the repair of parts that have been worn out in extreme applications. Such applications include the resource-based industries that experience extreme abrasion in hard-rock mining and oilsands extraction, extreme high-speed wood cutting, and the manufacturing of composites for the aerospace industry, including hot-stages of thrust-vectoring nozzles. The repair welds that take a worn part and bring it back to its original shape have been demonstrated to be very effective, as they can improve the material properties beyond those of the original part, while also reducing the environmental impact.
+
+Two main technologies are used in this approach, one involving the deposition of layers (e.g. laser cladding), and another the buildup of 3D structures (e.g. additive manufacturing). However, as each part is unique, the process of making such repairs is currently labour intense, and new processes for 3D scanning and programming the welds are necessary to make the technology economically feasible for more industries.
+
+The project will develop novel techniques and processes to scan, program, and weld such parts. The complexities of the project stem from the required combination of part localization, identification and quantification of the damaged part with robust 3D reconstruction and comparison using 3D point-cloud data information, and the tool path planning based on the material behavior. The intrinsic properties of metals during the deposition process results in material transformations and residual stresses throughout the newly deposited material, which require a thorough investigation, and need to be taken into consideration in the toolpath planning. The goal is to create an automated system with Industry 4.0 capabilities that controls the process parameters (laser power, speed, and trajectories) to obtain optimal procedures and properties. Furthermore, the latest generation wear resistant alloys based on Inconel and tungsten carbide technology will be tested and evaluated to further improve material properties. The target industries include manufacturing and the whole range of resource-based industries (e.g. mining, agriculture, forestry, oil & gas).

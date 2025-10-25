@@ -1,0 +1,187 @@
+---
+title: "CHE 314 - Heat Transfer"
+author: "Professor Patricio Mendez"
+image: heat-transfer.png
+date: "2025"
+date-format: YYYY
+format:
+  html:
+    toc-expand: 3
+    link-external-icon: true
+    link-external-new-tab: true
+    page-layout: full
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Introduction
+
+Welcome to ChE 314: Heat Transfer! This is an extremely important
+component of all branches of engineering. Heat transfer is the bridge
+between the basic concepts of physics you have learned in earlier years
+and advanced machinery of all type you will see in the rest of your
+education and practice as an engineer.
+
+Heat Transfer is at the core of welding. This course includes the
+fundamental principles that can be used to scientifically understand the
+welding processes, including the principles of conduction, convection
+and radiation heat transfer. The course includes design and performance
+analysis of thermal systems based on these principles, which apply to a
+wide range of engineering applications and disciplines.
+
+After completing this course, you will be able to make sense of systems,
+equipment, and machines that people without your education cannot easily
+grasp. You will understand the laws of nature behind heating, cooling,
+and transport of thermal energy. You will be able to tackle problems you
+have never seen before based on your general understanding and you will
+be able to understand the design of heat exchangers.
+
+::: callout-note
+### Syllabus
+[Syllabus (2025)](https://drive.google.com/file/d/1Md-Fw7A2SGN8vYvlN3qsS-2tB4XhtTmn/view?usp=sharing)
+:::
+
+## Lecture series (2021)
+
+{{< video https://youtu.be/hqXmFBIFtAI?list=PLq-4Q87XIqZExUyjrnVcCjQF2GyRtmPcB >}}
+
+## Course materials
+
+:::: {.columns}
+::: {.column width="50%"}
+Energy balances
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/1kqZn3LlrtDRHjCYGMbmXxcwMjDt-Ed2d/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Heat transfer mechanisms
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/1w2530bbSXY3JEnK60Rd2IizD_H_s5L95/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Lumped capacitance
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/1kMlaVCf2mxZvRLIceaJwoxmOCGL9v1si/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Differential control volumes
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/1dohnIr82t0wNv5EwdCsDI1eEi-dpT2fm/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+1D Conduction steady-state-Thermal resistance
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/1GbVUmIDr1r239qWkYg-Y1X2e0OhzXzm9/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Steady-state conduction beyond 1D
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/1hmx5PGv2onSKlWuwZbtg9ZIv8fNZ7ao2/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Transient conduction-Semi-infinite solid 
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/1J1Wt6b4-YNSAczevJTsyFrB_pPMtRGPx/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+External flows-Boundary Layer
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/1T6XJJOIDTEKPQxJQY_RXUVn2ldgZJOH-/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Internal flows
+:::
+::: {.column width="50%"}
+[Slides](https://drive.google.com/file/d/1pNs7chKcwbTeMnfBI0SOf2C-qZ649nuC/view?usp=sharing)
+[Handout](https://drive.google.com/file/d/16eHfYJ3Y3wolAnFWyOLsqU8qilvF9mYs/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Natural convection
+:::
+::: {.column width="50%"}
+[Slides](https://drive.google.com/file/d/1lVue1z7Cbh6DsQgJsNgYjlXaZLMcYYWh/view?usp=sharing)
+[Handout](https://drive.google.com/file/d/1wdimXvHSuBUL4gYKgvcDfaKUVDNsSdp9/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Boiling and condensation 
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/1HLp38VTQL0xslCRBsxdQ0-PORt1wmR-k/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Heat exchangers
+:::
+::: {.column width="50%"}
+[Handout](https://drive.google.com/file/d/11vDy9a4QtN8ibDuO6vKVd6YP0zY5D4kG/view?usp=sharing)
+:::
+::::
+----
+
+:::: {.columns}
+::: {.column width="50%"}
+Radiation
+:::
+::: {.column width="50%"}
+[View factors cylinders](https://drive.google.com/file/d/1FPMzc-f7m2VOkzXuv7B8vKNBrh4ni1yR/view?usp=sharing)
+
+[Example 13.3](https://drive.google.com/file/d/1118cGUZO9mlKHy9CRCG_QLKzQ-HnK9Wm/view?usp=sharing)
+
+[General view factors](https://drive.google.com/file/d/190HUQohczAWoofPzJfiti1zxQ2LRG_uL/view?usp=sharing)
+
+[Handout](https://drive.google.com/file/d/1B0rbM-a96KNQT9v9hePBnRnhxg7vV3Hv/view?usp=sharing)
+:::
+::::
+----

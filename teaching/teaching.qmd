@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+page-layout: full
+listing: 
+  id: course-listings
+  contents: courses
+  type: default
+  fields: [title, date, description, image]
+  max-description-length: 400
+  date-format: YYYY
+  sort: "date desc"
+---
+
+Welcome to the courses associated with the CCWJ! Here you will find the complete set of notes, past exams, and also videos of the lectures. In all cases we strive to connect the fundamental laws of nature to what we observe in engineering applications.
+
+The Fundamentals of Welding Engineering course covers most of the engineering associated with welding, including the variety of welding processes, metallurgy, energy balances, thermal fields, residual stresses, distortion, and NDT. Much of this course is based on current understanding drawn from research from our lab and worldwide.
+
+The Heat Transfer course follows a systematic buildup of concepts including energy balances, heat transfer mechanisms, steady and transient conduction, convection, heat exchangers, and radiation. The emphasis given to energy balances and to the role of advection is not always found in standard textbooks.
+
+We hope this material is useful to you. Please let us know if you spot errors, inconsistencies, or anything else that can be improved.
+
+::: {#course-listings}
+:::

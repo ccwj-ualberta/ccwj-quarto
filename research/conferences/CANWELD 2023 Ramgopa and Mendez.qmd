@@ -1,0 +1,11 @@
+---
+title: "Deposition rate in GMAW of ER1100 and ER5183 Aluminum Alloys"
+author: "Ramgopal, R., and Mendez. P.F."
+date: "2023-10-18"
+description: CANWELD 2023, Moncton, NB.
+image: https://img.youtube.com/vi/s1AHqsDOexM/hqdefault.jpg
+---
+
+The reason behind the higher deposition rate in Mg-containing aluminum alloys in gas metal arc welding (GMAW) is explored. Experiments performed on ER1100 (Mg-free alloy) and ER5183 (high Mg alloys) measured current, wire feed speed, and droplet temperature. A non-linear analysis of Joule heating at the electrode extension and an analysis of the power needed to heat the consumable to the droplet temperature were performed. Analysis revealed that Joule heating is two orders of magnitude smaller than what was necessary for the higher wire feed speed. The droplet temperature measurements were done for the first time for both consumables under identical conditions, which revealed that ER5183 had a lower droplet temperature than ER1100 by almost 350 K. The higher deposition rate in Mg-containing alloys is more likely due to the lower droplet temperature than to the increased resistivity of the alloys.
+
+{{< video https://youtu.be/s1AHqsDOexM >}}

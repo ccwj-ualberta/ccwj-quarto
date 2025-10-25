@@ -1,0 +1,10 @@
+---
+title: 'Scaling laws in the welding arc'
+year: 2002
+author: 'Mendez, PF, Ramirez, MA, Trapaga, G, Eagar, TW'
+doi: NA
+journ: 'Mathematical Modelling of Weld Phenomena'
+volume: 6
+number: NA
+pages: 'NA'
+---

@@ -1,0 +1,6 @@
+---
+title: "A scaling approach to weld procedure development"
+author: "Wood, Gentry, Islam, Shahrukh, Mendez, Patricio F."
+conference: "Fabtech/AWS annual meeting"
+year: 2014
+---

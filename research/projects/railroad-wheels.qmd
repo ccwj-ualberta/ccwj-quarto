@@ -1,0 +1,10 @@
+---
+title: "Developing an innovative, cost and quality advantageous approach to manufacturing and repair railroad wheels"
+subtitle: Amsted Rail, Apollo Clad, NSERC
+date: "2020-01-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-alliance.png
+categories: [Welding Automation, Metallurgy]
+---
+
+The goals of this partnership are to investigate the use of plasma transfer arc welding (PTAW) and laser cladding to make composite and functionally graded railroad wheels. A secondary goal is to explore the use of PTAW and laser cladding to repair railroad wheels. The expected outcome of this partnership is an innovative type of railroad wheel that has never existed in two centuries of railroad. An expected secondary outcome is the repair of wheels that are currently discarded once the allowance for machining have been reached. Repairs will bring significant economic and environmental savings.

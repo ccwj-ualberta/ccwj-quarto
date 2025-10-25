@@ -1,0 +1,6 @@
+---
+title: "Dynamic behavior of gas metal arc welding"
+author: "Jones, L. A., Mendez, P. F., Weiss, D., Eagar, T. W."
+conference: "9th annual conference on iron and steel technology"
+year: 1997
+---

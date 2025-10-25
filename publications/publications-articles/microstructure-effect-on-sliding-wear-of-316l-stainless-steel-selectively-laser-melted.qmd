@@ -1,0 +1,10 @@
+---
+title: 'Microstructure effect on sliding wear of 316L stainless steel selectively laser melted'
+year: 2024
+author: 'Barrionuevo, Germán Omar, Walczak, Magdalena, Ramos-Grez, Jorge, Mendez, Patricio, Debut, Alexis'
+doi: https://doi.org/10.1177/02670836231217393
+journ: 'Materials Science and Technology'
+volume: 40
+number: 6
+pages: '466-478'
+---

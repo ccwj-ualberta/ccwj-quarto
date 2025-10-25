@@ -1,0 +1,8 @@
+---
+title: Canadian Foundation for Innovation
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/CF1_CFI.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/CF1_CFI.jpg
+---

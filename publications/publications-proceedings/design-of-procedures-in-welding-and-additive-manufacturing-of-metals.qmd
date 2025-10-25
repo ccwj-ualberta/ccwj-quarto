@@ -1,0 +1,6 @@
+---
+title: "Design of procedures in welding and additive manufacturing of metals"
+author: "Mendez, P. F."
+conference: "AWS annual meeting"
+year: 2021
+---

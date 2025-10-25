@@ -1,0 +1,18 @@
+---
+title: Nathaniel Schurek
+image: NS1 - Nathaniel Schurek.JPG
+subtitle: Electrical Engineering
+priority: 1
+about:
+  template: trestles
+  image: NS1 - Nathaniel Schurek.JPG
+  links:
+    - icon: email
+      text: nschurek@ualberta.ca
+      href: mailto:nschurek@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/nathaniel-schurek-33nuofa1823
+---
+
+Project: Development of a responsive stand-off welding device for high-frequency electric resistance welding

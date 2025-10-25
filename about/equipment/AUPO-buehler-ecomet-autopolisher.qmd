@@ -1,0 +1,10 @@
+---
+title: Buehler EcoMet Autopolisher
+categories: [Characterization]
+image: AUPO-buehler-ecomet-autopolisher.png
+about:
+  template: solana
+  image: AUPO-buehler-ecomet-autopolisher.png
+---
+
+Semiautomatic machine used for routine grinding and polishing. With this machine it is possible to obtain a perfectly smooth, deformation free surface, which is required to observe the true microstructure. The microstructure observation is necessary for analysis, both qualitative and quantitative, and is usually a quality assurance for industry.

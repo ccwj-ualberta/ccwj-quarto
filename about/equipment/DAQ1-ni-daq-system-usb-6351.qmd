@@ -1,0 +1,10 @@
+---
+title: NI DAQ System USB-6351 #1
+categories: [Characterization]
+image: DAQ1-ni-daq-system-usb-6351.jpg
+about:
+  template: solana
+  image: DAQ1-ni-daq-system-usb-6351.jpg
+---
+
+As a multi-functional I/O device, this allows users to process signal data. With a variety of analog and digital inputs/outputs, it enables users to simplify measurements or even automate aspects of testing.	It's multifunctionality makes it useful anywhere advanced signal processing is required.

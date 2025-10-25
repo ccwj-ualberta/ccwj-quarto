@@ -1,0 +1,6 @@
+---
+title: "The Joy of Welding, and why it is much deeper than it seems"
+author: "Mendez, P. F."
+conference: "Materials engineering technical society (METS)"
+year: 2013
+---

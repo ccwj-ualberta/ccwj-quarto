@@ -1,0 +1,31 @@
+---
+title: Gentry Wood
+image: GW1 - Gentry Wood.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: GW1 - Gentry Wood.jpg
+  links:
+    - icon: email
+      text: gentry.wood@apollomachine.com
+      href: mailto:gentry.wood@apollomachine.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gentry-wood-4a542434/
+---
+
+Dr. Gentry Wood started at the CCWJ in the fall of 2011 working on a Dean’s Research Award (DRA) project on nickel tungsten carbide welding consumables. Having completed 4 projects over 4 semesters, Dr. Wood joined the CCWJ as a Ph.D. candidate straight from the undergraduate program, graduating in 2017. He was also Chair for the University of Alberta AWS/CWBA Student Chapter. Gentry's thesis aimed to predict the geometry of coatings applied using state of the art laser technology. His work has served as the foundation of understanding that the sponsor company, Apollo-Clad Laser Cladding (a Division of Apollo Machine & Welding Ltd), and has been used to maximize efficiency of their processes and to develop industrial scale additive manufacturing technologies in Alberta. 
+
+Today, Dr. Wood works at Apollo-Clad Laser Cladding as their production engineering manager after working on the team as a Research and Development Engineer from 2017 - 2024. He is leading several projects on applying the results of his Ph.D. thesis to bring additive manufacturing technology to Alberta on a commercial scale.
+
+He has generated over 2.5 million dollars in funding for the CCWJ and for Apollo-Clad, and has been able to
+give back by supervising 18 students as part of the DRA program.
+
+
+
+##### Prior Degrees
+
+PhD in Materials Engineering, University of Alberta, 2017
+
+BSc in Materials Engineering, University of Alberta, 2012

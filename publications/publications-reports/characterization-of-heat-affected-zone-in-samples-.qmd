@@ -1,0 +1,6 @@
+---
+title: "Characterization of heat affected zone in samples E1 through E6 from TAMSA tubing weld joints"
+author: "Madeni, Juan Carlos, Lopetegi, Miren, Mendez, Patricio F., Liu, Stephen"
+institution: "Colorado School of Mines"
+year: 2006
+---

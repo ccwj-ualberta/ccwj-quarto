@@ -1,0 +1,18 @@
+---
+title: "Discovery of Governing Laws in Real Multiphysics, Multicoupled Systems in Materials Processing"
+subtitle: NSERC
+date: "2018-04-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
+categories: [Physics of Welding, Welding Automation]
+---
+
+The proposed program will bridge fundamental concepts with manufacturing applications and will also bridge academic HQP with industrial counterparts. As done in previous years, the HQP and beneficiaries from this work will represent the diverse composition of Canadian society.
+
+Materials processing, and its application to manufacturing involves people from all walks of life, united by the common thread of a final product. In welding, the fundamental aspects require understanding of heat transfer, fluid flow, electromagnetics, plasmas, metallurgy, and solid mechanics (all are areas in which the PI has an established track record). The HQP involved in this discovery program will master these concepts, and bring them to industry as future employees, as products, or through knowledge transfer.
+
+The people closest to the applications are the welders and welding technologists, with a high proportion of indigenous, women, and visible minorities. The PI has hosted welders, welding students, and other interested members of society as part of the previous discovery proposal. During these visits, the HQP learned how to communicate their learning and findings, and the non-academic members of the project learned the "why" behind many of their practical observations. Perhaps most importantly, barriers and prejudices were replaced by appreciation of complimentary approaches to the same end; in this example, welding of real components.
+
+The academic aspect of the proposed program will further the significant theoretical and experimental progress made in the previous Discovery grant, which have been published and received prestigious international awards. The methodologies developed will be of direct help in relating processing, structure, and properties to each other at a quantitative level, with an emphasis on welding, but also including other materials processes such as casting, and metalworking (hot or cold forging, rolling, etc.).
+
+Activities in this program will use deep mathematical concepts and a thorough understanding of physics of materials processes to produce reliable guidelines and heuristics that can be used by practitioners in industry and by other researchers. The education objective of this program is to expose future HQP to real-life processes that are very difficult to idealize, and to teach them to distill the essential features of these processes to make quantitative predictions. Beyond the traditional transmission of knowledge through peer-reviewed publications and the classroom, current efforts will be maintained to disseminate learning using the internet by uploading videos and raw data, and social media. The methodologies to be employed are a combination of mathematical modeling and experimental measurements to generate general design rules from fundamental principles. The PI already counts with all necessary software, experimental facilities, and theoretical foundation to develop and bring to practice the methodologies proposed.

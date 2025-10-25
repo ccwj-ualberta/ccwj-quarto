@@ -1,0 +1,20 @@
+---
+title: Dhruv Grover
+image: DG1 - Dhruv Grover.jpeg
+subtitle: Chemical Engineering
+priority: 1
+about:
+  template: trestles
+  image: DG1 - Dhruv Grover.jpeg
+  links:
+    - icon: email
+      text: dgrover1@ualberta.ca
+      href: mailto:dgrover1@ualberta.ca
+    - icon: linkedin
+      text: dhruv-grover-8329481a1
+      href: linkedin.com/in/dhruv-grover-8329481a1
+---
+
+Country of Origin: India via the MITACS program  
+Affiliated Institution: Indian Institute of Technology (IIT) Roorkee, India  
+Project: Artificial Intelligence and TensorFlow for High Speed Video Analysis

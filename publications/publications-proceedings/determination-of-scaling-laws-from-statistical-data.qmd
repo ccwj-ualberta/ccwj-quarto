@@ -1,0 +1,6 @@
+---
+title: "Determination of scaling laws from statistical data"
+author: "Mendez, Patricio F., Ordonez, F."
+conference: "Fifth international workshop on similarity methods"
+year: 2002
+---

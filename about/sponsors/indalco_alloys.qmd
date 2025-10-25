@@ -1,0 +1,8 @@
+---
+title: Indalco Alloys
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/IN1_Indalco_logo-v2.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/IN1_Indalco_logo-v2.jpg
+---

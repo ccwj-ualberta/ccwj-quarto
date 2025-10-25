@@ -1,0 +1,6 @@
+---
+title: "Transport phenomena in welding"
+author: "Mendez, P. F."
+conference: "3.55: Macroscopic transport in materials processing"
+year: 1998
+---

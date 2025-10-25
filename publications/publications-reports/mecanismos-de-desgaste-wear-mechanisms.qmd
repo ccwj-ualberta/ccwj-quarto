@@ -1,0 +1,6 @@
+---
+title: "Mecanismos de desgaste (wear mechanisms)"
+author: "Mendez, P. F., Herrera, R."
+institution: "FUDETEC"
+year: 1992
+---

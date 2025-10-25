@@ -1,0 +1,6 @@
+---
+title: "The relationship between heat transfer and metal transfer in GMAW"
+author: "Soderstrom, E., Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2008
+---

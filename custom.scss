@@ -1,0 +1,830 @@
+/*-- scss:defaults --*/
+/*-- scss:defaults --*/
+$white:         #FFFFFF;
+$nurse-white:   #F8F8F8FF;
+$nurse-gray:    #d9dcdf;
+$ccwj-metal:    #2E2925;
+$ccwj-green:    #283237;
+$primary:       #231e1a;
+$dark-cucumber: #4D6E4B;
+$charcoal:      #464849;
+$blue:          #343f4e;
+$pond-water:    #B1CE99;
+$heavy-metal:   #343534;
+$footer-bg:     $nurse-white;
+$link-color:    #4A9152FF;
+$link-color-light: #7bac7cff;  // Lighter green for dark backgrounds
+$link-color-alt: #E8F5E8;   // Very light green for very dark backgrounds
+$font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+// Default links
+a {
+  color: $link-color;
+  
+  &:hover {
+    color: darken($link-color, 10%);
+  }
+}
+
+// Font faces
+@font-face {
+  font-family: 'Anivers';
+  src: url("assets/Anivers_CCWJ.ttf");
+}
+
+@font-face {
+  font-family: 'Good Times';
+  src: url("assets/GoodTimes_CCWJ.ttf");
+}
+
+// Typography
+h1 {
+  font-family: 'Good Times' !important;
+  color: $dark-cucumber !important;
+}
+
+h2, h3, h4, h5, h6 {
+  color: $charcoal !important;
+  font-family: 'Anivers' !important;
+  
+  // Make header links look like regular headers
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-weight: inherit !important;
+    
+    &:hover {
+      color: inherit !important;
+      text-decoration: none !important;
+    }
+    
+    &:visited {
+      color: inherit !important;
+    }
+  }
+  
+  // More specific selectors for Quarto-generated anchors
+  &.anchored > a[data-original-href],
+  &.anchored > a {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-weight: inherit !important;
+  }
+}
+
+// Better paragraph spacing - but exclude figure captions
+p {
+  line-height: 1.7rem;
+  margin-block-end: 1.2rem !important;
+  text-wrap: pretty;
+}
+
+// Specific styling for figure captions to keep them close to images
+figure p {
+  margin-block-end: 0 !important;
+  margin-block-start: 0 !important;
+}
+
+// Better image styling
+img {
+  border-radius: 3px;
+  transition: all 0.3s ease;
+}
+
+// Title block and banner
+#title-block-header > div.quarto-title-banner.page-columns.page-full {
+  background-color: #2d3135;
+  background-blend-mode: soft-light;
+  text-align: center !important;
+  
+  h1 {
+    color: $nurse-white !important;
+    font-size: 28pt !important;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    text-align: center;
+  }
+}
+
+.quarto-title {
+  font-family: 'Anivers' !important;
+  
+  &-banner {
+    width: 100%;
+    height: 35vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+// Navigation
+.navbar {
+  font-size: 1.15rem;
+  font-weight: 450;
+  background: linear-gradient(to right, $ccwj-metal, $ccwj-green);
+  font-family: 'Anivers' !important;
+  
+  &-brand > img {
+    max-height: 65px;
+  }
+  
+  #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+    color: $nurse-white !important;
+  }
+
+  .navbar-nav {
+    > .nav-item {
+      position: relative; // anchor for pseudo-element
+
+      // Apply separators only to items after the first (top-level)
+      & + .nav-item {
+        margin-left: 0.9rem;
+        padding-left: 0.9rem;
+
+        &::before {
+          content: "";
+          position: absolute;
+          left: 0;
+          top: 50%;
+          transform: translateY(-50%);
+          width: 1px;
+          height: 1.15rem; // shorter than full height
+          background: rgba(255, 255, 255, 0.32); // subtle on gradient
+          box-shadow: 0 0 0 1px rgba(0,0,0,0.05);
+        }
+      }
+    }
+  }
+
+  .nav-item.dropdown .dropdown-menu {
+    left: 0% !important;
+    right: auto !important;
+    transform: none !important;
+  }
+  
+}
+
+
+
+.dropdown {
+  &-item {
+    font-family: $font-family-sans-serif !important;
+  }
+  
+  &-toggle {
+    color: $nurse-white !important;
+  }
+  
+  &-menu > li > a {
+    &:hover {
+      background-image: none;
+      background-color: #f0f0f0ff;
+    }
+  }
+}
+
+.menu-text {
+  color: $nurse-white !important;
+}
+
+// Icons
+i.bi {
+  &.bi-linkedin {
+    padding-left: 0.5em;
+    color: $nurse-white;
+  }
+  
+  &.bi-house-door-fill,
+  &.bi-youtube {
+    color: $nurse-white;
+  }
+}
+
+// Listings and posts
+div.quarto-post {
+  margin-bottom: 0em !important;
+  
+  .thumbnail img {
+    margin-top: 0px !important;
+  }
+  
+  .body {
+    h3.listing-title,
+    .listing-title.h3 {
+      margin-top: 10px !important;
+    }
+  }
+}
+
+.listing {
+  &-pub-author,
+  &-pub-journ,
+  &-pub-url {
+    font-size: 0.9rem;
+  }
+}
+
+.no-anchor.listing-title {
+  font-weight: 550;
+}
+
+// Quarto grid and categories
+.quarto-grid-item .listing-categories .listing-category {
+  border-color: $nurse-gray !important;
+  color: $heavy-metal !important;
+}
+
+.quarto-navbar-tools {
+  height: 30px !important;
+}
+
+#quarto-back-to-top {
+  bottom: 110px !important;
+}
+
+// Sidebar
+#quarto-margin-sidebar {
+  position: sticky;
+  color: $charcoal;
+  
+  > div > div.category {
+    border-style: solid;
+    border-radius: 0.8ch;
+    border-width: 1px;
+    border-color: $nurse-gray;
+    padding: 1%;
+    padding-left: 0.5em;
+    margin-bottom: 4%;
+    font-size: 11pt;
+    font-variant-caps: all-small-caps;
+    color: $heavy-metal;
+    
+    &.active {
+      background-color: $dark-cucumber;
+      color: $nurse-white;
+      font-weight: 400;
+    }
+  }
+}
+
+#quarto-sidebar {
+  .sidebar-item-container {
+    margin-bottom: 0.25rem;
+    border-bottom: 1px solid #ececec;
+    padding-bottom: 0.15rem;
+    
+    &:last-child {
+      border-bottom: none;
+    }
+    
+    .menu-text {
+      color: #333 !important;
+      line-height: 1.5 !important;
+      font-size: 1rem !important;
+      font-weight: 450;
+      padding: 0.3rem 0.5rem;
+      display: block;
+      border-radius: 4px;
+      transition: background-color 0.2s ease;
+      
+      &:hover {
+        background-color: #f0f0f0;
+        color: #000 !important;
+      }
+    }
+  }
+  
+  // Nested list indentation
+  ul ul .menu-text {
+    padding-left: 1.5rem;
+    font-weight: 400;
+    font-size: 0.95rem;
+  }
+  
+  // Top-level items
+  ul > li > div > a.menu-text {
+    font-weight: 600;
+  }
+}
+
+// Pagination
+.page-link {
+  &.disabled,
+  .disabled > & {
+    background-color: #4D6E4B !important;
+  }
+}
+
+// Custom highlight sections
+.highlight-row {
+  background-color: $blue;
+  font-weight: 450;
+  padding: 0.75em 0.25em 1em;
+  margin-bottom: 0.5em;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden; // Prevents margin collapse
+
+  // Override link colors for better contrast on dark blue background
+  a {
+    color: $link-color-light !important;
+    
+    &:hover {
+      color: $link-color-alt !important;
+    }
+  }
+
+  &-content {
+    max-width: var(--content-max-width, 1170px);
+    margin: 0 auto;
+    padding: 0 1rem;
+    align-items: center;
+    color: $nurse-gray !important;
+    
+    // Eliminate margin collapse by resetting all child margins
+    > * {
+      margin-top: 0 !important;
+    }
+    
+    // Set consistent spacing for first element
+    > *:first-child {
+      margin-top: 0 !important;
+      padding-top: 0.5em; // Use padding instead of margin
+    }
+    
+    h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.3em;
+      color: $nurse-gray !important;
+      margin-top: 0 !important; // Force no margin
+    }
+    
+    figcaption {
+      color: $nurse-gray !important;
+    }
+  }
+  
+  &-gradient {
+    background: linear-gradient(135deg, lighten($blue, 10%), darken($blue, 10%) 100%);
+    font-weight: 450;
+    padding: 0.5em 1em;
+    margin-bottom: 0.5em;
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+   
+    a {
+      color: $link-color-light !important;
+      
+      &:hover {
+        color: $link-color-alt !important;
+      }
+    }
+
+    .highlight-row-content {
+      max-width: var(--content-max-width, 1170px);
+      margin: 0 auto;
+      padding: 0 1rem;
+      align-items: center;
+      color: $nurse-gray !important;
+    }
+  }
+  
+  &-gray {
+    background-color: lighten($pond-water, 25%);  // Very light green tint
+    font-weight: 450;
+    padding: 1.5em 1em 0.5em;
+    margin-bottom: 0.5em;
+    border: 0.1em solid $nurse-gray;
+    text-shadow: none;
+    border-radius: 0.3em;
+    
+    .highlight-row-content {
+      color: $charcoal !important;
+      
+      h3 {
+        color: $dark-cucumber !important;  // Keep headers in brand green
+      }
+    }
+    
+    a {
+      color: $link-color !important;
+    }
+  }
+
+}
+
+// Utility classes
+.circle-image {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 8px solid #fff;
+}
+
+.box {
+  height: 80px;
+  min-width: 200px;
+  background-color: $dark-cucumber;
+  color: $nurse-white;
+  padding: 10px;
+  margin: 10px;
+  font-size: 14pt;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 0.3em;
+  border: 1px solid darken($dark-cucumber, 10%);
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+// Accordion
+.accordion-button {
+  font-family: 'Anivers';
+  color: white !important;
+
+  // change the colour of the collapse/expand icon
+  &::after {
+    filter: invert(1);
+  }
+  
+  &:not(.collapsed) {
+    --bs-accordion-active-bg: rgba(90, 92, 112, 1);
+  }
+  
+  &.collapsed {
+    background-color: rgba(105, 107, 131, 0.8);
+  }
+}
+
+.accordion {
+  // Add space after last item
+  margin-bottom: 2.5rem;
+
+  // Add space between items
+  .accordion-item {
+    margin-bottom: 0.3rem;
+    border: 1px solid #ddd;
+    border-radius: 0.3em;
+    
+    &:last-child {
+      margin-bottom: 0; // No margin after last item
+    }
+  }
+}
+
+// Specific listings
+#listing {
+  &-collaborators {
+    .quarto-grid-item,
+    p.card-img-top > img {
+      object-fit: contain !important;
+    }
+    
+    .card-title,
+    .card-subtitle,
+    .card-body {
+      font-family: "Roboto", system-ui !important;
+      font-size: 0.9rem !important;
+      color: #5a6570 !important;
+    }
+  }
+}
+
+// Timeline
+.timeline {
+  position: relative;
+  padding: 2rem 0;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    left: 2rem;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: linear-gradient(to bottom, $dark-cucumber, lighten($dark-cucumber, 20%));
+    border-radius: 2px;
+  }
+  
+  &-item {
+    position: relative;
+    display: flex;
+    margin-bottom: 2rem;
+    align-items: flex-start;
+    
+    &.highlight .timeline-marker {
+      background: $pond-water;
+      color: $blue;
+      transform: scale(1.1);
+    }
+    
+    &.recent .timeline-marker {
+      background: $dark-cucumber;
+      color: white;
+      box-shadow: 0 0 0 4px rgba($dark-cucumber, 0.2);
+    }
+  }
+  
+  &-marker {
+    min-width: 4rem;
+    height: 4rem;
+    background: white;
+    border: 3px solid $dark-cucumber;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 0.8rem;
+    z-index: 2;
+
+    // Position text in the center of the circle
+    & > * {
+    transform: translateY(11px);
+  }
+  }
+  
+  &-content {
+    margin-left: 2rem;
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border-left: 4px solid $dark-cucumber;
+    flex: 1;
+    
+    strong {
+      color: $dark-cucumber;
+      font-size: 1.1rem;
+    }
+    
+    i {
+      color: $link-color;
+      margin-right: 0.5rem;
+    }
+  }
+}
+
+// Partner grid for C:CLAD
+.partner-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+  
+  a {
+    transition: transform 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+  
+  img {
+    max-width: 200px;
+    height: auto;
+    filter: grayscale(20%);
+    transition: filter 0.3s ease;
+    
+    &:hover {
+      filter: grayscale(0%);
+    }
+  }
+}
+
+// Feature lists
+.feature-list {
+  ul, li {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: $charcoal !important;  // Force dark text color
+  }
+  
+  li {
+    margin-bottom: 0.75rem;
+    color: $charcoal !important;  // Ensure list items are dark
+    
+    strong {
+      color: $dark-cucumber;
+      font-weight: 600;
+    }
+  }
+}
+
+// Enhanced buttons
+.btn {
+  &-primary {
+    background-color: $dark-cucumber;
+    border-color: $dark-cucumber;
+    font-family: 'Anivers';
+    font-weight: 600;
+    
+    &:hover {
+      background-color: darken($dark-cucumber, 10%);
+      border-color: darken($dark-cucumber, 10%);
+    }
+  }
+}
+
+.chart-container {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.chart-container.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/*-- Override Quarto's responsive layout breakpoints --*/
+/*-- Force early mobile layout to avoid awkward intermediate sizing --*/
+@media (max-width: 991px) {
+  // Target ALL possible layout containers that Quarto might use
+  [layout],
+  div[layout],
+  .quarto-layout-panel,
+  .quarto-layout-row,
+  .layout,
+  .grid,
+  .columns {
+    display: block !important;
+    
+    > div,
+    > .column {
+      width: 100% !important;
+      float: none !important;
+      margin-bottom: 1.5rem !important;
+      
+      // Reset any grid or flex properties
+      grid-column: unset !important;
+      flex: none !important;
+    }
+  }
+  
+  // Specifically target images in layout contexts
+  [layout] img,
+  div[layout] img,
+  .quarto-layout-panel img {
+    display: block !important;
+    margin: 1rem auto !important;
+    max-width: 500px !important;
+    width: 90% !important;
+    height: auto !important;
+  }
+}
+
+// Specific fixes
+/*-- Full-width cropped banner for industry image only --*/
+.industry-banner {
+  width: 100% !important;
+  height: 300px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  margin: 1rem 0 !important;
+  border-radius: 8px !important;
+  
+  // Responsive heights
+  @media (max-width: 768px) {
+    height: 200px !important;
+  }
+  
+  @media (min-width: 1200px) {
+    height: 350px !important;
+  }
+}
+
+/* === NAVBAR & DROPDOWN: unify look, colors, and typography === */
+
+/* Keep original top-level size; only unify color/font */
+.navbar .navbar-nav .nav-link {
+  color: $nurse-white !important;
+  font-family: 'Anivers', $font-family-sans-serif !important;
+  font-size: inherit; /* <-- inherit your .navbar font-size (1.15rem) */
+  letter-spacing: .1px;
+}
+
+/* Caret color for dropdown toggles */
+.navbar .dropdown-toggle::after {
+  border-top-color: $nurse-white !important;
+  border-bottom-color: $nurse-white !important;
+  opacity: .9;
+}
+
+/* Dropdown panel: match the navbar gradient exactly */
+.navbar .dropdown-menu {
+  background: linear-gradient(to right, $ccwj-metal, $ccwj-green) !important;
+  border: 1px solid rgba(255,255,255,.12);
+  box-shadow: 0 10px 20px rgba(0,0,0,.25);
+  margin-top: .6rem;
+  padding: .35rem 0;
+  min-width: 15rem;
+}
+
+/* Divider inside dropdown */
+.navbar .dropdown-divider {
+  border-top-color: rgba(255,255,255,.18) !important;
+}
+
+/* Dropdown items: white text, a bit smaller than top bar */
+.navbar .dropdown-item {
+  color: $nurse-white !important;
+  font-family: 'Anivers', $font-family-sans-serif !important;
+  font-size: 0.95rem;  /* only dropdown is slightly smaller */
+  line-height: 1.25rem;
+  padding: .55rem 1rem;
+}
+
+/* Hover/active: subtle light overlay on the same gradient */
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus,
+.navbar .dropdown-item.active,
+.navbar .dropdown-item:active {
+  background-color: rgba(255,255,255,.08) !important; /* soft glow */
+  color: $nurse-white !important;
+  text-decoration: none !important;
+}
+
+/* Focus ring */
+.navbar .dropdown-item:focus-visible {
+  outline: 2px solid rgba(255,255,255,.35);
+  outline-offset: 2px;
+}
+
+/* Neutralize any earlier light-hover rule */
+.dropdown-menu > li > a:hover {
+  background-color: transparent;
+}
+
+/* --- Mobile dropdown: remove white frame/border --- */
+@media (max-width: 991.98px) {
+  .navbar .dropdown-menu {
+    background: linear-gradient(to right, $ccwj-metal, $ccwj-green) !important;
+    border: none !important;           /* remove light border */
+    box-shadow: none !important;        /* remove glow that looks like a frame */
+    background-clip: padding-box !important;
+  }
+
+  /* just in case any pseudo-borders are injected */
+  .navbar .dropdown-menu::before,
+  .navbar .dropdown-menu::after {
+    display: none !important;
+  }
+}
+
+/* === MOBILE NAV: keep the left bar pinned to the title line === */
+@media (max-width: 991.98px) {
+
+  /* 1) Kill the old container-based separator */
+  .navbar .navbar-nav > .nav-item::before {
+    display: none !important;
+    content: none !important;
+  }
+
+  /* 2) Add a short bar on the link itself (About, People, …) */
+  .navbar .navbar-nav > .nav-item > .nav-link {
+    position: relative;
+    padding-left: 1.2rem; /* room for the bar */
+  }
+  .navbar .navbar-nav > .nav-item > .nav-link::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);  /* centers on the text line only */
+    width: 2px;
+    height: 1.2em;                 /* ~text height */
+    background: rgba(255,255,255,.35);
+    border-radius: 1px;
+  }
+
+  /* Ensure submenu items never get a bar */
+  .navbar .dropdown-menu .dropdown-item::before {
+    display: none !important;
+    content: none !important;
+  }
+}
+
+/* --- Equal height for home page image cards --- */
+.quarto-grid img,
+.quarto-layout-row img {
+  object-fit: cover;      /* crop instead of squish */
+  width: 100%;            /* fill horizontally */
+  height: 250px;          /* force same height across all cards */
+  border-radius: 4px;     /* consistent rounded corners */
+}
+
+/* Optional: smaller height on mobile */
+@media (max-width: 768px) {
+  .quarto-grid img,
+  .quarto-layout-row img {
+    height: 180px;
+  }
+}

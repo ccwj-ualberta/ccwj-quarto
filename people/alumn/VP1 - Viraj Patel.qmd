@@ -1,0 +1,23 @@
+---
+title: Viraj Patel
+image: VP1 - Viraj Patel.jpg
+subtitle: Materials
+priority: 1
+about:
+  template: trestles
+  image: VP1 - Viraj Patel.jpg
+  links:
+    - icon: email
+      text: vrp@ualberta.ca
+      href: mailto:vrp@ualberta.ca
+---
+
+Viraj Patel came to know about the CCWJ during Fall of 2019. Amazed by the work done by its members in the field of welding, he began work under the guidance of Dr. Patricio Mendez and has been involved in the creation of a procedure database for industrial arc welding processes.
+
+##### Prior Degrees
+
+BSc, Mechanical Engineering, 2011
+
+##### Project
+
+Database creation and Management for Arc Welding Procedures

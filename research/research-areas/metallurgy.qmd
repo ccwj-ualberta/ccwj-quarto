@@ -1,0 +1,18 @@
+---
+title: Metallurgy
+description: The science of metals
+image: ccwj-research-areas-metallurgy.jpg
+about:
+  template: solana
+  image: ccwj-research-areas-metallurgy.jpg
+---
+
+Metallurgy is the science and technology of metals. It involves the study of the physical and chemical properties of metals and the processes used to extract, refine, and shape them. Metallurgy is a key area of research at the CCWJ, where we are exploring new materials and processes that can help to improve the performance and durability of welded structures. Our research in this area is focused on developing new welding techniques, materials, and processes that can help to improve the efficiency and quality of welding processes. 
+
+## Research highlights
+
+- Microstructure effect on sliding wear of 316L stainless steel selectively laser melted. Barrionuevo, GO, Walczak, M, Ramos-Grez, J, Mendez, P, Debut, A. Materials Science and Technology (2024); 40(6): 466-478.
+
+- Conflat cell for in-situ electrochemical X-ray studies of lithium-ion battery materials in commercially-relevant conditions. Sendetskyi, O, Salomons, M, Mendez, P, Fleischauer, M. Journal of Applied Crystallography (2021); 54: 1416-1423.
+
+- Effect of the heating rate on austenite formation in low carbon microalloyed steels. Hintze C, Alejandro, Mendez, P. Welding Journal (2021); 100: 338s-347s.

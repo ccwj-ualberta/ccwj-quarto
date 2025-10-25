@@ -1,0 +1,14 @@
+---
+title: "Postdocs"
+listing:
+  contents: postdocs
+  type: default
+  sort:
+    - 'priority'
+    - 'title'
+  image-align: left
+  image-height: 350px
+  image-placeholder: ../assets/UA-COLOUR-NARROW.png
+  max-description-length: 600
+---
+

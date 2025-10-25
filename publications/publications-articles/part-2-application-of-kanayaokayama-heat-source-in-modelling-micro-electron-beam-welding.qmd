@@ -1,0 +1,10 @@
+---
+title: 'Part 2: Application of Kanaya–Okayama heat source in modelling micro electron beam welding'
+year: 2012
+author: 'Gajapathi, Satya S., Mitra, S. K., Mendez, P. F.'
+doi: https://doi.org/10.1179/1362171812Y.0000000031
+journ: 'Science and Technology of Welding and Joining'
+volume: 17
+number: 6
+pages: '435-440'
+---

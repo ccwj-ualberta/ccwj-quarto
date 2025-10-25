@@ -1,0 +1,10 @@
+---
+title: ThermalArc SP4000W / 500SP
+categories: [Welding]
+image: TARC-thermalarc-sp4000w.jpg
+about:
+  template: solana
+  image: TARC-thermalarc-sp4000w.jpg
+---
+
+The Thermal Arc PowerMaster 400SP and 500SP are versatile welding systems designed for various applications. They offer features like adjustable voltage change-over, menu-driven controls, and compatibility with MIG, pulse GMAW, and stick welding.

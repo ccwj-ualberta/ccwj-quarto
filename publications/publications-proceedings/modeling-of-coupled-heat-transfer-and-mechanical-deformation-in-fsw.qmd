@@ -1,0 +1,6 @@
+---
+title: "Modeling of coupled heat transfer and mechanical deformation in FSW"
+author: "Mendez, P. F., Lienert, T. J."
+conference: "MS&T"
+year: 2006
+---

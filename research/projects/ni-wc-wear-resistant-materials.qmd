@@ -1,0 +1,20 @@
+---
+title: "Heat and Mass Transfer Aspects of laser Deposition of Ni/WC Wear Resistant Metal Matrix Composites"
+subtitle: Apollo Clad, NSERC
+date: "2014-08-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
+categories: [Physics of Welding, Metallurgy]
+---
+
+**Faculty Supervisor:** Patricio Mendez
+
+**Student(s):** Nairm Barnes, Kurtis Bel, Steven D. Borle, Stuart D. Guest, Hossein Izadi, Ata Kamyabi Gol, Gentry Wood
+
+This research and training project focuses on developing a model to predict geometry of metallic coatings deposited using laser cladding technology. Laser cladding offers a degree of process control and low heat input necessary for the deposition of high wear resistant metallic coatings used in oil sands processing, mining, logging, and manufacturing of heavy equipment. Models of laser cladding have been developed, but they rely on complex numerical methods and computer simulations. Practitioners of industry have been unable to understand and implement these models in production, and they continue to use a blind trial and error approach to developing procedures for new alloy systems.
+
+This project will study for the first time in a scientific and systematic way, the physics that control process and develop mathematical expressions that will explain relationships between the observed phenomena. The approach will rely heavily on the experimental equipment and expertise in weld coatings at the Canadian Centre for Welding and Joining and University of Alberta. Theoretical work will be combined with high speed video analysis and metallography. The results obtained will be of immediate use to the partner company (Apollo Clad) and will have broad applicability to other companies and industries. This proposal will involve the training of one PhD, two MSc, and four undergraduate students.
+
+## Related Publications
+
+Patricio F. Mendez, Nairn Barnes, Kurtis Bell, Steven D. Borle, Satya S. Gajapathi, Stuart D. Guest, Hossein Izadi, Ata Kamyabi Gol, Gentry Wood. 2014. Welding processes for wear resistant overlays, Journal of Manufacturing Processes 16, 1526-6125, https://doi.org/10.1016/j.jmapro.2013.06.011.

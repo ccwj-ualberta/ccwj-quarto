@@ -1,0 +1,20 @@
+---
+title: Kathryn Craig
+image: KC1 - Kathryn Craig.jpg
+subtitle: Chemical Engineering
+priority: 1
+about:
+  template: trestles
+  image: KC1 - Kathryn Craig.jpg
+  links:
+    - icon: email
+      text: kccraig@ualberta.ca
+      href: mailto:kccraig@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/kathryn-craig-chemical-engg
+---
+
+Kathryn Craig is an undergraduate student at the University of Alberta studying towards a BSc in Chemical Engineering. Interested in the CCWJ's work focusing on 3D printing parts for industry, she currently works with our Wire Arc Additive Manufacturing (WAAM) researchers and creates thermal simulations.
+
+Outside of academics, Kathryn enjoys rock climbing, ball room dancing and playing soft ball. 

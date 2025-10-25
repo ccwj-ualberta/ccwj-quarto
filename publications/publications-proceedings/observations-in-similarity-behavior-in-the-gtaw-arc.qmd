@@ -1,0 +1,6 @@
+---
+title: "Observations in similarity behavior in the GTAW arc"
+author: "Delgado-Álvarez, Alfredo, Mendez, Patricio F., Ramírez-Argáez, Marco A."
+conference: "IIW annual assembly"
+year: 2018
+---

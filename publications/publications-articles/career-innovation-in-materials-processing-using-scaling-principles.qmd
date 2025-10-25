@@ -1,0 +1,10 @@
+---
+title: 'CAREER: Innovation in materials processing using scaling principles'
+year: 2005
+author: 'Mendez, P. F.'
+doi: NA
+journ: 'NSF Proposal \# 0547649'
+volume: NA
+number: NA
+pages: 'NA'
+---

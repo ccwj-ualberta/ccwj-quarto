@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.23">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>readme</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="README_files/libs/clipboard/clipboard.min.js"></script>
+<script src="README_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="README_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="README_files/libs/quarto-html/popper.min.js"></script>
+<script src="README_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="README_files/libs/quarto-html/anchor.min.js"></script>
+<link href="README_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="README_files/libs/quarto-html/quarto-syntax-highlighting-226bd0f977fa82dfae4534cac220d79a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="README_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="README_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="README_files/libs/bootstrap/bootstrap-be9206a58a27969b3ea3001da8f26fef.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent quarto-light">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="canadian-centre-for-welding-and-joining-ccwj-website-repository" class="level1">
+<h1>Canadian Centre for Welding and Joining (CCWJ) Website Repository</h1>
+<!-- badges: start -->
+<p><a href="https://posit.cloud/spaces/417662/join?access_code=E9OvQn6lI_mMg9VazqLy6zOqBYd4_wN1DSE0a0Nw"><img src="https://img.shields.io/badge/launch-posit%20cloud-447099?style=flat.png" class="img-fluid" alt="Launch Posit Cloud"></a> <a href="https://github.com/stevenpawley/ccwj-quarto/actions/workflows/publish.yml"><img src="https://github.com/stevenpawley/ccwj-quarto/actions/workflows/publish.yml/badge.svg" class="img-fluid" alt="build"></a> <!-- badges: end --></p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>The CCWJ website is based on the <a href="https://quarto.org">Quarto</a> framework, which is a lightweight, flexible, and extensible static site generator for academic websites. The website is hosted on GitHub Pages and is automatically built and deployed using GitHub Actions.</p>
+</section>
+<section id="renderingrebuilding-the-website" class="level2">
+<h2 class="anchored" data-anchor-id="renderingrebuilding-the-website">Rendering/rebuilding the website</h2>
+<p>Changes and rebuilding/rendering of the website are triggered by pushing changes to the <code>main</code> branch of the repository. Behind the scenes (automated by GitHub Actions), the website is built using the <code>quarto</code> command-line tool, which is automatically installed in the GitHub Actions environment. The website is built using the <code>quarto site build</code> command, which generates the website in the <code>_site</code> folder.</p>
+</section>
+<section id="deploying-the-rendered-website" class="level2">
+<h2 class="anchored" data-anchor-id="deploying-the-rendered-website">Deploying the rendered website</h2>
+<p>The contents of the <code>_site</code> folder are automatically copied to the <code>gh-pages</code> branch of the repository, which is used by GitHub Pages to serve the website deployed in <a href="https://stevenpawley.github.io/ccwj-quarto/">GitHub Pages</a>. The GitHub Pages deployment can be used to preview any changes that have been made to the website.</p>
+<p>The website can also be deployed to any other web server that supports static sites. To deploy the website to another web server, you can download the repository content from the <code>gh_pages</code> branch as a Zipfile, and then upload the uncompressed folder to any other web server, e.g., the <code>https://sites.ualberta.ca</code>, using any method you prefer (e.g., FTP, SCP, etc.), or using a GUI tool like <a href="https://winscp.net/eng/download.php">WinSCP</a> etc.</p>
+<p>This cannot be automatically performed by GitHub because the University of Alberta’s web server is only accessible from within the network.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="docs/downloading-gh-pages-branch.png" class="img-fluid figure-img"></p>
+<figcaption>To deploy the website to another web server, download the repository contents from the ‘gh-pages’ branch as a ZIP file.</figcaption>
+</figure>
+</div>
+</section>
+<section id="adding-updating-website-content" class="level2">
+<h2 class="anchored" data-anchor-id="adding-updating-website-content">Adding / Updating Website Content</h2>
+<p>The Quarto project makes use of <a href="https://quarto.org/docs/websites/website-listings.html">document listings</a> for the components of the website that may change on a regular basis. These components relate to the following website sections:</p>
+<ul>
+<li>About (Facilities (equipment) sub page)</li>
+<li>People (staff, PhD Students, MSc Students, BSc Students, Alumn, Alumn UG, Alumn Visitor sub pages)</li>
+<li>Research (sub-pages)
+<ul>
+<li>Projects</li>
+<li>Seminars</li>
+<li>Conferences</li>
+<li>Video resources</li>
+</ul></li>
+<li>Teaching</li>
+<li>News</li>
+</ul>
+<p>Templates that can be used to add new content to these sections are stored within the <code>templates</code> folder in the project’s root directory.</p>
+<p>Additionally, the publications are generated dynamically from the Bibtex file that is stored as <code>publications/references.bib</code>. Only the ‘Articles’, ‘Proceedings’ and ‘Reports’ are generated dynamically. The books and theses are generated manually using template files because for books, each entry requires an image of the book, and for these, relatively few items are present which are easily managed.</p>
+<p>Simple changes to the website can be made directly through the GitHub interface by creating, editing, or deleting files from the respective directories (and/or uploading new image files). For more substantial changes, it is recommended to clone the repository from GitHub and then commit the changes, but this requires familiarity with Git.</p>
+<p>Alternatively, a complete version of this repository is also available on <a href="https://posit.cloud/spaces/417662/join?access_code=E9OvQn6lI_mMg9VazqLy6zOqBYd4_wN1DSE0a0Nw">Posit Cloud</a>, which is an online development environment, which can be used for editing and previewing the website content without needing to install any software. Changes to the website can be made directly in the Posit Cloud environment, and then the changes can be committed to the GitHub repository.</p>
+<section id="detailed-instructions" class="level3">
+<h3 class="anchored" data-anchor-id="detailed-instructions">Detailed Instructions</h3>
+<p>For all of the listing document based pages, anything in the associated <code>.qmd</code> files can be altered freely without causing any breaking changes to the website, but it is important the keep the header structure the same. An example of a header is:</p>
+<p>In this example, any of the values can be updated (e.g, the name, the email address etc.), but the overall structure and field names needs to be kept the same.</p>
+<section id="about-facilities" class="level4">
+<h4 class="anchored" data-anchor-id="about-facilities">About &gt; Facilities</h4>
+<p>The equipment items in the About &gt; Facilities section are automatically generated from files within the <code>about/equipment</code> folder. Each item needs a plain text markdown file and an associated image, for example the ‘Creaform MetraScan 750 3D Scanner’ item has two files - <code>3DSC-creaform-metrascan-750.qmd</code> and <code>3DSC-creaform-metrascan-750.jpg</code>. You can remove any item from the equipment listing page by deleting these two files for any particular item.</p>
+<p>To add a new equipment item through the GitHub web interface, copy the text from the <code>templates/equipment-item-template.qmd</code> to the clipboard, or just download the individual file from GitHub.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="docs/template-equipment-item.png" class="img-fluid figure-img"></p>
+<figcaption>Adding a new equipment item to the website based on the equipment template</figcaption>
+</figure>
+</div>
+<p>Then rename the template and edit the text (using any text editor, like notepad etc.) and then upload the new file to the <code>about/equipment</code> folder along with an image of the equipment (using the same filename that you specify in the updated version of the template file).</p>
+<p><img src="docs/uploading-files.png" width="200" alt="Uploading new files"></p>
+</section>
+<section id="people-phd-students-msc-students" class="level4">
+<h4 class="anchored" data-anchor-id="people-phd-students-msc-students">People &gt; PhD Students, MSc Students …</h4>
+<p>Similar to equipment items, CCWJ member sub pages are automatically generated from files within one of the <code>people/phds</code>, <code>people/mscs</code>, <code>people/staff</code>, etc. folders. Each member has a plain text markdown with their biography and an accompanying image file. To add new members, the examples in the <code>templates/ccwj-member-about-page.qmd</code> can be used as a starting point. This file can be downloaded, renamed and edited in a text editor, and uploaded along with a portrait photo to the appropriate <code>people/staff(phds, mscs, bscs, alumn, alumn-ug, alumn-vistors)</code> subdirectory.</p>
+</section>
+<section id="research-projects" class="level4">
+<h4 class="anchored" data-anchor-id="research-projects">Research &gt; Projects</h4>
+<p>The research projects are also listing documents. An entry for a new project can use the <code>templates/project-template.qmd</code> as a starting point. The projects page displays the logo of the granting organization. Images for these are found in the <code>research/projects/granting-logos</code> directory, so unless the granting organization is new, these images can be reused for new projects.</p>
+</section>
+<section id="research-seminars-and-conferences" class="level4">
+<h4 class="anchored" data-anchor-id="research-seminars-and-conferences">Research &gt; Seminars (and Conferences)</h4>
+<p>For seminars and/or conferences that were recorded, new items can be added to the Research &gt; Talks page by using the <code>templates/talks-template.qmd</code>. In addition to updating the required fields, this file needs to be altered depending on where the video is stored - either on YouTube or in Google Drive, which changes how the video is embedded. Instructions are provided in the template and you can delete the other embedding method. Each talk also needs an image to show in the listing page. This image can just be a screenshot of the recording, or the opening slide etc.</p>
+</section>
+<section id="teaching" class="level4">
+<h4 class="anchored" data-anchor-id="teaching">Teaching</h4>
+<p>The teaching page uses the document listing mechanism for each individual course. Any course files in the <code>teaching/courses</code> directory will automatically be added to the teaching page. A template for a course page is included in the <code>templates/course-template.qmd</code> file. Anything in the template can be changed when creating a new course, but the header structure needs to remain the same. The current template is structured as:</p>
+<ul>
+<li>Introduction</li>
+<li>Link to syllabus document hosted in Google Drive</li>
+<li>Link to opening lecture hosting in Google Drive</li>
+<li>Course materials table (a series of rows and columns)</li>
+</ul>
+<p>Any of these sections can be removed if desired.</p>
+<p>Each course <code>.qmd</code> document needs to have an associated image that appears on the teaching page.</p>
+</section>
+<section id="news" class="level4">
+<h4 class="anchored" data-anchor-id="news">News</h4>
+<p>A template for a new news item is present in <code>templates/news-article-template.qmd</code>. Because most news items are going to link to some external site, it is not necessary to also upload an image, rather, the image shown in each news article is just a hyperlink to an image on an external site. However, this can be replaced with an manually uploaded image, if desired.</p>
+</section>
+<section id="publications" class="level4">
+<h4 class="anchored" data-anchor-id="publications">Publications</h4>
+<p>The publications listings are automatically regenerated from the bibtex files in the “/publications” folder. These bibtex files have to be exported as *plain bibtex”, not using other extensions like “Better Bibtex”. This is because these extensions insert lots of special escaping characters, for example, double curly braces, that prevent software from changing the case of the titles and authors. These extensions also escape special characters like accents. However, the code in this repository reads the bibtex files ‘as-is’, so it is important to export them as plain bibtex.</p>
+<p>Some entries contained missing items, particularly DOIs, which have been completed in the repository version of the <code>publications/references.bib</code>. To add new publications, you can download this file, add new entries to it, and upload it back to the same location (overwriting the file). Alternatively, a new Bibtex file can exported from some other reference manager such as Zotero or Refworks, assuming that the citations are complete.</p>
+<section id="required-fields-in-the-bibtex-entries" class="level5">
+<h5 class="anchored" data-anchor-id="required-fields-in-the-bibtex-entries">Required fields in the Bibtex entries</h5>
+<p>Entry ‘@’ tags that are used in the site are: article, inproceedings, techreport, phdthesis, mastersthesis.</p>
+<section id="article" class="level6">
+<h6 class="anchored" data-anchor-id="article"><span class="citation" data-cites="article">@article</span></h6>
+<ul>
+<li>title</li>
+<li>year</li>
+<li>author</li>
+<li>doi</li>
+<li>journ</li>
+<li>number</li>
+<li>pages</li>
+<li>volume or number (mutually-exclusive)</li>
+</ul>
+</section>
+<section id="inproceedings" class="level6">
+<h6 class="anchored" data-anchor-id="inproceedings"><span class="citation" data-cites="inproceedings">@inproceedings</span></h6>
+<ul>
+<li>title</li>
+<li>author</li>
+<li>conference</li>
+<li>year</li>
+</ul>
+</section>
+</section>
+<section id="incollection" class="level5">
+<h5 class="anchored" data-anchor-id="incollection"><span class="citation" data-cites="incollection">@incollection</span></h5>
+<ul>
+<li>title</li>
+<li>author</li>
+<li>year</li>
+<li>booktitle</li>
+<li>pages</li>
+<li>publisher (optional)</li>
+</ul>
+</section>
+<section id="techreport" class="level5">
+<h5 class="anchored" data-anchor-id="techreport"><span class="citation" data-cites="techreport">@techreport</span></h5>
+<ul>
+<li>title</li>
+<li>author</li>
+<li>year</li>
+<li>institution (optional)</li>
+</ul>
+</section>
+<section id="phdthesis-mastersthesis" class="level5">
+<h5 class="anchored" data-anchor-id="phdthesis-mastersthesis"><span class="citation" data-cites="phdthesis">@phdthesis</span>, <span class="citation" data-cites="mastersthesis">@mastersthesis</span></h5>
+<ul>
+<li>title</li>
+<li>author</li>
+<li>school</li>
+<li>year</li>
+</ul>
+</section>
+</section>
+<section id="books" class="level4">
+<h4 class="anchored" data-anchor-id="books">Books</h4>
+<p>The only publication type that is not created automatically from the bibtex file relates to book articles, because this page also uses an image of book. To add an additional book publication, add a new plain text file using the following header into the <code>publications/publications-books</code> folder along with an accompanying photo:</p>
+<pre><code>---
+title: "Asymptotics and blending in the modeling of welding"
+author: "Wang, Ying, Lu, Yi, Grams, Mitchell, Cesaro, Alejandro Hintze, Mendez, Patricio F."
+year: 2018
+booktitle: "Mathematical modelling of weld phenomena 12"
+pages: "NA"
+publisher: "NA"
+image: "mathematical-modelling-of-weld-phenomena-12.jpeg"
+---</code></pre>
+</section>
+</section>
+<section id="notes" class="level3">
+<h3 class="anchored" data-anchor-id="notes">Notes</h3>
+<p>The <code>build</code> folder contains python scripts that were used to originally pull student and equipment information from the google sheets documents used in the original site. The files are kept for completeness, but are not used directly by the website.</p>
+<p>All of the website rebuilds automatically in GitHub. One exception is the publication/citation index in the ‘What we do’ page. These numbers get pulled from Google Scholar, but google blocks automated attempts from some URLs. To re-render this page, it is best to do it locally by cloning the repository and running <code>quarto render about/what-we-do.qmd</code> (assuming that <a href="https://quarto.org/docs/get-started/">Quarto</a> is installed on the system).</p>
+</section>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

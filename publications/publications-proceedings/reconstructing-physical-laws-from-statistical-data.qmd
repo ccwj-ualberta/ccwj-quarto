@@ -1,0 +1,6 @@
+---
+title: "Reconstructing physical laws from statistical data"
+author: "Mendez, P. F."
+conference: "Department of physics"
+year: 2006
+---

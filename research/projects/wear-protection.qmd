@@ -1,0 +1,10 @@
+---
+title: "Processing and Microstructural Development of Wear Protection Coatings Based in the Fe-Cr-C System"
+subtitle: Wilkinson Steel Samuel, Son & Co., NSERC
+date: "2014-11-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
+categories: [Metallurgy]
+---
+
+This project will look for the first time in a scientific way the metallurgy of chrome carbide overlays. The topic is of much relevance to the Canadian economy because chrome carbide overlays are ubiquitous in the exploitation of natural resources. Increasing demands for quality and performance have resulted in problems in getting some product accepted, and without enough understanding of the fundamentals to make effective decisions about process improvement. The physical complexity of chrome carbide overlays has been beyond what industry could tackle independently, and technical have been made based on borrowed heuristics from white cast iron, which shares somewhat similar chemistry, but very different processing issues. The results of this proposal will enable Canadian manufacturers to understand the particular issues of overlays that affect quality and performance, and to know what can be controlled and how to obtain a world class product within economic constraints.

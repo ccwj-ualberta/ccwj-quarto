@@ -1,0 +1,6 @@
+---
+title: "Modeling of the plasma arc in gas tungsten arc welding"
+author: "SACCO HAWAS, S, P. F. Mendez"
+conference: "AWS Annual Meeting & Professional Program American Welding Society"
+year: 2022
+---

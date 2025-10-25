@@ -1,0 +1,6 @@
+---
+title: "Coupled analysis of heat transfer and temperature dependent plastic deformation in friction stir welding"
+author: "Mendez, P.F., Tello, K.E."
+conference: "IIW global trends in joining, cutting and surfacing technology"
+year: 2011
+---

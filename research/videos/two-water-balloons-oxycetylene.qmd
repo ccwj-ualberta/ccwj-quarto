@@ -1,0 +1,9 @@
+---
+title: Two Water Balloons Popped With An Oxyacetylene Torch
+image: https://img.youtube.com/vi/Y9kYm7rOQEs/hqdefault.jpg
+categories: Fun high-speed
+---
+
+A striker is used to ignite an oxyacetylene torch, producing a concentrated flame. When this flame is directed at each water balloon, the intense heat causes the balloon to burst immediately.
+
+{{< video https://youtu.be/Y9kYm7rOQEs?list=PLCBD5B4AAD9633DF1 >}}

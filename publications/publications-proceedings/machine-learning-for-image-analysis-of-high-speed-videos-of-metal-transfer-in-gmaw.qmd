@@ -1,0 +1,6 @@
+---
+title: "Machine learning for image analysis of high speed videos of metal transfer in GMAW"
+author: "Gonzalez, Ivan, Meruane, Viviana, Mendez, Patricio F."
+conference: "AWS annual meeting"
+year: 2021
+---

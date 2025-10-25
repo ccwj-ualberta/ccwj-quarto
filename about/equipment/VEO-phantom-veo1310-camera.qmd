@@ -1,0 +1,10 @@
+---
+title: Phantom VEO1310 High Speed Camera (monochrome)
+categories: [Characterization]
+image: VEO-phantom-veo1310-camera.png
+about:
+  template: solana
+  image: VEO-phantom-veo1310-camera.png
+---
+
+The Phantom VEO 1310 is an advanced high-speed camera featuring a custom 1.2-megapixel CMOS sensor, achieving recording speeds of over 10,800 frames per second (fps) at full resolution and even higher rates at reduced resolutions.

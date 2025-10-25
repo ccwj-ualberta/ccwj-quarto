@@ -1,0 +1,15 @@
+---
+title: Wesley Wood
+image: WW1 - Wesley Wood.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: WW1 - Wesley Wood.jpg
+  links:
+    - icon: email
+      text: wwood1@ualberta.ca
+      href: mailto:wwood1@ualberta.ca
+---
+
+Project: Control of a welding torch using Arduino Uno and Mach3 USB

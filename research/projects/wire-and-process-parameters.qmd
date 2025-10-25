@@ -1,0 +1,11 @@
+---
+title: "Welding, brazing, consumables, GMAW, copper alloys, aluminum alloys, deposition rate, solidification properties"
+subtitle: Lincoln Electric Canada
+date: "2021-06-01"
+date-format: "YYYY-MM"
+image: granting-logos/mitacs-accelerate.png
+categories: [Metallurgy]
+---
+
+The scope of the work is to investigate the effect of wire parameters (alloy, size, surface treatment), and process parameters (current, voltage, waveforms) on aluminum metal transfer, with the immediate goal of optimizing wire/process combinations, and the ultimate goal of providing Indalco with the knowledge to develop radically innovative products of currently inexistent properties.
+

@@ -1,0 +1,13 @@
+---
+title: Rick Sydora
+image: rick-sydora.png
+subtitle: Physics
+description: Plasmas
+about:
+  template: solana
+  image: rick-sydora.png
+---
+
+Professor Richard Sydora is a faculty member in the Department of Physics at the University of Alberta. His research focuses on plasma physics, including energy conversion, magnetic reconnection, particle acceleration, turbulence, and kinetic plasma simulation. He also works on plasma-based methods for surface modification and advanced coatings, applying his expertise in plasma modeling to support materials and surface engineering. Professor Sydora collaborates with the Canadian Centre for Welding and Joining on plasma-based surface engineering and coating technologies.
+
+Email: [rsydora@ualberta.ca](mailto:rsydora@ualberta.ca)

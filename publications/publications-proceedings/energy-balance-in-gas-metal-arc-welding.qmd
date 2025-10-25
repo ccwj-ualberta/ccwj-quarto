@@ -1,0 +1,6 @@
+---
+title: "Energy balance in gas metal arc welding"
+author: "Núñez Sánchez, Vicente, Mendez, Patricio F"
+conference: "CWB association annual meeting"
+year: 2022
+---

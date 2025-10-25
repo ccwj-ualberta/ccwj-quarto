@@ -1,0 +1,6 @@
+---
+title: "Joining metals using semi-solid slurries"
+author: "Mendez, P. F."
+school: "Massachusetts Institute of Technology"
+year: 1995
+---

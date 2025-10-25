@@ -1,0 +1,12 @@
+---
+title: "Develop an advanced manufacturing system for automated repairs of heavy machine components"
+subtitle: PrairiesCan, Group Six Technologies, KUKA, Octopuz, Weldco
+date: "2018-10-01"
+date-format: "YYYY-MM"
+image: granting-logos/prairies-can.png
+categories: [Welding Automation]
+---
+
+A significant component of manufacturing in Alberta is repairs of heavy components. Repairing worn components has significant economic and environmental advantages. Repairing components also enables companies to operate under reduced profit margins, which is a current constraint in Alberta operators of natural resources. Currently, repairs are carried out manually, or through automation that requires manual programming.
+
+The requirement of manual intervention slows down the process significantly making repairs less appealing. We propose to develop an infrastructure in which the programming of the robot is automated, such that parts can be repaired with a minimum of human intervention. This would involve a hardware, software, and training system in which an incoming part is scanned to generate a digital duplicate of the part to be repaired, a robot program will be created based on this information, and the weld-repair parameters are automatically selected to guarantee optimal performance of the component once back in the field.

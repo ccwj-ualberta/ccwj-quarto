@@ -1,0 +1,10 @@
+---
+title: Transvalor Transweld
+categories: [Computer / Software]
+image: TWEL-transvalor-transweld.jpg
+about:
+  template: solana
+  image: TWEL-transvalor-transweld.jpg
+---
+
+TRANSWELD software, developed by Transvalor, is used for predicting the thermomechanical behavior of assemblies during welding processes. It integrates multi-physical models to simulate the real behavior of metal in liquid, mushy, and solid states, allowing for a comprehensive analysis of material evolution. 

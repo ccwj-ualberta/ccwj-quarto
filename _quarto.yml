@@ -1,0 +1,147 @@
+project:
+  type: website
+
+  pre-render:
+    - publications/create-articles.R
+    - publications/create-proceedings.R
+    - publications/create-reports.R
+    - publications/create-theses.R
+    - people/create-postdocs-visitors.R
+
+website:
+  title: CCWJ
+  favicon: assets/CCWJ_white_logo.png
+  twitter-card: true
+  open-graph: true
+  back-to-top-navigation: true
+  site-url: https://stevenpawley.github.io/ccwj-quarto/
+
+  navbar:
+    title: false
+    background: primary
+    search: true
+    logo: assets/CCWJ_white_logo.png
+    logo-alt: Canada Centre for Welding and Joining
+    pinned: true
+
+    right:
+      - text: " "
+        icon: house-door-fill
+        href: index.html
+
+      - text: "About"
+        menu:
+          - about/about.qmd
+          - about/what-we-do.qmd
+          - about/advisory-boards.qmd
+          - text: "C:CLAD"
+            href: about/cclad.qmd
+          - about/lab.qmd
+          - about/collaborations.qmd
+          - about/sponsors.qmd
+          - about/directions.qmd
+
+      - text: "People"
+        menu:
+          - text: "Director"
+            href: people/director.qmd
+          - text: "Program Manager"
+            href: people/program-manager.qmd
+          - text: "Administration"
+            href: people/staff.qmd
+          - text: "Postdocs"
+            href: people/postdocs.qmd
+          - "---"
+          - text: "PhD students"
+            href: people/phds.qmd
+          - text: "MSc students"
+            href: people/mscs.qmd
+          - text: "BSc students"
+            href: people/bscs.qmd
+          - "---"
+          - text: "Visitors"
+            href: people/visitors.qmd
+          - "---"
+          - text: "Alumni"
+            href: people/alumn.qmd
+          - text: "Alumn (UG)"
+            href: people/alumn-ug.qmd
+          - text: "Alumn (visitor)"
+            href: people/alumn-visitors.qmd
+
+
+      - text: "Research"
+        menu:
+          - research/research.qmd
+          - research/projects.qmd
+          - publications/publications.qmd
+          - research/posters.qmd
+          - research/seminar-presentations.qmd
+          - research/conference-presentations.qmd
+          - research/videos.qmd
+
+      - text: "Teaching"
+        href: teaching/teaching.qmd
+
+      - text: "Join Us"
+        menu:
+          - apply/canadian.qmd
+          - apply/international.qmd
+          - apply/resources-for-visiting-students.qmd
+
+      - text: "News"
+        href: news/news.qmd
+
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/ccwj
+        target: "_blank"
+
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCjmYTs5g-pmBGTJncDJwVjg
+        target: "_blank"
+
+  sidebar:
+    - title: "People"
+      style: "floating"
+      contents:
+      - section: "Staff"
+        contents:
+          - people/director.qmd
+          - people/program-manager.qmd
+          - people/staff.qmd
+          - people/postdocs.qmd
+      - section: "Students"
+        contents:
+        - people/phds.qmd
+        - people/mscs.qmd
+        - people/bscs.qmd
+      - people/visitors.qmd
+      - section: "Alumni"
+        contents:
+        - people/alumn.qmd
+        - people/alumn-ug.qmd
+        - people/alumn-visitors.qmd
+
+  page-footer:
+    left: |
+      Contact Information <br>
+      [Professor Patricio Mendez](mailto:ccwj@ualberta.ca) <br>
+    center: |
+      Room CME L1-108 <br>
+      University of Alberta <br>
+      116 Street NW - 85 Avenue <br>
+      Edmonton, AB T6G 2R3 Canada
+    right: |
+      [Department of Chemical and Materials Engineering](https://www.ualberta.ca/engineering/chemical-materials-engineering/about-us/index.html) <br>
+      [Directions](https://sites.ualberta.ca/~ccwj/About/directions.html) <br>
+      [University of Alberta](https://www.ualberta.ca/)
+
+format:
+  html:
+    toc: false
+    page-layout: full
+    link-external-icon: false
+    link-external-newwindow: true
+    theme:
+      - custom.scss

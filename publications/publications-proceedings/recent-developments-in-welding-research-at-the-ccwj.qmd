@@ -1,0 +1,6 @@
+---
+title: "Recent developments in welding research at the CCWJ"
+author: "Mendez, Patricio F"
+conference: "CWB association annual meeting"
+year: 2022
+---

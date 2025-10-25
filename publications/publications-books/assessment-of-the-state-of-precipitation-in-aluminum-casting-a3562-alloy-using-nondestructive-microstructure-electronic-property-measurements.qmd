@@ -1,0 +1,8 @@
+---
+title: "Assessment of the state of precipitation in aluminum casting A356.2 alloy using nondestructive microstructure electronic property measurements"
+author: "Kiattisaksri, P., Gibbs, P. J., Koenig, K., Pfeif, E. A., Lasseigne, A. N., Mendez, P. F., Mishra, B., Olson, D. L."
+year: 2010
+booktitle: "Review of progress in quantitative nondestructive evaluation, vols 29a and 29b"
+pages: "1285—1292"
+publisher: "NA"
+---

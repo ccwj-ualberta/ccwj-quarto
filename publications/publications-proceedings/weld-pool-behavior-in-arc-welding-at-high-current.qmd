@@ -1,0 +1,6 @@
+---
+title: "Weld pool behavior in arc welding at high current"
+author: "Mendez, Patricio F."
+conference: "Fabtech/AWS annual meeting"
+year: 2007
+---

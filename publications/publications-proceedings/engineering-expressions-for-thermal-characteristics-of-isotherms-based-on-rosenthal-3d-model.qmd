@@ -1,0 +1,6 @@
+---
+title: "Engineering expressions for thermal characteristics of isotherms based on Rosenthal 3D model"
+author: "Wang, Ying, Mendez, Patricio F."
+conference: "IIW annual assembly"
+year: 2018
+---

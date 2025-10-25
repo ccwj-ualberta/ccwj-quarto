@@ -1,0 +1,12 @@
+---
+title: "News"
+listing: 
+  contents: news-articles
+  type: default
+  fields: [title, image, description, date]
+  image-height: "175px"
+  max-description-length: 400
+  filter-ui: true
+  sort: "date desc"
+page-layout: full
+---

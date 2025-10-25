@@ -1,0 +1,13 @@
+---
+title: Sina Ghaemi
+image: sina-ghaemi.png
+subtitle: Mechanical Engineering
+description: Hypersonics
+about:
+  template: solana
+  image: sina-ghaemi.png
+---
+
+Professor Sina Ghaemi is a faculty member in the Department of Mechanical Engineering at the University of Alberta. His research focuses on aerodynamics, turbulent flows, and flow control techniques, including both passive and active manipulation of turbulence. He employs advanced measurement methods such as volumetric velocimetry, tomographic-PIV, and Lagrangian particle tracking to study complex fluid phenomena. Professor Ghaemi collaborates with the Canadian Centre for Welding and Joining on hypersonics research, contributing his expertise in high-speed fluid dynamics and boundary-layer control.
+
+Email: [ghaemi@ualberta.ca](mailto:ghaemi@ualberta.ca)

@@ -1,0 +1,15 @@
+---
+title: Thuong Nguyen
+image: TN1 - Thuong Nguyen.jpg
+subtitle: Chemical
+priority: 1
+about:
+  template: trestles
+  image: TN1 - Thuong Nguyen.jpg
+  links:
+    - icon: email
+      text: thuong@ualberta.ca
+      href: mailto:thuong@ualberta.ca
+---
+
+Project: Gathering data from welding textbooks to generate mathematical models

@@ -1,0 +1,13 @@
+---
+title: "Deposition of abrasion-resistant Ni-WC metal matrix composites using Hot Wire TIG Welding"
+subtitle: Hitachi Canada Industries, NSERC
+date: "2006-12-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
+categories: [Physics of Welding, Metallurgy]
+---
+
+This work explores using the technology of Hot Wire TIG to deposit Ni/WC wear protection welded overlays. Ni/WC overlays are generally agreed to be the materials with the best cost-performance balance for oil sands extraction and many other mining operations used to benefit from Canada's abundant resources. These overlays are extremely sensitive to overheating in the molten state, resulting in dissolution of the reinforcement with serious detriment to wear performance. The alternatives to creating these wear resistant deposits is to use a technique called plasma transferred arc welding (PTAW) which involves expensive capital equipment, relatively low productivity, and lack of flexibility for out of position and field repair applications. 
+
+The proposed investigation aims at exploring a technology of lower capital costs than PTA, with much higher potential for productivity, and with same or better wear performance. The challenge resides in understanding the process conditions, which have never been tackled before. This involves extensive experimentation, heat transfer, fluid flow, and thermodynamic analysis, as well as metallographic and electron microscopy analysis. The impact of this work is high, with the possibility of enabling small and medium enterprises to expand their offer of services and products into a very profitable market. This will position Canadian industries in a competitive position worldwide in the manufacturing of mining equipment. This project is and expansion of promising research work developed under an NSERC Engage grant.
+

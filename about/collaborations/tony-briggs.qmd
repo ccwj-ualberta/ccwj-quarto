@@ -1,0 +1,13 @@
+---
+title: Tony Briggs
+image: tony-briggs.png
+subtitle: Business
+description: Entrepreneurship
+about:
+  template: solana
+  image: tony-briggs.png
+---
+
+Professor Tony Briggs is an Executive Professor in Innovation and Entrepreneurship in the Alberta School of Business at the University of Alberta. He also serves as Executive Director of the eHUB Entrepreneurship Centre and co-founded several university innovation initiatives, including Entrepreneurship@UAlberta and the Venture Mentoring Service. His research explores how entrepreneurs develop and evaluate novel ideas under uncertainty, and how intellectual property and technology strategies influence innovation outcomes. Professor Briggs holds advanced degrees from MIT, Boston University, and the University of British Columbia, and has extensive experience in entrepreneurship education and technology commercialization.
+
+Email: [abriggs@ualberta.ca](mailto:abriggs@ualberta.ca)

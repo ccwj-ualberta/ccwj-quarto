@@ -1,0 +1,10 @@
+---
+title: "Theses"
+listing:
+  template: _ejs/publications-reports.ejs
+  contents: publications-theses
+  sort: "year desc"
+  page-size: 30
+  filter-ui: true
+page-layout: full
+---

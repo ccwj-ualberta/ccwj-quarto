@@ -1,0 +1,6 @@
+---
+title: "Predictive expressions for welding residual stress and distortion"
+author: "Grams, Mitchell, Mendez, Patricio F."
+conference: "AWS annual meeting"
+year: 2022
+---

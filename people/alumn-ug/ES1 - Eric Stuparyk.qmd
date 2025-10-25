@@ -1,0 +1,15 @@
+---
+title: Eric Stuparyk
+image: ES1 - Eric Stuparyk.jpeg
+subtitle: Chemical Engineering
+priority: 1
+about:
+  template: trestles
+  image: ES1 - Eric Stuparyk.jpeg
+  links:
+    - icon: email
+      text: estupary@ualberta.ca
+      href: mailto:estupary@ualberta.ca
+---
+
+Project: Database of Material Properties

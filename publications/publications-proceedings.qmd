@@ -1,0 +1,10 @@
+---
+title: "Conference Proceedings"
+listing:
+  template: _ejs/publications-proceedings.ejs
+  contents: publications-proceedings
+  sort: "year desc"
+  page-size: 30
+  filter-ui: true
+page-layout: full
+---

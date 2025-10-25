@@ -1,0 +1,13 @@
+---
+title: Jason Olfert
+image: jason-olfert.png
+subtitle: Mechanical Engineering
+description: Welding Emmissions
+about:
+  template: solana
+  image: jason-olfert.png
+---
+
+Professor Jason Olfert is a Professor of Mechanical Engineering at the University of Alberta. His research focuses on aerosol science, particularly the measurement and characterization of particulate emissions from combustion and industrial sources. He has developed novel aerosol instruments and studied particle formation in internal combustion engines, gas turbines, flares, and welding processes. His work contributes to improving air quality and understanding the climate effects of emissions. Professor Olfert is internationally recognized for his innovations in aerosol measurement and has received multiple awards, including the Masao Horiba and Fissan-Pui-TSI Awards for excellence in aerosol research
+
+Email: [jolfert@ualberta.ca](mailto:jolfert@ualberta.ca)

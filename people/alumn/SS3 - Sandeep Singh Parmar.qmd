@@ -1,0 +1,25 @@
+---
+title: Sandeep Singh Parmar
+image: SS3 - Sandeep Singh Parmar.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: SS3 - Sandeep Singh Parmar.jpg
+  links:
+    - icon: email
+      text: sandeeps@ualberta.ca
+      href: mailto:sandeeps@ualberta.ca
+    - icon: linkedin
+      text: sandeep-singh-b3194019
+      href: https://www.linkedin.com/in/sandeep-singh-b3194019/
+---
+
+Sandeep joined the CCWJ as a materials engineering student in September of 2022. Hailing from India, he has worked with Indian and American multinationals as a welding engineer with over a decade of experience. During his time with the CCWJ, he worked on the correlation of the macro and micro properties of a martensitic stainless steel with a colleague from his former employer as a sponsor.
+
+His awards include the Bronze Award for development and deployment of fixture for Procedure and Performance Qualification at General Electric and the Silver Award for Increase of the weld deposition rate at General Electric in the year 2017.
+
+##### Prior Degrees:
+
+Bachelor of Technology, Mechanical Engineering, 2008
+

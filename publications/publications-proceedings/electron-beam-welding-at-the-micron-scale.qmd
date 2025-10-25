@@ -1,0 +1,6 @@
+---
+title: "Electron beam welding at the micron scale"
+author: "Mendez, P. F., Sanders, M."
+conference: "MS&T"
+year: 2006
+---

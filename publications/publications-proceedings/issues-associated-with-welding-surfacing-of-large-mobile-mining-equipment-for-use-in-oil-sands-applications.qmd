@@ -1,0 +1,6 @@
+---
+title: "Issues associated with welding & surfacing of large mobile mining equipment for use in oil sands applications"
+author: "Barnes, N., Mendez, P. F."
+conference: "CanWeld/CWA annual meeting"
+year: 2015
+---

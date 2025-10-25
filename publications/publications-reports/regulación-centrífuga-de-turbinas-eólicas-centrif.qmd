@@ -1,0 +1,6 @@
+---
+title: "Regulación centrífuga de turbinas eólicas (centrifugal governors on wind turbines)"
+author: "Mendez, P. F., Bastianon, R. A."
+institution: "Universidad de Buenos Aires"
+year: 1992
+---

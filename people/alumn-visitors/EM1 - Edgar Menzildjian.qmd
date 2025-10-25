@@ -1,0 +1,17 @@
+---
+title: Edgar Menzildjian
+image: EM1 - Edgar Menzildjian.jpg
+subtitle: Materials Engineering, Chemical Engineering, Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: EM1 - Edgar Menzildjian.jpg
+  links:
+    - icon: email
+      text: menzildj@ualberta.ca
+      href: mailto:menzildj@ualberta.ca
+---
+
+Country of Origin: France  
+Affiliated Institution: Polytech Montpellier, Montpellier, France  
+Project: Friction Stir Welding of Dissimilar Al alloys

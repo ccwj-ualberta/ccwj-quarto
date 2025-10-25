@@ -1,0 +1,20 @@
+---
+title: Aditya Kelkar
+image: AK2 - Aditya Rahul Kelkar.jpg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: AK2 - Aditya Rahul Kelkar.jpg
+  links:
+    - icon: email
+      text: akelkar@ualberta.ca
+      href: mailto:akelkar@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aditya-kelkar-a6994a1b6
+---
+
+Country of Origin: India via the MITACS program  
+Affiliated Institution: College of Engineering, Pune, Maharashtra  
+Project: Physics of Thermal Plasmas at Atmospheric Pressure

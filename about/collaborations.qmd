@@ -1,0 +1,17 @@
+---
+title: "Collaborations"
+listing:
+- id: collaborators
+  contents: collaborations
+  type: grid
+  grid-columns: 4
+  sort-ui: false
+  filter-ui: false
+  page-size: 36
+  image-height: 225px
+  fields: [title, subtitle, description, image]
+  grid-item-border: false
+---
+
+:::{#collaborators}
+:::

@@ -1,0 +1,11 @@
+---
+title: "Developing a quantitative model of hydrogen through the complete production cycle of heat-treated, high-carbon grinding and SAG product"
+subtitle: AltaSteel
+date: "2020-09-01"
+date-format: "YYYY-MM"
+image: granting-logos/industrial-research.png
+categories: [Physics of Welding, Numerical Modelling]
+---
+
+The scope of the work is to model hydrogen content in the product as it goes through the processing steps, accounting simultaneously for the effects of time and temperature. This integrated model will benefit from multiple approaches as needed, with faster (but coarser) analysis for stages of low influence, and more detailed (but also more time-consuming) analysis for the stages of higher expected influence.
+

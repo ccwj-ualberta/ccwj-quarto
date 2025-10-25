@@ -1,0 +1,6 @@
+---
+title: "Effect of heat transfer on electrode extension and droplet formation in GMAW"
+author: "Soderstrom, Erik, Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2007
+---

@@ -1,0 +1,6 @@
+---
+title: "Examination of pitting fatigue in carburized steels with controlled retained austenite fractions"
+author: "Wagar, Ryan M., Speer, John G., Matlock, David K., Mendez, Patricio F."
+conference: "SAE transactions, journal of materials and manufacturing"
+year: 2005
+---

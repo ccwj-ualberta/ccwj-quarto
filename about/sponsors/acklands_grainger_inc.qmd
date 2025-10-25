@@ -1,0 +1,8 @@
+---
+title: Acklands Grainger Inc.
+categories: [Welco industry chair]
+image: ../../assets/about-us/sponsors-logos/AG1_Acklands.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/AG1_Acklands.jpg
+---

@@ -1,0 +1,23 @@
+---
+title: Preetam Panja
+image: PP1 - Preetam Panja.jpg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: PP1 - Preetam Panja.jpg
+  links:
+    - icon: email
+      text: panja@ualberta.ca
+      href: mailto:panja@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/preetam-panja-13b319148/
+---
+
+Preetam Panja joined the CCWJ in September of 2021 as a Masters Student. Prior, he worked in the welding industry as a sales and application engineer where he researched and developed new welding procedures specifications (WPS) to help customers increase their productivity by minimizing overall cost while maintaining quality. He successfully developed a titanium welding procedure for pressure vessel equipment manufacturers by adhering to welding codes (ASME section IX) to increase productivity by 60%, saving the overall welding cost by 47% which resulted in increasing the company's net revenue by 28%.   
+
+
+##### Prior Degrees
+
+Bachelor of Engineering in Mechanical Engineering, University of Mumbai, India, 2017 

@@ -1,0 +1,10 @@
+---
+title: XIRIS XVC-1100 Camera
+categories: [Characterization]
+image: XIR1-xiris-xvc-1100-camera.jpg
+about:
+  template: solana
+  image: XIR1-xiris-xvc-1100-camera.jpg
+---
+
+The Xiris XVC-1100 Weld Camera is a fully digital camera designed for monitoring open arc welding processes. It features a spectacular 140+ dB High Dynamic Range (HDR) capability.

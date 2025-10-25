@@ -1,0 +1,6 @@
+---
+title: "Metallurgy of welding and heat-treating of P91 steel"
+author: "Li, L., Mendez, P. F., Wang, Y. J., Yin, Z."
+conference: "CanWeld/CWA annual meeting"
+year: 2014
+---

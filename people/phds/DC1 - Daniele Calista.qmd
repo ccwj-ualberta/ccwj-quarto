@@ -1,0 +1,30 @@
+---
+title: Daniele Calista
+image: DC1 - Daniele Calista.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: DC1 - Daniele Calista.jpg
+  links:
+    - icon: email
+      text: dcalista@ualberta.ca
+      href: mailto:dcalista@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/danielecalista/
+---
+
+Daniele Calista is a PhD Candidate with the CCWJ, where he has been conducting research since 2022. His thesis involves understanding the fundamentals behind the high-frequency electric resistance welding (HF-ERW) of tubular products, including line pipe, casings, and conduit. Through examining how welding parameters influence defect development, Daniele aims to improve the integrity and performance of HF-ERW products. His research supports the application of these materials in demanding conditions, particularly for renewable energy initiatives like hydrogen transport and CO₂ sequestration. Guided by industry partner EVRAZ Inc. North America Canada, the project seeks to optimize manufacturing processes, reduce waste and costs, and enable the reliable production of high-quality welded components.
+
+Beyond academia, Daniele's hobbies include 3D Modelling and printing, and playing and officiating ice hockey, ball hockey, and volleyball. He is also interested in IMSA LMP racecars and racecar engineering. 
+
+
+##### Prior Degrees
+
+BSc in Materials Engineering (Co-op), University of Alberta, 2022
+
+
+##### Selected Accomplishments 
+
+Alberta Graduate Excellence Scholarship (x2), CWB-F/CCWJ Outstanding Team Member (x2), AWS District 19 Student Chapter Member Award

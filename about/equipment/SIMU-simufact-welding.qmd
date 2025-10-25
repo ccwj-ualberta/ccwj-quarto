@@ -1,0 +1,10 @@
+---
+title: MSC Simufact Welding
+categories: [Computer / Software]
+image: SIMU-simufact-welding.jpg
+about:
+  template: solana
+  image: SIMU-simufact-welding.jpg
+---
+
+Welding software used to model and optimize a variety of thermal joining processes, taking into account the orientation. It can predict phase transformations in the heat-affected zone, thus helps understand the weld structure in the HAZ. Simufact Welding succeeds in realistically predicting the distortions and residual stresses that occur during welding.

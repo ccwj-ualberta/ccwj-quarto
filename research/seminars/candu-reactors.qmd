@@ -1,0 +1,13 @@
+---
+title: "Materials and Manufacturing Issues in CANDU Reactors"
+author: "Marcelo Liendo"
+date: "2013-03-14"
+image: candu-reactors.png
+description: "Operation principles of the CANDU reactor, the history and evolution of the technology, and a comparison with other power reactors. This includes also a brief description of the main components of the reactor, materials and manufacturing processed involved."
+---
+
+Nuclear energy is experiencing a renewed interest as a carbon neutral, reliable source of energy. This brings new opportunities for the manufacturing industry, particularly as with the new small modular nuclear reactors there is a shift from on-site production to prefabrication of modules in a shop environment. This presentation will provide a technical context of the CANada Deuterium Uranium (CANDU) technology, which is a successful reactor technology that was developed in Canada and is used around the world. The presentation will cover the operation principle of the CANDU reactor, the history and evolution of the technology, and a comparison with other power reactors. This includes also a brief description of the main components of the reactor, materials and manufacturing processed involved.
+
+```{=html}
+<iframe src="https://drive.google.com/file/d/1cv8q938Ko1HffZ5wSwpxF1cxjMDnPJOK/preview" width="640" height="360" allow="autoplay"></iframe>
+```

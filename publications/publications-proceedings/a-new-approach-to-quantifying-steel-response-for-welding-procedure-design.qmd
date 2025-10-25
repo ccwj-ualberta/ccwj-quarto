@@ -1,0 +1,6 @@
+---
+title: "A new approach to quantifying steel response for welding procedure design"
+author: "Kamyabi-Gol, Ata, Mendez, P. F."
+conference: "Canweld/CWA annual meeting"
+year: 2014
+---

@@ -1,0 +1,553 @@
+---
+title: "MATE 481/681 - Fundamentals of Welding"
+author: "Professor Patricio Mendez"
+image: welding-fundamentals.png
+date: "2024-09-01"
+date-format: YYYY
+format:
+  html:
+    toc-expand: 2
+    toc-depth: 2
+    link-external-icon: true
+    link-external-new-tab: true
+---
+
+## Introduction
+
+Welcome to MATE 481/681. This is an engineering course in which we aim at introducing students
+to the fundamental aspects of welding engineering in the best possible way: in front of the actual
+equipment. The course has a significant lab demonstration component.
+
+After completing this course students should master the concepts related to a vast variety of
+welding processes, the laws of nature on which they operate, related materials issues, and the
+practical implications of the new concepts learned, including the writing of a welding procedure.
+
+The TAs and I have prepared this course with much love and effort. This course has been much
+appreciated by students over many years now. We hope that in addition to learning much, you’ll
+also have an enjoyable experience.
+
+Thank you for choosing to take this course!
+
+::: callout-note
+### Syllabus
+[Syllabus 2024](https://drive.google.com/file/d/1YSuHw4qEMjDh7erKTtfvfwiLrc5NYqAO/view?usp=sharing)
+:::
+
+## Lecture series (2021)
+
+{{< video https://youtu.be/1b-tkZaqVh8?list=PLq-4Q87XIqZEqdXkGjOuCn6tDQ3yt37z4 >}}
+
+## Course materials
+
+::: {.columns}
+:::: {.column width="20%"}
+Introduction to Welding
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/1mnfybP5p1QE_XDrnqVwLAcY35Hn-lVfS/view?usp=sharing)
+
+[Welding processes for aeronautics](https://drive.google.com/file/d/12oYNo43Ups2x-1Sgm5Ldio-wrFKlg34r/view?usp=sharing)
+
+[Welding fundamentals](https://drive.google.com/file/d/1_HocWrmx_oeIW6v0YETOgjEL2bUiKoHe/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[Semi-solid additive manufacturing](https://drive.google.com/file/d/1eUhSkjkff7EUtdqjA6RO9yIMVXfc60zD/view?usp=sharing)
+
+[The welding of the Saturn V](https://drive.google.com/file/d/1xlf0vfAyTAYqh0fAXPgtbv8DkzClE_XP/view?usp=sharing)
+
+[The joy of welding](https://drive.google.com/file/d/18b0n_86eBqd2_kntyyWnVMJDGgC13dGN/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Concept of Joining
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/10Wxbup2NvAjtJWZq9jv7AK-KfjABuxsi/view?usp=sharing)
+
+[Zip fasteners](https://drive.google.com/file/d/1OCdRTJdVel_FkH1wVCdRFlfZmaBuCqzc/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[Ti6Al4V titanium alloy welded using concentrated solar energy](https://drive.google.com/file/d/15wTtRw6Yso1lcBJ7vWBBypSB5ws2833i/view?usp=sharing)
+
+[Rykalin using concentrated solar radiation for welding metals](https://drive.google.com/file/d/1hJ-GP28dCtuMnAve1MrnPqRIyrVhkP6J/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Safety
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/1dHdi471CzWQh_8UCQT7Kzn5H1qUzQ0je/view?usp=sharing)
+
+[Lincoln Safety E205](https://drive.google.com/file/d/1YmwOLqG_3WWkarId1g4Ng5SC6wbrIVLI/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[Laser safety manual](https://drive.google.com/file/d/1UMVTpiqMmx7l_JRLC-g6Ao_TBblp5bvS/view?usp=sharing)
+
+[Safety in welding, cutting, and allied processes](https://drive.google.com/file/d/114ykFxDt5LR4-DukxkSW-avZlg4reesO/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding terminology
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/1jPojAjEq3s5-M19n6BybUwgZ9FqJOkHe/view?usp=sharing)
+
+[Lincoln Welding Fillet Positions](https://drive.google.com/file/d/1LDgLgwqfMupUHLwp11FHWU8WFtO6EGBc/view?usp=sharing)
+
+[Weld discontinuities](https://drive.google.com/file/d/1OL58GPZ58So7XW4pGrgk214b6YYBBGfE/view?usp=sharing)
+
+[Lincoln Weld Joints and Symbols](https://drive.google.com/file/d/1k5A0zwRLFba1w9MrLVBQ1e98nsVEYLd5/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[Weld imperfections and preventative measures](https://drive.google.com/file/d/1mkFh4V4rgMz8qxcGOseJ5RCZ3RM-Dd52/view?usp=sharing)
+
+[Lincoln Pipe Welding Position](https://drive.google.com/file/d/1LaM_dpELrCaVnfFlHom76rURHxIJlT_p/view?usp=sharing)
+
+[Lincoln Parts of a Weld](https://drive.google.com/file/d/1EUkG4G4zy2ImKwNxGk0OjPXri-AMGzMe/view?usp=sharing)
+
+[Weld positions international](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TER_Welding_Terminology/Supplemental_Material/weld_positions_international.pdf)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding Symbols
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1jvSxPOeJuW5zmsq2L3TAIOQSxU2HbGiU/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding Processes Arc
+::::
+
+:::: {.column width="25%"}
+[Strip cladding Lincoln](https://drive.google.com/file/d/1Bwxlp2UZXf4ze4bkXZuynElUhCmspe12/view?usp=sharing)
+
+[SMAW Miller](https://drive.google.com/file/d/1kDL8_KHd3oX6cxCFJGd-6_Ww_ievStDt/view?usp=sharing)
+
+[SAW Lincoln](https://drive.google.com/file/d/1CNIqpopiYvkatza7PqNWAQb9bpU7ctJL/view?usp=sharing)
+
+[Strip cladding ESAB](https://drive.google.com/file/d/1DPkd4t46MK_FrxmkxchoghBMuLVQFwaM/view?usp=sharing)
+::::
+
+:::: {.column width="25%"}
+[SAW Miller](https://drive.google.com/file/d/19woQ1GX2Rmg8qEbwElk13GH5SpZLHQdM/view?usp=sharing)
+
+[SMAW Lincoln 2011](https://drive.google.com/file/d/1I_55jsiB-eR8EJRjgdjpOFAvt1DUgasi/view?usp=sharing)
+
+[SMAW Lincoln 2014](https://drive.google.com/file/d/1OFAWIiSotSlxVOFgSsnhSOLNRNnpZa8d/view?usp=sharing)
+
+[GTAW Miller](https://drive.google.com/file/d/1pgLdGtBOKBIqK7Djid2FyX-IUtL5bmQE/view?usp=sharing)
+::::
+
+:::: {.column width="25%"}
+[FCAW Lincoln](https://drive.google.com/file/d/1UrLwps2eYXohFmEKRbhSyIenFAxMrtLN/view?usp=sharing)
+
+[PTAW Eutectic](https://drive.google.com/file/d/1rLqgdUXN_e40dFf-MnP0YkW4RcfsKiVI/view?usp=sharing)
+
+[FCAW Bohler](https://drive.google.com/file/d/1q0ByUS4UGVj-j37xBVhasJI900ZEoeC1/view?usp=sharing)
+
+[GMAW Lincoln](https://drive.google.com/file/d/1RjkobDR8rTrLVbdWo4faAbwY4iFaASOD/view?usp=sharing)
+
+[GMAW Miller](https://drive.google.com/file/d/11GY5pMGcCfrpoAFHtI7kzSB2U-yurr63/view?usp=sharing)
+::::
+
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding Processes Beam
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/18LYP-kPpiIPWxUnpRcCM8-K7fD-auFj3/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding Electric Resistance
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1I6hkJiVLuyZwshx3D9W2uggMb2IOkNZV/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding Processes Solid State
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/105jr8pp7vI1pP8rPfNaXwV6ptHcSQ1sy/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding Processes Chemical
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/15b4tVujghAi48DJhyqNeL_4Cx0aatOyb/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding Processes Brazing Soldering
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/15-gnZMnXZAam_9uZh_oa-ufu8cYKJ4sQ/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Naming Welding Consumables
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/1wp4h7UXW7vvgTguW12hXy_GOkXpf4F0p/view?usp=sharing)
+
+[aws classification Hobart](https://drive.google.com/file/d/16Oo-JlrDfh3FyPbrbR93O72e8UaTSUZU/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[Lesson3](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/NWC_Naming_Welding_Consumables/Supplemental_Material/Lesson3.pdf)
+
+[aws classification Lincoln](https://drive.google.com/file/d/1mRpy4kioumfFDI74lcvK51Kb0EUC3kbD/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Fluxes and Slags
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1_Xe91b95YKHDnP5wBPLzdu4kfDbQradT/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Common Welding Procedures
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1fuqdny4IsFZo_X0tllvXuOH-rfmr2-CX/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Basics of Carbon Steel
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1khTgyKBV8yLODcwHIvBHAZ-wP4jvopp5/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Prediction of Hardness
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/1iPFEuP5rIYk3AzIqf4EZ8BAnWIqJrDed/view?usp=sharing)
+
+[hintze19 hardness models steel](https://drive.google.com/file/d/16wkx9hTmWRVWS6vw3kB6jy2RbcUL6y2R/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[Carbon Equivalent Wesley Wang](https://drive.google.com/file/d/1vAX5K8XspxS-ZbOzXupDxNBxbVf9sZTw/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Steel Weld Microstructures
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/18nlX5IPEkeinxMnHO7lN-hdC27hd1q8t/view?usp=sharing)
+
+[IIW IX-1533-88 Guide to microscopy](https://drive.google.com/file/d/1joYUAbPlIraKej9Z9qNrhuGUC-SD3K3I/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[thewlis04](https://drive.google.com/file/d/1mlWC9fw_JsXqFOZN9TqZtt3Bra3nWOyT/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Heat Affected Zone
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1SdaDEOlHbh9LtvXF87QZqvCqEeL9z7E_/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Basics of Stainless Steels
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/1C6rhg9eo3qTrpJosFwneTU2aMBI0wUhb/view?usp=sharing)
+
+[Lincoln Guide Stainless Steels](https://drive.google.com/file/d/1pza_glEFAuCrY_cQ68F79QiXRJRbVaLh/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[avesta](https://drive.google.com/file/d/1Lnz18y4D70DSRR4UqIK4-1H-G1n_dZ0j/view?usp=sharing)
+
+[GMAW of Stainless Steel (P-8137A)](https://drive.google.com/file/d/1mdcZzE5o1tY-_3GMS1edGhLrYuGt_vob/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding Arc
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/1AriDA1JCWeVHk3Ay_b2llDrnahBkPbdH/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[Handout](https://drive.google.com/file/d/1A25m_vRUljQiHrSNID1HZ6m1V8icaxHW/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Voltage in Arc Welding
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/1HUVloLa4bzjLi4GZXaWg0UlJcvBsduJS/view?usp=sharing)
+
+[sokolov70 DETERMINING THE INTRINSIC INDUCTANCE OF RECTILINEAR CONDUCTORS](https://drive.google.com/file/d/1JvJPTvGAHDYMNH4IiIMVqg5sCD1aEoIJ/view?usp=sharing)
+
+[Calculator for Impedance of a Round Straight Wire](https://drive.google.com/file/d/1uo6uI4Dbo0zY6cgRRVvMZM9hRdII8ymK/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[https://drive.google.com/file/d/16H3pK09GJClR1rT3B1xwn7363M2Yxq9j/view?usp=sharing)
+
+[Selecting the Proper Size Welding Cables](https://drive.google.com/file/d/1mZouErP_f1V6G4JyIXZpC2H7xQjQ_Iv8/view?usp=sharing)
+
+[G3YNH info Components and Materials Part 1](https://drive.google.com/file/d/1kuh3k1prD0cj-0I_LKTCI-mj_sxuGSyb/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Metal Transfer
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1W_i2VMm1HgpCfI24dK5GLnSJQ4uHLvKo/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Deposition Rate in Arc Welding
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/1IJOnOo0HqZcv2hXLaJXxYFiSTy_jyA4U/view?usp=sharing)
+::::
+
+:::: {.column width="40%"}
+[DAW Deposition Rate in Arc Welding ](https://drive.google.com/file/d/1awGaxIDh8gmNGGRe0UbUn4oCAYbWEz6g/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Mass Balance
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/17Q3UPt2m92aPMFTvywJem9P6hA9hLFsh/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Welding Efficiencies
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1Yz81JHsT4OkSpnaFSmw1y_KztONiU1OJ/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Temperature in Welding
+::::
+
+:::: {.column width="40%"}
+[Slides](https://drive.google.com/file/d/13Rm7MbV1zViNZ_3TJmXrKP5ZlNhrO49D/view?usp=sharing)
+
+[wang19 thick 2](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/Supplemental_Material/wang19_thick_2.pdf)
+
+[lu20 thin 2](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/Supplemental_Material/lu20_thin_2.pdf)
+::::
+
+:::: {.column width="40%"}
+[lu20 thin 1](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/Supplemental_Material/lu20_thin_1.pdf)
+
+[mendez18 thick 1](https://sites.ualberta.ca/~ccwj/Assets/Teaching/MATE481/TEM_Temperature_in_Welding/Supplemental_Material/mendez18_thick_1.pdf)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Weld Pool
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1ZEGu8G7_ek5XehZ-a6vT6hKf-kNc8-o_/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Design Considerations
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1hFWCk-c7iurBz-h1_cWP6qbtxWFXv2ZC/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Dimensioning Fillet Welds
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1rmaAbzA5fhryKX6LoF8GALwGWUP40A2Z/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Residual Stress in Weldments
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/16ZMj5irFRd_LzeOTXe51xmRclgbgY0dY/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Non-Destructive Testing
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1husJe9mxoxMRbyLtHF5HHiT5OZJFWTnn/view?usp=sharing)
+::::
+:::
+
+---
+
+::: {.columns}
+:::: {.column width="20%"}
+Weld Overlays for Wear
+::::
+
+:::: {.column width="80%"}
+[Slides](https://drive.google.com/file/d/1bQAOrR43ZTjw5fpV4qtZtSERoxmTmvXh/view?usp=sharing)
+::::
+:::

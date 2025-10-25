@@ -1,0 +1,6 @@
+---
+title: "Modeling of simultaneous heat transfer and deformation in friction stir welding"
+author: "Roubidoux, J. A., Mendez, P. F., Lienert, T. J."
+conference: "Fabtech/AWS annual meeting"
+year: 2006
+---

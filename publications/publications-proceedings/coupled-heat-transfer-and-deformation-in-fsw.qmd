@@ -1,0 +1,6 @@
+---
+title: "Coupled heat transfer and deformation in FSW"
+author: "Mendez, P. F."
+conference: "Materials joining group"
+year: 2011
+---

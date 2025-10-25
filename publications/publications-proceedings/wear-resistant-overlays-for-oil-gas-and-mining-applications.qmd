@@ -1,0 +1,6 @@
+---
+title: "Wear resistant overlays for oil, gas, and mining applications"
+author: "Mendez, P. F."
+conference: "Fabtech/AWS annual meeting. Plenary lecture"
+year: 2014
+---

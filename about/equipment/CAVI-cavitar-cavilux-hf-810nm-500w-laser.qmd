@@ -1,0 +1,10 @@
+---
+title: Cavitar Cavilux HF 810nm 500W laser
+categories: [Characterization]
+image: CAVI-cavitar-cavilux-hf-810nm-500w-laser.jpg
+about:
+  template: solana
+  image: CAVI-cavitar-cavilux-hf-810nm-500w-laser.jpg
+---
+
+The CAVILUX HF is a versatile and powerful pulsed diode laser light source designed for high-speed illumination in scientific and industrial applications. It operates at either 640 nm (visible) or 810 nm (invisible), with an output power of up to 500 W coupled to a 1.5 mm diameter fiber. The laser offers precise illumination, camera synchronization, and compatibility with high-speed cameras.

@@ -1,0 +1,6 @@
+---
+title: "Investigación en soldadura en el MIT y panorama de la industria de la soldadura en los estados unidos (welding research at MIT and overview of the welding industry in the united states)"
+author: "Mendez, P. F."
+conference: "Tecnologías de la soldadura y unión de materiales"
+year: 1999
+---

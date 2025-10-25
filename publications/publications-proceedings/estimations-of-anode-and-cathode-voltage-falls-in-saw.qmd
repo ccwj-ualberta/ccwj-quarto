@@ -1,0 +1,6 @@
+---
+title: "Estimations of anode and cathode voltage falls in SAW"
+author: "Havrylov, D, Sengupta, Vivek, McIntosh, Cory, Mendez, P. F."
+conference: "Fabtech/AWS meeting"
+year: 2017
+---

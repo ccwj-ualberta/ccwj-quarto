@@ -1,0 +1,6 @@
+---
+title: "Scaling of the cathode region of a long GTA welding arc"
+author: "Mendez, P. F., Ramirez, M. A., Trapaga, G., Eagar, T. W."
+conference: "Advances in computational engineering & sciences, proceedings of the ICES'2K conference"
+year: 2000
+---

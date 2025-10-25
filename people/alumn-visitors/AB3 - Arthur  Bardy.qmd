@@ -1,0 +1,17 @@
+---
+title: Arthur  Bardy
+image: AB3 - Arthur Bardy.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: AB3 - Arthur Bardy.jpg
+  links:
+    - icon: email
+      text: arthur.bardy@gmail.com
+      href: mailto:arthur.bardy@gmail.com
+---
+
+Country of Origin: France  
+Affiliated Institution: Polytech Montpellier, Montpellier, France  
+Project: Friction Stir Welding of Dissimilar Al alloys

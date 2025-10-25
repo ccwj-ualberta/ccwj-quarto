@@ -1,0 +1,37 @@
+---
+title: Nitheesh Kumar Ramasamy
+image: NK1 - Nitheesh Kumar Ramasamy.JPG
+subtitle: Materials Engineering
+priority: 2
+about:
+  template: trestles
+  image: NK1 - Nitheesh Kumar Ramasamy.JPG
+  links:
+    - icon: email
+      text: nitheesh@ualberta.ca
+      href: mailto:nitheesh@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nitheesh-kumar-r/
+
+---
+
+Nitheesh Kumar Ramasamy joined the CCWJ in 2023. Currently a Masters Student, he was previously a research intern at the CCWJ in the summer of 2022 through MITACS Globalink. He is also the Secretary & Treasurer for the University of Alberta AWS/CWBA Student Chapter. Nitheesh is primarily working on the assessment of thermophysical properties for the modelling of Welding and Additive Manufacturing. His work includes critically evaluating the quality of data from different sources of material thermophysical properties, reporting the observed deviation between sources, and effective values of these properties for temperature range relevant to welding. 
+
+
+Nitheesh's work helps industry predict welding and additive manufacturing outcomes using multi-physics process models that depend on the accuracy of material properties used, providing reliable material property data for critical predictions. 
+
+Beyond academics, Nitheesh enjoys playing chess, cricket, and watching movies.
+
+
+
+##### Prior Degrees
+
+B.Tech Hons. Metallurgical and Materials Engineering, National Institute of Technology Tiruchirappalli, India, 2019-2023
+
+
+
+
+##### Selected Accomplishments 
+
+McKay-Helm award from AWS, Captain Thomas Farrell Greenhalgh Memorial Graduate Scholarship from UofA, CWB-WF/CCWJ Award, Jerry Hope Memorial Scholarship

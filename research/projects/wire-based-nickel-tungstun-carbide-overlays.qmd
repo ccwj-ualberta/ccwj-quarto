@@ -1,0 +1,12 @@
+---
+title: "Heat and Mass Transfer Phenomena in the Application of Wire-Based Nickel/Tungsten Carbide Overlays"
+subtitle: Syncrude, NSERC
+date: "2019-01-01"
+date-format: "YYYY-MM"
+image: granting-logos/nserc-crd.png
+categories: [Metallurgy, Numerical Modelling]
+---
+
+This research and training project focuses on developing a new technology to create wear-resistant metallic surfaces used in operations of oil sands, mining, logging, and manufacturing of heavy equipment. Existing technologies can obtain appropriate performance using a combination of nickel matrix and tungsten carbide hard particles as reinforcement; however, existing technologies are slow and expensive. 
+
+This project will study for the first time in a systematic, scientific way the extension of an existing welding technology (Gas Metal Arc Welding) to create a protective nickel/tungsten carbide coating. The approach will involve an experimental capability available at the University of Alberta and that is unique in the world. Theoretical work and mathematical modeling, as well as metallography and wear testing will also be performed. The results obtained will be of immediate use to the partner company (Syncrude) and will have a broad applicability to other companies and industries. This proposal will involve the training of one MS student and four undergraduate students.

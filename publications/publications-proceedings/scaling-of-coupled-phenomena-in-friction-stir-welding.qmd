@@ -1,0 +1,6 @@
+---
+title: "Scaling of coupled phenomena in friction stir welding"
+author: "Mendez, P. F., Tello, K., Lienert, T. J."
+conference: "NSF CMMI engineering research and innovation conference"
+year: 2008
+---

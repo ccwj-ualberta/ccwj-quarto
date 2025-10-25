@@ -1,0 +1,6 @@
+---
+title: "Scaling of coupled thermomechanic phenomena in friction stir welding"
+author: "Mendez, P. F., Lienert, T. J."
+conference: "8th international seminar numerical analysis of weldability"
+year: 2006
+---

@@ -1,0 +1,10 @@
+---
+title: Precitec YC52 co-axial cladding head, with additional off-axis feeder
+categories: [Welding]
+image: YC52-precitec-coaxial-cladding-head.jpg
+about:
+  template: solana
+  image: YC52-precitec-coaxial-cladding-head.jpg
+---
+
+Laser cladding head with co-axial channel for filler powder feed and secondary positionable feeder line. Used for the controlled deposition of cladding powders in Laser cladding experiments with changeable powder nozzles. Used in Laser cladding industry for optimal feeding of powder co-axially with the laser, additional off-axis feeder allows for specific deposition directions for challenging geometries and welds. 

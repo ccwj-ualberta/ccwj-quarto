@@ -1,0 +1,18 @@
+---
+title: "Comparative analysis of real-time weld quality monitoring camera systems working in visible, IR and NIR spectra"
+subtitle: Xiris Automation Inc., Mitacs
+date: "2020-09-01"
+date-format: "YYYY-MM"
+image: granting-logos/mitacs-accelerate.png
+categories: [Welding Automation]
+---
+
+**Faculty Supervisor:** Patricio Mendez
+
+**Student(s):** Dmytro Havrylov; Mackenzi Johnston
+
+Real-time weld monitoring system helps prevent the rejection of large portions of defective welds. It is likely that monitoring camera systems that work in infrared light may be able to reveal some weld defects better than the visible light cameras. The project goal is to perform a comparative experimental study on the ability of the infrared and visible light cameras to detect weld imperfections. The partner organization for this project is Xiris Automation Inc., a company that produces real-time welding control and monitoring systems. The results obtained within this project will help the partner to produce better customers-oriented systems that will increase the productivity of the manufacturing processes of the Canadian industry.
+
+### External Links
+
+[Mitacs](https://www.mitacs.ca/our-projects/comparative-analysis-of-real-time-weld-quality-monitoring-camera-systems-working-in-visible-ir-and-nir-spectra)

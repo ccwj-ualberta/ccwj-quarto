@@ -1,0 +1,42 @@
+```{=html}
+<div class="list quarto-listing-default">
+    <% for (const item of items) { %>
+        <div class="quarto-post image-left" <%= metadataAttrs(item) %> >
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              <%= item.title %>
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              <%= item.author %><br>
+            </div>
+
+          </div>
+
+          <div class="metadata">
+            <div class="listing-pub-journ listing-journ">
+              <%= item.journ %><br>
+
+              <% if (item.volume != "NA") { %>
+                <b><%= item.volume %></b>: <%= item.pages %> (<%= item.year %>)
+                <br>
+              <% } else { %>
+                <b><%= item.number %></b>: <%= item.pages %> (<%= item.year %>)
+                <br>
+              <% } %>
+
+            </div>
+
+            <div class="listing-pub-url">
+              <a href="<%- item.doi %>">
+              <p style="color:#6bb241;">journal URL <i class="bi bi-box-arrow-up-right"></i></p>
+              </a>
+            </div>
+
+        </div>
+
+      </div>
+    <% } %>
+</div>
+```

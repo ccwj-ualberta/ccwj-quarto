@@ -1,0 +1,15 @@
+---
+title: Terry Runyon
+image: TR1 - Terry Runyon.jpg
+subtitle: Materials Engineering, Chemical Engineering
+priority: 1
+about:
+  template: trestles
+  image: TR1 - Terry Runyon.jpg
+  links:
+    - icon: email
+      text: trunyon@ualberta.ca
+      href: mailto:trunyon@ualberta.ca
+---
+
+Terry Runyon has been a part of the CCWJ since it was founded in 2009. Her work is generally behind the scenes on payroll and administration. She was am born and raised in Edmonton, but have traveled to many places in the world.

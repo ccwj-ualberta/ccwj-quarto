@@ -1,0 +1,21 @@
+---
+title: Melody Mah
+image: MM1 - Melody Mah.jpeg
+subtitle: Strategic Communications Associate
+priority: 3
+about:
+  template: trestles
+  image: MM1 - Melody Mah.jpeg
+  links:
+    - icon: email
+      text: mrmah@ualberta.ca
+      href: mailto:mrmah@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/melody-mah-010516309/
+
+---
+
+Melody Mah joined the CCWJ as a Strategic Communications Associate in May of 2025. Prior, she was a casual Assistant for the Centre. She is currently in her fifth year of undergraduate studies at the University of Alberta, where she pursues a BA in Media and Technology Studies with Minors in Computing Science and Economics. Melody is responsible for extending the reputation of the CCWJ in both internal and external media relations, and also assists with the development of the CCWJ’s website.
+
+Beyond her work, Melody enjoys spending time with her friends and family, listening to music, and acrylic and oil painting.

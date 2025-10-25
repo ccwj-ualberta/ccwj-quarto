@@ -1,0 +1,6 @@
+---
+title: "Multivariate data analysis of gas-metal arc welding process"
+author: "Ranjan, Rajesh, Talati, Anurag, , Megan Ho, Bharmal, Hussain, Bavdekar, Vinay A., Prasad, Vinay, , Patricio Mendez"
+conference: "ADCHEM 2015, international symposium on advanced control of chemical processes"
+year: 2015
+---

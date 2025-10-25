@@ -1,0 +1,21 @@
+---
+title: German Omar Barrionuevo Chiluiza
+image: GB1 - German Omar Barrionuevo Chiluiza.jpg
+subtitle: Mechatronics Engineering
+priority: 1
+about:
+  template: trestles
+  image: GB1 - German Omar Barrionuevo Chiluiza.jpg
+  links:
+    - icon: email
+      text: barrionu@ualberta.ca
+      href: mailto:barrionu@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/omarbarrionuevo/
+---
+
+Country of Origin: Ecuador via ELAP  
+Affiliated Institution: Pontificia Universidad Católica de Chile, Santiago, Chile  
+Project: Additive Manufacturing using Wire Arc Deposition
+

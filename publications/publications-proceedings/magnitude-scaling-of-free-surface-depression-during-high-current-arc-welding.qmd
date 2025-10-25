@@ -1,0 +1,6 @@
+---
+title: "Magnitude scaling of free surface depression during high current arc welding"
+author: "Mendez, P. F., Eagar, T. W."
+conference: "Trends in welding research, proceedings of the 5th international conference"
+year: 1998
+---

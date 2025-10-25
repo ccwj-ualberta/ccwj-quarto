@@ -1,0 +1,6 @@
+---
+title: "New experiments on high-speed video of metal transfer in SAW"
+author: "Mendez, Patricio F., Goett, Gregor, Guest, Stuart D."
+conference: "CanWeld/CWA annual meeting"
+year: 2015
+---

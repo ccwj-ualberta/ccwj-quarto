@@ -1,0 +1,6 @@
+---
+title: "Order of magnitude scaling of complex engineering problems, and its application to high productivity arc welding"
+author: "Mendez, Patricio F."
+school: "Massachusetts Institute of Technology"
+year: 1999
+---

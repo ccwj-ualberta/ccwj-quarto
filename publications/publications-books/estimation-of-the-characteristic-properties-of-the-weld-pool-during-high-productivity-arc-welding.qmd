@@ -1,0 +1,9 @@
+---
+title: "Estimation of the characteristic properties of the weld pool during high productivity arc welding"
+author: "Cerjak, H.; Mendez, Patricio; Eagar, Thomas W."
+year: 2025
+booktitle: "Mathematical modelling of weld phenomena 5"
+pages: "NA"
+publisher: "CRC Press"
+image: "Mathematical modelling of weld phenomena 5.jpeg"
+---

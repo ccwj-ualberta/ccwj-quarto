@@ -1,0 +1,17 @@
+---
+title: Renata Belen Cancino Silva
+image: RC1 - Renata Belen Cancino Silva.jpg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: RC1 - Renata Belen Cancino Silva.jpg
+  links:
+    - icon: email
+      text: cancinos@ualberta.ca
+      href: mailto:cancinos@ualberta.ca
+---
+
+Country of Origin: Chile via ELAP  
+Affiliated Institution: Universidad de Chile, Santiago, Chile  
+Project: Computer modeling of pipeline welding

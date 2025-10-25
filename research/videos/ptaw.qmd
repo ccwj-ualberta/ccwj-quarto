@@ -1,0 +1,9 @@
+---
+title: PTAW Ni-WC 100Ar
+image: https://img.youtube.com/vi/7Vah3zEO6yw/hqdefault.jpg
+categories: [Plasma-transferred arc welding, Alternative processes]
+---
+
+High speed video of Plasma Transfered Arc welding being used for deposition of a powder tungsten carbide. The bright arc and powder flow are clearly visible fusing the material to the plate.  
+
+{{< video https://youtu.be/7Vah3zEO6yw?list=PLq-4Q87XIqZFBSFcGoSnptV7loQozt1F2 >}}

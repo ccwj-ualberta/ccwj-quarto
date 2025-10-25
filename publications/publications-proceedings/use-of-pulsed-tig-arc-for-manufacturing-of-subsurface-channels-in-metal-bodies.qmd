@@ -1,0 +1,6 @@
+---
+title: "Use of pulsed TIG arc for manufacturing of subsurface channels in metal bodies"
+author: "Ponomarov, Vladimir, Tokar, Anna, Mendez, Patricio F."
+conference: "IIW annual assembly"
+year: 2015
+---

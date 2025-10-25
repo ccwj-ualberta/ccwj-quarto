@@ -1,0 +1,8 @@
+---
+title: Lincoln Electric
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/LI1_Lincoln_Electric.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/LI1_Lincoln_Electric.jpg
+---

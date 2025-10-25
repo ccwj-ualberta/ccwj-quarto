@@ -1,0 +1,10 @@
+---
+title: Geomagic Design X
+categories: [Computer / Software]
+image: GEOM-geomagic.jpg
+about:
+  template: solana
+  image: GEOM-geomagic.jpg
+---
+
+Geomagic Design X is a comprehensive reverse engineering software that combines history-based CAD with 3D scan data processing. Geomagic Design X enables the creation of accurate CAD models from 3D scans, using a combination of automatic and guided solid model extraction.

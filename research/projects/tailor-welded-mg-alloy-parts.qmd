@@ -1,0 +1,10 @@
+---
+title: "Tailor-Welded Blank Manufacturing of Mg Alloy Parts"
+subtitle: Ford, Auto21
+date: "2013-03-01"
+date-format: "YYYY-MM"
+image: granting-logos/auto21.png
+categories: [Metallurgy]
+---
+
+Friction stir-welding parameters for microstructure optimization of simple geometry Mg-alloy joints will be determined. Previously published parameters for Mg-alloys will be used as a starting point, and preliminary welding trials will be performed on combinations of cast, rolled, and forged AZ alloys prepared in different starting microstructural states, and refined to produce optimum joint properties by using a design of experiment test. The material flow and strain rates in the stir zone will be determined using a combination of temperature measurement and microstructure analysis. Detailed microscopy and temperature measurements from embedded thermocouples will determine the possibility of liquid penetration induced cracking at the upper range of the operating window, and the tool forces and energy input will be measured using a six axis load cell.

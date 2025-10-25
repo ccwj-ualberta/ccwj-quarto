@@ -1,0 +1,6 @@
+---
+title: "Modeling friction stir welding through advanced scaling techniques"
+author: "Roubidoux, J. A., Mendez, P. F."
+conference: "NSF Design, Service, and Manufacturing Grantees and Research Conference"
+year: 2006
+---

@@ -1,0 +1,10 @@
+---
+title: 'Scaling expressions of characteristic values for a moving point heat source in steady state on a semi-infinite solid'
+year: 2019
+author: 'Wang, Ying, Lu, Yi, Mendez, Patricio F'
+doi: https://doi.org/10.1016/j.ijheatmasstransfer.2019.02.042
+journ: 'International Journal of Heat and Mass Transfer'
+volume: 135
+number: NA
+pages: '1118-1129'
+---

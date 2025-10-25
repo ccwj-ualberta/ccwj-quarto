@@ -1,0 +1,35 @@
+---
+title: Mia Abdulla
+image: MA1 - Mia Abdulla.jpg
+subtitle: Materials Engineering
+priority: 3
+about:
+  template: trestles
+  image: MA1 - Mia Abdulla.jpg
+  links:
+    - icon: email
+      text: mtabdull@ualberta.ca
+      href: mailto:mtabdull@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: hhttps://www.linkedin.com/in/mia-abdulla/
+
+---
+
+Mia Abdulla has been a Masters Student with the CCWJ since 2024. She is a two-time recipient of the Dean's Reach Award for her work in Wire Arc Additive Manufacturing (WAAM), and a recipient of the NSERC Undergraduate Student Research award. She is also the President of the University of Alberta AWS/CWBA Student Chapter. Mia's research focuses on the qualification of WAAM for producing pressure-rated components, such as flanges, used in Alberta’s energy sector. Specifically, her work ensures that WAAM-produced parts meet strict industry codes and material standards, involving testing the mechanical properties of printed parts, developing welding procedures, and ensuring consistent quality across builds. 
+
+Her research makes it possible to 3D print large metal parts—like pipe connectors used in oil and gas facilities—quickly and reliably, which can help companies get critical replacement parts faster during shutdowns, leading to less downtime, fewer delays, and lower costs for energy companies. In the future, this may help remote or northern communities produce parts locally when supply chains are disrupted.
+
+Outside of her academic work, Mia enjoys figure skating, journaling/scrapbooking, and playing tennis.
+
+
+
+##### Prior Degrees
+
+BSc in Materials Engineering, University of Alberta, 2024
+
+
+
+##### Selected Accomplishments 
+
+CWB-WF/CCWJ Award for Inclusivity in Welding, AWS District 19 Jerry Hope Memorial Scholarship Award, CWBA Undergraduate Annual Award For Excellence In Welding Engineering

@@ -1,0 +1,6 @@
+---
+title: "Arc length behaviour and voltage predictions for GMAW-Sp aluminum procedures in the Lincoln Procedure Hand Book"
+author: "Alvarez Rocha, J. Eduardo, Mendez, Patricio F."
+conference: "Modelling of casting, welding and advanced solidification processes, MCWASP"
+year: 2023
+---

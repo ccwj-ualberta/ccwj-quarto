@@ -1,0 +1,10 @@
+---
+title: Miller Spectrum 2050
+categories: [Welding]
+image: PLAS-miller-spectrum-2050.jfif
+about:
+  template: solana
+  image: PLAS-miller-spectrum-2050.jfif
+---
+
+The Miller Spectrum 2050 is an industrial plasma cutting and gouging system.

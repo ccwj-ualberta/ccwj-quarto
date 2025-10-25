@@ -1,0 +1,6 @@
+---
+title: "Development of microalloyed welding consumables using a computational thermodynamics approach"
+author: "Tordonato, David S., Madeni, Juan Carlos, Liu, Stephen, Mendez:, Patricio"
+conference: "Fabtec/AWS Annual Meeting"
+year: 2007
+---

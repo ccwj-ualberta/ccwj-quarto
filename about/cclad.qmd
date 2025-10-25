@@ -1,0 +1,83 @@
+---
+title: "Canadian Cluster for Laser and ADvanced Manufacturing"
+lightbox: true
+---
+
+::: {.highlight-row}
+::: {.highlight-row-content}
+
+## <i class="bi bi-gear-fill" style="font-size: 2rem; margin-right: 1rem;"></i> About C:CLAD
+
+The **Canadian Cluster for Laser and Advanced Manufacturing (C:CLAD)** was established at the University of Alberta through substantial federal funding exceeding **$1.3 million**. This initiative creates a dedicated applied research and networking hub designed to support Alberta's laser cladding manufacturers as they expand into emerging industries and global markets.
+:::
+:::
+
+<br>
+
+## Strategic Investment in Innovation
+
+::: {layout="[60,40]"}
+:::{.div}
+
+C:CLAD represents a strategic investment in Alberta's manufacturing innovation ecosystem, providing essential resources that bridge the gap between cutting-edge research and practical industry applications. The cluster serves as a catalyst for translating advanced laser technologies into viable commercial solutions that strengthen Canada's position in the global advanced manufacturing sector.
+
+### Key Focus Areas
+
+- **Laser Cladding Technology** - Advanced surface engineering solutions
+- **Industry Partnership** - Direct collaboration with manufacturers
+- **Global Market Expansion** - Supporting Alberta companies internationally  
+- **Applied Research Hub** - Bridging research and commercial applications
+
+:::
+![The new C:CLAD research centre at the University of Alberta](cclad.jpg){fig-alt="C:CLAD open house event." width="80%"}
+:::
+
+## Research Capabilities
+
+::: {.highlight-row-gray}
+::: {.highlight-row-content}
+
+### Advanced Manufacturing Technologies
+
+::: {layout="[50,50]"}
+::: {.feature-list}
+- **Laser Cladding Systems** - State-of-the-art equipment for surface modification
+- **Laser Heat Treatment** - Advanced alloy hardening processes
+- **Plasma Transferred Arc** - High-quality coating applications
+- **Advanced Automation** - Advanced inspection and testing capabilities
+:::
+
+::: {.feature-list}
+- **Industry Testing** - Real-world application validation
+- **Prototype Development** - Rapid iteration and testing
+- **Training Programs** - Workforce development initiatives
+- **Technology Transfer** - Research to market pathways
+:::
+:::
+
+:::
+:::
+
+## Partnership Network
+
+::: {.text-center}
+### C:CLAD Members & Partners
+:::
+
+::: {.partner-grid}
+[![Apollo Machine & Welding Ltd.](sponsors-logos/new-logos/AP1_Apollo.png){height="120px"}](https://www.apollomachine.com/)
+
+[![Prairies Economic Development Canada](sponsors-logos/new-logos/WD1_PrairiesCan_Logo.png){height="120px"}](https://www.canada.ca/en/prairies-economic-development.html)
+:::
+
+::: {.text-center .mt-4}
+[Learn More About Partnership Opportunities](mailto:ccwj@ualberta.ca){.btn .btn-primary .btn-lg}
+:::
+
+## Future Vision
+
+C:CLAD is positioned to become Western Canada's premier hub for laser and advanced manufacturing innovation, fostering collaboration between industry, academia, and government to drive technological advancement and economic growth across the region.
+
+---
+
+*For more information about C:CLAD partnerships and research opportunities, contact the Canadian Centre for Welding and Joining.*

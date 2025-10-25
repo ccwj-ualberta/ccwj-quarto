@@ -1,0 +1,11 @@
+---
+title: "Estimation of Bead Size and Catchment Efficiency in Laser Cladding"
+author: "Kumar, N.K., Wood, G., Lu, Y., and Mendez, P."
+date: "2024-10-15"
+description: Fabtech 2024, Orlando Fl.
+image: https://img.youtube.com/vi/kD_A6Ic0WH0/hqdefault.jpg
+---
+
+Laser cladding is an overlay deposition technology of applying weld coatings to modify surface characteristics or dimensional build-ups and repair. The geometry of the clad bead in a laser cladding procedure is critical in determining the sequence of passes and its economics. To ensure dimensional accuracy and efficient operation, it is crucial to forecast the size and how much material powders contribute to the clad bead. By providing practitioners with practical expressions for predicting these, the time and expertise required in multiple trials and numerical modeling can be avoided. This presentation discusses mathematical expressions developed based on analytical modeling for predictions using known process parameters and accounting for the distributed nature of the heat source and powder flow. The effective thermo-physical properties of the substrate material for the calculations are determined through computational tools accounting for their variation with temperature. An expression for the thermal efficiency to consider the shadowing effect of the powder cloud is proposed. The empirically obtained results reveal that the fraction falling ahead of the melt pool is negligible, ultimately not contributing to the catchment. An improved analytical estimation of catchment efficiency based on proper integration of mass flow over the surface of the weld pool is introduced, assuming a Gaussian distribution for the laser power and the powder flow with the same distribution parameters. The error of predictions on width and catchment efficiency is within the range of ±10%, except for the cases of the low power and higher travel speed domains. Bead height is overpredicted in every case based on the assumption of a parabolic cross-section of the bead.
+
+{{< video https://youtu.be/kD_A6Ic0WH0 >}}

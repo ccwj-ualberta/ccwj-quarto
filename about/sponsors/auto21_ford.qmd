@@ -1,0 +1,8 @@
+---
+title: Auto21 / Ford
+categories: [Projects]
+image: ../../assets/about-us/sponsors-logos/AT2_Auto21_Logo.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/AT2_Auto21_Logo.jpg
+---

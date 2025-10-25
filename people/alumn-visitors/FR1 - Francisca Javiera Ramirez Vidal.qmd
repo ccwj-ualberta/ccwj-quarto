@@ -1,0 +1,18 @@
+---
+title: Francisca Javiera Ramirez Vidal
+image: FR1 - Francisca Javiera Ramirez Vidal.jpeg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: FR1 - Francisca Javiera Ramirez Vidal.jpeg
+  links:
+    - icon: email
+      text: ramirezv@ualberta.ca
+      href: mailto:ramirezv@ualberta.ca
+---
+
+Country of Origin: Chile via ELAP  
+Affiliated Institution: Universidad de Chile, Santiago, Chile  
+Project: Comparative study of angular distortion in welding joints
+

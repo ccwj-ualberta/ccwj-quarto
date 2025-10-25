@@ -1,0 +1,13 @@
+---
+title: Mostafa Yakout
+image: mostafa-yakout.png
+subtitle: Mechanical Engineering
+description: Additive Manufacturing
+about:
+  template: solana
+  image: mostafa-yakout.png
+---
+
+Professor Mostafa Yakout is an Assistant Professor in the Department of Mechanical Engineering at the University of Alberta. His research focuses on additive and advanced manufacturing, with emphasis on developing process-driven solutions for high-performance and rare-earth metal alloys. He integrates numerical, analytical, and experimental methods to study process-structure-property relationships and enable cleaner, high-efficiency industrial technologies. Professor Yakout collaborates with the Canadian Centre for Welding and Joining on additive manufacturing research, contributing to innovations that support sustainable and net-zero manufacturing in Canada.
+
+Email: [yakout@ualberta.ca](mailto:yakout@ualberta.ca)

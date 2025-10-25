@@ -1,0 +1,14 @@
+---
+title: "Mechanical and Metallurgical Implications of Non-Ideal Geometry in Circumferential Pipeline Welds"
+image: granting-logos/nserc-crd.png
+subtitle: Enbridge GoldakTec MSC Software, NSERC
+date: "2016-12-01"
+date-format: "YYYY-MM"
+categories: [Physics of Welding, Metallurgy]
+---
+
+This research and training project focuses on developing a model to predict root defects in pipeline welds with non-ideal joint geometry. Deviations from ideal joint geometry exist due to a variety of unavoidable causes including manufacturing tolerances on pipe dimensions and thermal distortion of the weld joint during the welding process. To address these concerns, industrial practitioners rely heavily on historical experience and established guidelines with limited scientific basis and an unknown range of applicability.
+
+This project will study, for the first time in a scientific and systematic way, the mechanisms that relate root defects to variation in joint geometry. The approach will rely heavily on the experimental equipment and mathematical modelling expertise at the Canadian Centre for Welding and Joining at the University of Alberta.
+
+The proposal will involve the training of three MSc and six undergraduate students. Experimental techniques, computational weld modelling, and advanced analysis techniques will be utilized together to guide the development of a generalized model applicable to non-ideal welded joints. The results of the project will be of immediate use to the partner company (Enbridge), and will provide all Canadian pipeline operators and fabricators with the information and knowledge necessary to produce high quality, reliable, and economical welded joints the first time, every time.

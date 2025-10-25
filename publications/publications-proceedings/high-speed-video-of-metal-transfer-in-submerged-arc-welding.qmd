@@ -1,0 +1,6 @@
+---
+title: "High speed video of metal transfer in submerged arc welding"
+author: "Mendez, Patricio F., Goett, Gregor, Guest, Stuart D."
+conference: "IIW annual assembly"
+year: 2014
+---

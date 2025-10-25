@@ -1,0 +1,9 @@
+---
+title: "First order prediction of bead width and height in coaxial laser cladding"
+author: "Wood, G., Mendez, P. F."
+year: 2016
+booktitle: "Mathematical modelling of weld phenomena 11"
+pages: "NA"
+publisher: "Institute of Materials Science, Joining and Forming"
+image: "mathematical-modelling-of-weld-phenomena-11.jpeg"
+---

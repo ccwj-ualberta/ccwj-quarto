@@ -1,0 +1,6 @@
+---
+title: "A systematic approach on designing a prediction model of catchment efficiency in laser cladding"
+author: "Alam, Syed, Mendez, Patricio F."
+conference: "AWS annual meeting"
+year: 2021
+---

@@ -1,0 +1,6 @@
+---
+title: "The science of welding"
+author: "Mendez, P. F."
+conference: "LogiCON"
+year: 2013
+---

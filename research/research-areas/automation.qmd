@@ -1,0 +1,16 @@
+---
+title: Welding Automation
+description: Robotic welding systems
+image: ccwj-research-areas-automation.jpg
+about:
+  template: solana
+  image: ccwj-research-areas-automation.jpg
+---
+
+Welding automation is the use of automated systems to perform welding tasks. These systems can range from simple mechanized systems that assist human welders to fully automated robotic systems that can perform welding tasks without human intervention. Welding automation offers a number of advantages over manual welding, including increased productivity, improved quality, and reduced costs. At the CCWJ, we are exploring the use of welding automation in a wide range of applications, from rail and aerospace to automotive manufacturing. Our research in this area is focused on developing new welding automation technologies and techniques that can help to improve the efficiency and quality of welding processes.
+
+## Research highlights
+
+- Zero programming robotics in additive manufacturing repairs. Rebollo, DRR, Alam, SI, Mendez, P. Journal of Advanced Joining Processes (2023); 7: 100145.
+
+- Deep-learning based analysis of metal-transfer images in GMAW process. Pérez, IG, Meruane, V, Mendez, P (2023); 85: 9-20.

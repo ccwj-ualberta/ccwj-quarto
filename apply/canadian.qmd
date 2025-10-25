@@ -1,0 +1,36 @@
+---
+title: "Canadian Students"
+---
+
+### If you would like to work at the CCWJ
+
+#### Graduate Studies
+
+The following [link](https://www.ualberta.ca/engineering/chemical-materials-engineering/graduate-studies/index.html) contains general information by the Faculty of Engineering about the application process for graduate studies.
+
+#### Undergraduate Studies
+
+The following [link](https://www.ualberta.ca/engineering/chemical-materials-engineering/undergraduate-programs.html) contains general information by the Faculty of Engineering about the application process for undergraduate studies.
+
+#### High-School Students
+
+[Alberta Innovates Summer Studentships](https://albertainnovates.ca/funding/summer-research-studentships/)
+
+### Visit our academic partners
+
+::: {.highlight-row-gray}
+
+- [RWTH Aachen Undergraduate Research Opportunities Program (UROP)](https://www.ualberta.ca/international/go-abroad/programs/rwth-aachen-university-undergraduate-research-opportunities-program-urop-internship.html)
+
+- [RWTH Junior Research Fellowship (Master's/PhD)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/rwth-aachen-junior-research-fellowships/index.html)
+
+- [RWTH Aachen - Exchange](https://www.ualberta.ca/international/go-abroad/programs/rwth-aachen-university-exchange.html)
+
+- Hiroshima
+  - Please [contact us](mailto:ccwj@ualberta.ca) directly for more details.
+
+:::
+
+### UofA Go Abroad Programs
+
+Here you will find an overview of internships internships/exchanges available through the [University of Alberta](https://www.ualberta.ca/international/go-abroad/programs/index.html)

@@ -1,0 +1,6 @@
+---
+title: "Determining systematic error in voltage predictions vs. Voltage settings for GMAW welding procedures in the lincoln procedure handbook"
+author: "Alvarez Rocha, J. Eduardo, Mendez, Patricio F"
+conference: "CWB association annual meeting"
+year: 2022
+---

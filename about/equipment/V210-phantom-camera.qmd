@@ -1,0 +1,10 @@
+---
+title: Phantom V 210 High Speed Camera (colour)
+categories: [Characterization]
+image: V210-phantom-camera.png
+about:
+  template: solana
+  image: V210-phantom-camera.png
+---
+
+The Phantom V210 is a one-megapixel digital high-speed camera designed for capturing fast events. It can take over 2000 frames per second (fps) at full 1280 x 800 resolution and up to 300,000 fps at reduced resolution.

@@ -1,0 +1,10 @@
+---
+title: 'Estimation of Bead Size and Catchment Efficiency in Laser Cladding'
+year: 2024
+author: 'Ramasamy, N. K., Wood, G., Lu, Y., Mendez, P.'
+doi: https://doi.org/10.29391/2024.103.016
+journ: 'AWS Welding Journal'
+volume: 103
+number: NA
+pages: '177-185'
+---

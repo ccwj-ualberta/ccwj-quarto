@@ -1,0 +1,17 @@
+---
+title: Tiare Perez Perez
+image: TP1 - Tiare Andrea Susana Perez Neira.jpg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: TP1 - Tiare Andrea Susana Perez Neira.jpg
+  links:
+    - icon: email
+      text: pereznei@ualberta.ca
+      href: mailto:pereznei@ualberta.ca
+---
+
+Country of Origin: Chile via ELAP  
+Affiliated Institution: Universidad de Chile, Santiago, Chile  
+Project: Coupling modeling of heat transfer and plastic deformation of friction stir welding

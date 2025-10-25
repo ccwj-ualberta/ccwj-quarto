@@ -1,0 +1,22 @@
+---
+title: Numerical modelling
+description: Modelling and simulation of welding
+image: ccwj-research-areas-modelling.jpg
+about:
+  template: solana
+  image: ccwj-research-areas-modelling.jpg
+---
+
+Numerical modeling and finite element simulation is used at the CCWJ to explore welding simulation, and to obtain results that we can use to verify our numerical analyses. We use the finite element method to simulate the welding process, and to predict the residual stress and distortion in welded structures. We also use the finite element method to simulate the mechanical behavior of welded structures, and to predict the fatigue life of welded structures. 
+
+We are grateful to acknowledge the support of several sponsors in this area:
+
+ - Simufact Welding
+ - VrWeld Software
+ - Transvalor
+
+## Research highlights
+
+- Scaling modelling of penetration in high productivity gas tungsten arc welding. Prisco, U, Duman, U, Mendez, PF. Journal of Materials Processing Technology (2023); 320: 1-16.
+
+- Modelling the laser surface hardening in a ferrite and pearlite initial microstructure. Castro Cerda FM, Goulas C, Jones D, et al. Materials Science and Technology (2023); 39(18): 3123-3133.

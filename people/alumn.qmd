@@ -1,0 +1,13 @@
+---
+title: "Alumn"
+listing: 
+  contents: alumn
+  type: default
+  sort:
+    - "priority"
+    - "title"
+  image-height: 350px
+  image-align: left
+  image-placeholder: ../assets/UA-COLOUR-NARROW.png
+  max-description-length: 600
+---

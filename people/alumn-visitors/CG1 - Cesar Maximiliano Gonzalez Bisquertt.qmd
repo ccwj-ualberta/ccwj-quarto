@@ -1,0 +1,17 @@
+---
+title: Cesar Gonzalez
+image: CG1 - Cesar Maximiliano Gonzalez Bisquertt.jpeg
+subtitle: Emerging Leaders in the Americas Program (ELAP)
+priority: 1
+about:
+  template: trestles
+  image: CG1 - Cesar Maximiliano Gonzalez Bisquertt.jpeg
+  links:
+    - icon: email
+      text: cesarmax@ualberta.ca
+      href: mailto:cesarmax@ualberta.ca
+---
+
+Country of Origin: Chile via ELAP  
+Affiliated Institution: Universidad de Chile, Santiago, Chile  
+Project: Models of residual stresses and distortions in pipe welding, considering misaligned joints

@@ -1,0 +1,14 @@
+---
+title: "CCWJ Gentry Wood 2022 Alumni Award Recipients"
+date: "2022-11-03"
+image: https://www.ualberta.ca/en/alumni/media-library/recognition/2022-recipients/wood.jpg
+about:
+  template: marquee
+  image: https://www.ualberta.ca/en/alumni/media-library/recognition/2022-recipients/wood.jpg
+  links:
+    - icon: calendar-event
+      text: Alumi Awards 2022
+      href: https://www.ualberta.ca/en/alumni/media-library/recognition/2022-recipients/wood.jpg
+---
+
+The Canadian Centre for Welding and Joining is pleased to announce that one of our alumni, Dr. Gentry Wood, has been selected as recipients of the 2022 University of Alberta Alumni Horizon Awards, which recognize the outstanding professional achievements and/or contributions to community of recent graduates.

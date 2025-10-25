@@ -1,0 +1,8 @@
+---
+title: Charpy Broach Ultra Hard
+categories: [Characterization]
+about:
+  template: solana
+---
+
+This broach is used to create the notch in Charpy V-Notch testing for materials with higher hardnesses. This equipment is essential to impact testing which provides impact properties of materials, and is used in industry where impact testing in required.

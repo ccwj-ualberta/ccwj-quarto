@@ -1,0 +1,8 @@
+---
+title: Simufact Welding
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/SI1_Simufact_Welding.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/SI1_Simufact_Welding.jpg
+---

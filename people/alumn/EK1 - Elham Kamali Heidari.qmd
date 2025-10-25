@@ -1,0 +1,25 @@
+---
+title: Elham Kamali Heidari
+image: EK1 - Elham Kamali Heidari.jpg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: EK1 - Elham Kamali Heidari.jpg
+  links:
+    - icon: email
+      text: kamalihe@ualberta.ca
+      href: mailto:kamalihe@ualberta.ca
+---
+
+Elham joined CCWJ in October 2018 as a visiting professor. She is currently a Research Associate at National Research Council of Canada.
+
+##### Prior Degrees
+
+PhD, Mechanical Engineering, 2016
+
+##### Project
+
+*Study of the growth mechanism of chromium carbide overlays by electron microscopy techniques*
+
+Due to the excellent wear and corrosion resistance, carbide overlays are very important in various industries including oil sands, agriculture and mining.

@@ -1,0 +1,25 @@
+---
+title: Steven Borle
+image: SB1 - Steven Borle.jpg
+subtitle: Welding Engineering
+priority: 1
+about:
+  template: trestles
+  image: SB1 - Steven Borle.jpg
+  links:
+    - icon: email
+      text: stevenborle@gmail.com
+      href: mailto:stevenborle@gmail.com
+---
+
+Steven Brole began his involvement at CCWJ as an undergraduate completing a Dean’s Research Award in September of 2010. After completing his undergraduate degree, he continued with the CCWJ as a Masters student. Steven’s research in welding has covered many processes including gas metal arc welding, submerged arc welding, laser beam welding, friction stir welding and plasma transferred arc welding. His research has encompassed a diverse range of subjects including high strength welding consumables, the effect of heat input in friction stir welding, and the application of wear and corrosion resistant overlays. He was also Chair of the University of Alberta AWS/CWBA Student Chapter. 
+
+Since graduating in 2014 Steven has worked at Group Six Technologies, an Edmonton based company that provides laser cladding and laser heat treating services. At Group Six Technologies Steven’s responsibilities include developing new welding procedures, new materials and applications for the laser based processes. 
+
+He is also active in the welding community sitting as the current Chair of the Edmonton chapter of the Canadian Welding Bureau Association. He has coauthored numerous papers and articles related to welding including “Primary chromium carbide fraction control with variable polarity SAW,” in the Welding Journal for which he received the Charles H. Jennings Memorial Award, This award is presented for the most valuable paper written by a college student or faculty representative published in the Welding Journal during the previous year.
+
+##### Prior Degrees
+
+MSc in Welding Engineering, University of Alberta, 2014
+
+BSc in Materials Engineering, University of Alberta, 2011

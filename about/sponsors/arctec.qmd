@@ -1,0 +1,8 @@
+---
+title: ArcTec
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/AT1_ArcTec.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/AT1_ArcTec.jpg
+---

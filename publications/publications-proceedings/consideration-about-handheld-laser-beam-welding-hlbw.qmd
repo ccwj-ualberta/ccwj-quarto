@@ -1,0 +1,6 @@
+---
+title: "Consideration about handheld laser beam welding (HLBW)"
+author: "Hamre, D; Hochanadel, P. W.; Jahn, S.; Mendez, Patricio; Nentwich, M.; Werba, D."
+conference: "IIW International Conference on Welding and Joining"
+year: 2025
+---

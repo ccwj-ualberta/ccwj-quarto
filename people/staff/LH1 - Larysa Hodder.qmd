@@ -1,0 +1,25 @@
+---
+title: Larysa Hodder
+image: blank.jpg
+subtitle: Research Administrator
+priority: 1
+about:
+  template: trestles
+  image: blank.jpg
+  links:
+    - icon: email
+      text: pochodaj@ualberta.ca
+      href: mailto:pochodaj@ualberta.ca
+	
+---
+
+Larysa Hodder joined the CCWJ as a Research Administrator in 2023. Integral to the Centre's functioning, she helps manage the day-to-day administrative operations for the CCWJ, making sure everything runs smoothly. Her work includes keeping records organized, preparing reports, tracking expenses, scheduling meetings and events, arranging travel, and ordering supplies, all to support the lab's activities efficiently. 
+
+Outside of work, Larysa enjoys spending time with her friends and family, playing board games, and loves spending time outdoors.
+
+
+
+##### Prior Degrees
+
+Bachelor of Education, University of Alberta, 2022
+

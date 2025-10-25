@@ -1,0 +1,6 @@
+---
+title: "Novel techniques for understanding complex materials processes"
+author: "Mendez, P. F."
+conference: "Department of materials science and engineering"
+year: 2001
+---

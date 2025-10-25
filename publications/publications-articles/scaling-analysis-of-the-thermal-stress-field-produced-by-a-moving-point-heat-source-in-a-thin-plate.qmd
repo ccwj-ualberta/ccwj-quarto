@@ -1,0 +1,10 @@
+---
+title: 'Scaling analysis of the thermal stress field produced by a moving point heat source in a thin plate'
+year: 2021
+author: 'Grams, Mitchell R, Mendez, Patricio F'
+doi: https://doi.org/10.1115/1.4048318
+journ: 'Journal of Applied Mechanics'
+volume: 88
+number: NA
+pages: '011001, 1-10'
+---

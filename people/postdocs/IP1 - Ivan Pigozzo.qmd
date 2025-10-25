@@ -1,0 +1,25 @@
+---
+title: Ivan Pigozzo
+image: IP1 - Ivan Pigozzo.jpg
+subtitle: Mechanical Engineering
+priority: 1
+about:
+  template: trestles
+  image: IP1 - Ivan Pigozzo.jpg
+  links:
+    - icon: email
+      text: pigozzo@ualberta.ca
+      href: mailto:pigozzo@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ivan-pigozzo/
+---
+
+Ivan Pigozzo is a Postdoctoral Researcher with the CCWJ, where he began his current role in 2025. His research focuses on Handheld laser beam welding (HLBW), high-speed video analysis, GMAW droplet temperature measurement, welding fume characterization, and the GTAW process. His work supports advancements in welding process understanding and contributes to improving manufacturing technologies in the welding industry.
+
+Beyond academia, Ivan’s hobbies include photography, canoeing, and biking. 
+
+
+##### Prior Degrees
+
+Bachelor, Masters and PhD in mechanical Engineering by Federal University of Santa Catarina, Brazil.

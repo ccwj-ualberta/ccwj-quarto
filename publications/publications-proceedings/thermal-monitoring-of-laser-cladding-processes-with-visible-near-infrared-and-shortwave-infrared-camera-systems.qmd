@@ -1,0 +1,6 @@
+---
+title: "Thermal monitoring of laser cladding processes with visible, near-infrared, and shortwave infrared camera systems"
+author: "Havrylov, Dmytro, Wood, Gentry, Mendez, Patricio F."
+conference: "International thermal spray conference (ITSC)"
+year: 2022
+---

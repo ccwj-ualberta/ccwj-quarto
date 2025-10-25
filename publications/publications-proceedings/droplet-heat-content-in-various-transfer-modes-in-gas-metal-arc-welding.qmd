@@ -1,0 +1,6 @@
+---
+title: "Droplet heat content in various transfer modes in Gas Metal Arc Welding"
+author: "Soderstrom, E., Scott, K. M., Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2009
+---

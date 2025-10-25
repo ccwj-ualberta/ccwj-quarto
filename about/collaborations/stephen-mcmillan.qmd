@@ -1,0 +1,11 @@
+---
+title: Stephen McMillan
+image: stephen-mcmillan.png
+subtitle: NAIT
+description: Training in new tech
+about:
+  template: solana
+  image: stephen-mcmillan.png
+---
+
+Stephen McMillan is Dean of the School of Manufacturing & Automation and the School of Transportation at NAIT (Northern Alberta Institute of Technology). He previously served at BCIT in roles including Associate Dean of Mechanical Engineering, bringing over 15 years of experience in technical education and industry collaboration. He works closely with industry and academic partners to foster training in emerging manufacturing technologies and innovation, and collaborates with the Canadian Centre for Welding and Joining in advancing technical education and new technology adoption.

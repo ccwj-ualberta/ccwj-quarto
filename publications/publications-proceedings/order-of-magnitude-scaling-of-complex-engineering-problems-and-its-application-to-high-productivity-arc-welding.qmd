@@ -1,0 +1,6 @@
+---
+title: "Order of magnitude scaling of complex engineering problems and its application to high productivity arc welding"
+author: "Mendez, P. F."
+conference: "Department of energy, basic energy sciences review meeting"
+year: 1999
+---

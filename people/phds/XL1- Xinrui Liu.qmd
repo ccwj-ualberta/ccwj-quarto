@@ -1,0 +1,35 @@
+---
+title: Xinrui Liu
+image: XL1 - Xinrui Liu.png
+subtitle: Materials Engineering
+priority: 2
+about:
+  template: trestles
+  image: XL1 - Xinrui Liu.png
+  links:
+    - icon: email
+      text: xinrui19@ualberta.ca
+      href: mailto:xinrui19@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: http://linkedin.com/in/xinrui-liu-7229b0152
+	
+
+---
+
+Xinrui Liu is a PhD Candidate with the CCWJ who joined in the Fall of 2021. Prior, he worked as an intern with the CCWJ in 2018. His current research centres around developing experiments and models to better understand the defect formation mechanism of friction stir welding. Through this work, he aims to improve the efficiency and reliability of this critical process, with applications across various industrial sectors such as aluminum panel welding for the battery tray of an electric vehicle. 
+
+Outside of his academic endeavors, Xinrui is an avid badminton player, a skilled guitarist, and enjoys creating videos and music.
+
+
+
+##### Prior Degrees
+
+B.Sc. Harbin Institute of Technology, 2019
+M.Sc. Harbin Institute of Technology, 2021
+
+
+
+##### Selected Accomplishments 
+
+CWB-WF/CCWJ Award, J Gordin Kaplan Graduate Student Award

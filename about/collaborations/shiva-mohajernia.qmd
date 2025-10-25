@@ -1,0 +1,13 @@
+---
+title: Shiva Mohajernia
+image: shiva-mohajernia.png
+subtitle: Materials Engineering
+description: Hydrogen
+about:
+  template: solana
+  image: shiva-mohajernia.png
+---
+
+Professor Shiva Mohajernia is an Assistant Professor in the Department of Chemical and Materials Engineering at the University of Alberta. Her research focuses on material design for energy conversion and green hydrogen production, including the development of single-atom catalysts, nanostructured materials, and semiconductor systems for photocatalytic and electrocatalytic applications. Professor Mohajernia collaborates with the Canadian Centre for Welding and Joining on hydrogen-related research, advancing sustainable energy and materials technologies.
+
+Email: [mohajernia@ualberta.ca](mailto:mohajernia@ualberta.ca)

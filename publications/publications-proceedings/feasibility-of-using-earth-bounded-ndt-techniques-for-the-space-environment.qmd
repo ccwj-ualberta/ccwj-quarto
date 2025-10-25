@@ -1,0 +1,6 @@
+---
+title: "Feasibility of using Earth-bounded NDT techniques for the space environment"
+author: "Nikou, V., Mendez, Patricio F., Masubuchi, K., Eagar, T. W."
+conference: "3rd international conference on emerging technologies in non-destructive testing"
+year: 2003
+---

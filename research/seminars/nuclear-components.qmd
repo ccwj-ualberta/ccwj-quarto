@@ -1,0 +1,11 @@
+---
+title: "Qualification and Manufacturing of Nuclear Components"
+author: "Marcelo Liendo"
+date: "2022-11-23"
+description: "Qualification to manufacturing based on practical experiences by a leading expert, including the facility certification process, batch qualification, manufacturing process, and special on-time testing."
+image: https://img.youtube.com/vi/g4Heen9lzSI/hqdefault.jpg
+---
+
+The emergence of small modular nuclear reactors (SMRs) marks a paradigm shift towards shop-produced prefab modules, which makes the technology appealing for fabricators and also allows for the use new technologies and materials. At the same time, the highly regulated environment poses high entry barriers for companies entering the sector and for qualifying new technologies and materials. This presentation will cover the steps from qualification to manufacturing based on practical experiences by a leading expert, including the facility certification process, batch qualification, manufacturing process, and special on-time testing. The presentation will be followed by a Q&A - which will be an amazing opportunity to discuss practical details and get first-hand insights.
+
+{{< video https://youtu.be/g4Heen9lzSI >}}

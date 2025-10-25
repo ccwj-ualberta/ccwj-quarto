@@ -1,0 +1,20 @@
+---
+title: Ugo Douillard
+image: UD1 - Ugo Douillard.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: UD1 - Ugo Douillard.jpg
+  links:
+    - icon: email
+      text: ugodouillard@gmail.com
+      href: mailto:ugodouillard@gmail.com
+    - icon: linkedin
+      text: ugo-douillard-407975222
+      href: https://www.linkedin.com/in/ugo-douillard-407975222/
+---
+
+Country of Origin: France  
+Affiliated Institution: ENSICAEN (National Graduate School of Engineering & Research Center), France  
+Project: Friction Stir Welding of Dissimilar Al alloys

@@ -1,0 +1,9 @@
+---
+title: High speed videos of GTAW (Steel 100Ar Autogenous DCEN CC 150A)
+image: https://img.youtube.com/vi/Qq-nUuTL-d4/hqdefault.jpg
+categories: Gas tungsten arc welding
+---
+
+High speed video of high current GTAW that produces a local gouging condition. This can occur in high productivity GTAW, and produces periodically displaced weld material adjacent to the bead, otherwise known as humping.
+
+{{< video https://youtu.be/Qq-nUuTL-d4?list=PLABB99C3E544782EA >}}

@@ -1,0 +1,33 @@
+---
+title: Felipe Castro Cerda
+subtitle: Visiting Professor, University of Santiago de Chile
+image: FC2 - Felipe Castro.jpg
+priority: 1
+
+about:
+  template: trestles
+  image: FC2 - Felipe Castro.jpg
+  links:
+    - icon: email
+      text: fcastroc@ualberta.ca
+      href: mailto:fcastroc@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/felipe-castro-cerda-972873146
+---
+
+Felipe Castro Cerda is a Visiting Professor with the CCWJ, joining in Feburary 2025 from the University of Santiago de Chile. His current work studies how laser heat-treatments (LHT) and Handheld laser beam welding (HLBW) affect the microstructure and mechanical properties of steels. By deepening the understanding of the underlying laser–material interactions, his goal is to help develop components and processes that deliver higher quality and longer service lifetimes for industry.
+
+Outside of work, Felipe enjoys gardening and caring for his pets.
+
+##### Prior Degrees
+
+PhD, Materials Science, Ghent University, 2017  
+MSc, Materials Science, University of Santiago, 2008  
+Metallurgical Engineer, University of Santiago, 2008
+
+##### Selected Achievements
+
+ANID-Fondecyt Regular Grant, 2025–2029  
+Santander Scholarship for Academic Mobility, 2021  
+CONICYT PhD Scholarship, 2013–2017

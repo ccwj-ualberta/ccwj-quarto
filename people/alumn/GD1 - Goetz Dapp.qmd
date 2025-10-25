@@ -1,0 +1,17 @@
+---
+title: Goetz Dapp
+image: GD1 - Goetz Dapp.jpg
+subtitle: Associate Direct
+priority: 1
+about:
+  template: trestles
+  image: GD1 - Goetz Dapp.jpg
+  links:
+    - icon: email
+      text: dapp@ualberta.ca
+      href: mailto:dapp@ualberta.ca
+---
+
+Goetz Dapp has been involved in the CCWJ since 2011. He has an eclectic interdisciplinary background and a great interest in welding. Goetz holds a welding certificate from the German Welding Society (DVS), a PhD in Theatre Studies from the University of Amsterdam (2013), degrees from the University of Toronto and the Johannes Gutenberg-University in Mainz, Germany, and a Professional Acting Diploma from Sheridan College, Oakville, Ontario.
+
+Prior to becoming Associate Direct, Goetz has been a Postdoc and a Research Assistant at the CCWJ, and a Sessional Instructor at the Department of Drama at the University of Alberta. Goetz has a lot of experience in multimedia applications and technology; has directed, created, and worked on numerous theatre performances and concerts; has worked as a consultant on several multimedia projects; has worked in film and television; and is pursuing on an interdisciplinary research project that brings together Welding and Theatre.

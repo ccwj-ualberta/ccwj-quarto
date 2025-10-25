@@ -1,0 +1,14 @@
+---
+title: "Systematic catalog of welding defects"
+subtitle: CASTI, Mitacs
+date: "2012-09-01"
+date-format: "YYYY-MM"
+image: granting-logos/mitacs-accelerate.png
+categories: [Welding Automation]
+---
+
+**Faculty Supervisor:** Patricio Mendez
+
+**Student(s):** Hossein Izadi
+
+A visual atlas of welding defects (defects introduced in the material do to welding) will also be created to aid the weld quality inspectors, instructors, welders, or anyone taking a welding course identify the source(s) of defects, how to prevent defects from occurring, and how to repair weld defects. The ASTM (American Society for Testing and Materials) passport to steel database and the ASME (American Society of Mechanical Engineers) code interpretation database will be updated to make all the new updated standards and interpretations available to users.

@@ -1,0 +1,9 @@
+---
+title: "Asymptotics and blending in the modeling of welding"
+author: "Wang, Ying, Lu, Yi, Grams, Mitchell, Cesaro, Alejandro Hintze, Mendez, Patricio F."
+year: 2018
+booktitle: "Mathematical modelling of weld phenomena 12"
+pages: "NA"
+publisher: "NA"
+image: "mathematical-modelling-of-weld-phenomena-12.jpeg"
+---

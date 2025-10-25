@@ -1,0 +1,10 @@
+---
+title: Plasmastar PTAW with 230 MV and 400 MV torch
+categories: [Welding]
+image: PTA-plasmastar-ptaw.png
+about:
+  template: solana
+  image: PTA-plasmastar-ptaw.png
+---
+
+High power CNC plasma arc welder for welding up to 400A with powdered filler material. Powder-based filler materials allows us to experiment with custom metallurgy in overlays. Common use in industry of this type of equipment includes high speed overlay or keyhole joint welding.

@@ -1,0 +1,6 @@
+---
+title: "Droplet calorimetry and high speed videography of free flight metal transfer in gas metal arc welding"
+author: "Chapuis, J., Scott, K. M., Guest, Stuart D., Soderstrom, E., Mendez, P. F."
+conference: "IIW annual assembly"
+year: 2012
+---

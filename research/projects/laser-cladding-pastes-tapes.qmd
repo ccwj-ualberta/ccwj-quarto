@@ -1,0 +1,16 @@
+---
+title: "Numerical Modelling of Laser Cladding Technology using Pastes and Tapes"
+subtitle: Group Six Technologies, Mitacs
+date: "2017-09-01"
+date-format: "YYYY-MM"
+image: granting-logos/mitacs-accelerate.png
+categories: [Numerical Modelling]
+---
+
+**Faculty Supervisor:** Patricio Mendez
+
+**Student(s):** Ying Wang
+
+Laser cladding is an additive manufacturing technology for applying high-quality metal coatings to parts in order to improve their mechanical wear properties, and thus increase their lifespan. Currently, these metal coatings are created by depositing metal powders on the work piece and welding them together with the laser. A significant amount of powder is lost in this process, which is a large factor in the cost of this type of cladding.
+
+This project will use computational modelling to help the industrial partner optimize application parameters for a new deposition method in laser cladding which uses pastes and tapes. These tapes and pastes can help minimize powder loss, increase cladding efficiency, and achieve a higher flexibility in cladding complex part geometries. These improvements will significantly increase the competitiveness of laser cladding, achieve economic feasibility in new areas, and thereby help expand the market share of this advanced technology.

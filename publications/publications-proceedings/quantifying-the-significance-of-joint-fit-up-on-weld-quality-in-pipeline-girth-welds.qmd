@@ -1,0 +1,6 @@
+---
+title: "Quantifying the significance of joint fit-up on weld quality in pipeline girth welds"
+author: "Grams, Mitchell R, Mendez, Patricio F."
+conference: "IIW annual assembly"
+year: 2019
+---

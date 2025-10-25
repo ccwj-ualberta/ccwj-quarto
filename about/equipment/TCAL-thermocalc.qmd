@@ -1,0 +1,10 @@
+---
+title: ThermoCalc
+categories: [Computer / Software]
+image: TCAL-thermocalc.png
+about:
+  template: solana
+  image: TCAL-thermocalc.png
+---
+
+Thermocalc is used to predict and understand materials properties. It allows to generate computational materials data and is used to make predictions of material behaviour throughout the materials life cycle. 	The software helps with improved decision making and improved material processing conditions with accurate and reliable materials data.

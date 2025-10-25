@@ -1,0 +1,8 @@
+---
+title: VrWeld Software
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/VR1_VrWeld.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/VR1_VrWeld.jpg
+---

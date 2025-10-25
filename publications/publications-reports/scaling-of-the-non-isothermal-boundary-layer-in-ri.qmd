@@ -1,0 +1,6 @@
+---
+title: "Scaling of the non-isothermal boundary layer in rivas #123"
+author: "Mendez, P. F."
+institution: "Massachusetts Institute of Technology"
+year: 1998
+---

@@ -1,0 +1,8 @@
+---
+title: Xiris Inc.
+categories: [C:CLAD]
+image: ../../assets/about-us/sponsors-logos/XI1_Xiris Logo.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/XI1_Xiris Logo.jpg
+---

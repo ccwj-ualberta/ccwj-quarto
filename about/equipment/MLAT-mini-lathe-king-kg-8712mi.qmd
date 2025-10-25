@@ -1,0 +1,10 @@
+---
+title: Mini Lathe King KG-8712MI
+categories: [Welding]
+image: MLAT-mini-lathe-king-kg-8712mi.jpg
+about:
+  template: solana
+  image: MLAT-mini-lathe-king-kg-8712mi.jpg
+---
+
+Performs subtractive manufacturing to give workpieces the shape needed. We use this machine to create samples for characterization.

@@ -1,0 +1,25 @@
+---
+title: Stefano Sacco
+image: SS1 - Stefano Sacco Hawas.jpeg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: SS1 - Stefano Sacco Hawas.jpeg
+  links:
+    - icon: email
+      text: Saccohaw@ualberta.ca
+      href: mailto:Saccohaw@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/stefsaccoh/
+---
+
+Stefano Sacco joined the Canadian Centre for Welding and Joining in 2021 to pursue his Masters Degree in Materials Engineering. Stefano's trailblazing work focused on creating a model to estimate the hydrogen concentration in billets and rods, allowing an estimation of the amount of hydrogen in each stage of steel making-- something once unachieved by others in the field. He also worked on plasma physics on tungsten arc welding. He was involved in the University of Alberta's CWB Student Chapter as Vice-President after having served as the counselor of the Mechanical Engineering FCFM Student Chapter 2019-2020.
+
+Stefano is the recipient of the CWBA “Outstanding Team Member Award” from his collaboration within the laboratory and multiple companies. Other recognitions that he has received are a full MIT scholarship to enroll in a Machine Learning course in Boston, the Becas Santander Exchange Award, and the Mechanical Engineering Honors Student Award in 2020.
+
+
+##### Prior Degrees
+
+Mechanical Civil Engineer (Minor in Renewable Energies), Universidad de Chile, 2020

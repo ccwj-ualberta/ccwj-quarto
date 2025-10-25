@@ -1,0 +1,6 @@
+---
+title: "Boundary layer at the solid-liquid interface in fusion welding"
+author: "Mendez, P. F."
+institution: "Massachusetts Institute of Technology"
+year: 1996
+---

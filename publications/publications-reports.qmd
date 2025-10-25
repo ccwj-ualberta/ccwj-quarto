@@ -1,0 +1,10 @@
+---
+title: "Technical Reports"
+listing:
+  template: _ejs/publications-reports.ejs
+  contents: publications-reports
+  sort: "year desc"
+  page-size: 30
+  filter-ui: true
+page-layout: full
+---

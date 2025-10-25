@@ -1,0 +1,10 @@
+---
+title: 'Weld penetration in high productivity GTAW. Part I: Modeling'
+year: 2012
+author: 'Duman, Ustun, Mendez, P. F.'
+doi: NA
+journ: 'Science And Technology Of Welding And Joining'
+volume: NA
+number: Submitted
+pages: 'NA'
+---

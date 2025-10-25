@@ -1,0 +1,6 @@
+---
+title: "Suppression of defects in high-productivity arc welding"
+author: "Mendez, P. F."
+conference: "TMS lecture series"
+year: 1999
+---

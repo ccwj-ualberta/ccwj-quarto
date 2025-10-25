@@ -1,0 +1,6 @@
+---
+title: "A new model for powder efficiency prediction in coaxial laser cladding"
+author: "Wood, G., Mendez, P. F."
+conference: "CanWeld/CWA annual meeting"
+year: 2015
+---

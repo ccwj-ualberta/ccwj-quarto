@@ -1,0 +1,10 @@
+---
+title: Thermach AT-1210 Powder Feeder
+categories: [Welding]
+image: THER-thermach-at-1210.jpg
+about:
+  template: solana
+  image: THER-thermach-at-1210.jpg
+---
+
+Rotating scoop delivers powder into the feed line for laser clading. Also allows for heating and mixing of powders to reduce moisture. We use this equipment to deliver powder to laser cladding experiments, heater and quick change design allows for more repeatable experiments. Heated high volume rotary feeders give industry operations the capability for consistent quality welds with quick turnaround.

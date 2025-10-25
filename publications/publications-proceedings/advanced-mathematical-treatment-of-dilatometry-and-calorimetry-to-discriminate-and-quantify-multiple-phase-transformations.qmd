@@ -1,0 +1,6 @@
+---
+title: "Advanced mathematical treatment of dilatometry and calorimetry to discriminate and quantify multiple phase transformations"
+author: "Kamyabi Gol, Ata, Gibbs, John W., Mendez, P. F."
+conference: "International conference on solid-solid phase transformations in inorganic materials"
+year: 2015
+---

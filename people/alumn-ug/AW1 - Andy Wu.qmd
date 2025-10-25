@@ -1,0 +1,15 @@
+---
+title: Andy Wu
+image: AW1 - Andy Wu.jpg
+subtitle: Chemical Engineering
+priority: 1
+about:
+  template: trestles
+  image: AW1 - Andy Wu.jpg
+  links:
+    - icon: email
+      text: awu3@ualberta.ca
+      href: mailto:awu3@ualberta.ca
+---
+
+Project: Calculating effective thermal properties from commercial software (JMatPro or ThermalCal)

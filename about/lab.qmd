@@ -1,0 +1,22 @@
+---
+title: "Facilities"
+listing:
+- id: equipment
+  contents: equipment
+  type: grid
+  fields: [title, image, categories]
+  sort:
+    - "categories"
+    - "date"
+  filter-ui: true
+  grid-columns: 3
+  image-height: 250px
+  image-placeholder: ../assets/placeholder.png
+  categories: numbered
+---
+
+The Canadian Centre for Welding and Joining offers many welding and metallography facilities for our partners and sponsors. We have access to centralized microstructural analysis facilities (SEM, TEM, XRD, EBSD, etc.), and are a completely independent research centre, focusing our intellectual capabilities, and manpower on producing results. Explore our lab on our virtual lab tour, or take a look at our equipment list, and see what our lab has to offer.
+
+## Lab Equipment
+:::{#equipment}
+:::

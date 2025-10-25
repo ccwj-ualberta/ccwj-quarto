@@ -1,0 +1,6 @@
+---
+title: "Effect of arc welding electrode temperature on vapor and fume composition"
+author: "Jenkins, N.T., Mendez, P.F., Eagar, T.W"
+conference: "Trends in welding research"
+year: 2005
+---

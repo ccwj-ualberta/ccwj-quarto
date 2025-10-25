@@ -1,0 +1,14 @@
+---
+title: "CCWJ Mitchell Grams in the Innovator Spotlight"
+date: "2022-06-02"
+image: https://www.ualberta.ca/en/the-quad/media-library/2022/06-june/main-mitchell-grams.jpg
+about:
+  template: marquee
+  image: https://www.ualberta.ca/en/the-quad/media-library/2022/06-june/main-mitchell-grams.jpg
+  links:
+    - icon: calendar-event
+      text: Innovator Spotlight
+      href: https://www.ualberta.ca/en/the-quad/media-library/2022/06-june/main-mitchell-grams.jpg
+---
+
+Dr. Mitchell Grams, a postdoctoral fellow in the [Chemical and Material Engineering Department](https://www.ualberta.ca/engineering/chemical-materials-engineering/index.html), was recently featured in the Innovator Spotlight by the University of Alberta. The Innovator Spotlight is a series that highlights the work of researchers and innovators at the University of Alberta. Dr. Grams' research in welding revolved around issues of thermal expansion and residual stress, and the creation of tools for predicting how much stress and distortion is created by a particular welding procedure. You can read the full interview at:

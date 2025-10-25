@@ -1,0 +1,11 @@
+---
+title: "A Simplified Model for Determining the Residual Stresses in Welded Overlays"
+author: "C. Trautmann"
+date: "2024-10-17"
+description: Fabtech 2024, Orlando Fl.
+image: https://img.youtube.com/vi/n-_7cPkx4Uk/hqdefault.jpg
+---
+
+This presentation provides a set of simple equations for determining the residual stresses and resulting tendon force in solidified weld metal of surface welds. One of the more significant challenges in welded overlays is how the differential heating and cooling of the overlay and base metal during application can result in significant residual stresses. These stresses can reduce the lifetime of overlays by causing crack initiation and propagation through the overlay or warping in the welded plates. To combat this, much work is done on Low Transition Temperature (LTT) alloys that experience the martensite transition later in cooling. This transition impacts the residual stresses by causing an expansion of the weld metal late into cooling. It has been shown that if sufficient expansion is introduced, compressive stresses can result in the deposited material, significantly improving the performance of the overlay and counteracting plate warping. However, few consistent methods for determining a sufficiently low temperature for the onset of martensite transformation to maximize this effect have been proposed. Through examination of this process, an equation set is presented that can determine the pre-heat and transition temperature required to induce the optimal residual stresses based on this effect. This can allow for the optimization of pre-heating improving throughput and reducing downtime, while providing notable improvement in overlay performance.
+
+{{< video https://youtu.be/n-_7cPkx4Uk >}}

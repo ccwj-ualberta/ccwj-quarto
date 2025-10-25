@@ -1,0 +1,6 @@
+---
+title: "Surface depression due to a gaussian source of pressure"
+author: "Mendez, P. F."
+institution: "Massachusetts Institute of Technology"
+year: 1996
+---

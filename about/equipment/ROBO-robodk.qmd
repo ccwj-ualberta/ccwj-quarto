@@ -1,0 +1,10 @@
+---
+title: RoboDK
+categories: [Computer / Software]
+image: ROBO-robodk.jpg
+about:
+  template: solana
+  image: ROBO-robodk.jpg
+---
+
+RoboDK is a powerful and cost-effective simulator for industrial robots and robot programming. It allows users to program robots offline, eliminating production downtime caused by shop floor programming. The software provides tools for simulation, offline programming, and automated tool calibration.

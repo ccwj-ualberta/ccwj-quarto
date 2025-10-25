@@ -1,0 +1,22 @@
+```{=html}
+<div class="list quarto-listing-default">
+    <% for (const item of items) { %>
+      <div class="quarto-post image-left" <%= metadataAttrs(item) %> >
+
+          <div class="body">
+            <div class="no-anchor listing-pub-title listing-title">
+              <%= item.title %>
+            </div>
+
+            <div class="listing-pub-author listing-author">
+              <%= item.author %>, <i>in:</i> <%= item.conference %> (<%= item.year %>)
+              <br>
+              <br>
+            </div>
+
+        </div>
+
+      </div>
+    <% } %>
+</div>
+```

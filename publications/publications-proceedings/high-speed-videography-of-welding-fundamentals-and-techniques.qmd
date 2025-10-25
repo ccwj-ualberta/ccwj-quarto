@@ -1,0 +1,6 @@
+---
+title: "High speed videography of welding: Fundamentals and techniques"
+author: "Dapp, Goetz, Mendez, Patricio F"
+conference: "CWB association annual meeting"
+year: 2022
+---

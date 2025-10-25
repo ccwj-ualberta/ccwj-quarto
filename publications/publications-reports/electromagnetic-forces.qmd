@@ -1,0 +1,6 @@
+---
+title: "Electromagnetic forces"
+author: "Mendez, P. F."
+institution: "Massachusetts Institute of Technology"
+year: 1998
+---

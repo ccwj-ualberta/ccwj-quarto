@@ -1,0 +1,6 @@
+---
+title: "Asymptotic analysis of coupled phenomena in FSW"
+author: "Mendez, P. F."
+conference: "Materials science and engineering"
+year: 2012
+---

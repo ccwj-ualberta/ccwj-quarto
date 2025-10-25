@@ -1,0 +1,44 @@
+---
+title: "Directions"
+---
+
+## CCWJ Main Lab
+
+The CCWJ main lab is located in the CME Building on level L1, in room L1-108.
+
+```{r leaflet-map}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+library(sf)
+
+leaflet() |>
+  addProviderTiles(provider = providers$Esri.WorldTopoMap) |>
+  addMarkers(lat = 53.52795, lng = -113.53015,
+             label = "CME Building Entrance") |>
+  fitBounds(-113.52956, 53.52830, -113.52956, 53.52830)
+```
+
+:::: {.columns}
+::: {.column width="80%"}
+If you take the entrance on the South-West side of the building (through the entrance marked in the image below), just go down one flight of stairs, and then straight through the two double doors. Click image for Google StreetView Link.
+:::
+
+::: {.column width="20%"}
+[![](directions/qr-code.png)](https://goo.gl/maps/eFCG23QcXG8RGnKc7)
+:::
+::::
+
+[![](directions/Directions_2.png)](https://maps.app.goo.gl/j8y9by5qFWRJJ5m97)
+
+The offices of Prof. Mendez and Dr. Dapp are located in the Donadeo Building. 
+
+[Downloadable Directions (PDF)](https://drive.google.com/file/d/12vO2gIDq0Svm6Pl7AllTEupN3JCTCBsy/view?usp=sharing)
+
+## Parking
+
+Parking is available at Windsor Car Park, which is located directly adjacent to the Donadeo Innovation Centre. There is a direct Pedway connection on Parkade Level 5, which connects to Level 2 at Donadeo (by the elevators).
+
+[Google Maps Link](https://goo.gl/maps/8Bw5y9cuMrfUYt1E7)
+

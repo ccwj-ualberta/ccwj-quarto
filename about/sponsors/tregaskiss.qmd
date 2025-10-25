@@ -1,0 +1,8 @@
+---
+title: Tregaskiss
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/TR1_Tregaskiss.jpg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/TR1_Tregaskiss.jpg
+---

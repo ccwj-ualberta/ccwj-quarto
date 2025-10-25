@@ -1,0 +1,17 @@
+---
+title: "Joys of Welding and Why It Is Much Deeper Than It Seems - UofA METS Technical Talk"
+author: "Patricio Mendez"
+date: "2013-03-14"
+image: https://img.youtube.com/vi/ePulkz8F-zs/hqdefault.jpg
+description: "Technical talk at the University of Alberta's Mechanical Engineering Technical Society (METS) in 2013."
+---
+
+Provide a link to the video - for youtube use the direct link (this is also best because the thumbnail for the video is also generated automatically by using the https://img.youtube.com/vi/<my-video-id>/hqdefault.jpg) format in the header):
+
+{{< video https://youtu.be/ePulkz8F-zs >}}
+
+Or for a video stored in a Google Drive location, place this code chunk in the document (but update the URL). Google drive does not automatically create a video thumbmail, so you will also have to create your own screenshot of the video and save it into the seminars or conferences directory.
+
+```{=html}
+<iframe src="https://drive.google.com/file/d/1InR4UuvxrAMn3lDlBcMSVbc2CuHKcfMx/preview" width="640" height="360" allow="autoplay"></iframe>
+```

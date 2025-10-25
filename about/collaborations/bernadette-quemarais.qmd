@@ -1,0 +1,13 @@
+---
+title: Bernadette Quemarais
+image: bernadette-quemarais.png
+subtitle: Medicine
+description: Occupational Health
+about:
+  template: solana
+  image: bernadette-quemarais.png
+---
+
+Professor Bernadette Quemerais is an Associate Professor in the Faculty of Medicine & Dentistry at the University of Alberta. Her research focuses on exposure assessment and environmental chemistry, particularly the analysis and health impacts of nanoparticles and ultrafine particles. She has extensive experience in occupational hygiene and has conducted studies on contaminants such as mercury and welding fumes, including projects assessing biomarkers of exposure in professional welders. Professor Quemerais is a member of the Alberta Respiratory Centre and collaborates closely with the Canadian Centre for Welding and Joining on research examining welding fume exposure and its health effects.
+
+Email: [quemerai@ualberta.ca](mailto:quemerai@ualberta.ca)

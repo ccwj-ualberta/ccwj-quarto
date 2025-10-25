@@ -1,0 +1,11 @@
+---
+title: "A Novel Approach to Solving the ERW Weld Zone"
+author: "D.D.G. Calista, G.R. Lehnhoff, U. Prisco, and P.F. Mendez"
+date: "2024-06-12"
+description: CANWELD 2024, Toronto, ON.
+image: https://img.youtube.com/vi/lxR1Sn1pzAE/hqdefault.jpg
+---
+
+Since ERW is a complex and multi-physical process, understanding each of the occurring mechanisms is crucial to further understand which ones contribute to penetrator defects. At the heart of ERW, and thus penetrators, is the heat distribution with the process’ vee. This overarching thesis work seeks to develop a useful set of equations that model the heat distribution in ERW with a minimum required accuracy over a large range of process parameters. While increasing heat input has been directly correlated to penetrators, the connection between the two is not direct. One significant phenomenon that links heat input to penetrators is the evolution of a narrow gap, or vee length extension, at the process’ weld point. This gap is thought to be a result of intense electromagnetic forces ejecting molten material out of the vee prior to squeezing. The current heat model has been revised to capture the effects of this time-dependent metal ejection in ERW, building upon previous work from Prof. Mendez and Prof. Prisco. While capturing these phenomena, the model has the novel power to predict the exact behaviour of the vee length extension, and thus entire heat distribution, and has been validated with published full-scale mill data from independent sources.
+
+{{< video https://youtu.be/lxR1Sn1pzAE >}}

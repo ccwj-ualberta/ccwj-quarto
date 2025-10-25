@@ -1,0 +1,15 @@
+---
+title: Tian Ooi
+image: TO1 - Tian Ooi.jpg
+subtitle: Engineering Physics
+priority: 1
+about:
+  template: trestles
+  image: TO1 - Tian Ooi.jpg
+  links:
+    - icon: email
+      text: tooi@ualberta.ca
+      href: mailto:tooi@ualberta.ca
+---
+
+Project: Welding simulation in COMSOL and video editing

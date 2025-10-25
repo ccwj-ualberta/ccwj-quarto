@@ -1,0 +1,6 @@
+---
+title: "A revolutionary industrial-academic partnership for welding research and education at the university of alberta"
+author: "Mendez, P. F., Gerlich, A. P."
+conference: "Manufacturing innovations conference: Technologies for oil and gas"
+year: 2009
+---

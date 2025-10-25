@@ -1,0 +1,10 @@
+---
+title: Ocean Optics Spectrometer
+categories: [Characterization]
+image: SPEC-ocean-optics-spectrometer.png
+about:
+  template: solana
+  image: SPEC-ocean-optics-spectrometer.png
+---
+
+The Ocean Optics Spectrometer covers UV, visible, and near-infrared wavelengths.

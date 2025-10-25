@@ -1,0 +1,11 @@
+---
+title: "Parametric Optimization Study Aluminum Welding"
+subtitle: Indalco Alloys
+date: "2022-09-01"
+date-format: "YYYY-MM"
+image: granting-logos/industrial-research.png
+categories: [Metallurgy]
+---
+
+The scope of the work is to investigate the effect of alloy, surface treatment, and waveforms on aluminum metal transfer, with the ultimate goal of determining the smoothest/most stable metal transfer for specific alloys and waveforms.
+

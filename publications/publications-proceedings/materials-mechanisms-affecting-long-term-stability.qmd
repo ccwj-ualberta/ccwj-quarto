@@ -1,0 +1,6 @@
+---
+title: "Materials mechanisms affecting long term stability"
+author: "Mendez, Patricio F., Brown, Stuart B., Bergstrom, Jorgen"
+conference: "ASME congress"
+year: 2003
+---

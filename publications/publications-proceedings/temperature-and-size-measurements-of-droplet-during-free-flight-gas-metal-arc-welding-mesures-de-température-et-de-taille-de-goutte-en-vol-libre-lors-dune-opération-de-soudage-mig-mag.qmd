@@ -1,0 +1,6 @@
+---
+title: "Temperature and Size Measurements of Droplet During Free Flight Gas Metal Arc Welding (Mesures de température et de taille de goutte en vol libre lors d'une opération de soudage MIG-MAG)"
+author: "Chapuis, J., Scott, K. M., Guest, Stuart D., Soderstrom, E., Mendez, P. F."
+conference: "Canadian welding association annual conference"
+year: 2011
+---

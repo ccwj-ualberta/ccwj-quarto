@@ -1,0 +1,10 @@
+---
+title: Linseis Dilatometer L78 R.I.T.A.
+categories: [Characterization]
+image: DILA-linseis-dilatometer-l78.jpg
+about:
+  template: solana
+  image: DILA-linseis-dilatometer-l78.jpg
+---
+
+With a dilatometer it is possible to study the different deformation diagrams of a sample. A key point in welding study is the cooling rates and resulting microstructures process that can be studied with this machine.	Knowing cooling rates and final microstructure is used to know the final behaviours of piecces and so it affects the design.

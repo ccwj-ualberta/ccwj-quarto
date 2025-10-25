@@ -1,0 +1,6 @@
+---
+title: "Modeling of materials processing using dimensional analysis and asymptotic considerations"
+author: "Mendez, P. F., Eagar, T. W."
+conference: "Thermec 2000, international conference on processing and manufacturing of advanced materials"
+year: 2000
+---

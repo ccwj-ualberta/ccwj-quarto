@@ -1,0 +1,30 @@
+---
+title: My name
+image: CCWJID - My name.jpg
+subtitle: Course that you are enrolled in
+priority: 1
+about:
+  template: trestles
+  image: CCWJID - My name.jpg
+  links:
+    - icon: email
+      text: my-email@ualberta.ca
+      href: mailto:my-email@ualberta.ca
+    - icon: linkedin
+      text: my-linkedin-id
+      href: https://www.linkedin.com/in/my-linkedin-id
+---
+
+**Prior Degrees:** BSc, My Degree, Year (or delete this line if you are a BSc Student)
+
+Provide a biography by updating this template. Name this file using the file naming convention of `people/mscs/CCWID - My Name.qmd` (changing the path for bscs, mscs, phds). Also upload an image (portrait, ideally head/shoulders otherwise you might be cut-off on some pages) to the same directory in GitHub and use the same naming convention, e.g.,  `people/mscs/CCWID - My Name.png`
+
+Example bio:
+
+I am a passionate and dedicated individual with a strong background in engineering physics. I have a keen interest in research and development, particularly in the field of materials science. Throughout my academic journey, I have gained valuable experience in conducting experiments, analyzing data, and solving complex problems. I am excited to apply my skills and knowledge to contribute to innovative projects and make a positive impact in the industry.
+
+#### Project
+
+Provide some description about what you are working on, i.e., a formal research project, or just something that you are supporting or learning about at the CCWJ:
+
+This research project aims to investigate the impact of X on Y in the field of Z. We will conduct experiments, collect data, and analyze the results to gain insights into the relationship between X and Y. The findings from this project will contribute to the existing knowledge in Z and have potential applications in various industries.

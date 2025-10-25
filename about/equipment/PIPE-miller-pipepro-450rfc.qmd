@@ -1,0 +1,10 @@
+---
+title: Miller PipePro 450RFC
+categories: [Welding]
+image: PIPE-miller-pipepro-450rfc.jpg
+about:
+  template: solana
+  image: PIPE-miller-pipepro-450rfc.jpg
+---
+
+The Miller PipePro 450 RFC is a versatile multiprocess welding power source. It supports various welding processes, including MIG (GMAW), pulsed MIG (GMAW-P), flux-cored (FCAW), TIG (GTAW), stick (SMAW), and air carbon arc (CAC-A) cutting and gouging.

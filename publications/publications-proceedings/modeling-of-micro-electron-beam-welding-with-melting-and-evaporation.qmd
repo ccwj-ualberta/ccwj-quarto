@@ -1,0 +1,6 @@
+---
+title: "Modeling of micro electron beam welding with melting and evaporation"
+author: "Gajapathi, Satya S., Mitra, S. K., Mendez, P. F."
+conference: "International mechanical engineering congress & exposition (IMECE2012)"
+year: 2012
+---

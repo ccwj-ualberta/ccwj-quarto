@@ -1,0 +1,6 @@
+---
+title: "Evaporation rate of alloying components in GMAW"
+author: "Mendez, P. F., Núñez Sánchez, Vicente, Yan, Zhaoyang, Chen, Shujun"
+conference: "IIW annual assembly"
+year: 2023
+---

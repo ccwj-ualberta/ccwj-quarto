@@ -1,0 +1,31 @@
+---
+title: "Research Highlights"
+listing:
+  id: research-areas
+  contents: research-areas
+  sort: "date desc"
+  type: grid
+  grid-columns: 2
+  image-height: 250px
+  max-description-length: 50
+---
+
+Welding is an inherently multi-disciplinary area, and has been referred to as the most interdisciplinary research field in engineering. This complexity is creating a rich research field that spans various faculties and academic backgrounds, and the CCWJ is proudly working with numerous academic and industrial partners to carry out research activities across the whole spectrum of welding.
+
+::: {.highlight-row}
+::: {.highlight-row-content}
+<br>
+The CCWJ conducts research across a wide range of areas, including: numerical modelling, the physics of welding, metallurgy, and welding automation.
+<br>
+
+:::
+:::
+
+<br>
+
+:::: {.highlight-row-gray}
+::: {#research-areas}
+:::
+::::
+
+Detailed project descriptions can be found in the [Projects](projects.qmd) section.

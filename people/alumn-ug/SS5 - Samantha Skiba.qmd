@@ -1,0 +1,20 @@
+---
+title: Samantha Skiba
+image: SS5 - Samantha Skiba.jpeg
+subtitle: Computer Science
+priority: 1
+about:
+  template: trestles
+  image: SS5 - Samantha Skiba.jpeg
+  links:
+    - icon: email
+      text: sskiba@ualberta.ca
+      href: mailto:sskiba@ualberta.ca
+
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samantha-skiba-578518213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+---
+
+Project: Characterizing and comparing welding fume production in MIG processes for improved occupational safety

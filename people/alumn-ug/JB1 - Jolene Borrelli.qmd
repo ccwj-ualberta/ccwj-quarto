@@ -1,0 +1,15 @@
+---
+title: Jolene Borrelli
+image: JB1 - Jolene Borrelli.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: JB1 - Jolene Borrelli.jpg
+  links:
+    - icon: email
+      text: jolene2@ualberta.ca
+      href: mailto:jolene2@ualberta.ca
+---
+
+Project: Novice Welding and Charpy Impact Testing

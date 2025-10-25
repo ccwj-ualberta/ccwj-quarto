@@ -1,0 +1,6 @@
+---
+title: "Attempting the impossible: Predicting welding using engineering expressions"
+author: "Mendez, P.F."
+conference: "IIW green welding technologies for effective and reliable manufacturing"
+year: 2017
+---

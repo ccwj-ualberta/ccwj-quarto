@@ -1,0 +1,6 @@
+---
+title: "NSERC strategic network on pipeline materials reliability - theme 5: Welding"
+author: "Mendez, P. F."
+conference: "Mechanical engineering"
+year: 2011
+---

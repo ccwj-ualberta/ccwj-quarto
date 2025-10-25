@@ -1,0 +1,20 @@
+---
+title: "Modelling and optimization of catchment efficiency in coaxial laser cladding"
+subtitle: Apollo Machine, Mitacs
+date: "2021-06-01"
+date-format: "YYYY-MM"
+image: granting-logos/mitacs-accelerate.png
+categories: [Physics of Welding, Numerical Modelling]
+---
+
+Laser clad overlays are used in production and repair of components that require improved surface characteristics compared to bulk material properties. The use of powder feed enables cladding with complex multi-component systems that offer superior quality and performance. A potential drawback of powder feed is the reduced material usage efficiency compared to traditional wire fed processes. Maximizing powder catchment efficiency is thus essential to ensuring the sustainability and competitiveness of Canadian laser overlay manufacturing. The limitations of traditional trial-and-error methods necessitate an improved understanding of the relationship between process variables and powder catchment that can be generalized to new material systems. The key technical objectives of this project are:
+
+1. Perform baseline measurements of laser power distribution, powder cloud distribution and process catchment efficiency.
+
+2. Develop a general model to relate catchment efficiency with process variables through measured features of the laser beam and powder cloud.
+
+3. Utilize the model to identify optimized process variables.
+
+4. Validate the model with experimental comparisons.
+
+The methodology employed in this work utilizes state-of-the-art measurement equipment and advanced mathematical modelling techniques. This combined approach will facilitate development of a general procedure capable of designing optimized solutions quickly and efficiently for any given material system.

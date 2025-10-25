@@ -1,0 +1,6 @@
+---
+title: "New method to design consumables for welding high strength pipe steels"
+author: "Madeni, J.C., Tordonato, D., Lopetegi, M., Liu, S., Mendez, P."
+conference: "Fabtech/AWS annual meeting"
+year: 2007
+---

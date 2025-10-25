@@ -1,0 +1,11 @@
+---
+title: "Prediction and Validation of Bead Width, Depth and HAZ Thickness in GTAW"
+author: "Mendez, P.F., Luchetti, L.P., and Ale, A."
+date: "2024-10-16"
+description: Fabtech 2024, Orlando Fl.
+image: https://img.youtube.com/vi/6DMgpRitMrE/hqdefault.jpg
+---
+
+Welding engineering lags behind other engineering disciplines in its quantitative predictive abilities, in particular, predictions that can be made quickly by engineers (instead of researchers). The mathematical and physical foundations developed over the last many years allow for the prediction of key magnitudes in welding. Practical predictions are the cornerstone of codes and standards, and expected to have a significant impact in the everyday practice of welding engineers. The predictions presented here have a unique property that consists on being universal and requiring no calibration such as what is needed for a double ellipsoid model or most direct numerical, simulations. The important question in this case is if it is indeed possible to accomplish the simultaneous level of generality and accuracy needed in welding. The expressions to be discussed are validated against a comprehensive literature survey and also against a set of experiments performed with much care to be able to quantify each step. It will be shown how the predictions of thickness of the HAZ are of high accuracy, while the width might be slightly affected by thermocapillary flows. Perhaps most interestingly, the penetration seems to be affected by the arc pressure in a predictable way. This set of comparison of theoretical expressions against a set of real welds is part of a broader program of quantitative tools for welding engineers.
+
+{{< video https://youtu.be/6DMgpRitMrE >}}

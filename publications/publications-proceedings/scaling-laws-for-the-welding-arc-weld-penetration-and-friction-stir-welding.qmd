@@ -1,0 +1,6 @@
+---
+title: "Scaling laws for the welding arc, weld penetration, and friction stir welding"
+author: "Tello, Karem, Duman, Ustun, Mendez, Patricio F."
+conference: "Trends in welding research"
+year: 2009
+---

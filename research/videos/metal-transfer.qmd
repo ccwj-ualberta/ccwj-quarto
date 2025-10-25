@@ -1,0 +1,9 @@
+---
+title: GMAW Steel 85Ar-15 CO2 Globular
+image: https://img.youtube.com/vi/ngrqcDdVyhM/hqdefault.jpg
+categories: [Gas metal arc welding]
+---
+
+High speed video of GMAW in globular metal transfer mode with ER70S-6 wire of 0.045" diameter, 175 ipm wire feed speed, 33 V, 85% Ar 15% CO2 shielding gas mixture, 0.70" contact tip to work piece distance, and 20 ipm travel speed.
+
+{{< video https://youtu.be/ngrqcDdVyhM?list=PL0EF42C3430979734 >}}

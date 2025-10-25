@@ -1,0 +1,6 @@
+---
+title: "Aplicabilidad del lubricante deltaforge 658 con picos móviles (aplication of the lubricant deltaforge 658 with moving nozzles)"
+author: "Mendez, P. F., Herrera, R."
+institution: "FUDETEC"
+year: 1992
+---

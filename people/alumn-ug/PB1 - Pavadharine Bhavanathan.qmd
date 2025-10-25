@@ -1,0 +1,15 @@
+---
+title: Pavadharine  Bhavanathan
+image: PB1 - Pavadharine Bhavanathan.jpg
+subtitle: Materials Engineering
+priority: 1
+about:
+  template: trestles
+  image: PB1 - Pavadharine Bhavanathan.jpg
+  links:
+    - icon: email
+      text: bhavanat@ualberta.ca
+      href: mailto:bhavanat@ualberta.ca
+---
+
+Project: Microstructural characterization of a grade 91 steel

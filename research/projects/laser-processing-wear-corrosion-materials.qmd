@@ -1,0 +1,19 @@
+---
+title: "Development of Laser Processing Facility for Wear and Corrosion Protection Materials"
+subtitle: Canadian Foundation for Innovation (CFI)
+date: "2015-01-01"
+date-format: "YYYY-MM"
+image: granting-logos/cfi.png
+categories: [Physics of Welding, Metallurgy]
+---
+
+A laser facility is proposed for the research and education on four areas critical to the manufacturing of goods used in natural resource exploitation:
+
+1. Production of wear resistant coatings.
+2. Production of corrosion resistant coatings.
+3. Rebuild and repair of expensive equipment.
+4. Laser heat treatment of critical components.
+
+The coatings referred to are often called "overlays" or "cladding," have a thickness measured in the order of millimeters, and are an integral part of current equipment used in Canada. Current production methods fall short of modern standards of quality and productivity, and are often unable to deal with crucial alloy systems. Elsewhere in the world, laser cladding technologies are established, and a rapidly growing number of companies and startups in Canada are turning to laser cladding too.
+
+The proposed laser facility will provide the fundamental research and will also educate and train highly qualified personnel to maintain Canada in a position of leadership and independence in the exploitation of natural resources. The proposed facility will be integrated into the existing Canadian Centre for Welding and joining, where it will benefit from and existing $3M infrastructure.

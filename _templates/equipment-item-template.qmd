@@ -1,0 +1,14 @@
+---
+title: Equipment name
+categories: [Characterization, Computer / Software, Welding]
+image: equipment-image.jpg
+about:
+  template: solana
+  image: equipment-image.jpg
+---
+
+Description of the equipment.
+
+Remove/select from the provided list of categories [Characterization, Computer / Software, Welding]
+
+Update and save a copy this file using the naming convention: `about/equipment/id-equipment-name.qmd`. Also upload an image of the equipment to the same folder and using the same naming convention, e.g. `about/equipment/id-equipment-name.png`.

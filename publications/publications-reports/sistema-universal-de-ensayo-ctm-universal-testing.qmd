@@ -1,0 +1,6 @@
+---
+title: "Sistema universal de ensayo CTM (universal testing system CTM)"
+author: "Carcagno, G., Daubian, P., Friederwitzer, P., Herrera, R., Johnson, D., Mendez, P. F., Morgenstern, V., Nicolosi, A., Pochtaruk, M., Ugarriza, J."
+institution: "FUDETEC"
+year: 1992
+---

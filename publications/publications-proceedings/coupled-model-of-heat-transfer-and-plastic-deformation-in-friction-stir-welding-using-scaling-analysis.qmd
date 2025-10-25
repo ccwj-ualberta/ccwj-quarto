@@ -1,0 +1,6 @@
+---
+title: "Coupled model of heat transfer and plastic deformation in friction stir welding using scaling analysis"
+author: "Tello, K., Lienert, T. J., Mendez, P. F."
+conference: "Fabtech/AWS annual meeting"
+year: 2008
+---

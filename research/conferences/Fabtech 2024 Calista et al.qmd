@@ -1,0 +1,11 @@
+---
+title: "Analytical Modelling of Temperature and Vee Length Evolution in Electric Resistance Welding"
+author: "D.D.G. Calista, G.R. Lehnhoff, U. Prisco, and P.F. Mendez"
+date: "2024-10-15"
+description: Fabtech 2024, Orlando, FL.
+image: https://img.youtube.com/vi/-wNxwRqpybE/hqdefault.jpg
+---
+
+This report presents recent progress in understanding the physics of high frequency electric resistance welding (HF-ERW); in particular, the role of transient ablation which determines the duration a melt is exposed on the welding surfaces. The melt’s exposure to atmosphere typically results in pancake-type oxide inclusions usually called penetrators. Penetrators have been studied in ERW since the late 1970s; however, to date, industry does not have a quantitative model that links process parameters to penetrators. Since ERW is a continuous multi-physical process, understanding each of the occurring mechanisms is crucial to understand which ones contribute to penetrators. Fundamental to ERW is the heat distribution due to the currents imposed on the surfaces. This work presents the analytical derivation and solution of the solid-state temperature distribution in ERW as a single equation. From this analysis, the physical significance of heat penetration compared to the electrical skin depth is treated explicitly. At low temperatures, the skin depth predominates the heat penetration, whereas at higher temperatures the heat penetration predominates the skin depth. As material approaches the weld point, a molten film forms on the surfaces and is immediately expelled from the vee due to electromagnetic forces. The amount of expelled material directly affects the location of the weld point, the actual vee length in the process, and the propensity to form penetrators. The current ERW heat model has been revised to capture the effects of this transient ablation on actual vee length. As heat input increases, melting is induced earlier in the vee, resulting in an actual vee length larger than defined by system geometry. The model has been validated with published mill data from independent sources. Understanding the connection between process parameters and melt exposure is expected to elucidate the connection between process parameters and penetrators.
+
+{{< video https://youtu.be/-wNxwRqpybE >}}
