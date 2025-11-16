@@ -1,3 +1,5 @@
+if (Sys.getenv("QUARTO_PREVIEW") == "true") quit(save = "no")
+
 # remove existing postdocs.qmd and visitors.qmd files
 unlink(c("people/postdocs.qmd", "people/visitors.qmd"), force = TRUE)
 

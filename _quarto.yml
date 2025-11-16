@@ -1,12 +1,11 @@
 project:
   type: website
 
-  pre-render:
-    - publications/create-articles.R
-    - publications/create-proceedings.R
-    - publications/create-reports.R
-    - publications/create-theses.R
-    - people/create-postdocs-visitors.R
+execute:
+  freeze: auto
+
+preview:
+  watch-inputs: false
 
 website:
   title: CCWJ
@@ -69,7 +68,6 @@ website:
           - text: "Alumn (visitor)"
             href: people/alumn-visitors.qmd
 
-
       - text: "Research"
         menu:
           - research/research.qmd
@@ -96,7 +94,6 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/company/ccwj
         target: "_blank"
-
       - icon: youtube
         href: https://www.youtube.com/channel/UCjmYTs5g-pmBGTJncDJwVjg
         target: "_blank"
@@ -105,23 +102,23 @@ website:
     - title: "People"
       style: "floating"
       contents:
-      - section: "Staff"
-        contents:
-          - people/director.qmd
-          - people/program-manager.qmd
-          - people/staff.qmd
-          - people/postdocs.qmd
-      - section: "Students"
-        contents:
-        - people/phds.qmd
-        - people/mscs.qmd
-        - people/bscs.qmd
-      - people/visitors.qmd
-      - section: "Alumni"
-        contents:
-        - people/alumn.qmd
-        - people/alumn-ug.qmd
-        - people/alumn-visitors.qmd
+        - section: "Staff"
+          contents:
+            - people/director.qmd
+            - people/program-manager.qmd
+            - people/staff.qmd
+            - people/postdocs.qmd
+        - section: "Students"
+          contents:
+            - people/phds.qmd
+            - people/mscs.qmd
+            - people/bscs.qmd
+        - people/visitors.qmd
+        - section: "Alumni"
+          contents:
+            - people/alumn.qmd
+            - people/alumn-ug.qmd
+            - people/alumn-visitors.qmd
 
   page-footer:
     left: |

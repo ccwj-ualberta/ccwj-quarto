@@ -8,3 +8,5 @@ _site/
 
 # Python
 .venv/
+
+**/*.quarto_ipynb

@@ -1,0 +1,19 @@
+{
+  "hash": "eb7e235284054756de30948c0a741ce9",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Directions\"\n---\n\n## CCWJ Main Lab\n\nThe CCWJ main lab is located in the CME Building on level L1, in room L1-108.\n\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"leaflet html-widget html-fill-item\" id=\"htmlwidget-7281ade5f275559d60d5\" style=\"width:100%;height:464px;\"></div>\n<script type=\"application/json\" data-for=\"htmlwidget-7281ade5f275559d60d5\">{\"x\":{\"options\":{\"crs\":{\"crsClass\":\"L.CRS.EPSG3857\",\"code\":null,\"proj4def\":null,\"projectedBounds\":null,\"options\":{}}},\"calls\":[{\"method\":\"addProviderTiles\",\"args\":[\"Esri.WorldTopoMap\",null,null,{\"errorTileUrl\":\"\",\"noWrap\":false,\"detectRetina\":false}]},{\"method\":\"addMarkers\",\"args\":[53.52795,-113.53015,null,null,null,{\"interactive\":true,\"draggable\":false,\"keyboard\":true,\"title\":\"\",\"alt\":\"\",\"zIndexOffset\":0,\"opacity\":1,\"riseOnHover\":false,\"riseOffset\":250},null,null,null,null,\"CME Building Entrance\",{\"interactive\":false,\"permanent\":false,\"direction\":\"auto\",\"opacity\":1,\"offset\":[0,0],\"textsize\":\"10px\",\"textOnly\":false,\"className\":\"\",\"sticky\":true},null]}],\"limits\":{\"lat\":[53.52795,53.52795],\"lng\":[-113.53015,-113.53015]},\"fitBounds\":[53.5283,-113.52956,53.5283,-113.52956,[]]},\"evals\":[],\"jsHooks\":[]}</script>\n```\n\n:::\n:::\n\n\n:::: {.columns}\n::: {.column width=\"80%\"}\nIf you take the entrance on the South-West side of the building (through the entrance marked in the image below), just go down one flight of stairs, and then straight through the two double doors. Click image for Google StreetView Link.\n:::\n\n::: {.column width=\"20%\"}\n[![](directions/qr-code.png)](https://goo.gl/maps/eFCG23QcXG8RGnKc7)\n:::\n::::\n\n[![](directions/Directions_2.png)](https://maps.app.goo.gl/j8y9by5qFWRJJ5m97)\n\nThe offices of Prof. Mendez and Dr. Dapp are located in the Donadeo Building. \n\n[Downloadable Directions (PDF)](https://drive.google.com/file/d/12vO2gIDq0Svm6Pl7AllTEupN3JCTCBsy/view?usp=sharing)\n\n## Parking\n\nParking is available at Windsor Car Park, which is located directly adjacent to the Donadeo Innovation Centre. There is a direct Pedway connection on Parkade Level 5, which connects to Level 2 at Donadeo (by the elevators).\n\n[Google Maps Link](https://goo.gl/maps/8Bw5y9cuMrfUYt1E7)\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../site_libs/htmltools-fill-0.5.8.1/fill.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/htmlwidgets-1.6.4/htmlwidgets.js\"></script>\n<script src=\"../site_libs/jquery-3.6.0/jquery-3.6.0.min.js\"></script>\n<link href=\"../site_libs/leaflet-1.3.1/leaflet.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/leaflet-1.3.1/leaflet.js\"></script>\n<link href=\"../site_libs/leafletfix-1.0.0/leafletfix.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/proj4-2.6.2/proj4.min.js\"></script>\n<script src=\"../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js\"></script>\n<link href=\"../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/leaflet-binding-2.2.2/leaflet.js\"></script>\n<script src=\"../site_libs/leaflet-providers-2.0.0/leaflet-providers_2.0.0.js\"></script>\n<script src=\"../site_libs/leaflet-providers-plugin-2.2.2/leaflet-providers-plugin.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
