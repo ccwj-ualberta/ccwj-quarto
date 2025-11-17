@@ -3,7 +3,7 @@ title: "Director"
 subtitle: "Professor Patricio Mendez"
 about:
     template: trestles
-    image: PM1 - PM1-patricio-new-2025.jpg
+    image: PM1 - PM1-patricio-new-2025.jpg 
     image-width: 451px
     links:
     - icon: email
