@@ -3,7 +3,7 @@ title: "Director"
 subtitle: "Professor Patricio Mendez"
 about:
     template: trestles
-    image: PM1 - PM1-patricio-new-2025.jpg 
+    image: PM1 - Patricio Mendez Portrait.jpg
     image-width: 451px
     links:
     - icon: email
@@ -15,4 +15,4 @@ Doctor Patricio Mendez is the Weldco/Industry Chair in Welding and Joining and D
 
 Prior to joining the University of Alberta in January of 2009, he taught and researched at the Colorado School of Mines in Golden, Colorado. Before that, he was a consulting engineer at Exponent Inc. In 1995 Dr. Mendez co-founded Semi-Solid Technologies Inc. in Cambridge, Massachusetts.
 
-Professsor Mendez holds Ph.D. and M.S. degrees in Materials Engineering from the Massachusetts Institute of Technology (MIT), and a Mechanical Engineering degree from the University of Buenos Aires. He is also a Fellow of the AWS and the CWA. His awards include the University of Alberta Award for Outstanding Mentorship in Undergraduate Research, the AWS William Irrgang Award, the IIW Kenneth Easterling Award, the ASM Brian Ives Award, the NSF CAREER Award, the MIT Rocca Fellowship, and a UBA Research Fellowship. He has 88 indexed publications and 10 patents.
+Professsor Mendez holds Ph.D. and M.S. degrees in Materials Engineering from the Massachusetts Institute of Technology (MIT), and a Mechanical Engineering degree from the University of Buenos Aires. He is also a Fellow of the AWS and the CWA. His awards include the University of Alberta Award for Outstanding Mentorship in Undergraduate Research, the AWS William Irrgang Award, the IIW Kenneth Easterling Award, the ASM Brian Ives Award, the NSF CAREER Award, the MIT Rocca Fellowship, and a UBA Research Fellowship. He has 88 indexed publications and 9 patents.
