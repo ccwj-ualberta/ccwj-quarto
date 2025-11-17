@@ -8,9 +8,6 @@ project:
     - publications/create-theses.R
     - people/create-postdocs-visitors.R
 
-execute:
-  freeze: auto
-
 preview:
   watch-inputs: false
 
