@@ -1,0 +1,10 @@
+---
+title: 'Temperature-dependent work function, thermionic emission and bulk modulus of TiC: a study on the identification of free valence electrons and localized valence electrons and their roles played in carbides'
+year: 2024
+author: 'Hua, G., Mendez, P., Dong, X.'
+doi: https://doi.org/https://doi.org/10.1039/D4CP01655F
+journ: 'Physical Chemistry Chemical Physics'
+volume: 26
+number: NA
+pages: '18753-18762'
+---
