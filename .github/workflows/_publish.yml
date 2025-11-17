@@ -1,8 +1,0 @@
-project:
-  type: website
-
-publish:
-  provider: gh-pages
-  branch: gh-pages
-  render:
-    - .
