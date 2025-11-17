@@ -1,6 +1,15 @@
 project:
   type: website
 
+project:
+  type: website
+  pre-render:
+    - publications/create-articles.R
+    - publications/create-proceedings.R
+    - publications/create-reports.R
+    - publications/create-theses.R
+    - people/create-postdocs-visitors.R
+
 execute:
   freeze: auto
 
