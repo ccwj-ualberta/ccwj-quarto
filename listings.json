@@ -469,10 +469,93 @@
     ]
   },
   {
-    "listing": "/teaching/teaching.html",
+    "listing": "/news/news.html",
     "items": [
-      "/teaching/courses/heat-transfer.html",
-      "/teaching/courses/welding-fundamentals.html"
+      "/news/news-articles/CCWJ - International Conference on Handheld Laser Beam Welding  2026.html",
+      "/news/news-articles/2024-04-08-ccwj-seminar-cobot.html",
+      "/news/news-articles/2023-04-28-ccwj-seminar.html",
+      "/news/news-articles/2022-11-17-new-linkedin-site.html",
+      "/news/news-articles/2022-11-03-gentry-woods.html",
+      "/news/news-articles/2022-11-01-fabtech.html",
+      "/news/news-articles/2022-06-02-mitchell-grams.html"
+    ]
+  },
+  {
+    "listing": "/people/staff.html",
+    "items": [
+      "/people/staff/LH1 - Larysa Hodder.html",
+      "/people/staff/JK2 - Jay Kahar.html",
+      "/people/staff/MM1 - Melody Mah.html"
+    ]
+  },
+  {
+    "listing": "/people/alumn-visitors.html",
+    "items": [
+      "/people/alumn-visitors/AK2 - Aditya Rahul Kelkar.html",
+      "/people/alumn-visitors/AB3 - Arthur  Bardy.html",
+      "/people/alumn-visitors/CG1 - Cesar Maximiliano Gonzalez Bisquertt.html",
+      "/people/alumn-visitors/CC1 - Charly Cluchier.html",
+      "/people/alumn-visitors/DG1 - Dhruv Grover.html",
+      "/people/alumn-visitors/EM1 - Edgar Menzildjian.html",
+      "/people/alumn-visitors/FR1 - Francisca Javiera Ramirez Vidal.html",
+      "/people/alumn-visitors/FB1 - Francisco Javier Basaure Figueroa.html",
+      "/people/alumn-visitors/FA1 - Freddy Brian Agama Santana.html",
+      "/people/alumn-visitors/GB1 - German Omar Barrionuevo Chiluiza.html",
+      "/people/alumn-visitors/IG1 - Ivan Gonzalez Perez.html",
+      "/people/alumn-visitors/JR1 - Juan Pablo Romero Campos.html",
+      "/people/alumn-visitors/MU1 - Magdalena Estela Urrutia Unda.html",
+      "/people/alumn-visitors/RC1 - Renata Belen Cancino Silva.html",
+      "/people/alumn-visitors/TP1 - Tiare Andrea Susana Perez Neira.html",
+      "/people/alumn-visitors/UD1 - Ugo Douillard.html"
+    ]
+  },
+  {
+    "listing": "/people/alumn-ug.html",
+    "items": [
+      "/people/alumn-ug/AW1 - Andy Wu.html",
+      "/people/alumn-ug/ES1 - Eric Stuparyk.html",
+      "/people/alumn-ug/JB1 - Jolene Borrelli.html",
+      "/people/alumn-ug/MJ1 - Mackenzi Johnston.html",
+      "/people/alumn-ug/NS1 - Nathaniel Schurek.html",
+      "/people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
+      "/people/alumn-ug/SS5 - Samantha Skiba.html",
+      "/people/alumn-ug/TN1 - Thuong Nguyen.html",
+      "/people/alumn-ug/TO1 - Tian Ooi.html",
+      "/people/alumn-ug/WW1 - Wesley Wood.html"
+    ]
+  },
+  {
+    "listing": "/people/visitors.html",
+    "items": [
+      "/people/visitors/FC2 - Felipe Castro.html"
+    ]
+  },
+  {
+    "listing": "/people/mscs.html",
+    "items": [
+      "/people/mscs/SS2 - Sofia Salazar.html",
+      "/people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
+      "/people/mscs/MA1 - Mia Abdulla.html"
+    ]
+  },
+  {
+    "listing": "/people/bscs.html",
+    "items": [
+      "/people/bscs/KC1 - Kathryn Craig.html"
+    ]
+  },
+  {
+    "listing": "/people/postdocs.html",
+    "items": [
+      "/people/postdocs/IP1 - Ivan Pigozzo.html"
+    ]
+  },
+  {
+    "listing": "/people/phds.html",
+    "items": [
+      "/people/phds/DC1 - Daniele Calista.html",
+      "/people/phds/XL1- Xinrui Liu.html",
+      "/people/phds/GS1 - Gurbarn Singh.html"
     ]
   },
   {
@@ -498,92 +581,10 @@
     ]
   },
   {
-    "listing": "/people/phds.html",
+    "listing": "/teaching/teaching.html",
     "items": [
-      "/people/phds/DC1 - Daniele Calista.html",
-      "/people/phds/XL1- Xinrui Liu.html",
-      "/people/phds/GS1 - Gurbarn Singh.html"
-    ]
-  },
-  {
-    "listing": "/people/postdocs.html",
-    "items": [
-      "/people/postdocs/IP1 - Ivan Pigozzo.html"
-    ]
-  },
-  {
-    "listing": "/people/bscs.html",
-    "items": [
-      "/people/bscs/KC1 - Kathryn Craig.html"
-    ]
-  },
-  {
-    "listing": "/people/mscs.html",
-    "items": [
-      "/people/mscs/SS2 - Sofia Salazar.html",
-      "/people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
-      "/people/mscs/MA1 - Mia Abdulla.html"
-    ]
-  },
-  {
-    "listing": "/people/visitors.html",
-    "items": [
-      "/people/visitors/FC2 - Felipe Castro.html"
-    ]
-  },
-  {
-    "listing": "/people/alumn-ug.html",
-    "items": [
-      "/people/alumn-ug/AW1 - Andy Wu.html",
-      "/people/alumn-ug/ES1 - Eric Stuparyk.html",
-      "/people/alumn-ug/JB1 - Jolene Borrelli.html",
-      "/people/alumn-ug/MJ1 - Mackenzi Johnston.html",
-      "/people/alumn-ug/NS1 - Nathaniel Schurek.html",
-      "/people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
-      "/people/alumn-ug/SS5 - Samantha Skiba.html",
-      "/people/alumn-ug/TN1 - Thuong Nguyen.html",
-      "/people/alumn-ug/TO1 - Tian Ooi.html",
-      "/people/alumn-ug/WW1 - Wesley Wood.html"
-    ]
-  },
-  {
-    "listing": "/people/alumn-visitors.html",
-    "items": [
-      "/people/alumn-visitors/AK2 - Aditya Rahul Kelkar.html",
-      "/people/alumn-visitors/AB3 - Arthur  Bardy.html",
-      "/people/alumn-visitors/CG1 - Cesar Maximiliano Gonzalez Bisquertt.html",
-      "/people/alumn-visitors/CC1 - Charly Cluchier.html",
-      "/people/alumn-visitors/DG1 - Dhruv Grover.html",
-      "/people/alumn-visitors/EM1 - Edgar Menzildjian.html",
-      "/people/alumn-visitors/FR1 - Francisca Javiera Ramirez Vidal.html",
-      "/people/alumn-visitors/FB1 - Francisco Javier Basaure Figueroa.html",
-      "/people/alumn-visitors/FA1 - Freddy Brian Agama Santana.html",
-      "/people/alumn-visitors/GB1 - German Omar Barrionuevo Chiluiza.html",
-      "/people/alumn-visitors/IG1 - Ivan Gonzalez Perez.html",
-      "/people/alumn-visitors/JR1 - Juan Pablo Romero Campos.html",
-      "/people/alumn-visitors/MU1 - Magdalena Estela Urrutia Unda.html",
-      "/people/alumn-visitors/RC1 - Renata Belen Cancino Silva.html",
-      "/people/alumn-visitors/TP1 - Tiare Andrea Susana Perez Neira.html",
-      "/people/alumn-visitors/UD1 - Ugo Douillard.html"
-    ]
-  },
-  {
-    "listing": "/people/staff.html",
-    "items": [
-      "/people/staff/LH1 - Larysa Hodder.html",
-      "/people/staff/JK2 - Jay Kahar.html",
-      "/people/staff/MM1 - Melody Mah.html"
-    ]
-  },
-  {
-    "listing": "/news/news.html",
-    "items": [
-      "/news/news-articles/2024-04-08-ccwj-seminar-cobot.html",
-      "/news/news-articles/2023-04-28-ccwj-seminar.html",
-      "/news/news-articles/2022-11-17-new-linkedin-site.html",
-      "/news/news-articles/2022-11-03-gentry-woods.html",
-      "/news/news-articles/2022-11-01-fabtech.html",
-      "/news/news-articles/2022-06-02-mitchell-grams.html"
+      "/teaching/courses/heat-transfer.html",
+      "/teaching/courses/welding-fundamentals.html"
     ]
   },
   {
