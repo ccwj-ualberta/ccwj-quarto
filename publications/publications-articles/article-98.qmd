@@ -1,0 +1,10 @@
+---
+title: 'A Comparative Study of Double Pass Laser Heat Treatment in Medium Carbon Steels'
+year: 2025
+author: 'Cerda, F.M. Castro, Goulas, C., Wood, Gillian, Mendez, Patricio'
+doi: https://doi.org/10.1007/s11661-025-07841-1
+journ: 'Metallurgical and Materials Transactions A'
+volume: 56
+number: NA
+pages: '3244-3255'
+---

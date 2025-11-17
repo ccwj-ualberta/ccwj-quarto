@@ -1,0 +1,10 @@
+---
+title: 'Modelling the laser surface hardening in a ferrite and pearlite initial microstructure'
+year: 2023
+author: 'Castro Cerda, Felipe M, Goulas, Constantinos, Jones, Dakota, Kamyabi, Ata, Hamre, Douglas, Méndez, Patricio, Wood, Gentry'
+doi: https://doi.org/10.1080/02670836.2023.2240101
+journ: 'Materials Science and Technology'
+volume: 39
+number: 18
+pages: '3123-3133'
+---

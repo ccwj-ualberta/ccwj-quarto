@@ -1,0 +1,10 @@
+---
+title: 'A comparison of common and new methods to determine martensite start temperature using a dilatometer'
+year: 2016
+author: 'Kamyabi Gol, Ata, Herath, Dhanusha, Mendez, P. F.'
+doi: https://doi.org/10.1080/00084433.2016.1267903
+journ: 'Canadian Metallurgical Quarterly'
+volume: 56
+number: 1
+pages: '85-93'
+---

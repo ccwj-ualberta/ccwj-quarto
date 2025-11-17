@@ -1,0 +1,10 @@
+---
+title: 'Welding processes for aeronautics'
+year: 2001
+author: 'Mendez, P. F., Eagar, T. W.'
+doi: NA
+journ: 'Advanced Materials \& Processes'
+volume: 159
+number: 5
+pages: '39-43'
+---

@@ -1,0 +1,10 @@
+---
+title: 'Part 1: Development of new heat source model applicable to micro electron beam welding'
+year: 2012
+author: 'Gajapathi, Satya S., Mitra, S. K., Mendez, P. F.'
+doi: https://doi.org/10.1179/1362171812Y.0000000030
+journ: 'Science And Technology Of Welding And Joining'
+volume: 17
+number: 6
+pages: '429-434'
+---

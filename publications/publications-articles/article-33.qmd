@@ -1,0 +1,10 @@
+---
+title: 'Experimental measurements of fall voltages in gas metal arc welding'
+year: 2017
+author: 'McIntosh, Cory, Mendez, P. F.'
+doi: NA
+journ: 'Welding Journal'
+volume: 96
+number: NA
+pages: '121s-132s'
+---

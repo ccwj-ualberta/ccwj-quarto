@@ -1,0 +1,10 @@
+---
+title: 'Calibrated expressions for welding and their application to isotherm width in a thick plate'
+year: 2014
+author: 'Wood, Gentry, Islam, Shahrukh Al, Mendez, Patricio F.'
+doi: https://doi.org/10.1590/0104-9224/SI1903.03
+journ: 'Soldagem \& Inspecao'
+volume: 19
+number: 3
+pages: '212-220'
+---

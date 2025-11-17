@@ -1,0 +1,10 @@
+---
+title: 'Guest editorial: Materials informatics'
+year: 2009
+author: 'Rajan, K., Mendez, P. F.'
+doi: https://doi.org/10.1002/sam.10022
+journ: 'Statistical Analysis and Data Mining'
+volume: 1
+number: 5
+pages: '286'
+---

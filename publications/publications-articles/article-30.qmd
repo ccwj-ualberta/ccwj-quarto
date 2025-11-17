@@ -1,0 +1,10 @@
+---
+title: 'Effect of current on metal transfer in SAW. Part 2: AC'
+year: 2017
+author: 'Sengupta, Vivek, Mendez, P. F.'
+doi: NA
+journ: 'Welding Journal'
+volume: 96
+number: NA
+pages: '271s-277s'
+---

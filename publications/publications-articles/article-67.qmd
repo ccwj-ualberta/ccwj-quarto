@@ -1,0 +1,10 @@
+---
+title: 'Scaling of coupled heat transfer and plastic deformation around the pin in friction stir welding'
+year: 2010
+author: 'Mendez, P.F., Tello, K., Lienert, T. J.'
+doi: https://doi.org/10.1016/j.actamat.2010.07.019
+journ: 'Acta Materialia'
+volume: 58
+number: 18
+pages: '6012-6026'
+---

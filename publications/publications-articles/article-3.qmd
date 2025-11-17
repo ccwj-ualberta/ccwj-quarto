@@ -1,0 +1,10 @@
+---
+title: 'Scaling modelling of penetration in high productivity gas tungsten arc welding'
+year: 2023
+author: 'Prisco, Umberto, Duman, Ustun, Mendez, Patricio F.'
+doi: https://doi.org/10.1016/j.jmatprotec.2023.118120
+journ: 'Journal of Materials Processing Technology'
+volume: 320
+number: 118120
+pages: '1-16'
+---

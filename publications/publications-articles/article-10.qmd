@@ -1,0 +1,10 @@
+---
+title: 'Dominant heat transfer mechanisms in the GTAW plasma arc column'
+year: 2021
+author: 'Velázquez-Sánchez, Alberto, Delgado-Álvarez, Alfredo, Mendez, Patricio F, Murphy, Anthony B, Ramírez-Argáez, Marco A'
+doi: https://doi.org/10.1007/s11090-021-10192-5
+journ: 'Plasma Chemistry and Plasma Processing'
+volume: 41
+number: NA
+pages: '1497-1515'
+---
