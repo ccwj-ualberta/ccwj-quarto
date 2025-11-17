@@ -1,5 +1,3 @@
-if (Sys.getenv("QUARTO_PREVIEW") == "true") quit(save = "no")
-
 library(here)
 library(bib2df)
 library(dplyr)
