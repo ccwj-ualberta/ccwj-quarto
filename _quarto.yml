@@ -1,8 +1,6 @@
 project:
   type: website
 
-project:
-  type: website
   pre-render:
     - publications/create-articles.R
     - publications/create-proceedings.R
