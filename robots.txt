@@ -1,1 +1,1 @@
-Sitemap: https://stevenpawley.github.io/ccwj-quarto/sitemap.xml
+Sitemap: https://ccwj-ualberta.github.io/ccwj-quarto/sitemap.xml
