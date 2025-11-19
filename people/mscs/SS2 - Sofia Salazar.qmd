@@ -1,6 +1,6 @@
 ---
 title: Sofia Salazar Torres
-image: SS2 - Sofia Salazar.jpeg
+image: SS2 - Sofia Salazar Thumb.jpeg
 subtitle: Welding Engineering
 priority: 1
 about:
