@@ -1,6 +1,6 @@
 ---
 title: Kathryn Craig
-image: KC1 - Kathryn Craig.jpg
+image: KC1 - Kathryn Craig Thumb.jpg
 subtitle: Chemical Engineering
 priority: 1
 about:
