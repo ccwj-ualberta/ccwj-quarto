@@ -14,7 +14,7 @@ website:
   twitter-card: true
   open-graph: true
   back-to-top-navigation: true
-  site-url: https://stevenpawley.github.io/ccwj-quarto/
+  site-url: https://ccwj-ualberta.github.io/ccwj-quarto/
 
   navbar:
     title: false
