@@ -1,10 +1,10 @@
 ---
 title: "Registration Open: International Conference on Handheld Laser Beam Welding 2026"
-image: 2025-11-01-ccwj-seminar-HLBW Thumb.jpg
+image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1165767233%2F19375881351%2F1%2Foriginal.20251029-192116?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C175%2C2926%2C1463&s=1b2d7b0b5eaf1afbbec7380266efe8f9
 date: "2025-11-01"
 about:
   template: marquee
-  image: 2025-11-01-ccwj-seminar-HLBW.jpg
+  image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1165767233%2F19375881351%2F1%2Foriginal.20251029-192116?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C175%2C2926%2C1463&s=1b2d7b0b5eaf1afbbec7380266efe8f9
   links:
     - icon: link
       text: Conference Website
