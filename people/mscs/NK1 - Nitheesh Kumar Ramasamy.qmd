@@ -1,6 +1,6 @@
 ---
 title: Nitheesh Kumar Ramasamy
-image: NK1 - Nitheesh Kumar Ramasamy.JPG
+image: NK1 - Nitheesh Kumar Ramasamy Tbn.JPG
 subtitle: Materials Engineering
 priority: 2
 about:
