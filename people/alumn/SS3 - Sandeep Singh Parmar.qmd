@@ -1,6 +1,6 @@
 ---
 title: Sandeep Singh Parmar
-image: SS3 - Sandeep Singh Parmar.jpg
+image: SS3 - Sandeep Singh Parmar Tbn.jpg
 subtitle: Materials Engineering
 priority: 1
 about:
