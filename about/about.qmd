@@ -108,7 +108,7 @@ The CCWJ’s $5.5M facility houses all forms of arc welding, a 9 kW laser, and s
 :::
 
 ::: {.g-col-5}
-![](IMG_1701.JPG){fig-alt="The CCWJ research facility." .lightbox}
+![](about-uss.jpg){fig-alt="The CCWJ research facility." .lightbox}
 :::
 
 :::
