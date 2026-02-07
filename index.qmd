@@ -129,7 +129,7 @@ Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fl
 ::: {layout="[ 33, 33, 33 ]"}
 [![About Us](assets/about-us1.png)](about/about.qmd){fig-alt="CCWJ seminar series."}
 
-```html
+```{=html}
 <a href="research/research.qmd" class="video-card">
   <div class="video-wrapper">
     <video autoplay muted loop playsinline preload="metadata" poster="assets/our-research.png">
@@ -138,6 +138,7 @@ Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fl
   </div>
   <p class="video-caption">Our Research</p>
 </a>
+```
 
 [![What we Offer](assets/our-impact.png)](about/what-we-do.qmd){fig-alt="Trade event."}
 :::
