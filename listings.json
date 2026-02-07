@@ -74,31 +74,7 @@
     "listing": "/people/staff.html",
     "items": [
       "/people/staff/LH1 - Larysa Hodder.html",
-      "/people/staff/JK2 - Jay Kahar.html",
-      "/people/staff/MM1 - Melody Mah.html"
-    ]
-  },
-  {
-    "listing": "/people/alumn.html",
-    "items": [
-      "/people/alumn/AK1 - Ata Kamyabi.html",
-      "/people/alumn/CT1 - Carter Trautmann.html",
-      "/people/alumn/DH1 - Dmytro Havrylov.html",
-      "/people/alumn/EK1 - Elham Kamali Heidari.html",
-      "/people/alumn/GW1 - Gentry Wood.html",
-      "/people/alumn/GD1 - Goetz Dapp.html",
-      "/people/alumn/MG1 - Mitchell Grams.html",
-      "/people/alumn/NB1 - Nairn Barnes.html",
-      "/people/alumn/PP1 - Preetam Panja.html",
-      "/people/alumn/SS3 - Sandeep Singh Parmar.html",
-      "/people/alumn/SS2 - Sofia Salazar.html",
-      "/people/alumn/SS1 - Stefano Sacco Hawas.html",
-      "/people/alumn/SB1 - Steven Borle.html",
-      "/people/alumn/SA1 - Syed Irtiaz Alam.html",
-      "/people/alumn/TR1 - Terry Runyon.html",
-      "/people/alumn/VS1 - Vicente Andres Nunez Sanchez.html",
-      "/people/alumn/VP1 - Viraj Patel.html",
-      "/people/alumn/YL1 - Yi Lu.html"
+      "/people/staff/JK2 - Jay Kahar.html"
     ]
   },
   {
@@ -1041,6 +1017,30 @@
     "items": [
       "/people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
       "/people/mscs/MA1 - Mia Abdulla.html"
+    ]
+  },
+  {
+    "listing": "/people/alumn.html",
+    "items": [
+      "/people/alumn/AK1 - Ata Kamyabi.html",
+      "/people/alumn/CT1 - Carter Trautmann.html",
+      "/people/alumn/DH1 - Dmytro Havrylov.html",
+      "/people/alumn/EK1 - Elham Kamali Heidari.html",
+      "/people/alumn/GW1 - Gentry Wood.html",
+      "/people/alumn/GD1 - Goetz Dapp.html",
+      "/people/alumn/MG1 - Mitchell Grams.html",
+      "/people/alumn/NB1 - Nairn Barnes.html",
+      "/people/alumn/PP1 - Preetam Panja.html",
+      "/people/alumn/SS3 - Sandeep Singh Parmar.html",
+      "/people/alumn/SS2 - Sofia Salazar.html",
+      "/people/alumn/SS1 - Stefano Sacco Hawas.html",
+      "/people/alumn/SB1 - Steven Borle.html",
+      "/people/alumn/SA1 - Syed Irtiaz Alam.html",
+      "/people/alumn/TR1 - Terry Runyon.html",
+      "/people/alumn/VS1 - Vicente Andres Nunez Sanchez.html",
+      "/people/alumn/VP1 - Viraj Patel.html",
+      "/people/alumn/YL1 - Yi Lu.html",
+      "/people/alumn/MM1 - Melody Mah.html"
     ]
   },
   {
