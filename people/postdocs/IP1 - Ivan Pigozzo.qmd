@@ -1,6 +1,6 @@
 ---
 title: Ivan Pigozzo
-image: IP1 - Ivan Pigozzo.jpg
+image: IP1 - Ivan Pigozzo Tbn.jpg
 subtitle: Mechanical Engineering
 priority: 1
 about:
