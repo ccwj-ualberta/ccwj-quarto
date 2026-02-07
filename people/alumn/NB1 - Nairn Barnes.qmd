@@ -1,6 +1,6 @@
 ---
 title: Nairn Barnes
-image: NB1 - Nairn Barnes.jpg
+image: NB1 - Nairn Barnes Tbn.jpg
 subtitle: Materials Engineering
 priority: 1
 about:
