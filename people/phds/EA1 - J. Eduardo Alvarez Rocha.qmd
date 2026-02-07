@@ -1,0 +1,32 @@
+---
+title: J. Eduardo Alvarez Rocha
+image: EA1 - J. Eduardo Alvarez Rocha Tbn.jpg
+subtitle: Materials Engineering
+priority: 2
+about:
+  template: trestles
+  image: EA1 - J. Eduardo Alvarez Rocha.jpg
+  links:
+    - icon: email
+      text: jealvare@ualberta.ca
+      href: mailto:jealvare@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/j-eduardo-alvarez-rocha-4015b264/
+---
+
+J. Eduardo (Eddie) Alvarez Rocha is a PhD student in Materials Engineering with the Canadian Centre for Welding and Joining (CCWJ). His research evaluates whether multi-pass handheld laser beam welding (HLBW) can consistently produce welds that meet pressure-service mechanical property requirements, with a particular emphasis on toughness. The work addresses key uncertainties in multi-pass HLBW for pressure components, including heat input control, microstructure evolution, and their impact on mechanical performance, while helping define guidance on essential process variables and acceptable tolerances to support future pressure-welding codes. His research is closely aligned with the manufacturing and repair of pressure-containing equipment used in the energy sector.
+
+Outside of research, Eduardo enjoys playing guitar, hockey, and biking.
+
+
+##### Prior Degrees
+
+MSc Welding Engineering, University of Alberta, 2025
+
+BSc Mechanical Engineering, University of Alberta, 2015
+
+##### Selected Accomplishments 
+
+American Welding Society Graduate Research Fellowship 2025
+Canadian Welding Bureau Leadership in Welding Award 2025.
