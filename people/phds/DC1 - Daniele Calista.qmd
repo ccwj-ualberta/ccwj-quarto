@@ -1,6 +1,6 @@
 ---
 title: Daniele Calista
-image: DC1 - Daniele Calista.jpg
+image: DC1 - Daniele Calista Tbn.jpg
 subtitle: Materials Engineering
 priority: 1
 about:
