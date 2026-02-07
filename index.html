@@ -303,6 +303,33 @@ background-size: cover;
 
 
 
+<style>
+.video-card{
+  text-decoration:none;
+  color:inherit;
+  display:block;
+}
+
+.video-wrapper{
+  width:100%;
+  aspect-ratio: 4 / 3;   /* change to 16/9 if needed */
+  overflow:hidden;
+  border-radius: 6px;
+}
+
+.video-wrapper video{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+}
+
+.video-caption{
+  margin-top: .4rem;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+</style>
 <div class="quarto-layout-panel" data-layout="[ 54, 46 ]">
 <div class="quarto-layout-row">
 <div id="first-column" class="quarto-layout-cell" style="flex-basis: 54.0%;justify-content: flex-start;">
@@ -425,12 +452,28 @@ background-size: cover;
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="./research/research.html" data-fig-alt="CCWJ research facilities."><img src="assets/our-research.png" class="img-fluid figure-img"></a></p>
-<figcaption>Our Research</figcaption>
-</figure>
+```html <a href="./research/research.html" class="video-card">
+</a></div><a href="./research/research.html" class="video-card">
+<div class="video-wrapper quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<pre><code>&lt;video autoplay muted loop playsinline preload="metadata" poster="assets/our-research.png"&gt;
+  &lt;source src="assets/Our%20Research.mp4" type="video/mp4"&gt;
+&lt;/video&gt;</code></pre>
 </div>
+</a></div><a href="./research/research.html" class="video-card">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<p class="video-caption">
+</p></div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+Our Research
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<p></p>
+</div>
+</div>
+</a><div class="quarto-layout-row"><a href="./research/research.html" class="video-card">
+</a><div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;"><a href="./research/research.html" class="video-card">
+</a><p><a href="./research/research.html" class="video-card"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
