@@ -1,6 +1,6 @@
 ---
 title: Mia Abdulla
-image: MA1 - Mia Abdulla.jpg
+image: MA1 - Mia Abdulla Tbn.jpg
 subtitle: Materials Engineering
 priority: 3
 about:
