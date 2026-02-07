@@ -2,7 +2,7 @@
 title: Melody Mah
 image: MM1 - Melody Mah.jpeg
 subtitle: Strategic Communications Associate
-priority: 3
+priority: 1
 about:
   template: trestles
   image: MM1 - Melody Mah.jpeg
