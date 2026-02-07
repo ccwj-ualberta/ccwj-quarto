@@ -1,6 +1,6 @@
 ---
 title: Preetam Panja
-image: PP1 - Preetam Panja.jpg
+image: PP1 - Preetam Panja Tbn.jpg
 subtitle: Mechanical Engineering
 priority: 1
 about:
