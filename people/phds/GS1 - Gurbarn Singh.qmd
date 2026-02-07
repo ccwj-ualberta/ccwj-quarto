@@ -2,7 +2,7 @@
 title: Gurbarn Singh
 image: GS1 - Gurbarn Singh.jpg
 subtitle: Materials Engineering
-priority: 3
+priority: 4
 about:
   template: trestles
   image: GS1 - Gurbarn Singh.jpg
