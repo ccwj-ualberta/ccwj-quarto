@@ -1,7 +1,7 @@
 ---
 title: Jay Kahar
-image: JK2 - Jay Kahar.jpg
-subtitle: Research Administrator
+image: JK2 - Jay Kahar Tbn.jpg
+subtitle: Research Associate
 priority: 2
 about:
   template: trestles
@@ -15,9 +15,9 @@ about:
       href: https://www.linkedin.com/in/jay-kahar/
 ---
 
-Jay Kahar has been a Research Administrator with the CCWJ since 2024. Recently completing an MEng in April of 2025, Jay was previously a Volunteer and Graduate Research Assistant with the CCWJ between 2024 and 2025. His main responsibilities include assisting with research proposals, managing project budgets, organizing procurement, and ensuring compliance with financial procedures. Jay also helps coordinate internal lab operations, from purchasing and reimbursements to scheduling, communications and event planning. 
+Jay Kahar has been a Research Associate with the CCWJ since 2024. Completing an MEng in Materials Engineering in April of 2025, Jay was previously a Volunteer and Graduate Research Assistant with the CCWJ between 2024 and 2025. His main responsibilities include assisting with research proposals, managing project budgets, organizing procurement, and ensuring compliance with financial procedures. Jay also helps coordinate internal lab operations, from purchasing and reimbursements to scheduling, communications and event planning. 
 
-Jay enjoys hiking, going on nature trails and long walks, and swimming in his free time.
+Jay enjoys hiking, going on nature trails and long walks, playing video games and swimming in his free time.
 
 
 ##### Prior Degrees
