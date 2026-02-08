@@ -5,38 +5,38 @@ lightbox: true
 
 ::: {layout-ncol=2}
 
-![Artificial Intelligence in Welding](posters/AI in Welding Research.jpg)
+[![Artificial Intelligence in Welding](posters/thumbnail%20for%20posters/AI%20in%20Welding%20Research.jpg){width=500}](posters/AI%20in%20Welding%20Research.jpg)
 
-![Continuous Cooling Temperature Curve](posters/CCT.jpg)
+[![Continuous Cooling Temperature Curve](posters/thumbnail%20for%20posters/CCT.jpg){width=500}](posters/CCT.jpg)
 
-![Droplet Temperature experiment](posters/Droplet Temperature.jpg)
+[![Droplet Temperature experiment](posters/thumbnail%20for%20posters/Droplet%20Temperature.jpg){width=500}](posters/Droplet%20Temperature.jpg)
 
-![Etchants Information](posters/Etchant.jpg)
+[![Etchants Information](posters/thumbnail%20for%20posters/Etchant.jpg){width=500}](posters/Etchant.jpg)
 
-![Handheld Laser Beam Welding](posters/HLBW_Poster.jpg)
+[![Handheld Laser Beam Welding](posters/thumbnail%20for%20posters/HLBW_Poster.jpg){width=500}](posters/HLBW_Poster.jpg)
 
-![High Speed Videography](posters/HSV.jpg)
+[![High Speed Videography](posters/thumbnail%20for%20posters/HSV.jpg){width=500}](posters/HSV.jpg)
 
-![Laser Cladding](posters/Laser_Cladding.jpg)
+[![Laser Cladding](posters/thumbnail%20for%20posters/Laser_Cladding.jpg){width=500}](posters/Laser_Cladding.jpg)
 
-![Metallurgy](posters/Metallurgy.jpg)
+[![Metallurgy](posters/thumbnail%20for%20posters/Metallurgy.jpg){width=500}](posters/Metallurgy.jpg)
 
-![Wire Arc Additive Manufacturing](posters/WAAM.jpg)
+[![Wire Arc Additive Manufacturing](posters/thumbnail%20for%20posters/WAAM.jpg){width=500}](posters/WAAM.jpg)
 
-![Bruker G8 GALILEO Oxygen, Hydrogen and Nitrogen Analyser](posters/ONH.jpg)
+[![Bruker G8 GALILEO Oxygen, Hydrogen and Nitrogen Analyser](posters/thumbnail%20for%20posters/ONH.jpg){width=500}](posters/ONH.jpg)
 
-![Robots in Welding](posters/Robots in welding.jpg)
+[![Robots in Welding](posters/thumbnail%20for%20posters/Robots%20in%20welding.jpg){width=500}](posters/Robots%20in%20welding.jpg)
 
-![Submerged Arc Welding](posters/SAW.jpg)
+[![Submerged Arc Welding](posters/thumbnail%20for%20posters/SAW.jpg){width=500}](posters/SAW.jpg)
 
-![CWBA Student Chapter](posters/Student Chapter.jpg)
+[![CWBA Student Chapter](posters/thumbnail%20for%20posters/Student%20Chapter.jpg){width=500}](posters/Student%20Chapter.jpg)
 
-![Hardness Mapper](posters/Hardness Mapper.jpg)
+[![Hardness Mapper](posters/thumbnail%20for%20posters/Hardness%20Mapper.jpg){width=500}](posters/Hardness%20Mapper.jpg)
 
-![Accurately simulating a weld as a moving point heat source](posters/POS1_Simulating_Welds.jpg)
+[![Accurately simulating a weld as a moving point heat source](posters/thumbnail%20for%20posters/POS1_Simulating_Welds.jpg){width=500}](posters/POS1_Simulating_Welds.jpg)
 
-![Ni-WC classifying overlay wear performance](posters/POS2_Ni.jpg)
+[![Ni-WC classifying overlay wear performance](posters/thumbnail%20for%20posters/POS2_Ni.jpg){width=500}](posters/POS2_Ni.jpg)
 
-![Hydrogen Diffusion and Microstructure](posters/altasteel-hydrogen-diffusion.jpg)
+[![Hydrogen Diffusion and Microstructure](posters/thumbnail%20for%20posters/altasteel-hydrogen-diffusion.jpg){width=500}](posters/altasteel-hydrogen-diffusion.jpg)
 
 :::
