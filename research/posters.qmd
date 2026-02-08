@@ -5,11 +5,11 @@ lightbox: true
 
 ::: {layout-ncol=3}
 
-![Artificial Intelligence in Welding](posters/AI in Welding Research.jpg)
+![Artificial Intelligence in Welding](posters/AI in Welding Research.jpg){width="100%"}
 
-![Continuous Cooling Temperature Curve](posters/CCT.jpg)
+![Continuous Cooling Temperature Curve](posters/CCT.jpg){width="100%"}
 
-![Droplet Temperature experiment](posters/Droplet Temperature.jpg)
+![Droplet Temperature experiment](posters/Droplet Temperature.jpg){width="100%"}
 
 ![Etchants Information](posters/Etchant.jpg)
 
