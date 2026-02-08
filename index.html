@@ -306,6 +306,7 @@ background-size: cover;
 
 
 <style>
+
 .video-card{
   text-decoration:none;
   color:inherit;
@@ -314,15 +315,15 @@ background-size: cover;
 
 .video-wrapper{
   width:100%;
-  height:250px;        /* match Quarto image height */
+  height:250px;
   overflow:hidden;
-  border-radius:4px;   /* match Quarto border radius */
+  border-radius:4px;
 }
 
 .video-wrapper video{
   width:100%;
   height:100%;
-  object-fit:cover;    /* match Quarto cropping */
+  object-fit:cover;
   display:block;
 }
 
@@ -351,19 +352,34 @@ background-size: cover;
   display:block;
 }
 
+.hlbw-close{
+  position:absolute;
+  top:8px;
+  right:10px;
+  background:rgba(0,0,0,0.6);
+  color:#fff;
+  border:none;
+  font-size:16px;
+  cursor:pointer;
+  border-radius:50%;
+  width:26px;
+  height:26px;
+}
+
 .hlbw-content{
   padding:16px;
   color:#fff;
 }
 
 .hlbw-title{
-  font-size:1rem;
-  font-weight:800;
+  font-size:0.95rem;
+  font-weight:700;
   margin-bottom:6px;
+  line-height:1.3;
 }
 
 .hlbw-meta{
-  font-size:0.85rem;
+  font-size:0.82rem;
   opacity:0.8;
   margin-bottom:14px;
 }
@@ -393,27 +409,34 @@ background-size: cover;
   color:#2eab8c;
 }
 
-/* Hide on smaller screens */
 @media (max-width:1200px){
   .hlbw-card{ display:none; }
 }
+
 </style>
-<div class="hlbw-card">
-<p><img src="assets/HLBW Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026"></p>
-<div class="hlbw-content">
-<pre><code>&lt;div class="hlbw-title"&gt;
-  International Conference on Handheld Laser Beam Welding 2026
-&lt;/div&gt;
 
-&lt;div class="hlbw-meta"&gt;
-  Registration Open • June 25–26, 2026 • Edmonton, Alberta
-&lt;/div&gt;
+<div class="hlbw-card" id="hlbwCard">
 
-&lt;div class="hlbw-actions"&gt;
-  &lt;a class="hlbw-btn hlbw-register" href="https://www.ccwjannualseminar.ca/registration"&gt;Register&lt;/a&gt;
-  &lt;a class="hlbw-btn hlbw-more" href="https://www.ccwjannualseminar.ca/"&gt;More Info&lt;/a&gt;
-&lt;/div&gt;</code></pre>
-</div>
+  <button class="hlbw-close" onclick="document.getElementById('hlbwCard').style.display='none'">×</button>
+
+  <img src="assets/HLBW Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
+
+  <div class="hlbw-content">
+
+    <div class="hlbw-title">
+      International Conference on Handheld Laser Beam Welding 2026
+    </div>
+
+    <div class="hlbw-meta">
+      Registration Open • June 25–26, 2026 • Edmonton, Alberta
+    </div>
+
+    <div class="hlbw-actions">
+      <a class="hlbw-btn hlbw-register" href="https://www.ccwjannualseminar.ca/registration">Register</a>
+      <a class="hlbw-btn hlbw-more" href="https://www.ccwjannualseminar.ca/">More Info</a>
+    </div>
+
+  </div>
 </div>
 <div class="quarto-layout-panel" data-layout="[ 54, 46 ]">
 <div class="quarto-layout-row">
