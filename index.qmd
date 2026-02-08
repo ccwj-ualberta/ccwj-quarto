@@ -45,101 +45,91 @@ filters:
   opacity: 0.9;
 }
 
-</style>
-<style>
-/* Conference Banner */
-.hlbw-banner{
-  max-width:1100px;
-  margin:20px auto 0 auto;
-  padding:18px;
-  border-radius:12px;
-  background:linear-gradient(135deg,#11181f,#1c2730);
-  border:1px solid rgba(255,255,255,0.08);
-  box-shadow:0 12px 30px rgba(0,0,0,0.35);
-  display:flex;
-  gap:20px;
-  align-items:center;
+/* Floating right-side conference card */
+.hlbw-card{
+  position: fixed;
+  right: 40px;
+  top: 200px;
+  width: 300px;
+  background: linear-gradient(135deg,#11181f,#1c2730);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.4);
+  border: 1px solid rgba(255,255,255,0.08);
+  z-index: 999;
 }
 
-.hlbw-banner img{
-  width:200px;
-  height:auto;
-  border-radius:10px;
+.hlbw-card img{
+  width:100%;
   display:block;
 }
 
-.hlbw-banner .text{
-  flex:1;
+.hlbw-content{
+  padding:16px;
   color:#fff;
 }
 
-.hlbw-banner .title{
-  margin:0 0 6px 0;
+.hlbw-title{
+  font-size:1rem;
   font-weight:800;
-  font-size:1.1rem;
+  margin-bottom:6px;
 }
 
-.hlbw-banner .meta{
-  margin:0;
-  opacity:0.85;
-  font-size:0.9rem;
+.hlbw-meta{
+  font-size:0.85rem;
+  opacity:0.8;
+  margin-bottom:14px;
 }
 
-.hlbw-banner .actions{
+.hlbw-actions{
   display:flex;
-  gap:12px;
+  gap:10px;
 }
 
-.hlbw-banner .btn{
-  background:#2eab8c;
-  color:#fff;
-  padding:8px 14px;
+.hlbw-btn{
+  flex:1;
+  text-align:center;
+  padding:8px 10px;
   border-radius:6px;
-  text-decoration:none;
+  font-size:0.8rem;
   font-weight:700;
-  font-size:0.85rem;
+  text-decoration:none;
 }
 
-.hlbw-banner .btn:hover{
-  background:#259a7d;
+.hlbw-register{
+  background:#2eab8c;
+  color:white;
 }
 
-.hlbw-banner .link{
+.hlbw-more{
+  border:1px solid #2eab8c;
   color:#2eab8c;
-  text-decoration:none;
-  font-weight:700;
-  font-size:0.85rem;
 }
 
-@media (max-width:800px){
-  .hlbw-banner{
-    flex-direction:column;
-    align-items:flex-start;
-  }
-  .hlbw-banner img{
-    width:100%;
-  }
+/* Hide on smaller screens */
+@media (max-width:1200px){
+  .hlbw-card{ display:none; }
 }
 </style>
+```
+<div class="hlbw-card">
+  <img src="assets/HLBW%20Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
 
-<div class="hlbw-banner">
-  <a href="https://www.ccwjannualseminar.ca/">
-    <img src="assets/HLBW%20Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
-  </a>
+  <div class="hlbw-content">
+    <div class="hlbw-title">
+      International Conference on Handheld Laser Beam Welding 2026
+    </div>
 
-  <div class="text">
-    <p class="title">International Conference on Handheld Laser Beam Welding 2026</p>
-    <p class="meta">Registration Open • June 25–26, 2026 • Edmonton, Alberta</p>
-  </div>
+    <div class="hlbw-meta">
+      Registration Open • June 25–26, 2026 • Edmonton, Alberta
+    </div>
 
-  <div class="actions">
-    <a class="btn" href="https://www.ccwjannualseminar.ca/registration">Register</a>
-    <a class="link" href="https://www.ccwjannualseminar.ca/">More Info</a>
+    <div class="hlbw-actions">
+      <a class="hlbw-btn hlbw-register" href="https://www.ccwjannualseminar.ca/registration">Register</a>
+      <a class="hlbw-btn hlbw-more" href="https://www.ccwjannualseminar.ca/">More Info</a>
+    </div>
   </div>
 </div>
-```
-
-
 ::: {layout="[ 54, 46 ]"}
 :::: {#first-column}
 **The Canadian Centre for Welding and Joining** (CCWJ) at the University of Alberta (UofA) is a world-class research and training facility employing researchers at all stages of their career and awarding doctoral degrees through the [Department of Chemical and Materials Engineering at the University of Alberta](https://www.ualberta.ca/en/engineering/chemical-materials-engineering/index.html).
