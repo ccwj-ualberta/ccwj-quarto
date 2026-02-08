@@ -99,38 +99,39 @@ filters:
   margin:0 0 8px 0;             /* tighter spacing */
 }
 
+/* Buttons (match CCWJ top-bar vibe) */
 .hlbw-actions{
   display:flex;
   gap:10px;
-  margin:0;
 }
 
 .hlbw-btn{
   flex:1;
   text-align:center;
-  padding:8px 10px;
-  border-radius:6px;
-  font-size:0.82rem;
-  font-weight:600;              /* lighter weight */
+  padding:10px 12px;
+  border-radius:8px;
+  font-size:0.85rem;
+  font-weight:600;
   text-decoration:none;
-  border:1px solid #ffffff;
-  color:#ffffff;
+  display:inline-block;
 }
 
+/* Register = filled dark gradient + white border + white text */
 .hlbw-register{
-  background: linear-gradient(90deg,#1b232b,#24313b);
+  background: linear-gradient(180deg, #2b333b 0%, #1b232b 100%);
+  border: 1px solid rgba(255,255,255,0.85);
   color:#ffffff;
-  border:1px solid #ffffff;
 }
 
 .hlbw-register:hover{
-  background: linear-gradient(90deg,#24313b,#1b232b);
+  background: linear-gradient(180deg, #313b44 0%, #1f2831 100%);
 }
 
+/* More Info = transparent + white border + white text */
 .hlbw-more{
   background: transparent;
+  border: 1px solid rgba(255,255,255,0.85);
   color:#ffffff;
-  border:1px solid #ffffff;
 }
 
 .hlbw-more:hover{
