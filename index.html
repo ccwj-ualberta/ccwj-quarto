@@ -80,11 +80,13 @@ background-size: cover;
 
 <meta property="og:title" content="Canadian Centre for Welding and Joining – CCWJ">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://ccwj-ualberta.github.io/ccwj-quarto/assets/CCWJ_Logo_Black.jpg">
+<meta property="og:image" content="https://ccwj-ualberta.github.io/ccwj-quarto/assets/HLBW Conf.jpg">
 <meta property="og:site_name" content="CCWJ">
+<meta property="og:image:alt" content="International Conference on Handheld Laser Beam Welding 2026">
 <meta name="twitter:title" content="Canadian Centre for Welding and Joining – CCWJ">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://ccwj-ualberta.github.io/ccwj-quarto/assets/CCWJ_Logo_Black.jpg">
+<meta name="twitter:image" content="https://ccwj-ualberta.github.io/ccwj-quarto/assets/HLBW Conf.jpg">
+<meta name="twitter:image:alt" content="International Conference on Handheld Laser Beam Welding 2026">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -330,6 +332,98 @@ background-size: cover;
   opacity: 0.9;
 }
 </style>
+<style>
+.hlbw-banner{
+  max-width:1100px;
+  margin:20px auto 0 auto;
+  padding:16px;
+  border-radius:12px;
+  background:linear-gradient(135deg,#11181f,#1c2730);
+  border:1px solid rgba(255,255,255,0.08);
+  box-shadow:0 12px 30px rgba(0,0,0,0.35);
+  display:flex;
+  gap:18px;
+  align-items:center;
+}
+
+.hlbw-banner img{
+  width:180px;
+  height:auto;              /* keep natural ratio */
+  border-radius:10px;
+  display:block;
+}
+
+.hlbw-banner .text{
+  flex:1;
+  color:#fff;
+}
+
+.hlbw-banner .title{
+  margin:0 0 6px 0;
+  font-weight:800;
+  font-size:1.05rem;
+  line-height:1.25;
+}
+
+.hlbw-banner .meta{
+  margin:0;
+  opacity:0.85;
+  font-size:0.9rem;
+}
+
+.hlbw-banner .actions{
+  display:flex;
+  gap:12px;
+  white-space:nowrap;
+}
+
+.hlbw-banner .btn{
+  background:#2eab8c;
+  color:#fff;
+  padding:8px 14px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:700;
+  font-size:0.85rem;
+}
+
+.hlbw-banner .btn:hover{
+  background:#259a7d;
+}
+
+.hlbw-banner .link{
+  color:#2eab8c;
+  text-decoration:none;
+  font-weight:700;
+  font-size:0.85rem;
+}
+
+@media (max-width:800px){
+  .hlbw-banner{
+    flex-direction:column;
+    align-items:flex-start;
+  }
+  .hlbw-banner img{
+    width:100%;
+  }
+}
+</style>
+
+<div class="hlbw-banner">
+  <a href="https://www.ccwjannualseminar.ca/">
+    <img src="assets/HLBW Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
+  </a>
+
+  <div class="text">
+    <p class="title">International Conference on Handheld Laser Beam Welding 2026</p>
+    <p class="meta">Registration Open • June 25–26, 2026 • Edmonton, Alberta</p>
+  </div>
+
+  <div class="actions">
+    <a class="btn" href="https://www.ccwjannualseminar.ca/registration">Register</a>
+    <a class="link" href="https://www.ccwjannualseminar.ca/">More Info</a>
+  </div>
+</div>
 <div class="quarto-layout-panel" data-layout="[ 54, 46 ]">
 <div class="quarto-layout-row">
 <div id="first-column" class="quarto-layout-cell" style="flex-basis: 54.0%;justify-content: flex-start;">
@@ -473,140 +567,6 @@ background-size: cover;
 </div>
 </section>
 </div>
-<style>
-/* HLBW homepage popup (CCWJ style) */
-#hlbw-popup {
-  position: fixed;
-  right: 24px;
-  bottom: 24px;
-  width: 340px; /* a bit wider */
-  background: rgba(20, 24, 28, 0.96);
-  color: #fff;
-  border: 1px solid rgba(255,255,255,0.10);
-  border-radius: 10px;
-  box-shadow: 0 12px 34px rgba(0,0,0,0.45);
-  overflow: hidden;
-  z-index: 9999;
-}
-
-/* Show the whole poster (no cropping) */
-#hlbw-popup img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-#hlbw-popup .content {
-  padding: 12px 14px 14px 14px;
-}
-
-#hlbw-popup .title {
-  margin: 0 0 6px 0;
-  font-size: 0.92rem;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-  line-height: 1.25;
-}
-
-#hlbw-popup .meta {
-  margin: 0 0 10px 0;
-  font-size: 0.82rem;
-  opacity: 0.85;
-  line-height: 1.25;
-}
-
-#hlbw-popup .actions {
-  display: flex;
-  gap: 10px;
-  align-items: center;
-}
-
-#hlbw-popup .btn-primary {
-  display: inline-block;
-  background: #2eab8c; /* CCWJ green */
-  color: #fff;
-  padding: 7px 10px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-size: 0.82rem;
-  font-weight: 700;
-  line-height: 1;
-  border: 1px solid rgba(0,0,0,0.15);
-}
-
-#hlbw-popup .link {
-  color: #2eab8c;
-  text-decoration: none;
-  font-size: 0.82rem;
-  font-weight: 600;
-}
-
-#hlbw-popup .link:hover,
-#hlbw-popup .btn-primary:hover {
-  filter: brightness(1.05);
-}
-
-#hlbw-popup .close {
-  position: absolute;
-  top: 8px;
-  right: 10px;
-  width: 28px;
-  height: 28px;
-  border-radius: 999px;
-  border: 1px solid rgba(255,255,255,0.18);
-  background: rgba(0,0,0,0.35);
-  color: #fff;
-  cursor: pointer;
-  display: grid;
-  place-items: center;
-  font-size: 16px;
-  line-height: 1;
-  opacity: 0.9;
-}
-
-#hlbw-popup .close:hover {
-  opacity: 1;
-}
-
-/* Mobile: make it full-width-ish */
-@media (max-width: 600px) {
-  #hlbw-popup {
-    left: 12px;
-    right: 12px;
-    bottom: 12px;
-    width: auto;
-  }
-}
-</style>
-<div id="hlbw-popup" role="dialog" aria-label="International Conference on Handheld Laser Beam Welding 2026">
-<p><button class="close" aria-label="Close" id="hlbw-popup-close">×</button></p>
-<p><a href="https://www.ccwjannualseminar.ca/" aria-label="Conference website"> <img src="assets/HLBW Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026 poster"> </a></p>
-<div class="content">
-<pre><code>&lt;p class="title"&gt;International Conference on Handheld Laser Beam Welding 2026&lt;/p&gt;
-&lt;p class="meta"&gt;Registration open • June 25–26, 2026 • Edmonton&lt;/p&gt;
-&lt;div class="actions"&gt;
-  &lt;a class="btn-primary" href="https://www.ccwjannualseminar.ca/registration"&gt;Register&lt;/a&gt;
-  &lt;a class="link" href="https://www.ccwjannualseminar.ca/"&gt;More info&lt;/a&gt;
-&lt;/div&gt;</code></pre>
-</div>
-</div>
-<script>
-(function () {
-  const popup = document.getElementById('hlbw-popup');
-  const closeBtn = document.getElementById('hlbw-popup-close');
-
-  // Always show on homepage load (even after closing), with a small delay
-  popup.style.display = 'none';
-  setTimeout(() => {
-    popup.style.display = 'block';
-  }, 1200);
-
-  // Close only hides it for this page view; refresh will show it again
-  closeBtn.addEventListener('click', () => {
-    popup.style.display = 'none';
-  });
-})();
-</script>
 
 
 
