@@ -336,7 +336,7 @@ background-size: cover;
 /* Floating right-side conference card */
 .hlbw-card{
   position: fixed;
-  right: 40px;
+  right: 0;
   bottom: 0;
   width: 300px;
 
@@ -404,15 +404,26 @@ background-size: cover;
   color:#ffffff;
 }
 
-/* filled button with CCWJ-like dark gradient */
 .hlbw-register{
-  background: linear-gradient(180deg, #2b333b 0%, #1b232b 100%);
+  background: linear-gradient(90deg,#1b232b,#24313b);
+  color:#ffffff;
+  border:1px solid #ffffff;
 }
 
-/* outlined button */
+.hlbw-register:hover{
+  background: linear-gradient(90deg,#24313b,#1b232b);
+}
+
 .hlbw-more{
   background: transparent;
+  color:#ffffff;
+  border:1px solid #ffffff;
 }
+
+.hlbw-more:hover{
+  background: rgba(255,255,255,0.08);
+}
+
 
 .hlbw-btn:hover{
   background: rgba(255,255,255,0.06);
