@@ -479,7 +479,7 @@ background-size: cover;
   position: fixed;
   right: 24px;
   bottom: 24px;
-  width: 320px;
+  width: 340px; /* a bit wider */
   background: rgba(20, 24, 28, 0.96);
   color: #fff;
   border: 1px solid rgba(255,255,255,0.10);
@@ -489,10 +489,10 @@ background-size: cover;
   z-index: 9999;
 }
 
+/* Show the whole poster (no cropping) */
 #hlbw-popup img {
   width: 100%;
-  height: 160px;
-  object-fit: cover;
+  height: auto;
   display: block;
 }
 
@@ -502,9 +502,10 @@ background-size: cover;
 
 #hlbw-popup .title {
   margin: 0 0 6px 0;
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   font-weight: 700;
   letter-spacing: 0.2px;
+  line-height: 1.25;
 }
 
 #hlbw-popup .meta {
@@ -567,7 +568,7 @@ background-size: cover;
   opacity: 1;
 }
 
-/* Mobile: make it smaller and centered */
+/* Mobile: make it full-width-ish */
 @media (max-width: 600px) {
   #hlbw-popup {
     left: 12px;
@@ -575,15 +576,13 @@ background-size: cover;
     bottom: 12px;
     width: auto;
   }
-  #hlbw-popup img {
-    height: 140px;
-  }
 }
 </style>
-<div id="hlbw-popup" role="dialog" aria-label="HLBW Conference 2026">
-<button class="close" aria-label="Close" id="hlbw-popup-close">×</button> <a href="https://www.ccwjannualseminar.ca/" aria-label="HLBW Conference 2026 website"> <img src="assets/HLBW Conf.jpg" alt="International Conference on Handheld Laser Beam Welding (HLBW) 2026"> </a>
+<div id="hlbw-popup" role="dialog" aria-label="International Conference on Handheld Laser Beam Welding 2026">
+<p><button class="close" aria-label="Close" id="hlbw-popup-close">×</button></p>
+<p><a href="https://www.ccwjannualseminar.ca/" aria-label="Conference website"> <img src="assets/HLBW Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026 poster"> </a></p>
 <div class="content">
-<pre><code>&lt;p class="title"&gt;HLBW Conference 2026&lt;/p&gt;
+<pre><code>&lt;p class="title"&gt;International Conference on Handheld Laser Beam Welding 2026&lt;/p&gt;
 &lt;p class="meta"&gt;Registration open • June 25–26, 2026 • Edmonton&lt;/p&gt;
 &lt;div class="actions"&gt;
   &lt;a class="btn-primary" href="https://www.ccwjannualseminar.ca/registration"&gt;Register&lt;/a&gt;
@@ -596,19 +595,15 @@ background-size: cover;
   const popup = document.getElementById('hlbw-popup');
   const closeBtn = document.getElementById('hlbw-popup-close');
 
-  // Show after a short delay so it feels less intrusive
+  // Always show on homepage load (even after closing), with a small delay
+  popup.style.display = 'none';
   setTimeout(() => {
-    if (!localStorage.getItem('hlbwPopupDismissed')) {
-      popup.style.display = 'block';
-    }
+    popup.style.display = 'block';
   }, 1200);
 
-  // Start hidden until delay passes
-  popup.style.display = 'none';
-
+  // Close only hides it for this page view; refresh will show it again
   closeBtn.addEventListener('click', () => {
     popup.style.display = 'none';
-    localStorage.setItem('hlbwPopupDismissed', '1');
   });
 })();
 </script>
