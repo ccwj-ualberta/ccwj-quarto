@@ -145,145 +145,90 @@ Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fl
 :::
 :::
 
-
 ```{=html}
 <style>
-/* HLBW homepage popup (CCWJ style) */
-#hlbw-popup {
-  position: fixed;
-  right: 24px;
-  bottom: 24px;
-  width: 340px; /* a bit wider */
-  background: rgba(20, 24, 28, 0.96);
-  color: #fff;
-  border: 1px solid rgba(255,255,255,0.10);
+/* Homepage conference announcement bar */
+.hlbw-banner{
+  max-width: 1100px;
+  margin: 18px auto 0 auto;
+  padding: 12px 14px;
   border-radius: 10px;
-  box-shadow: 0 12px 34px rgba(0,0,0,0.45);
-  overflow: hidden;
-  z-index: 9999;
-}
-
-/* Show the whole poster (no cropping) */
-#hlbw-popup img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-#hlbw-popup .content {
-  padding: 12px 14px 14px 14px;
-}
-
-#hlbw-popup .title {
-  margin: 0 0 6px 0;
-  font-size: 0.92rem;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-  line-height: 1.25;
-}
-
-#hlbw-popup .meta {
-  margin: 0 0 10px 0;
-  font-size: 0.82rem;
-  opacity: 0.85;
-  line-height: 1.25;
-}
-
-#hlbw-popup .actions {
+  background: rgba(20, 24, 28, 0.85);
+  border: 1px solid rgba(255,255,255,0.10);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.25);
   display: flex;
-  gap: 10px;
+  gap: 14px;
   align-items: center;
 }
 
-#hlbw-popup .btn-primary {
-  display: inline-block;
-  background: #2eab8c; /* CCWJ green */
+.hlbw-banner img{
+  width: 120px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 8px;
+  display:block;
+}
+
+.hlbw-banner .text{
+  flex: 1;
   color: #fff;
-  padding: 7px 10px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-size: 0.82rem;
-  font-weight: 700;
-  line-height: 1;
-  border: 1px solid rgba(0,0,0,0.15);
 }
 
-#hlbw-popup .link {
-  color: #2eab8c;
-  text-decoration: none;
-  font-size: 0.82rem;
-  font-weight: 600;
+.hlbw-banner .title{
+  margin: 0 0 4px 0;
+  font-weight: 800;
+  font-size: 0.95rem;
+  line-height: 1.2;
 }
 
-#hlbw-popup .link:hover,
-#hlbw-popup .btn-primary:hover {
-  filter: brightness(1.05);
+.hlbw-banner .meta{
+  margin: 0;
+  opacity: 0.85;
+  font-size: 0.85rem;
 }
 
-#hlbw-popup .close {
-  position: absolute;
-  top: 8px;
-  right: 10px;
-  width: 28px;
-  height: 28px;
-  border-radius: 999px;
-  border: 1px solid rgba(255,255,255,0.18);
-  background: rgba(0,0,0,0.35);
-  color: #fff;
-  cursor: pointer;
-  display: grid;
-  place-items: center;
-  font-size: 16px;
-  line-height: 1;
-  opacity: 0.9;
+.hlbw-banner .actions{
+  display:flex;
+  gap:10px;
+  align-items:center;
+  white-space: nowrap;
 }
 
-#hlbw-popup .close:hover {
-  opacity: 1;
+.hlbw-banner .btn{
+  background:#2eab8c;
+  color:#fff;
+  padding:7px 10px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:700;
+  font-size:0.82rem;
+  line-height:1;
 }
 
-/* Mobile: make it full-width-ish */
-@media (max-width: 600px) {
-  #hlbw-popup {
-    left: 12px;
-    right: 12px;
-    bottom: 12px;
-    width: auto;
-  }
+.hlbw-banner .link{
+  color:#2eab8c;
+  text-decoration:none;
+  font-weight:700;
+  font-size:0.82rem;
+}
+
+@media (max-width: 700px){
+  .hlbw-banner{flex-direction:column; align-items:stretch;}
+  .hlbw-banner img{width:100%; height:140px;}
+  .hlbw-banner .actions{justify-content:flex-start;}
 }
 </style>
 
-<div id="hlbw-popup" role="dialog" aria-label="International Conference on Handheld Laser Beam Welding 2026">
-  <button class="close" aria-label="Close" id="hlbw-popup-close">×</button>
-
+<div class="hlbw-banner">
   <a href="https://www.ccwjannualseminar.ca/" aria-label="Conference website">
-    <img src="assets/HLBW%20Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026 poster">
+    <img src="assets/HLBW%20Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
   </a>
-
-  <div class="content">
+  <div class="text">
     <p class="title">International Conference on Handheld Laser Beam Welding 2026</p>
     <p class="meta">Registration open • June 25–26, 2026 • Edmonton</p>
-    <div class="actions">
-      <a class="btn-primary" href="https://www.ccwjannualseminar.ca/registration">Register</a>
-      <a class="link" href="https://www.ccwjannualseminar.ca/">More info</a>
-    </div>
+  </div>
+  <div class="actions">
+    <a class="btn" href="https://www.ccwjannualseminar.ca/registration">Register</a>
+    <a class="link" href="https://www.ccwjannualseminar.ca/">More info</a>
   </div>
 </div>
-
-<script>
-(function () {
-  const popup = document.getElementById('hlbw-popup');
-  const closeBtn = document.getElementById('hlbw-popup-close');
-
-  // Always show on homepage load (even after closing), with a small delay
-  popup.style.display = 'none';
-  setTimeout(() => {
-    popup.style.display = 'block';
-  }, 1200);
-
-  // Close only hides it for this page view; refresh will show it again
-  closeBtn.addEventListener('click', () => {
-    popup.style.display = 'none';
-  });
-})();
-</script>
