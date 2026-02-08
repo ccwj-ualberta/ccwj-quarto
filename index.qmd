@@ -49,9 +49,9 @@ filters:
 /* Floating right-side conference card */
 .hlbw-card{
   position: fixed;
-  right: 0;
+  right: 10;
   bottom: 0;
-  width: 300px;
+  width: 350px;
 
   /* match navbar/dropdown vibe (dark, clean) */
   background: linear-gradient(180deg, #2b333b 0%, #1b232b 100%);
