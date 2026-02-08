@@ -46,6 +46,100 @@ filters:
 }
 </style>
 ```
+```{=html}
+<style>
+.hlbw-banner{
+  max-width:1100px;
+  margin:20px auto 0 auto;
+  padding:16px;
+  border-radius:12px;
+  background:linear-gradient(135deg,#11181f,#1c2730);
+  border:1px solid rgba(255,255,255,0.08);
+  box-shadow:0 12px 30px rgba(0,0,0,0.35);
+  display:flex;
+  gap:18px;
+  align-items:center;
+}
+
+.hlbw-banner img{
+  width:180px;
+  height:auto;              /* keep natural ratio */
+  border-radius:10px;
+  display:block;
+}
+
+.hlbw-banner .text{
+  flex:1;
+  color:#fff;
+}
+
+.hlbw-banner .title{
+  margin:0 0 6px 0;
+  font-weight:800;
+  font-size:1.05rem;
+  line-height:1.25;
+}
+
+.hlbw-banner .meta{
+  margin:0;
+  opacity:0.85;
+  font-size:0.9rem;
+}
+
+.hlbw-banner .actions{
+  display:flex;
+  gap:12px;
+  white-space:nowrap;
+}
+
+.hlbw-banner .btn{
+  background:#2eab8c;
+  color:#fff;
+  padding:8px 14px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:700;
+  font-size:0.85rem;
+}
+
+.hlbw-banner .btn:hover{
+  background:#259a7d;
+}
+
+.hlbw-banner .link{
+  color:#2eab8c;
+  text-decoration:none;
+  font-weight:700;
+  font-size:0.85rem;
+}
+
+@media (max-width:800px){
+  .hlbw-banner{
+    flex-direction:column;
+    align-items:flex-start;
+  }
+  .hlbw-banner img{
+    width:100%;
+  }
+}
+</style>
+
+<div class="hlbw-banner">
+  <a href="https://www.ccwjannualseminar.ca/">
+    <img src="assets/HLBW%20Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
+  </a>
+
+  <div class="text">
+    <p class="title">International Conference on Handheld Laser Beam Welding 2026</p>
+    <p class="meta">Registration Open • June 25–26, 2026 • Edmonton, Alberta</p>
+  </div>
+
+  <div class="actions">
+    <a class="btn" href="https://www.ccwjannualseminar.ca/registration">Register</a>
+    <a class="link" href="https://www.ccwjannualseminar.ca/">More Info</a>
+  </div>
+</div>
+```
 
 
 ::: {layout="[ 54, 46 ]"}
@@ -144,91 +238,3 @@ Our research is highly interdisciplinary, spanning metallurgy, heat transfer, fl
 :::
 :::
 :::
-
-```{=html}
-<style>
-/* Homepage conference announcement bar */
-.hlbw-banner{
-  max-width: 1100px;
-  margin: 18px auto 0 auto;
-  padding: 12px 14px;
-  border-radius: 10px;
-  background: rgba(20, 24, 28, 0.85);
-  border: 1px solid rgba(255,255,255,0.10);
-  box-shadow: 0 10px 28px rgba(0,0,0,0.25);
-  display: flex;
-  gap: 14px;
-  align-items: center;
-}
-
-.hlbw-banner img{
-  width: 120px;
-  height: 70px;
-  object-fit: cover;
-  border-radius: 8px;
-  display:block;
-}
-
-.hlbw-banner .text{
-  flex: 1;
-  color: #fff;
-}
-
-.hlbw-banner .title{
-  margin: 0 0 4px 0;
-  font-weight: 800;
-  font-size: 0.95rem;
-  line-height: 1.2;
-}
-
-.hlbw-banner .meta{
-  margin: 0;
-  opacity: 0.85;
-  font-size: 0.85rem;
-}
-
-.hlbw-banner .actions{
-  display:flex;
-  gap:10px;
-  align-items:center;
-  white-space: nowrap;
-}
-
-.hlbw-banner .btn{
-  background:#2eab8c;
-  color:#fff;
-  padding:7px 10px;
-  border-radius:6px;
-  text-decoration:none;
-  font-weight:700;
-  font-size:0.82rem;
-  line-height:1;
-}
-
-.hlbw-banner .link{
-  color:#2eab8c;
-  text-decoration:none;
-  font-weight:700;
-  font-size:0.82rem;
-}
-
-@media (max-width: 700px){
-  .hlbw-banner{flex-direction:column; align-items:stretch;}
-  .hlbw-banner img{width:100%; height:140px;}
-  .hlbw-banner .actions{justify-content:flex-start;}
-}
-</style>
-
-<div class="hlbw-banner">
-  <a href="https://www.ccwjannualseminar.ca/" aria-label="Conference website">
-    <img src="assets/HLBW%20Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
-  </a>
-  <div class="text">
-    <p class="title">International Conference on Handheld Laser Beam Welding 2026</p>
-    <p class="meta">Registration open • June 25–26, 2026 • Edmonton</p>
-  </div>
-  <div class="actions">
-    <a class="btn" href="https://www.ccwjannualseminar.ca/registration">Register</a>
-    <a class="link" href="https://www.ccwjannualseminar.ca/">More info</a>
-  </div>
-</div>
