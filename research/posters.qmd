@@ -5,6 +5,34 @@ lightbox: true
 
 ::: {layout-ncol=3}
 
+![Artificial Intelligence in Welding](posters/AI in Welding Research.jpg)
+
+![Continuous Cooling Temperature Curve](posters/CCT.jpg)
+
+![Droplet Temperature experiment](posters/Droplet Temperature.jpg)
+
+![Etchants Information](posters/Etchant.jpg)
+
+![Handheld Laser Beam Welding](posters/HLBW_Poster.jpg)
+
+![High Speed Videography](posters/HSV.jpg)
+
+![Laser Cladding](posters/Laser_Cladding.jpg)
+
+![Metallurgy](posters/Metallurgy.jpg)
+
+![Wire Arc Additive Manufacturing](posters/WAAM.jpg)
+
+![Bruker G8 GALILEO Oxygen, Hydrogen and Nitrogen Analyser](posters/ONH.jpg)
+
+![Robots in Welding](posters/Robots in welding.jpg)
+
+![Submerged Arc Welding](posters/SAW.jpg)
+
+![CWBA Student Chapter](posters/Student Chapter.jpg)
+
+![Hardness Mapper](posters/Hardness Mapper.jpg)
+
 ![Accurately simulating a weld as a moving point heat source](posters/POS1_Simulating_Welds.jpg)
 
 ![Ni-WC classifying overlay wear performance](posters/POS2_Ni.jpg)
