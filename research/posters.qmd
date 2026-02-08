@@ -1,75 +1,74 @@
 ---
 title: "Posters"
-lightbox: true
 ---
 
 ::: {layout-ncol=2}
 
-<a href="posters/AI%20in%20Welding%20Research.jpg" class="lightbox" data-glightbox="type:image; title: Artificial Intelligence in Welding;">
+<a href="posters/AI%20in%20Welding%20Research.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/AI%20in%20Welding%20Research.jpg" style="width:100%; height:auto;" alt="Artificial Intelligence in Welding">
 </a>
 
-<a href="posters/CCT.jpg" class="lightbox" data-glightbox="type:image; title: Continuous Cooling Temperature Curve;">
+<a href="posters/CCT.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/CCT.jpg" style="width:100%; height:auto;" alt="Continuous Cooling Temperature Curve">
 </a>
 
-<a href="posters/Droplet%20Temperature.jpg" class="lightbox" data-glightbox="type:image; title: Droplet Temperature experiment;">
+<a href="posters/Droplet%20Temperature.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/Droplet%20Temperature.jpg" style="width:100%; height:auto;" alt="Droplet Temperature experiment">
 </a>
 
-<a href="posters/Etchant.jpg" class="lightbox" data-glightbox="type:image; title: Etchants Information;">
+<a href="posters/Etchant.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/Etchant.jpg" style="width:100%; height:auto;" alt="Etchants Information">
 </a>
 
-<a href="posters/HLBW_Poster.jpg" class="lightbox" data-glightbox="type:image; title: Handheld Laser Beam Welding;">
+<a href="posters/HLBW_Poster.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/HLBW_Poster.jpg" style="width:100%; height:auto;" alt="Handheld Laser Beam Welding">
 </a>
 
-<a href="posters/HSV.jpg" class="lightbox" data-glightbox="type:image; title: High Speed Videography;">
+<a href="posters/HSV.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/HSV.jpg" style="width:100%; height:auto;" alt="High Speed Videography">
 </a>
 
-<a href="posters/Laser_Cladding.jpg" class="lightbox" data-glightbox="type:image; title: Laser Cladding;">
+<a href="posters/Laser_Cladding.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/Laser_Cladding.jpg" style="width:100%; height:auto;" alt="Laser Cladding">
 </a>
 
-<a href="posters/Metallurgy.jpg" class="lightbox" data-glightbox="type:image; title: Metallurgy;">
+<a href="posters/Metallurgy.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/Metallurgy.jpg" style="width:100%; height:auto;" alt="Metallurgy">
 </a>
 
-<a href="posters/WAAM.jpg" class="lightbox" data-glightbox="type:image; title: Wire Arc Additive Manufacturing;">
+<a href="posters/WAAM.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/WAAM.jpg" style="width:100%; height:auto;" alt="Wire Arc Additive Manufacturing">
 </a>
 
-<a href="posters/ONH.jpg" class="lightbox" data-glightbox="type:image; title: Bruker G8 GALILEO Oxygen, Hydrogen and Nitrogen Analyser;">
+<a href="posters/ONH.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/ONH.jpg" style="width:100%; height:auto;" alt="Bruker G8 GALILEO Oxygen, Hydrogen and Nitrogen Analyser">
 </a>
 
-<a href="posters/Robots%20in%20welding.jpg" class="lightbox" data-glightbox="type:image; title: Robots in Welding;">
+<a href="posters/Robots%20in%20welding.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/Robots%20in%20welding.jpg" style="width:100%; height:auto;" alt="Robots in Welding">
 </a>
 
-<a href="posters/SAW.jpg" class="lightbox" data-glightbox="type:image; title: Submerged Arc Welding;">
+<a href="posters/SAW.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/SAW.jpg" style="width:100%; height:auto;" alt="Submerged Arc Welding">
 </a>
 
-<a href="posters/Student%20Chapter.jpg" class="lightbox" data-glightbox="type:image; title: CWBA Student Chapter;">
+<a href="posters/Student%20Chapter.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/Student%20Chapter.jpg" style="width:100%; height:auto;" alt="CWBA Student Chapter">
 </a>
 
-<a href="posters/Hardness%20Mapper.jpg" class="lightbox" data-glightbox="type:image; title: Hardness Mapper;">
+<a href="posters/Hardness%20Mapper.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/Hardness%20Mapper.jpg" style="width:100%; height:auto;" alt="Hardness Mapper">
 </a>
 
-<a href="posters/POS1_Simulating_Welds.jpg" class="lightbox" data-glightbox="type:image; title: Accurately simulating a weld as a moving point heat source;">
+<a href="posters/POS1_Simulating_Welds.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/POS1_Simulating_Welds.jpg" style="width:100%; height:auto;" alt="Accurately simulating a weld as a moving point heat source">
 </a>
 
-<a href="posters/POS2_Ni.jpg" class="lightbox" data-glightbox="type:image; title: Ni-WC classifying overlay wear performance;">
+<a href="posters/POS2_Ni.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/POS2_Ni.jpg" style="width:100%; height:auto;" alt="Ni-WC classifying overlay wear performance">
 </a>
 
-<a href="posters/altasteel-hydrogen-diffusion.jpg" class="lightbox" data-glightbox="type:image; title: Hydrogen Diffusion and Microstructure;">
+<a href="posters/altasteel-hydrogen-diffusion.jpg" target="_blank" rel="noopener">
   <img src="posters/thumbnail%20for%20posters/altasteel-hydrogen-diffusion.jpg" style="width:100%; height:auto;" alt="Hydrogen Diffusion and Microstructure">
 </a>
 
