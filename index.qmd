@@ -19,6 +19,7 @@ filters:
 
 ```{=html}
 <style>
+
 .video-card{
   text-decoration:none;
   color:inherit;
@@ -27,15 +28,15 @@ filters:
 
 .video-wrapper{
   width:100%;
-  height:250px;        /* match Quarto image height */
+  height:250px;
   overflow:hidden;
-  border-radius:4px;   /* match Quarto border radius */
+  border-radius:4px;
 }
 
 .video-wrapper video{
   width:100%;
   height:100%;
-  object-fit:cover;    /* match Quarto cropping */
+  object-fit:cover;
   display:block;
 }
 
@@ -64,19 +65,34 @@ filters:
   display:block;
 }
 
+.hlbw-close{
+  position:absolute;
+  top:8px;
+  right:10px;
+  background:rgba(0,0,0,0.6);
+  color:#fff;
+  border:none;
+  font-size:16px;
+  cursor:pointer;
+  border-radius:50%;
+  width:26px;
+  height:26px;
+}
+
 .hlbw-content{
   padding:16px;
   color:#fff;
 }
 
 .hlbw-title{
-  font-size:1rem;
-  font-weight:800;
+  font-size:0.95rem;
+  font-weight:700;
   margin-bottom:6px;
+  line-height:1.3;
 }
 
 .hlbw-meta{
-  font-size:0.85rem;
+  font-size:0.82rem;
   opacity:0.8;
   margin-bottom:14px;
 }
@@ -106,16 +122,20 @@ filters:
   color:#2eab8c;
 }
 
-/* Hide on smaller screens */
 @media (max-width:1200px){
   .hlbw-card{ display:none; }
 }
+
 </style>
-```
-<div class="hlbw-card">
+
+<div class="hlbw-card" id="hlbwCard">
+
+  <button class="hlbw-close" onclick="document.getElementById('hlbwCard').style.display='none'">×</button>
+
   <img src="assets/HLBW%20Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
 
   <div class="hlbw-content">
+
     <div class="hlbw-title">
       International Conference on Handheld Laser Beam Welding 2026
     </div>
@@ -128,8 +148,12 @@ filters:
       <a class="hlbw-btn hlbw-register" href="https://www.ccwjannualseminar.ca/registration">Register</a>
       <a class="hlbw-btn hlbw-more" href="https://www.ccwjannualseminar.ca/">More Info</a>
     </div>
+
   </div>
 </div>
+```
+
+
 ::: {layout="[ 54, 46 ]"}
 :::: {#first-column}
 **The Canadian Centre for Welding and Joining** (CCWJ) at the University of Alberta (UofA) is a world-class research and training facility employing researchers at all stages of their career and awarding doctoral degrees through the [Department of Chemical and Materials Engineering at the University of Alberta](https://www.ualberta.ca/en/engineering/chemical-materials-engineering/index.html).
