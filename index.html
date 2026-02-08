@@ -337,7 +337,7 @@ background-size: cover;
 .hlbw-card{
   position: fixed;
   right: 40px;
-  bottom: 40px;
+  bottom: 0;
   width: 300px;
 
   /* match navbar/dropdown vibe (dark, clean) */
@@ -370,41 +370,38 @@ background-size: cover;
   line-height:26px;
 }
 
-/* tighter bottom = no extra space under buttons */
 .hlbw-content{
-  padding: 14px 14px 10px 14px;  /* <-- smaller bottom padding */
-  color:#fff;
+  padding: 12px 14px 8px 14px;  /* smaller bottom padding */
+  color: #e6e6e6;              /* softer white */
 }
 
 .hlbw-title{
   font-size:0.95rem;
-  font-weight:800;
-  margin:0 0 6px 0;
-  line-height:1.25;
-}
+  font-weight:600;
+  color:#e6e6e6;
 
 .hlbw-meta{
   font-size:0.82rem;
-  opacity:0.82;
-  margin:0 0 10px 0;  /* <-- less space before buttons */
+  opacity:0.75;
+  margin:0 0 8px 0;             /* tighter spacing */
 }
 
 .hlbw-actions{
   display:flex;
   gap:10px;
-  margin:0;           /* <-- prevents any bottom gap */
+  margin:0;
 }
 
 .hlbw-btn{
   flex:1;
   text-align:center;
-  padding:10px 10px;
+  padding:8px 10px;
   border-radius:6px;
   font-size:0.82rem;
-  font-weight:800;
+  font-weight:600;              /* lighter weight */
   text-decoration:none;
-  border:1px solid #ffffff;     /* <-- white border for BOTH */
-  color:#ffffff;                 /* <-- white text for BOTH */
+  border:1px solid #ffffff;
+  color:#ffffff;
 }
 
 /* filled button with CCWJ-like dark gradient */
