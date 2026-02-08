@@ -92,6 +92,7 @@ filters:
   font-size:0.95rem;
   font-weight:600;
   color:#e6e6e6;
+}
 
 .hlbw-meta{
   font-size:0.82rem;
@@ -108,40 +109,36 @@ filters:
 .hlbw-btn{
   flex:1;
   text-align:center;
-  padding:10px 12px;
-  border-radius:8px;
-  font-size:0.85rem;
-  font-weight:600;
+  padding:8px 12px;
+  border-radius:6px;
+  font-size:0.8rem;
+  font-weight:700;
   text-decoration:none;
-  display:inline-block;
+  border:1px solid #ffffff;
+  transition: all 0.25s ease;
 }
 
-/* Register = filled dark gradient + white border + white text */
+/* REGISTER BUTTON */
 .hlbw-register{
-  background: linear-gradient(180deg, #2b333b 0%, #1b232b 100%);
-  border: 1px solid rgba(255,255,255,0.85);
+  background: linear-gradient(90deg,#1b232b,#24313b);
   color:#ffffff;
+  border:1px solid #ffffff;
 }
 
 .hlbw-register:hover{
-  background: linear-gradient(180deg, #313b44 0%, #1f2831 100%);
+  background: linear-gradient(90deg,#24313b,#1b232b);
 }
 
-/* More Info = transparent + white border + white text */
 .hlbw-more{
   background: transparent;
-  border: 1px solid rgba(255,255,255,0.85);
   color:#ffffff;
+  border:1px solid #ffffff;
 }
 
 .hlbw-more:hover{
   background: rgba(255,255,255,0.08);
 }
 
-
-.hlbw-btn:hover{
-  background: rgba(255,255,255,0.06);
-}
 
 @media (max-width:1200px){
   .hlbw-card{ display:none; }
