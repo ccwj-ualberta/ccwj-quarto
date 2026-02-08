@@ -332,97 +332,88 @@ background-size: cover;
   opacity: 0.9;
 }
 
-</style>
-<style>
-/* Conference Banner */
-.hlbw-banner{
-  max-width:1100px;
-  margin:20px auto 0 auto;
-  padding:18px;
-  border-radius:12px;
-  background:linear-gradient(135deg,#11181f,#1c2730);
-  border:1px solid rgba(255,255,255,0.08);
-  box-shadow:0 12px 30px rgba(0,0,0,0.35);
-  display:flex;
-  gap:20px;
-  align-items:center;
+/* Floating right-side conference card */
+.hlbw-card{
+  position: fixed;
+  right: 40px;
+  top: 200px;
+  width: 300px;
+  background: linear-gradient(135deg,#11181f,#1c2730);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.4);
+  border: 1px solid rgba(255,255,255,0.08);
+  z-index: 999;
 }
 
-.hlbw-banner img{
-  width:200px;
-  height:auto;
-  border-radius:10px;
+.hlbw-card img{
+  width:100%;
   display:block;
 }
 
-.hlbw-banner .text{
-  flex:1;
+.hlbw-content{
+  padding:16px;
   color:#fff;
 }
 
-.hlbw-banner .title{
-  margin:0 0 6px 0;
+.hlbw-title{
+  font-size:1rem;
   font-weight:800;
-  font-size:1.1rem;
+  margin-bottom:6px;
 }
 
-.hlbw-banner .meta{
-  margin:0;
-  opacity:0.85;
-  font-size:0.9rem;
+.hlbw-meta{
+  font-size:0.85rem;
+  opacity:0.8;
+  margin-bottom:14px;
 }
 
-.hlbw-banner .actions{
+.hlbw-actions{
   display:flex;
-  gap:12px;
+  gap:10px;
 }
 
-.hlbw-banner .btn{
-  background:#2eab8c;
-  color:#fff;
-  padding:8px 14px;
+.hlbw-btn{
+  flex:1;
+  text-align:center;
+  padding:8px 10px;
   border-radius:6px;
-  text-decoration:none;
+  font-size:0.8rem;
   font-weight:700;
-  font-size:0.85rem;
+  text-decoration:none;
 }
 
-.hlbw-banner .btn:hover{
-  background:#259a7d;
+.hlbw-register{
+  background:#2eab8c;
+  color:white;
 }
 
-.hlbw-banner .link{
+.hlbw-more{
+  border:1px solid #2eab8c;
   color:#2eab8c;
-  text-decoration:none;
-  font-weight:700;
-  font-size:0.85rem;
 }
 
-@media (max-width:800px){
-  .hlbw-banner{
-    flex-direction:column;
-    align-items:flex-start;
-  }
-  .hlbw-banner img{
-    width:100%;
-  }
+/* Hide on smaller screens */
+@media (max-width:1200px){
+  .hlbw-card{ display:none; }
 }
 </style>
+<div class="hlbw-card">
+<p><img src="assets/HLBW Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026"></p>
+<div class="hlbw-content">
+<pre><code>&lt;div class="hlbw-title"&gt;
+  International Conference on Handheld Laser Beam Welding 2026
+&lt;/div&gt;
 
-<div class="hlbw-banner">
-  <a href="https://www.ccwjannualseminar.ca/">
-    <img src="assets/HLBW Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
-  </a>
+&lt;div class="hlbw-meta"&gt;
+  Registration Open • June 25–26, 2026 • Edmonton, Alberta
+&lt;/div&gt;
 
-  <div class="text">
-    <p class="title">International Conference on Handheld Laser Beam Welding 2026</p>
-    <p class="meta">Registration Open • June 25–26, 2026 • Edmonton, Alberta</p>
-  </div>
-
-  <div class="actions">
-    <a class="btn" href="https://www.ccwjannualseminar.ca/registration">Register</a>
-    <a class="link" href="https://www.ccwjannualseminar.ca/">More Info</a>
-  </div>
+&lt;div class="hlbw-actions"&gt;
+  &lt;a class="hlbw-btn hlbw-register" href="https://www.ccwjannualseminar.ca/registration"&gt;Register&lt;/a&gt;
+  &lt;a class="hlbw-btn hlbw-more" href="https://www.ccwjannualseminar.ca/"&gt;More Info&lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
 </div>
 <div class="quarto-layout-panel" data-layout="[ 54, 46 ]">
 <div class="quarto-layout-row">

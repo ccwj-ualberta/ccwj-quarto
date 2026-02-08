@@ -2621,7 +2621,7 @@
     "href": "index.html",
     "title": "Canadian Centre for Welding and Joining",
     "section": "",
-    "text": "International Conference on Handheld Laser Beam Welding 2026\n    Registration Open • June 25–26, 2026 • Edmonton, Alberta\n  \n\n  \n    Register\n    More Info"
+    "text": "&lt;div class=\"hlbw-title\"&gt;\n  International Conference on Handheld Laser Beam Welding 2026\n&lt;/div&gt;\n\n&lt;div class=\"hlbw-meta\"&gt;\n  Registration Open • June 25–26, 2026 • Edmonton, Alberta\n&lt;/div&gt;\n\n&lt;div class=\"hlbw-actions\"&gt;\n  &lt;a class=\"hlbw-btn hlbw-register\" href=\"https://www.ccwjannualseminar.ca/registration\"&gt;Register&lt;/a&gt;\n  &lt;a class=\"hlbw-btn hlbw-more\" href=\"https://www.ccwjannualseminar.ca/\"&gt;More Info&lt;/a&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "index.html#from-science-to-industry",
