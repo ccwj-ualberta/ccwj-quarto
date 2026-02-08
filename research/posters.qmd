@@ -7,7 +7,7 @@ lightbox: true
 
 ![Artificial Intelligence in Welding](posters/AI in Welding Research.jpg)
 
-![Continuous Cooling Temperature Curve](posters/CCT.jpg
+![Continuous Cooling Temperature Curve](posters/CCT.jpg)
 
 ![Droplet Temperature experiment](posters/Droplet Temperature.jpg)
 
