@@ -1,0 +1,39 @@
+---
+title: Lucas Taipe Ramos
+image: LT2 - Lucas Nicolas Taipe Ramos Tbn.jpg
+subtitle: Engineering Physics
+priority: 4
+about:
+  template: trestles
+  image: LT2 - Lucas Nicolas Taipe Ramos.jpg
+  links:
+    - icon: email
+      text: taiperam@ualberta.ca
+      href: mailto:taiperam@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lucas13tr
+
+---
+
+Lucas Taipe Ramos has been an MSc student with the CCWJ since 2025. His research focuses on analyzing plasma arc behavior and metal transfer in Gas Metal Arc Welding (GMAW) using high-speed video, advanced computer vision, and machine learning techniques. His work aims to automatically extract key arc and droplet features from video data and develop accurate models that relate welding behavior to machine parameters, providing deeper, data-driven insight into process stability and metal transfer mechanisms.
+
+By replacing manual video analysis with reliable automated methods, Lucas’s research enables faster and more consistent characterization of welding processes across a wide range of conditions. This approach can accelerate process optimization, reduce rework, and improve quality control in production welding environments.
+
+Before joining CCWJ, Lucas completed a UARE Research Internship at CCWJ in 2023 and participated in the Summer Internship Program at UDE (USA) in 2022.
+
+Outside of his academic work, Lucas enjoys running, going to the gym, and trying new activities.
+
+##### Prior Degrees
+
+Professional Engineer Title (Physical Engineer), National University of Engineering (UNI), 2025  
+
+BSc in Engineering Physics, National University of Engineering (UNI), 2024  
+
+
+##### Selected Accomplishments
+
+UARE Research Internship (CCWJ), 2023 
+ 
+Summer Internship Program (UDE, USA), 2022
+
