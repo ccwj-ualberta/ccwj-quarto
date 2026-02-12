@@ -1,0 +1,22 @@
+---
+title: Samson Nellickappillil
+image: SN1 - Samson Nellickappillil Tbn.jpg
+subtitle: Chemical Engineering
+priority: 2
+about:
+  template: trestles
+  image: SN1 - Samson Nellickappillil.jpg
+  links:
+    - icon: email
+      text: nellicka@ualberta.ca
+      href: mailto:nellicka@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samson-nellickappillil/
+---
+
+Samson Nellickappillil is an undergraduate Chemical Engineering co-op student at the University of Alberta who joined the CCWJ in 2023. His work supports research in Wire Arc Additive Manufacturing (WAAM) of P91 steel, a widely used alloy with important applications in Alberta’s energy sector. He is involved in hands-on microscopy and materials characterization to better understand how processing conditions influence material properties.
+
+Samson was drawn to the CCWJ through his strong interest in welding, hands-on research, and the opportunity to apply engineering principles to real-world industry challenges.
+
+Outside of academics, Samson enjoys outdoor activities such as hiking and playing sports, including soccer and basketball.
