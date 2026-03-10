@@ -6,11 +6,11 @@ fig-cap-location: bottom
 
 We are grateful to acknowledge the support of our sponsors.
 
-### Welco industry chair
+### Welddco Industry Chair
 
 ::: {.sponsor-grid layout="[[1,1,1], [1,1,1], [1,1,1]]"}
 
-[![](sponsors-logos/new-logos/AG1_Acklands.png){width="100px"}](https://www.grainger.ca/en)
+[![](sponsors-logos/new-logos/AG1_Acklands.png){width="220px"}](https://www.grainger.ca/en)
 
 [![](sponsors-logos/new-logos/CW1_CWB_Group.png){height="150px"}](https://www.cwbgroup.org/)
 
