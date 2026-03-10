@@ -145,3 +145,4 @@ format:
     link-external-newwindow: true
     theme:
       - custom.scss
+    css: assets/sponsors.css
