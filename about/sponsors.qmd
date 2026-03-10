@@ -10,7 +10,7 @@ We are grateful to acknowledge the support of our sponsors.
 
 ::: {.sponsor-grid layout="[[1,1,1], [1,1,1], [1,1,1]]"}
 
-[![](sponsors-logos/new-logos/WB1_Weldco_Logo.png){height="150px" style="display:block;margin:auto;"}](https://weldco-beales.com/)
+[![](sponsors-logos/new-logos/AG1_Acklands.jpg){height="150px" style="display:block;margin:auto;"}](https://weldco-beales.com/)
 
 [![](sponsors-logos/new-logos/CW1_CWB_Group.png){height="150px"}](https://www.cwbgroup.org/)
 
