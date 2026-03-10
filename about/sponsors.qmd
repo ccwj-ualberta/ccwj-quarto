@@ -10,9 +10,9 @@ We are grateful to acknowledge the support of our sponsors.
 
 ::: {.sponsor-grid layout="[[1,1,1], [1,1,1], [1,1,1]]"}
 
-<div style="display:flex; align-items:center; justify-content:center; height:150px;">
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
   <a href="https://www.grainger.ca/en">
-    <img src="sponsors-logos/new-logos/AG1_Acklands.png" style="max-height:140px; width:auto;">
+    <img src="sponsors-logos/new-logos/AG1_Acklands.png" style="max-height:170px; width:auto;">
   </a>
 </div>
 
