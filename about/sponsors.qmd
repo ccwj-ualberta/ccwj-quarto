@@ -10,11 +10,9 @@ We are grateful to acknowledge the support of our sponsors.
 
 ::: {.sponsor-grid layout="[[1,1,1], [1,1,1], [1,1,1]]"}
 
-<p style="text-align:center;">
-  <a href="https://www.grainger.ca/en">
-    <img src="sponsors-logos/new-logos/AG1_Acklands.png" alt="Grainger Canada" style="width:220px; height:auto;">
-  </a>
-</p>
+<a href="https://www.grainger.ca/en">
+  <img src="sponsors-logos/new-logos/AG1_Acklands.png" alt="Grainger Canada" style="display:block; margin:0 auto; width:220px; height:auto;">
+</a>
 
 [![](sponsors-logos/new-logos/CW1_CWB_Group.png){height="150px"}](https://www.cwbgroup.org/)
 
