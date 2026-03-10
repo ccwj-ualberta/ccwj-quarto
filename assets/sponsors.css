@@ -1,0 +1,11 @@
+.sponsor-grid img {
+  max-height: 150px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sponsor-grid p {
+  text-align: center;
+}
