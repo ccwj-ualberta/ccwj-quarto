@@ -1,36 +1,67 @@
 ---
 title: "Sponsors"
 fig-cap-location: bottom
-
 ---
 
 We are grateful to acknowledge the support of our sponsors.
 
-### Welddco Industry Chair
+### Weldco Industry Chair
 
-::: {.sponsor-grid layout="[[1,1,1], [1,1,1], [1,1,1]]"}
+::: {layout="[[1,1,1], [1,1,1], [1,1,1]]"}
 
 <div style="display:flex; align-items:center; justify-content:center; height:200px;">
   <a href="https://www.grainger.ca/en">
-    <img src="sponsors-logos/new-logos/AG1_Acklands.png" style="max-height:170px; width:auto;">
+    <img src="sponsors-logos/new-logos/AG1_Acklands.png" alt="Grainger Canada" style="max-height:170px; max-width:100%; width:auto;">
   </a>
 </div>
 
-[![](sponsors-logos/new-logos/CW1_CWB_Group.png){height="150px"}](https://www.cwbgroup.org/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.cwbgroup.org/">
+    <img src="sponsors-logos/new-logos/CW1_CWB_Group.png" alt="CWB Group" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/CE1_CESSCO){height="150px"}](https://cessco.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://cessco.ca/">
+    <img src="sponsors-logos/new-logos/CE1_CESSCO.png" alt="CESSCO" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/LI1_Lincoln_Electric.png){height="150px"}](https://www.lincolnelectric.com)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.lincolnelectric.com">
+    <img src="sponsors-logos/new-logos/LI1_Lincoln_Electric.png" alt="Lincoln Electric" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/MF1_Metal_Fabricators.png){height="150px"}](https://www.metalfab.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.metalfab.ca/">
+    <img src="sponsors-logos/new-logos/MF1_Metal_Fabricators.png" alt="Metal Fabricators" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/MI1_Miller.png){height="150px"}](https://www.millerwelds.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.millerwelds.com/">
+    <img src="sponsors-logos/new-logos/MI1_Miller.png" alt="Miller" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/SU1_Suncor.png){height="150px"}](https://www.suncor.com)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.suncor.com">
+    <img src="sponsors-logos/new-logos/SU1_Suncor.png" alt="Suncor" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/SY1_Syncrude.png){height="150px"}](https://www.suncor.com/en-ca/what-we-do/oil-sands/syncrude)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.suncor.com/en-ca/what-we-do/oil-sands/syncrude">
+    <img src="sponsors-logos/new-logos/SY1_Syncrude.png" alt="Syncrude" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/WB1_Weldco_Logo.png){height="150px"}](https://weldco-beales.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://weldco-beales.com/">
+    <img src="sponsors-logos/new-logos/WB1_Weldco_Logo.png" alt="Weldco-Beales" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
 :::
 
@@ -38,77 +69,221 @@ We are grateful to acknowledge the support of our sponsors.
 
 ::: {layout="[[1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1]]"}
 
-[![](sponsors-logos/new-logos/AP1_Apollo.png){height="150px"}](https://www.apollomachine.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.apollomachine.com/">
+    <img src="sponsors-logos/new-logos/AP1_Apollo.png" alt="Apollo" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/AT1_ArcTec.png){height="150px"}](https://www.arctecalloys.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.arctecalloys.com/">
+    <img src="sponsors-logos/new-logos/AT1_ArcTec.png" alt="ArcTec" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/AW1_AWS.png){height="150px"}](https://www.aws.org/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.aws.org/">
+    <img src="sponsors-logos/new-logos/AW1_AWS.png" alt="AWS" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/CL1_CLAC.png){height="150px"}](https://www.clac.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.clac.ca/">
+    <img src="sponsors-logos/new-logos/CL1_CLAC.png" alt="CLAC" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/CW2_CWB_WF.png){height="150px"}](https://www.cwbweldingfoundation.org/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.cwbweldingfoundation.org/">
+    <img src="sponsors-logos/new-logos/CW2_CWB_WF.png" alt="CWB Welding Foundation" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/DU1_DURUM.png){height="150px"}](https://durmat.com/en/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://durmat.com/en/">
+    <img src="sponsors-logos/new-logos/DU1_DURUM.png" alt="DURUM" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/FL1_FLIR.png){height="150px"}](https://www.flir.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.flir.ca/">
+    <img src="sponsors-logos/new-logos/FL1_FLIR.png" alt="FLIR" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/GS1_GroupSix.png){height="150px"}](https://www.groupsixtech.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.groupsixtech.com/">
+    <img src="sponsors-logos/new-logos/GS1_GroupSix.png" alt="Group Six" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/HB1_Hobart.png){height="150px"}](https://www.hobartwelders.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.hobartwelders.com/">
+    <img src="sponsors-logos/new-logos/HB1_Hobart.png" alt="Hobart" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/IR1_IRISNDT_Logo.png){height="150px"}](https://www.irisndt.com/ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.irisndt.com/ca/">
+    <img src="sponsors-logos/new-logos/IR1_IRISNDT_Logo.png" alt="IRISNDT" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/JV1_JVDriver.png){height="150px"}](https://jvdriver.com/fabrication/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://jvdriver.com/fabrication/">
+    <img src="sponsors-logos/new-logos/JV1_JVDriver.png" alt="JV Driver" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/KU1_KUKA-logo.png){height="150px"}](https://www.kuka.com/en-ca)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.kuka.com/en-ca">
+    <img src="sponsors-logos/new-logos/KU1_KUKA-logo.png" alt="KUKA" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/LL1_Laserline.png){height="150px"}](https://www.laserline.com/en-int/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.laserline.com/en-int/">
+    <img src="sponsors-logos/new-logos/LL1_Laserline.png" alt="Laserline" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/LI2_Liburdi.png){height="150px"}](https://www.liburdi.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.liburdi.com/">
+    <img src="sponsors-logos/new-logos/LI2_Liburdi.png" alt="Liburdi" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/LI1_Lincoln_Electric.png){height="150px"}](https://www.lincolnelectric.com/en)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.lincolnelectric.com/en">
+    <img src="sponsors-logos/new-logos/LI1_Lincoln_Electric.png" alt="Lincoln Electric" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/LJ1_LJ_Welding.png){height="150px"}](https://www.ljwelding.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.ljwelding.com/">
+    <img src="sponsors-logos/new-logos/LJ1_LJ_Welding.png" alt="LJ Welding" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/BH1_MHPS_Hitachi.png){height="150px"}](https://power.mhi.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://power.mhi.com/">
+    <img src="sponsors-logos/new-logos/BH1_MHPS_Hitachi.png" alt="MHI" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/MI1_Miller.png){height="150px"}](https://www.millerwelds.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.millerwelds.com/">
+    <img src="sponsors-logos/new-logos/MI1_Miller.png" alt="Miller" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/NS1_NSERC.png){height="150px"}](https://www.nserc-crsng.gc.ca)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.nserc-crsng.gc.ca">
+    <img src="sponsors-logos/new-logos/NS1_NSERC.png" alt="NSERC" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/LI3_Praxair.png){height="150px"}](https://www.lindecanada.ca)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.lindecanada.ca">
+    <img src="sponsors-logos/new-logos/LI3_Praxair.png" alt="Praxair" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/PR1_Precitec.png){height="150px"}](https://www.precitec.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.precitec.com/">
+    <img src="sponsors-logos/new-logos/PR1_Precitec.png" alt="Precitec" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/SI1_Simufact_Welding.png){height="150px"}](https://hexagon.com/products/simufact-welding)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://hexagon.com/products/simufact-welding">
+    <img src="sponsors-logos/new-logos/SI1_Simufact_Welding.png" alt="Simufact Welding" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/ST1_Stoody.png){height="150px"}](https://www.stoodyind.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.stoodyind.com/">
+    <img src="sponsors-logos/new-logos/ST1_Stoody.png" alt="Stoody" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/TA1_Tackpoint.png){height="150px"}](https://www.tackpoint.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.tackpoint.com/">
+    <img src="sponsors-logos/new-logos/TA1_Tackpoint.png" alt="Tackpoint" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/TH1_Thermach.png){height="150px"}](https://www.thermach.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.thermach.com/">
+    <img src="sponsors-logos/new-logos/TH1_Thermach.png" alt="Thermach" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/TA1_ThermalArc.png){height="150px"}](https://esab.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://esab.com/">
+    <img src="sponsors-logos/new-logos/TA1_ThermalArc.png" alt="Thermal Arc" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/TO1_TotemAcoustic.png){height="150px"}](https://totemacoustic.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://totemacoustic.com/">
+    <img src="sponsors-logos/new-logos/TO1_TotemAcoustic.png" alt="Totem Acoustic" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/TR2_Transweld.png){height="150px"}](https://www.transvalor.com/en/transweld)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.transvalor.com/en/transweld">
+    <img src="sponsors-logos/new-logos/TR2_Transweld.png" alt="Transweld" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/TR1_Tregaskiss.png){height="150px"}](https://www.tregaskiss.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.tregaskiss.com/">
+    <img src="sponsors-logos/new-logos/TR1_Tregaskiss.png" alt="Tregaskiss" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/VR1_VrWeld.png){height="150px"}](https://vrweld.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://vrweld.com/">
+    <img src="sponsors-logos/new-logos/VR1_VrWeld.png" alt="VrWeld" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/WA1_Walter.png){height="150px"}](https://www.walter.com)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.walter.com">
+    <img src="sponsors-logos/new-logos/WA1_Walter.png" alt="Walter" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/WD1_PrairiesCan_Logo.png){height="150px"}](https://www.canada.ca/en/prairies-economic-development.html)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.canada.ca/en/prairies-economic-development.html">
+    <img src="sponsors-logos/new-logos/WD1_PrairiesCan_Logo.png" alt="PrairiesCan" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/WB1_Weldco_Logo.png){height="150px"}](https://weldco-beales.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://weldco-beales.com/">
+    <img src="sponsors-logos/new-logos/WB1_Weldco_Logo.png" alt="Weldco-Beales" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/XI1_Xiris Logo.png){height="150px"}](https://www.xiris.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.xiris.com/">
+    <img src="sponsors-logos/new-logos/XI1_Xiris Logo.png" alt="Xiris" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/CA2_logo_cavitar.png){height="150px"}](https://www.cavitar.com)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.cavitar.com">
+    <img src="sponsors-logos/new-logos/CA2_logo_cavitar.png" alt="Cavitar" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/AS2_Alicat.png){height="150px"}](https://www.alicat.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.alicat.com/">
+    <img src="sponsors-logos/new-logos/AS2_Alicat.png" alt="Alicat" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
 :::
 
@@ -116,54 +291,154 @@ We are grateful to acknowledge the support of our sponsors.
 
 ::: {layout="[[1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1]]"}
 
-[![](sponsors-logos/new-logos/AS1_AltaSteel.png){height="150px"}](https://www.altasteel.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.altasteel.com/">
+    <img src="sponsors-logos/new-logos/AS1_AltaSteel.png" alt="AltaSteel" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/AR1_Amsted_logo.png){height="150px"}](https://www.amstedrail.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.amstedrail.com/">
+    <img src="sponsors-logos/new-logos/AR1_Amsted_logo.png" alt="Amsted Rail" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/AP1_Apollo.png){height="150px"}](https://www.apollomachine.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.apollomachine.com/">
+    <img src="sponsors-logos/new-logos/AP1_Apollo.png" alt="Apollo" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/BH1_MHPS_Hitachi.png){height="150px"}](https://power.mhi.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://power.mhi.com/">
+    <img src="sponsors-logos/new-logos/BH1_MHPS_Hitachi.png" alt="MHI" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/CF1_CFI.png){height="150px"}](https://www.innovation.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.innovation.ca/">
+    <img src="sponsors-logos/new-logos/CF1_CFI.png" alt="CFI" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/CA1_CASTI.png){height="150px"}](https://www.casti.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.casti.ca/">
+    <img src="sponsors-logos/new-logos/CA1_CASTI.png" alt="CASTI" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/CL1_CLAC.png){height="150px"}](https://www.clac.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.clac.ca/">
+    <img src="sponsors-logos/new-logos/CL1_CLAC.png" alt="CLAC" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/EE1_Edmonton_Economic_Development.png){height="150px"}](https://exploreedmonton.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://exploreedmonton.com/">
+    <img src="sponsors-logos/new-logos/EE1_Edmonton_Economic_Development.png" alt="Explore Edmonton" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/EP1_Enbridge_LOGO.png){height="150px"}](https://www.enbridge.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.enbridge.com/">
+    <img src="sponsors-logos/new-logos/EP1_Enbridge_LOGO.png" alt="Enbridge" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/EV1_EvrazLogo.png){height="150px"}](https://www.evrazna.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.evrazna.com/">
+    <img src="sponsors-logos/new-logos/EV1_EvrazLogo.png" alt="EVRAZ" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/GA1_GovAB.png){height="150px"}](https://www.alberta.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.alberta.ca/">
+    <img src="sponsors-logos/new-logos/GA1_GovAB.png" alt="Government of Alberta" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/GS1_GroupSix.png){height="150px"}](https://www.groupsixtech.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.groupsixtech.com/">
+    <img src="sponsors-logos/new-logos/GS1_GroupSix.png" alt="Group Six" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/IN1_Indalco_logo-v2.png){height="150px"}](https://www.indalco.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.indalco.com/">
+    <img src="sponsors-logos/new-logos/IN1_Indalco_logo-v2.png" alt="Indalco" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/MI2_mitacs_transparent.png){height="150px"}](https://www.mitacs.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.mitacs.ca/">
+    <img src="sponsors-logos/new-logos/MI2_mitacs_transparent.png" alt="Mitacs" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/NS1_NSERC.png){height="150px"}](https://www.nserc-crsng.gc.ca)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.nserc-crsng.gc.ca">
+    <img src="sponsors-logos/new-logos/NS1_NSERC.png" alt="NSERC" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/PR2_Productivity_Alberta.png){height="150px"}](https://goproductivity.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://goproductivity.ca/">
+    <img src="sponsors-logos/new-logos/PR2_Productivity_Alberta.png" alt="Productivity Alberta" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/SA1_SAIT.png){height="150px"}](https://www.sait.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.sait.ca/">
+    <img src="sponsors-logos/new-logos/SA1_SAIT.png" alt="SAIT" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/ST1_Stoody.png){height="150px"}](https://www.stoodyind.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.stoodyind.com/">
+    <img src="sponsors-logos/new-logos/ST1_Stoody.png" alt="Stoody" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/SY1_Syncrude.png){height="150px"}](https://www.suncor.com/en-ca/what-we-do/oil-sands/syncrude)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.suncor.com/en-ca/what-we-do/oil-sands/syncrude">
+    <img src="sponsors-logos/new-logos/SY1_Syncrude.png" alt="Syncrude" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/TESL_Tesla.png){height="150px"}](https://www.tesla.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.tesla.com/">
+    <img src="sponsors-logos/new-logos/TESL_Tesla.png" alt="Tesla" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/WD1_PrairiesCan_Logo.png){height="150px"}](https://www.canada.ca/en/prairies-economic-development.html)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.canada.ca/en/prairies-economic-development.html">
+    <img src="sponsors-logos/new-logos/WD1_PrairiesCan_Logo.png" alt="PrairiesCan" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/WS1_Wilkinson_Steel_Samuel_Son.png){height="150px"}](https://www.samuel.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.samuel.com/">
+    <img src="sponsors-logos/new-logos/WS1_Wilkinson_Steel_Samuel_Son.png" alt="Samuel, Son & Co." style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/XI1_Xiris Logo.png){height="150px"}](https://www.xiris.com/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.xiris.com/">
+    <img src="sponsors-logos/new-logos/XI1_Xiris Logo.png" alt="Xiris" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/AT2_Auto21_Logo.png){height="150px"}](https://www.nce-rce.gc.ca/NetworksCentres-CentresReseaux/NCE-RCE/AUTO21_eng.asp)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.nce-rce.gc.ca/NetworksCentres-CentresReseaux/NCE-RCE/AUTO21_eng.asp">
+    <img src="sponsors-logos/new-logos/AT2_Auto21_Logo.png" alt="AUTO21" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
-[![](sponsors-logos/new-logos/EC1_ECCIR-Logo1-2_200x200.png){height="150px"}](https://eccir.ca/)
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://eccir.ca/">
+    <img src="sponsors-logos/new-logos/EC1_ECCIR-Logo1-2_200x200.png" alt="ECCIR" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
 
 :::
