@@ -1,5 +1,5 @@
 ---
-title: Staff
+title: Research Associate
 subtitle: Jay Kahar
 image: JK2 - Jay Kahar Tbn.jpg
 priority: 2
