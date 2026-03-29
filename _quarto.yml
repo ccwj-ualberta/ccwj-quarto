@@ -47,8 +47,8 @@ website:
             href: people/director.qmd
           - text: "Program Manager"
             href: people/program-manager.qmd
-          - text: "Staff"
-            href: people/staff.qmd
+          - text: "Research Associate"
+            href: people/Research Associate.qmd
           - text: "Postdocs"
             href: people/postdocs.qmd
           - "---"
@@ -109,7 +109,7 @@ website:
         contents:
           - people/director.qmd
           - people/program-manager.qmd
-          - people/staff.qmd
+          - people/Research Associate.qmd
           - people/postdocs.qmd
       - section: "Students"
         contents:
