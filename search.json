@@ -767,113 +767,110 @@
     ]
   },
   {
-    "objectID": "people/program-manager.html",
-    "href": "people/program-manager.html",
-    "title": "Program Manager",
+    "objectID": "people/mscs/MA1 - Mia Abdulla.html",
+    "href": "people/mscs/MA1 - Mia Abdulla.html",
+    "title": "Mia Abdulla",
     "section": "",
-    "text": "Rishiekesh (Rishie) Ramgopal is the CCWJ’s Program Manager, inaugerating into the roll in 2025 after having previously worked as a MITACS Research Intern with the Centre in 2019 and earning his Masters with the Centre from 2021-2024. He is also an Advisor for the University of Alberta AWS/CWBA Student Chapter. As Program Manager, Rishie leads the launch of the Centre’s newest initiative: the Canadian Cluster for Laser and ADvanced Manufacturing (C:CLAD); a Cluster focused on laser and advanced manufacturing in Alberta. He is also responsible for managing research projects and fostering industry partnerships.\nOutside of his work, Rishie enjoys skiing, backpacking, and has an interest in F1 Racing.\n\nPrior Degrees\nMSc, University of Alberta, 2025\nBTech, National Institute of Technology Tiruchirappalli, 2021\n\n\nSelected Accomplishments\nAWS - 2025 International Meritorious Award\nCWB/CCWJ 2024 Leadership in Welding\nAttended the leadership symposium in Miami\n\n\n\n Back to top",
+    "text": "Mia Abdulla has been a Masters Student with the CCWJ since 2024. She is a two-time recipient of the Dean’s Reach Award for her work in Wire Arc Additive Manufacturing (WAAM), and a recipient of the NSERC Undergraduate Student Research award. She is also the President of the University of Alberta AWS/CWBA Student Chapter. Mia’s research focuses on the qualification of WAAM for producing pressure-rated components, such as flanges, used in Alberta’s energy sector. Specifically, her work ensures that WAAM-produced parts meet strict industry codes and material standards, involving testing the mechanical properties of printed parts, developing welding procedures, and ensuring consistent quality across builds.\nHer research makes it possible to 3D print large metal parts—like pipe connectors used in oil and gas facilities—quickly and reliably, which can help companies get critical replacement parts faster during shutdowns, leading to less downtime, fewer delays, and lower costs for energy companies. In the future, this may help remote or northern communities produce parts locally when supply chains are disrupted.\nOutside of her academic work, Mia enjoys figure skating, journaling/scrapbooking, and playing tennis.\n\nPrior Degrees\nBSc in Materials Engineering, University of Alberta, 2024\n\n\nSelected Accomplishments\nCWB-WF/CCWJ Award for Inclusivity in Welding, AWS District 19 Jerry Hope Memorial Scholarship Award, CWBA Undergraduate Annual Award For Excellence In Welding Engineering\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/mscs/LT2 - Lucas Nicolas Taipe Ramos.html",
+    "href": "people/mscs/LT2 - Lucas Nicolas Taipe Ramos.html",
+    "title": "Lucas Taipe Ramos",
+    "section": "",
+    "text": "Lucas Taipe Ramos has been an MSc student with the CCWJ since 2025. His research focuses on analyzing plasma arc behavior and metal transfer in Gas Metal Arc Welding (GMAW) using high-speed video, advanced computer vision, and machine learning techniques. His work aims to automatically extract key arc and droplet features from video data and develop accurate models that relate welding behavior to machine parameters, providing deeper, data-driven insight into process stability and metal transfer mechanisms.\nBy replacing manual video analysis with reliable automated methods, Lucas’s research enables faster and more consistent characterization of welding processes across a wide range of conditions. This approach can accelerate process optimization, reduce rework, and improve quality control in production welding environments.\nBefore joining CCWJ, Lucas completed a UARE Research Internship at CCWJ in 2023 and participated in the Summer Internship Program at UDE (USA) in 2022.\nOutside of his academic work, Lucas enjoys running, going to the gym, and trying new activities.\n\nPrior Degrees\nProfessional Engineer Title (Physical Engineer), National University of Engineering (UNI), 2025\nBSc in Engineering Physics, National University of Engineering (UNI), 2024\n\n\nSelected Accomplishments\nUARE Research Internship (CCWJ), 2023\nSummer Internship Program (UDE, USA), 2022\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/phds.html",
+    "href": "people/phds.html",
+    "title": "PhD students",
+    "section": "",
+    "text": "Daniele Calista\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJ. Eduardo Alvarez Rocha\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXinrui Liu\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGurbarn Singh\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
-      "Staff",
-      "Program Manager"
+      "Students",
+      "PhD students"
     ]
   },
   {
-    "objectID": "people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
-    "href": "people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
-    "title": "Nitheesh Kumar Ramasamy",
+    "objectID": "people/alumn-ug/TO1 - Tian Ooi.html",
+    "href": "people/alumn-ug/TO1 - Tian Ooi.html",
+    "title": "Tian Ooi",
     "section": "",
-    "text": "Nitheesh Kumar Ramasamy joined the CCWJ in 2023. Currently a Masters Student, he was previously a research intern at the CCWJ in the summer of 2022 through MITACS Globalink. He is also the Secretary & Treasurer for the University of Alberta AWS/CWBA Student Chapter. Nitheesh is primarily working on the assessment of thermophysical properties for the modelling of Welding and Additive Manufacturing. His work includes critically evaluating the quality of data from different sources of material thermophysical properties, reporting the observed deviation between sources, and effective values of these properties for temperature range relevant to welding.\nNitheesh’s work helps industry predict welding and additive manufacturing outcomes using multi-physics process models that depend on the accuracy of material properties used, providing reliable material property data for critical predictions.\nBeyond academics, Nitheesh enjoys playing chess, cricket, and watching movies.\n\nPrior Degrees\nB.Tech Hons. Metallurgical and Materials Engineering, National Institute of Technology Tiruchirappalli, India, 2019-2023\n\n\nSelected Accomplishments\nMcKay-Helm award from AWS, Captain Thomas Farrell Greenhalgh Memorial Graduate Scholarship from UofA, CWB-WF/CCWJ Award, Jerry Hope Memorial Scholarship\n\n\n\n Back to top"
+    "text": "Project: Welding simulation in COMSOL and video editing\n\n\n Back to top"
   },
   {
-    "objectID": "people/visitors.html",
-    "href": "people/visitors.html",
-    "title": "Visitors",
+    "objectID": "people/alumn-ug/ES1 - Eric Stuparyk.html",
+    "href": "people/alumn-ug/ES1 - Eric Stuparyk.html",
+    "title": "Eric Stuparyk",
     "section": "",
-    "text": "Felipe Castro Cerda\n\n\nVisiting Professor, University of Santiago de Chile\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Visitors"
-    ]
+    "text": "Project: Database of Material Properties\n\n\n Back to top"
   },
   {
-    "objectID": "people/alumn-ug/MJ1 - Mackenzi Johnston.html",
-    "href": "people/alumn-ug/MJ1 - Mackenzi Johnston.html",
-    "title": "Mackenzi Johnston",
+    "objectID": "people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
+    "href": "people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
+    "title": "Pavadharine Bhavanathan",
     "section": "",
-    "text": "Project: Involving women in welding and testing hydrogen content in welds\n\n\n Back to top"
+    "text": "Project: Microstructural characterization of a grade 91 steel\n\n\n Back to top"
   },
   {
-    "objectID": "people/alumn-ug/AW1 - Andy Wu.html",
-    "href": "people/alumn-ug/AW1 - Andy Wu.html",
-    "title": "Andy Wu",
+    "objectID": "people/alumn-ug/JB1 - Jolene Borrelli.html",
+    "href": "people/alumn-ug/JB1 - Jolene Borrelli.html",
+    "title": "Jolene Borrelli",
     "section": "",
-    "text": "Project: Calculating effective thermal properties from commercial software (JMatPro or ThermalCal)\n\n\n Back to top"
+    "text": "Project: Novice Welding and Charpy Impact Testing\n\n\n Back to top"
   },
   {
-    "objectID": "people/alumn-ug/NS1 - Nathaniel Schurek.html",
-    "href": "people/alumn-ug/NS1 - Nathaniel Schurek.html",
-    "title": "Nathaniel Schurek",
+    "objectID": "people/alumn-ug/TN1 - Thuong Nguyen.html",
+    "href": "people/alumn-ug/TN1 - Thuong Nguyen.html",
+    "title": "Thuong Nguyen",
     "section": "",
-    "text": "Project: Development of a responsive stand-off welding device for high-frequency electric resistance welding\n\n\n Back to top"
+    "text": "Project: Gathering data from welding textbooks to generate mathematical models\n\n\n Back to top"
   },
   {
-    "objectID": "people/alumn-ug/WW1 - Wesley Wood.html",
-    "href": "people/alumn-ug/WW1 - Wesley Wood.html",
-    "title": "Wesley Wood",
+    "objectID": "people/bscs/KC1 - Kathryn Craig.html",
+    "href": "people/bscs/KC1 - Kathryn Craig.html",
+    "title": "Kathryn Craig",
     "section": "",
-    "text": "Project: Control of a welding torch using Arduino Uno and Mach3 USB\n\n\n Back to top"
+    "text": "Kathryn Craig is an undergraduate student at the University of Alberta studying towards a BSc in Chemical Engineering. Interested in the CCWJ’s work focusing on 3D printing parts for industry, she currently works with our Wire Arc Additive Manufacturing (WAAM) researchers and creates thermal simulations.\nOutside of academics, Kathryn enjoys rock climbing, ball room dancing and playing soft ball.\n\n\n Back to top"
   },
   {
-    "objectID": "people/alumn-ug/SS5 - Samantha Skiba.html",
-    "href": "people/alumn-ug/SS5 - Samantha Skiba.html",
-    "title": "Samantha Skiba",
+    "objectID": "people/alumn-ug.html",
+    "href": "people/alumn-ug.html",
+    "title": "Alumn (UG)",
     "section": "",
-    "text": "Project: Characterizing and comparing welding fume production in MIG processes for improved occupational safety\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/bscs/SN1 - Samson Nellickappillil.html",
-    "href": "people/bscs/SN1 - Samson Nellickappillil.html",
-    "title": "Samson Nellickappillil",
-    "section": "",
-    "text": "Samson Nellickappillil is an undergraduate Chemical Engineering co-op student at the University of Alberta who joined the CCWJ in 2023. His work supports research in Wire Arc Additive Manufacturing (WAAM) of P91 steel, a widely used alloy with important applications in Alberta’s energy sector. He is involved in hands-on microscopy and materials characterization to better understand how processing conditions influence material properties.\nSamson was drawn to the CCWJ through his strong interest in welding, hands-on research, and the opportunity to apply engineering principles to real-world industry challenges.\nOutside of academics, Samson enjoys outdoor activities such as hiking and playing sports, including soccer and basketball.\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumn.html",
-    "href": "people/alumn.html",
-    "title": "Alumn",
-    "section": "",
-    "text": "Ata Kamyabi\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarter Trautmann\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDmytro Havrylov\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElham Kamali Heidari\n\n\nMechanical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGentry Wood\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoetz Dapp\n\n\nAssociate Direct\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLarysa Hodder\n\n\nResearch Administrator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMelody Mah\n\n\nStrategic Communications Associate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMitchell Grams\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNairn Barnes\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreetam Panja\n\n\nMechanical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSandeep Singh Parmar\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSofia Salazar Torres\n\n\nWelding Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStefano Sacco\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSteven Borle\n\n\nWelding Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSyed Irtiaz Alam\n\n\nChemical Engineering, University of Alberta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTerry Runyon\n\n\nMaterials Engineering, Chemical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVicente Núñez Sánchez\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViraj Patel\n\n\nMaterials\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYi Lu\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n Back to top",
+    "text": "Andy Wu\n\n\nChemical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEric Stuparyk\n\n\nChemical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJolene Borrelli\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMackenzi Johnston\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNathaniel Schurek\n\n\nElectrical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPavadharine Bhavanathan\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamantha Skiba\n\n\nComputer Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThuong Nguyen\n\n\nChemical\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTian Ooi\n\n\nEngineering Physics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWesley Wood\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
       "Alumni",
-      "Alumn"
+      "Alumn (UG)"
     ]
   },
   {
-    "objectID": "people/visitors/FC2 - Felipe Castro.html",
-    "href": "people/visitors/FC2 - Felipe Castro.html",
+    "objectID": "people/alumn/SB1 - Steven Borle.html",
+    "href": "people/alumn/SB1 - Steven Borle.html",
+    "title": "Steven Borle",
+    "section": "",
+    "text": "Steven Brole began his involvement at CCWJ as an undergraduate completing a Dean’s Research Award in September of 2010. After completing his undergraduate degree, he continued with the CCWJ as a Masters student. Steven’s research in welding has covered many processes including gas metal arc welding, submerged arc welding, laser beam welding, friction stir welding and plasma transferred arc welding. His research has encompassed a diverse range of subjects including high strength welding consumables, the effect of heat input in friction stir welding, and the application of wear and corrosion resistant overlays. He was also Chair of the University of Alberta AWS/CWBA Student Chapter.\nSince graduating in 2014 Steven has worked at Group Six Technologies, an Edmonton based company that provides laser cladding and laser heat treating services. At Group Six Technologies Steven’s responsibilities include developing new welding procedures, new materials and applications for the laser based processes.\nHe is also active in the welding community sitting as the current Chair of the Edmonton chapter of the Canadian Welding Bureau Association. He has coauthored numerous papers and articles related to welding including “Primary chromium carbide fraction control with variable polarity SAW,” in the Welding Journal for which he received the Charles H. Jennings Memorial Award, This award is presented for the most valuable paper written by a college student or faculty representative published in the Welding Journal during the previous year.\n\nPrior Degrees\nMSc in Welding Engineering, University of Alberta, 2014\nBSc in Materials Engineering, University of Alberta, 2011\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumn/MM1 - Melody Mah.html",
+    "href": "people/alumn/MM1 - Melody Mah.html",
+    "title": "Melody Mah",
+    "section": "",
+    "text": "Melody Mah joined the CCWJ as a Strategic Communications Associate in May of 2025. Prior, she was a casual Assistant for the Centre. She is currently in her fifth year of undergraduate studies at the University of Alberta, where she pursues a BA in Media and Technology Studies with Minors in Computing Science and Economics. Melody was responsible for extending the reputation of the CCWJ in both internal and external media relations, and also assisted with the development of the CCWJ’s website.\nBeyond her work, Melody enjoys spending time with her friends and family, listening to music, and acrylic and oil painting.\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumn/SS2 - Sofia Salazar.html",
+    "href": "people/alumn/SS2 - Sofia Salazar.html",
+    "title": "Sofia Salazar Torres",
+    "section": "",
+    "text": "Sofia Salazar Torres joined the CCWJ in 2022 as a Master of Science student in Welding Engineering. Previously, she was an intern with the Centre through the ELAP scholarship. She is developing a mathematical model for friction stir welding, calculating the hot-working threshold temperature ratio for FSW optimization processes and with it, estimating welding parameters. She was President of the University of Alberta AWS/CWA Student Chapter and a Secretary in 2023. Sofia has presented her research at prestigious conferences such as Fabtech, Canweld, and IIW. She also participated in the AWS Leadership Symposium in Miami.\nOutside of academics, Sofia enjoys playing tennis, biking, and pottery painting.\n\nPrior Degrees\nBSc in Mechanical Engineering, Universidad de Chile, 2022\n\n\nSelected Accomplishments\nAWS - 2025 International Meritorious Award, CWB/CCWJ 2024 Leadership in Welding, Attended the leadership symposium in Miami\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumn/FC2 - Felipe Castro.html",
+    "href": "people/alumn/FC2 - Felipe Castro.html",
     "title": "Felipe Castro Cerda",
     "section": "",
-    "text": "Felipe Castro Cerda is a Visiting Professor with the CCWJ, joining in Feburary 2025 from the University of Santiago de Chile. His current work studies how laser heat-treatments (LHT) and Handheld laser beam welding (HLBW) affect the microstructure and mechanical properties of steels. By deepening the understanding of the underlying laser–material interactions, his goal is to help develop components and processes that deliver higher quality and longer service lifetimes for industry.\nOutside of work, Felipe enjoys gardening and caring for his pets.\n\nPrior Degrees\nPhD, Materials Science, Ghent University, 2017\nMSc, Materials Science, University of Santiago, 2008\nMetallurgical Engineer, University of Santiago, 2008\n\n\nSelected Achievements\nANID-Fondecyt Regular Grant, 2025–2029\nSantander Scholarship for Academic Mobility, 2021\nCONICYT PhD Scholarship, 2013–2017\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumn/EK1 - Elham Kamali Heidari.html",
-    "href": "people/alumn/EK1 - Elham Kamali Heidari.html",
-    "title": "Elham Kamali Heidari",
-    "section": "",
-    "text": "Elham joined CCWJ in October 2018 as a visiting professor. She is currently a Research Associate at National Research Council of Canada.\n\nPrior Degrees\nPhD, Mechanical Engineering, 2016\n\n\nProject\nStudy of the growth mechanism of chromium carbide overlays by electron microscopy techniques\nDue to the excellent wear and corrosion resistance, carbide overlays are very important in various industries including oil sands, agriculture and mining.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumn/SA1 - Syed Irtiaz Alam.html",
-    "href": "people/alumn/SA1 - Syed Irtiaz Alam.html",
-    "title": "Syed Irtiaz Alam",
-    "section": "",
-    "text": "Syed Irtiaz Alam was a Master’s Student in Welding Engineering whose research focused on automation and process control. Originally from Bangladesh, he first joined the CCWJ as a recipient of the Dean’s Research Award in Winter 2017, working on sensitivity analysis of bead geometry in manual SMAW welds. He continued his involvement through the Undergraduate Research Initiative, where he commissioned a semi-automatic orbital welding system known as “Firefly,” and later contributed to an automation project for stand-off design in vertical GMAW torches.\nSyed has received multiple honors, including the AWS Prize in Welding Engineering, CWBA Awards for undergraduate and graduate research, and three Dean’s Research Awards. Following his BSc in Chemical Engineering from the University of Alberta, he worked at Group Six Technologies, a local laser cladding company. He has presented his research at the AWS Professional Program in Chicago in both 2017 and 2019.\n\nPrior Degrees\nBSc in Chemical Engineering, University of Alberta, 2017\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumn/PP1 - Preetam Panja.html",
-    "href": "people/alumn/PP1 - Preetam Panja.html",
-    "title": "Preetam Panja",
-    "section": "",
-    "text": "Preetam Panja joined the CCWJ in September of 2021 as a Masters Student. Prior, he worked in the welding industry as a sales and application engineer where he researched and developed new welding procedures specifications (WPS) to help customers increase their productivity by minimizing overall cost while maintaining quality. He successfully developed a titanium welding procedure for pressure vessel equipment manufacturers by adhering to welding codes (ASME section IX) to increase productivity by 60%, saving the overall welding cost by 47% which resulted in increasing the company’s net revenue by 28%.\n\nPrior Degrees\nBachelor of Engineering in Mechanical Engineering, University of Mumbai, India, 2017\n\n\n\n Back to top"
+    "text": "Felipe Castro Cerda was a Visiting Professor with the CCWJ from February 2025 to February 2026, joining from the University of Santiago de Chile. His work focused on how laser heat treatments (LHT) and handheld laser beam welding (HLBW) affect the microstructure and mechanical properties of steels. By deepening the understanding of laser–material interactions, his goal is to help develop components and processes that deliver higher quality and longer service lifetimes for industry.\nOutside of work, Felipe enjoys gardening and caring for his pets.\n\nPrior Degrees\nPhD, Materials Science, Ghent University, 2017\nMSc, Materials Science, University of Santiago, 2008\nMetallurgical Engineer, University of Santiago, 2008\n\n\nSelected Achievements\nANID-Fondecyt Regular Grant, 2025–2029\nSantander Scholarship for Academic Mobility, 2021\nCONICYT PhD Scholarship, 2013–2017\n\n\n\n Back to top"
   },
   {
     "objectID": "people/alumn/TR1 - Terry Runyon.html",
@@ -4364,113 +4361,116 @@
     "text": "Viraj Patel came to know about the CCWJ during Fall of 2019. Amazed by the work done by its members in the field of welding, he began work under the guidance of Dr. Patricio Mendez and has been involved in the creation of a procedure database for industrial arc welding processes.\n\nPrior Degrees\nBSc, Mechanical Engineering, 2011\n\n\nProject\nDatabase creation and Management for Arc Welding Procedures\n\n\n\n Back to top"
   },
   {
-    "objectID": "people/alumn/SS2 - Sofia Salazar.html",
-    "href": "people/alumn/SS2 - Sofia Salazar.html",
-    "title": "Sofia Salazar Torres",
+    "objectID": "people/alumn/PP1 - Preetam Panja.html",
+    "href": "people/alumn/PP1 - Preetam Panja.html",
+    "title": "Preetam Panja",
     "section": "",
-    "text": "Sofia Salazar Torres joined the CCWJ in 2022 as a Master of Science student in Welding Engineering. Previously, she was an intern with the Centre through the ELAP scholarship. She is developing a mathematical model for friction stir welding, calculating the hot-working threshold temperature ratio for FSW optimization processes and with it, estimating welding parameters. She was President of the University of Alberta AWS/CWA Student Chapter and a Secretary in 2023. Sofia has presented her research at prestigious conferences such as Fabtech, Canweld, and IIW. She also participated in the AWS Leadership Symposium in Miami.\nOutside of academics, Sofia enjoys playing tennis, biking, and pottery painting.\n\nPrior Degrees\nBSc in Mechanical Engineering, Universidad de Chile, 2022\n\n\nSelected Accomplishments\nAWS - 2025 International Meritorious Award, CWB/CCWJ 2024 Leadership in Welding, Attended the leadership symposium in Miami\n\n\n\n Back to top"
+    "text": "Preetam Panja joined the CCWJ in September of 2021 as a Masters Student. Prior, he worked in the welding industry as a sales and application engineer where he researched and developed new welding procedures specifications (WPS) to help customers increase their productivity by minimizing overall cost while maintaining quality. He successfully developed a titanium welding procedure for pressure vessel equipment manufacturers by adhering to welding codes (ASME section IX) to increase productivity by 60%, saving the overall welding cost by 47% which resulted in increasing the company’s net revenue by 28%.\n\nPrior Degrees\nBachelor of Engineering in Mechanical Engineering, University of Mumbai, India, 2017\n\n\n\n Back to top"
   },
   {
-    "objectID": "people/alumn/MM1 - Melody Mah.html",
-    "href": "people/alumn/MM1 - Melody Mah.html",
-    "title": "Melody Mah",
+    "objectID": "people/alumn/SA1 - Syed Irtiaz Alam.html",
+    "href": "people/alumn/SA1 - Syed Irtiaz Alam.html",
+    "title": "Syed Irtiaz Alam",
     "section": "",
-    "text": "Melody Mah joined the CCWJ as a Strategic Communications Associate in May of 2025. Prior, she was a casual Assistant for the Centre. She is currently in her fifth year of undergraduate studies at the University of Alberta, where she pursues a BA in Media and Technology Studies with Minors in Computing Science and Economics. Melody was responsible for extending the reputation of the CCWJ in both internal and external media relations, and also assisted with the development of the CCWJ’s website.\nBeyond her work, Melody enjoys spending time with her friends and family, listening to music, and acrylic and oil painting.\n\n\n Back to top"
+    "text": "Syed Irtiaz Alam was a Master’s Student in Welding Engineering whose research focused on automation and process control. Originally from Bangladesh, he first joined the CCWJ as a recipient of the Dean’s Research Award in Winter 2017, working on sensitivity analysis of bead geometry in manual SMAW welds. He continued his involvement through the Undergraduate Research Initiative, where he commissioned a semi-automatic orbital welding system known as “Firefly,” and later contributed to an automation project for stand-off design in vertical GMAW torches.\nSyed has received multiple honors, including the AWS Prize in Welding Engineering, CWBA Awards for undergraduate and graduate research, and three Dean’s Research Awards. Following his BSc in Chemical Engineering from the University of Alberta, he worked at Group Six Technologies, a local laser cladding company. He has presented his research at the AWS Professional Program in Chicago in both 2017 and 2019.\n\nPrior Degrees\nBSc in Chemical Engineering, University of Alberta, 2017\n\n\n\n Back to top"
   },
   {
-    "objectID": "people/alumn/SB1 - Steven Borle.html",
-    "href": "people/alumn/SB1 - Steven Borle.html",
-    "title": "Steven Borle",
+    "objectID": "people/alumn/EK1 - Elham Kamali Heidari.html",
+    "href": "people/alumn/EK1 - Elham Kamali Heidari.html",
+    "title": "Elham Kamali Heidari",
     "section": "",
-    "text": "Steven Brole began his involvement at CCWJ as an undergraduate completing a Dean’s Research Award in September of 2010. After completing his undergraduate degree, he continued with the CCWJ as a Masters student. Steven’s research in welding has covered many processes including gas metal arc welding, submerged arc welding, laser beam welding, friction stir welding and plasma transferred arc welding. His research has encompassed a diverse range of subjects including high strength welding consumables, the effect of heat input in friction stir welding, and the application of wear and corrosion resistant overlays. He was also Chair of the University of Alberta AWS/CWBA Student Chapter.\nSince graduating in 2014 Steven has worked at Group Six Technologies, an Edmonton based company that provides laser cladding and laser heat treating services. At Group Six Technologies Steven’s responsibilities include developing new welding procedures, new materials and applications for the laser based processes.\nHe is also active in the welding community sitting as the current Chair of the Edmonton chapter of the Canadian Welding Bureau Association. He has coauthored numerous papers and articles related to welding including “Primary chromium carbide fraction control with variable polarity SAW,” in the Welding Journal for which he received the Charles H. Jennings Memorial Award, This award is presented for the most valuable paper written by a college student or faculty representative published in the Welding Journal during the previous year.\n\nPrior Degrees\nMSc in Welding Engineering, University of Alberta, 2014\nBSc in Materials Engineering, University of Alberta, 2011\n\n\n\n Back to top"
+    "text": "Elham joined CCWJ in October 2018 as a visiting professor. She is currently a Research Associate at National Research Council of Canada.\n\nPrior Degrees\nPhD, Mechanical Engineering, 2016\n\n\nProject\nStudy of the growth mechanism of chromium carbide overlays by electron microscopy techniques\nDue to the excellent wear and corrosion resistance, carbide overlays are very important in various industries including oil sands, agriculture and mining.\n\n\n\n Back to top"
   },
   {
-    "objectID": "people/alumn-ug.html",
-    "href": "people/alumn-ug.html",
-    "title": "Alumn (UG)",
-    "section": "",
-    "text": "Andy Wu\n\n\nChemical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEric Stuparyk\n\n\nChemical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJolene Borrelli\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMackenzi Johnston\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNathaniel Schurek\n\n\nElectrical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPavadharine Bhavanathan\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamantha Skiba\n\n\nComputer Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThuong Nguyen\n\n\nChemical\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTian Ooi\n\n\nEngineering Physics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWesley Wood\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Alumni",
-      "Alumn (UG)"
-    ]
-  },
-  {
-    "objectID": "people/bscs/KC1 - Kathryn Craig.html",
-    "href": "people/bscs/KC1 - Kathryn Craig.html",
-    "title": "Kathryn Craig",
-    "section": "",
-    "text": "Kathryn Craig is an undergraduate student at the University of Alberta studying towards a BSc in Chemical Engineering. Interested in the CCWJ’s work focusing on 3D printing parts for industry, she currently works with our Wire Arc Additive Manufacturing (WAAM) researchers and creates thermal simulations.\nOutside of academics, Kathryn enjoys rock climbing, ball room dancing and playing soft ball.\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumn-ug/TN1 - Thuong Nguyen.html",
-    "href": "people/alumn-ug/TN1 - Thuong Nguyen.html",
-    "title": "Thuong Nguyen",
-    "section": "",
-    "text": "Project: Gathering data from welding textbooks to generate mathematical models\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumn-ug/JB1 - Jolene Borrelli.html",
-    "href": "people/alumn-ug/JB1 - Jolene Borrelli.html",
-    "title": "Jolene Borrelli",
-    "section": "",
-    "text": "Project: Novice Welding and Charpy Impact Testing\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
-    "href": "people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
-    "title": "Pavadharine Bhavanathan",
-    "section": "",
-    "text": "Project: Microstructural characterization of a grade 91 steel\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumn-ug/ES1 - Eric Stuparyk.html",
-    "href": "people/alumn-ug/ES1 - Eric Stuparyk.html",
-    "title": "Eric Stuparyk",
-    "section": "",
-    "text": "Project: Database of Material Properties\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumn-ug/TO1 - Tian Ooi.html",
-    "href": "people/alumn-ug/TO1 - Tian Ooi.html",
-    "title": "Tian Ooi",
-    "section": "",
-    "text": "Project: Welding simulation in COMSOL and video editing\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/phds.html",
-    "href": "people/phds.html",
-    "title": "PhD students",
-    "section": "",
-    "text": "Daniele Calista\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJ. Eduardo Alvarez Rocha\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXinrui Liu\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGurbarn Singh\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Students",
-      "PhD students"
-    ]
-  },
-  {
-    "objectID": "people/mscs/LT2 - Lucas Nicolas Taipe Ramos.html",
-    "href": "people/mscs/LT2 - Lucas Nicolas Taipe Ramos.html",
-    "title": "Lucas Taipe Ramos",
-    "section": "",
-    "text": "Lucas Taipe Ramos has been an MSc student with the CCWJ since 2025. His research focuses on analyzing plasma arc behavior and metal transfer in Gas Metal Arc Welding (GMAW) using high-speed video, advanced computer vision, and machine learning techniques. His work aims to automatically extract key arc and droplet features from video data and develop accurate models that relate welding behavior to machine parameters, providing deeper, data-driven insight into process stability and metal transfer mechanisms.\nBy replacing manual video analysis with reliable automated methods, Lucas’s research enables faster and more consistent characterization of welding processes across a wide range of conditions. This approach can accelerate process optimization, reduce rework, and improve quality control in production welding environments.\nBefore joining CCWJ, Lucas completed a UARE Research Internship at CCWJ in 2023 and participated in the Summer Internship Program at UDE (USA) in 2022.\nOutside of his academic work, Lucas enjoys running, going to the gym, and trying new activities.\n\nPrior Degrees\nProfessional Engineer Title (Physical Engineer), National University of Engineering (UNI), 2025\nBSc in Engineering Physics, National University of Engineering (UNI), 2024\n\n\nSelected Accomplishments\nUARE Research Internship (CCWJ), 2023\nSummer Internship Program (UDE, USA), 2022\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/mscs/MA1 - Mia Abdulla.html",
-    "href": "people/mscs/MA1 - Mia Abdulla.html",
-    "title": "Mia Abdulla",
-    "section": "",
-    "text": "Mia Abdulla has been a Masters Student with the CCWJ since 2024. She is a two-time recipient of the Dean’s Reach Award for her work in Wire Arc Additive Manufacturing (WAAM), and a recipient of the NSERC Undergraduate Student Research award. She is also the President of the University of Alberta AWS/CWBA Student Chapter. Mia’s research focuses on the qualification of WAAM for producing pressure-rated components, such as flanges, used in Alberta’s energy sector. Specifically, her work ensures that WAAM-produced parts meet strict industry codes and material standards, involving testing the mechanical properties of printed parts, developing welding procedures, and ensuring consistent quality across builds.\nHer research makes it possible to 3D print large metal parts—like pipe connectors used in oil and gas facilities—quickly and reliably, which can help companies get critical replacement parts faster during shutdowns, leading to less downtime, fewer delays, and lower costs for energy companies. In the future, this may help remote or northern communities produce parts locally when supply chains are disrupted.\nOutside of her academic work, Mia enjoys figure skating, journaling/scrapbooking, and playing tennis.\n\nPrior Degrees\nBSc in Materials Engineering, University of Alberta, 2024\n\n\nSelected Accomplishments\nCWB-WF/CCWJ Award for Inclusivity in Welding, AWS District 19 Jerry Hope Memorial Scholarship Award, CWBA Undergraduate Annual Award For Excellence In Welding Engineering\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/staff.html",
-    "href": "people/staff.html",
-    "title": "Staff",
+    "objectID": "people/Research Associate.html",
+    "href": "people/Research Associate.html",
+    "title": "Research Associate",
     "section": "",
     "text": "Jay Kahar has been a Research Associate with the CCWJ since 2024. Completing an MEng in Materials Engineering in April of 2025, Jay was previously a Volunteer and Graduate Research Assistant with the CCWJ between 2024 and 2025. His main responsibilities include assisting with research proposals, managing project budgets, organizing procurement, and ensuring compliance with financial procedures. Jay also helps coordinate internal lab operations, from purchasing and reimbursements to scheduling, communications, and event planning.\nJay enjoys hiking, going on nature trails and long walks, playing video games, and swimming in his free time.\n\nPrior Degrees\nMaster of Engineering, Materials Engineering, The University of Alberta, 2025\nBachelor of Engineering in Metallurgical and Materials Engineering, The Maharaja Sayajirao University of Baroda, 2022\n\n\nSelected Accomplishments\nCWB-WF/CCWJ Award for Outstanding Team Member\nStudent Impact Grant for Community Involvement – MSU\n\n\n\n Back to top",
     "crumbs": [
       "Staff",
-      "Staff"
+      "Research Associate"
+    ]
+  },
+  {
+    "objectID": "people/alumn.html",
+    "href": "people/alumn.html",
+    "title": "Alumn",
+    "section": "",
+    "text": "Ata Kamyabi\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarter Trautmann\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDmytro Havrylov\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElham Kamali Heidari\n\n\nMechanical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFelipe Castro Cerda\n\n\nVisiting Professor, University of Santiago de Chile\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGentry Wood\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoetz Dapp\n\n\nAssociate Direct\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLarysa Hodder\n\n\nResearch Administrator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMelody Mah\n\n\nStrategic Communications Associate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMitchell Grams\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNairn Barnes\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreetam Panja\n\n\nMechanical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSandeep Singh Parmar\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSofia Salazar Torres\n\n\nWelding Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStefano Sacco\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSteven Borle\n\n\nWelding Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSyed Irtiaz Alam\n\n\nChemical Engineering, University of Alberta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTerry Runyon\n\n\nMaterials Engineering, Chemical Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVicente Núñez Sánchez\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViraj Patel\n\n\nMaterials\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYi Lu\n\n\nMaterials Engineering\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n Back to top",
+    "crumbs": [
+      "Alumni",
+      "Alumn"
+    ]
+  },
+  {
+    "objectID": "people/bscs/SN1 - Samson Nellickappillil.html",
+    "href": "people/bscs/SN1 - Samson Nellickappillil.html",
+    "title": "Samson Nellickappillil",
+    "section": "",
+    "text": "Samson Nellickappillil is an undergraduate Chemical Engineering co-op student at the University of Alberta who joined the CCWJ in 2023. His work supports research in Wire Arc Additive Manufacturing (WAAM) of P91 steel, a widely used alloy with important applications in Alberta’s energy sector. He is involved in hands-on microscopy and materials characterization to better understand how processing conditions influence material properties.\nSamson was drawn to the CCWJ through his strong interest in welding, hands-on research, and the opportunity to apply engineering principles to real-world industry challenges.\nOutside of academics, Samson enjoys outdoor activities such as hiking and playing sports, including soccer and basketball.\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumn-ug/SS5 - Samantha Skiba.html",
+    "href": "people/alumn-ug/SS5 - Samantha Skiba.html",
+    "title": "Samantha Skiba",
+    "section": "",
+    "text": "Project: Characterizing and comparing welding fume production in MIG processes for improved occupational safety\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumn-ug/WW1 - Wesley Wood.html",
+    "href": "people/alumn-ug/WW1 - Wesley Wood.html",
+    "title": "Wesley Wood",
+    "section": "",
+    "text": "Project: Control of a welding torch using Arduino Uno and Mach3 USB\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumn-ug/NS1 - Nathaniel Schurek.html",
+    "href": "people/alumn-ug/NS1 - Nathaniel Schurek.html",
+    "title": "Nathaniel Schurek",
+    "section": "",
+    "text": "Project: Development of a responsive stand-off welding device for high-frequency electric resistance welding\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumn-ug/AW1 - Andy Wu.html",
+    "href": "people/alumn-ug/AW1 - Andy Wu.html",
+    "title": "Andy Wu",
+    "section": "",
+    "text": "Project: Calculating effective thermal properties from commercial software (JMatPro or ThermalCal)\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumn-ug/MJ1 - Mackenzi Johnston.html",
+    "href": "people/alumn-ug/MJ1 - Mackenzi Johnston.html",
+    "title": "Mackenzi Johnston",
+    "section": "",
+    "text": "Project: Involving women in welding and testing hydrogen content in welds\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/visitors.html",
+    "href": "people/visitors.html",
+    "title": "Visitors",
+    "section": "",
+    "text": "There are no visiting researchers at the CCWJ currently.\n\n\n\n\n\n\n\n\nNo matching items\n Back to top",
+    "crumbs": [
+      "Visitors"
+    ]
+  },
+  {
+    "objectID": "people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
+    "href": "people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
+    "title": "Nitheesh Kumar Ramasamy",
+    "section": "",
+    "text": "Nitheesh Kumar Ramasamy joined the CCWJ in 2023. Currently a Masters Student, he was previously a research intern at the CCWJ in the summer of 2022 through MITACS Globalink. He is also the Secretary & Treasurer for the University of Alberta AWS/CWBA Student Chapter. Nitheesh is primarily working on the assessment of thermophysical properties for the modelling of Welding and Additive Manufacturing. His work includes critically evaluating the quality of data from different sources of material thermophysical properties, reporting the observed deviation between sources, and effective values of these properties for temperature range relevant to welding.\nNitheesh’s work helps industry predict welding and additive manufacturing outcomes using multi-physics process models that depend on the accuracy of material properties used, providing reliable material property data for critical predictions.\nBeyond academics, Nitheesh enjoys playing chess, cricket, and watching movies.\n\nPrior Degrees\nB.Tech Hons. Metallurgical and Materials Engineering, National Institute of Technology Tiruchirappalli, India, 2019-2023\n\n\nSelected Accomplishments\nMcKay-Helm award from AWS, Captain Thomas Farrell Greenhalgh Memorial Graduate Scholarship from UofA, CWB-WF/CCWJ Award, Jerry Hope Memorial Scholarship\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/program-manager.html",
+    "href": "people/program-manager.html",
+    "title": "Program Manager",
+    "section": "",
+    "text": "Rishiekesh (Rishie) Ramgopal is the CCWJ’s Program Manager, inaugerating into the roll in 2025 after having previously worked as a MITACS Research Intern with the Centre in 2019 and earning his Masters with the Centre from 2021-2024. He is also an Advisor for the University of Alberta AWS/CWBA Student Chapter. As Program Manager, Rishie leads the launch of the Centre’s newest initiative: the Canadian Cluster for Laser and ADvanced Manufacturing (C:CLAD); a Cluster focused on laser and advanced manufacturing in Alberta. He is also responsible for managing research projects and fostering industry partnerships.\nOutside of his work, Rishie enjoys skiing, backpacking, and has an interest in F1 Racing.\n\nPrior Degrees\nMSc, University of Alberta, 2025\nBTech, National Institute of Technology Tiruchirappalli, 2021\n\n\nSelected Accomplishments\nAWS - 2025 International Meritorious Award\nCWB/CCWJ 2024 Leadership in Welding\nAttended the leadership symposium in Miami\n\n\n\n Back to top",
+    "crumbs": [
+      "Staff",
+      "Program Manager"
     ]
   },
   {
