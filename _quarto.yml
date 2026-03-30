@@ -64,9 +64,9 @@ website:
           - "---"
           - text: "Alumni"
             href: people/alumn.qmd
-          - text: "Alumn (UG)"
+          - text: "Alumni (Undergraduate)"
             href: people/alumn-ug.qmd
-          - text: "Alumn (visitor)"
+          - text: "Alumni (Visitors)"
             href: people/alumn-visitors.qmd
 
 
