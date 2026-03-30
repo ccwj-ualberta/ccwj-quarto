@@ -1,5 +1,5 @@
 ---
-title: "Alumn (UG)"
+title: "Alumni (Undergraduate)"
 listing: 
   contents: alumn-ug
   type: default
