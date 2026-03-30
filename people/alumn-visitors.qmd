@@ -1,5 +1,5 @@
 ---
-title: "Alumn (visitor)"
+title: "Alumni (Visitors)"
 listing: 
   contents: alumn-visitors
   type: default
