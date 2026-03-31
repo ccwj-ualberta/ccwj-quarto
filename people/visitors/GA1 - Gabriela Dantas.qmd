@@ -1,0 +1,27 @@
+---
+title: Gabriela Pinheiro Almeida Dantas
+subtitle: Visiting Undergraduate Student, Universidade de Sao Paulo (USP)
+image: GA1 - Gabriela Dantas Tbn.jpg
+priority: 2
+
+about:
+  template: trestles
+  image: GA1 - Gabriela Dantas.jpg
+  links:
+    - icon: email
+      text: gpinhei1@ualberta.ca
+      href: mailto:gpinhei1@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gabriela-dantas-222711217/
+---
+
+Gabriela Pinheiro Almeida Dantas is a visiting undergraduate student with the CCWJ through the University of Alberta Research Experience (UARE) program, joining in March 2026 from the Universidade de Sao Paulo (USP). She is currently studying Information Systems and is expected to graduate in 2027. Her work focuses on using transformer-based approaches to extract and analyze features from high-speed welding videos, including plasma arc measurements, droplet size and frequency, and the relationship between plasma arcs and voltage.
+
+This project provided her with the opportunity to apply her academic knowledge to a real, hands-on problem, helping develop effective solutions to practical challenges. It also allowed her to explore welding, an area she had not previously worked in, and expand her knowledge in new directions.
+
+Outside of work, Gabriela enjoys going to the opera, collecting and listening to vinyl, and reading old books.
+
+####### Prior Degrees
+
+BSc (ongoing), Information Systems, Universidade de Sao Paulo (USP)
