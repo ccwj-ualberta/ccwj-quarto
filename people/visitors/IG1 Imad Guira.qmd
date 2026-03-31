@@ -1,0 +1,29 @@
+---
+title: Imad Eddine Guira
+subtitle: Visiting PhD Student, National Polytechnic School Algiers
+image: IG1 - Imad Guira.jpg
+priority: 1
+
+about:
+  template: trestles
+  image: IG1 - Imad Guira.jpg
+  links:
+    - icon: email
+      text: guira@ualberta.ca
+      href: mailto:guira@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/imad-eddine-guira-28807136b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+---
+
+Imad Eddine Guira is a visiting PhD student with the CCWJ from February 2026, joining from the National Polytechnic School Algiers in Algeria. His work focuses on welding of stainless steel-copper joints, with emphasis on microstructure evolution, defect formation, and mechanical properties using laser and arc welding processes.
+
+Imad was interested in joining the CCWJ because of the international reputation of its director in welding engineering and materials science, his extensive work on stainless steels, and the laboratory’s strong research profile and advanced experimental facilities.
+
+Outside of work, Imad enjoys football, swimming, and biking.
+
+####### Prior Degrees
+
+PhD (ongoing), Materials Engineering, National Polytechnic School Algiers  
+MSc, Materials Engineering, National Polytechnic School Algiers  
+Metallurgical Engineering, National Polytechnic School Algiers
