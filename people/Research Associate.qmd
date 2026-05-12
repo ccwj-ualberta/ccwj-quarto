@@ -1,5 +1,5 @@
 ---
-title: Research Associate
+title: Research Specialist, Welding
 subtitle: Jay Kahar
 image: JK2 - Jay Kahar Tbn.jpg
 priority: 2
@@ -15,9 +15,13 @@ about:
       href: https://www.linkedin.com/in/jay-kahar/
 ---
 
-Jay Kahar has been a Research Associate with the CCWJ since 2024. Completing an MEng in Materials Engineering in April of 2025, Jay was previously a Volunteer and Graduate Research Assistant with the CCWJ between 2024 and 2025. His main responsibilities include assisting with research proposals, managing project budgets, organizing procurement, and ensuring compliance with financial procedures. Jay also helps coordinate internal lab operations, from purchasing and reimbursements to scheduling, communications, and event planning. 
+Jay Kahar is a Research Specialist in Welding at the Canadian Centre for Welding and Joining. He completed his MEng in Materials Engineering at the University of Alberta in 2025 and has been with CCWJ since 2024, first as a Volunteer, then as a Graduate Research Assistant, and now as a Research Specialist.
 
-Jay enjoys hiking, going on nature trails and long walks, playing video games, and swimming in his free time.
+In his current role, Jay is part of CCWJ’s leadership team, working across welding and materials research, lab management, and research operations. His work includes preparing research proposals, managing project budgets, assisting with equipment and technical reporting, coordinating procurement, and supporting day-to-day research activities. Jay also manages CCWJ’s communications and administrative coordination, including website development and event planning.
+
+Jay has a background in metallurgical engineering, with prior industry experience in large-scale manufacturing. His work brings together technical welding and industrial knowledge, research support, and practical project coordination to help strengthen CCWJ’s research capacity and industry partnerships.
+
+In his free time, Jay enjoys hiking, exploring nature trails, long walks, video games, swimming, and watching F1.
 
 ##### Prior Degrees
 
