@@ -120,21 +120,6 @@
     ]
   },
   {
-    "listing": "/people/alumn-ug.html",
-    "items": [
-      "/people/alumn-ug/AW1 - Andy Wu.html",
-      "/people/alumn-ug/ES1 - Eric Stuparyk.html",
-      "/people/alumn-ug/JB1 - Jolene Borrelli.html",
-      "/people/alumn-ug/MJ1 - Mackenzi Johnston.html",
-      "/people/alumn-ug/NS1 - Nathaniel Schurek.html",
-      "/people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
-      "/people/alumn-ug/SS5 - Samantha Skiba.html",
-      "/people/alumn-ug/TN1 - Thuong Nguyen.html",
-      "/people/alumn-ug/TO1 - Tian Ooi.html",
-      "/people/alumn-ug/WW1 - Wesley Wood.html"
-    ]
-  },
-  {
     "listing": "/people/bscs.html",
     "items": [
       "/people/bscs/KC1 - Kathryn Craig.html",
@@ -1058,6 +1043,21 @@
       "/people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
       "/people/mscs/MA1 - Mia Abdulla.html",
       "/people/mscs/LT2 - Lucas Nicolas Taipe Ramos.html"
+    ]
+  },
+  {
+    "listing": "/people/alumn-ug.html",
+    "items": [
+      "/people/alumn-ug/AW1 - Andy Wu.html",
+      "/people/alumn-ug/ES1 - Eric Stuparyk.html",
+      "/people/alumn-ug/JB1 - Jolene Borrelli.html",
+      "/people/alumn-ug/MJ1 - Mackenzi Johnston.html",
+      "/people/alumn-ug/NS1 - Nathaniel Schurek.html",
+      "/people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
+      "/people/alumn-ug/SS5 - Samantha Skiba.html",
+      "/people/alumn-ug/TN1 - Thuong Nguyen.html",
+      "/people/alumn-ug/TO1 - Tian Ooi.html",
+      "/people/alumn-ug/WW1 - Wesley Wood.html"
     ]
   },
   {
