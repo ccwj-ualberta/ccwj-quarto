@@ -1,0 +1,21 @@
+---
+title: Gabriela Pinheiro Almeida Dantas
+subtitle: Visiting Undergraduate Student, Universidade de Sao Paulo (USP)
+image: GA1 - Gabriela Dantas Tbn.jpg
+priority: 2
+
+about:
+  template: trestles
+  image: GA1 - Gabriela Dantas.jpg
+  links:
+    - icon: email
+      text: gpinhei1@ualberta.ca
+      href: mailto:gpinhei1@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gabriela-dantas-222711217/
+---
+
+Country of Origin: Brazil via the UARE program  
+Affiliated Institution: University of São Paulo (USP)
+Project: Artificial Intelligence (AI) in Welding
