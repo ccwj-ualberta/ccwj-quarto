@@ -1,7 +1,7 @@
 ---
 title: Micah Sellers
 image: MS1 - Micah Sellers Tbn.jpg
-subtitle: Mechatronics
+subtitle: Mechatronics Engineering
 priority: 3
 about:
   template: trestles
