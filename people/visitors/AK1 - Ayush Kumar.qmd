@@ -1,0 +1,25 @@
+---
+title: Ayush Kumar
+subtitle: Visiting BSc Student, Indian Institute of Technology (IIT), Bombay, India
+image: AK1 - Ayush Kumar.jpg
+priority: 2
+
+about:
+  template: trestles
+  image: AK1 - Ayush Kumar.jpg
+  links:
+    - icon: email
+      text: ayush12@ualberta.ca
+      href: mailto:ayush12@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ayush-kumar-7bb8442a1
+---
+
+Ayush Kumar is a visiting BSc student with the CCWJ from the Indian Institute of Technology (IIT) Bombay in India. His work with the CCWJ focuses on artificial intelligence in welding and the physics of thermal plasmas at atmospheric pressures.
+
+Outside of work, Ayush enjoys playing sports such as volleyball and soccer, as well as playing the flute.
+
+####### Prior Degrees
+
+BSc (ongoing), Mechanical Engineering, IIT Bombay, India

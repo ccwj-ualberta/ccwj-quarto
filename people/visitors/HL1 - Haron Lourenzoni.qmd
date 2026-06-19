@@ -1,0 +1,26 @@
+---
+title: Haron Freitas Lourenzoni
+subtitle: Visiting BSc Student, University of São Paulo (USP), Brazil
+image: HL1 - Haron Lourenzoni.jpg
+priority: 3
+
+
+about:
+  template: trestles
+  image: HL1 - Haron Lourenzoni.jpg
+  links:
+    - icon: email
+      text: freitasl@ualberta.ca
+      href: mailto:freitasl@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/haron-freitas-lourenzoni-903832212
+---
+
+Haron Freitas Lourenzoni is a visiting BSc student with the CCWJ from the University of São Paulo (USP) in Brazil. His work with the CCWJ focuses on additive manufacturing using wire arc deposition.
+
+Outside of work, Haron enjoys listening to music, shielded metal arc welding (SMAW), and exploring new places and environments.
+
+####### Prior Degrees
+
+BSc (ongoing), Mechatronic Engineering, University of São Paulo (USP), Brazil
