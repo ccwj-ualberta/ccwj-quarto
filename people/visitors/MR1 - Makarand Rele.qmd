@@ -1,0 +1,27 @@
+---
+title: Makarand Rele
+subtitle: Visiting BSc Student, Indian Institute of Technology (IIT), Bombay, India
+image: MR1 - Makarand Rele Tbn.jpg
+subtitle: Mechanical Engineering
+priority: 4
+about:
+  template: trestles
+  image: MR1 - Makarand Rele.jpg
+  links:
+    - icon: email
+      text: rele@ualberta.ca
+      href: mailto:rele@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/makarand-rele-69323b286/
+---
+
+Makarand Rele is an undergraduate visiting BSc student with the CCWJ from the Indian Institute of Technology (IIT) Bombay in India. His work supports research on the physics of thermal plasmas at atmospheric pressure, with a focus on heat transfer concepts involved in welding. He is involved in research that helps improve understanding of how thermal plasma behaviour influences welding processes.
+
+Makarand was drawn to the CCWJ through his interest in the heat transfer concepts involved in welding and the opportunity to explore their role in advanced joining processes.
+
+Outside of academics, Makarand enjoys Formula 1, long drives, and reading fiction.
+
+####### Prior Degrees
+
+BSc (ongoing), Mechanical Engineering, IIT Bombay, India
