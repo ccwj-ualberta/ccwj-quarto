@@ -1,7 +1,7 @@
 ---
 title: Samson Nellickappillil
 image: SN1 - Samson Nellickappillil Tbn.jpg
-subtitle: Chemical Engineering
+subtitle: Co-Op - Chemical Engineering
 priority: 2
 about:
   template: trestles
