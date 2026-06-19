@@ -737,6 +737,44 @@
     ]
   },
   {
+    "listing": "/people/postdocs.html",
+    "items": [
+      "/people/postdocs/IP1 - Ivan Pigozzo.html"
+    ]
+  },
+  {
+    "listing": "/people/visitors.html",
+    "items": [
+      "/people/visitors/IG1 - Imad Guira.html",
+      "/people/visitors/AK1 - Ayush Kumar.html",
+      "/people/visitors/HL1 - Haron Lourenzoni.html"
+    ]
+  },
+  {
+    "listing": "/people/phds.html",
+    "items": [
+      "/people/phds/DC1 - Daniele Calista.html",
+      "/people/phds/EA1 - J. Eduardo Alvarez Rocha.html",
+      "/people/phds/XL1- Xinrui Liu.html",
+      "/people/phds/GS1 - Gurbarn Singh.html"
+    ]
+  },
+  {
+    "listing": "/people/alumn-ug.html",
+    "items": [
+      "/people/alumn-ug/AW1 - Andy Wu.html",
+      "/people/alumn-ug/ES1 - Eric Stuparyk.html",
+      "/people/alumn-ug/JB1 - Jolene Borrelli.html",
+      "/people/alumn-ug/MJ1 - Mackenzi Johnston.html",
+      "/people/alumn-ug/NS1 - Nathaniel Schurek.html",
+      "/people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
+      "/people/alumn-ug/SS5 - Samantha Skiba.html",
+      "/people/alumn-ug/TN1 - Thuong Nguyen.html",
+      "/people/alumn-ug/TO1 - Tian Ooi.html",
+      "/people/alumn-ug/WW1 - Wesley Wood.html"
+    ]
+  },
+  {
     "listing": "/people/alumn.html",
     "items": [
       "/people/alumn/AK1 - Ata Kamyabi.html",
@@ -760,43 +798,6 @@
       "/people/alumn/VS1 - Vicente Andres Nunez Sanchez.html",
       "/people/alumn/VP1 - Viraj Patel.html",
       "/people/alumn/YL1 - Yi Lu.html"
-    ]
-  },
-  {
-    "listing": "/people/alumn-ug.html",
-    "items": [
-      "/people/alumn-ug/AW1 - Andy Wu.html",
-      "/people/alumn-ug/ES1 - Eric Stuparyk.html",
-      "/people/alumn-ug/JB1 - Jolene Borrelli.html",
-      "/people/alumn-ug/MJ1 - Mackenzi Johnston.html",
-      "/people/alumn-ug/NS1 - Nathaniel Schurek.html",
-      "/people/alumn-ug/PB1 - Pavadharine Bhavanathan.html",
-      "/people/alumn-ug/SS5 - Samantha Skiba.html",
-      "/people/alumn-ug/TN1 - Thuong Nguyen.html",
-      "/people/alumn-ug/TO1 - Tian Ooi.html",
-      "/people/alumn-ug/WW1 - Wesley Wood.html"
-    ]
-  },
-  {
-    "listing": "/people/phds.html",
-    "items": [
-      "/people/phds/DC1 - Daniele Calista.html",
-      "/people/phds/EA1 - J. Eduardo Alvarez Rocha.html",
-      "/people/phds/XL1- Xinrui Liu.html",
-      "/people/phds/GS1 - Gurbarn Singh.html"
-    ]
-  },
-  {
-    "listing": "/people/visitors.html",
-    "items": [
-      "/people/visitors/IG1 - Imad Guira.html",
-      "/people/visitors/GA1 - Gabriela Dantas.html"
-    ]
-  },
-  {
-    "listing": "/people/postdocs.html",
-    "items": [
-      "/people/postdocs/IP1 - Ivan Pigozzo.html"
     ]
   },
   {
