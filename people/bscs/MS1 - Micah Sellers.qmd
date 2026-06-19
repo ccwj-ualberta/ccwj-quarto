@@ -1,0 +1,23 @@
+---
+title: Micah Sellers
+image: MS1 - Micah Sellers Tbn.jpg
+subtitle: Mechatronics
+priority: 3
+about:
+  template: trestles
+  image: MS1 - Micah Sellers.jpg
+  links:
+    - icon: email
+      text: mjseller@ualberta.ca
+      href: mailto:mjseller@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/micah-sellers/
+---
+
+Micah Sellers is an undergraduate Mechatronics co-op student at the University of Alberta who joined the CCWJ in 2026. His work supports research in Wire Arc Additive Manufacturing (WAAM) through the re-commissioning of a Fanuc welding robot and the development of custom software to enable adaptive layer height control. He is involved in hands-on robotics, welding automation, and software development to better understand how adaptive control can improve WAAM processes.
+
+Micah was drawn to the CCWJ through his interest in learning from highly experienced researchers and gaining access to the wide range of advanced equipment available in the lab.
+
+Outside of academics, Micah enjoys playing music and rock climbing.
+
