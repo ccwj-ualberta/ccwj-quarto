@@ -8,61 +8,53 @@ The CCWJ has an industrial advisory board composed of key companies in Alberta, 
 
 <br>
 
-::: {layout="[[1,1,1,1], [1,1,1,1], [1,1,1,1], [1,1,1,1]]"}
+::: {layout="[[1,1,1,1], [1,1,1,1], [1,1,1,1], [1,1]]"}
 
-![**Adel Mir**, President, Lincoln Electric of Canada](advisory-boards/adel-mir.png){fig-width="75px" fig-align="left" width=80%}
+![**Brian Szenasi**, Western Canada Regional Manager, Lincoln Electric](advisory-board/brian-szenasi.jpg){.advisor-photo width=80%}
 
-![**Brian Szenasi**, Alberta District Manager, Lincoln Electric of Canada](advisory-boards/brian-szenasi.png){fig-width="75px" fig-align="left" width=80%}
+![**Chris Megraw**, Vice President, Strategy, Weldco Companies](advisory-board/chris-megraw.jpg){.advisor-photo width=80%}
 
-![**Dale Malcolm**, VP Sales and Marketing, Lincoln Electric](advisory-boards/dave-malcolm.png){fig-width="75px" fig-align="left" width=80%}
+![**Dan Tadic**, Welding Ambassador](advisory-board/dan-tadic.jpg){.advisor-photo width=80%}
 
-![**Bruce Albrecht**, Vice President Global, Innovation and Technology, ITW](advisory-boards/bruce-albrecht.png){fig-width="75px" fig-align="left" width=80%}
+![**Doug Schindel**, Advisor](advisory-board/doug-schindel.jpg){.advisor-photo width=80%}
 
-![**Dan Tadic**, CWB Group](advisory-boards/dan-tadic.png){fig-width="75px" fig-align="left" width=80%}
+![**Douglas Luciani**, Advisor](../assets/placeholder.png){.advisor-photo width=80%}
 
-![**Darren Lunt**, President, Weldco Companies](advisory-boards/darren-lunt.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Leijun Li**, Chair, CME, University of Alberta](advisory-board/leijun-li.jpg){.advisor-photo width=80%}
 
-![**Doug Schindel**, Member](advisory-boards/doug-schindel.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Nairn Barnes**, Senior Welding and Materials Engineer (Alumni), IRISNDT](advisory-board/nairn-barnes.jpg){.advisor-photo width=80%}
 
-![**Douglas Luciani**, President/CEO CWB Group](advisory-boards/douglas-luciani.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Patricio Mendez**, Weldco-Industry Chair, Director CCWJ](advisory-board/patricio-mendez.jpg){.advisor-photo width=80%}
 
-![**Dr. Nairn Barnes**, Welding Engineer, IRISNDT](advisory-boards/nairn-barnes.png){fig-width="75px" fig-align="left" width=80%}
+![**Lisa McFadden**, Director of Operations, Lincoln Electric](../assets/placeholder.png){.advisor-photo width=80%}
 
-![**Dr. Patricio Mendez**, Weldco-Industry Chair, Director CCWJ](advisory-boards/patricio-mendez.png){fig-width="75px" fig-align="left" width=80%}
+![**Mahyar Asadi**, Chief Innovation Officer, CWB Group](advisory-board/mahyar-asadi.jpg){.advisor-photo width=80%}
 
-![**Dr. Vinay Prasad**, Chair CME, University of Alberta](advisory-boards/vinay-prasad.png){fig-width="75px" fig-align="left" width=80%}
+![**Rafael Reyes**, Materials Engineer, Suncor Energy](advisory-board/rafael-reyes.jpg){.advisor-photo width=80%}
 
-![**Rafael Reyes**, Materials Engineer, Suncor Energy](advisory-boards/rafael-reyes.png){fig-width="75px" fig-align="left" width=80%}
+![**Sarah Stetson**, Director, Commercial Sales, Acklands Grainger](../assets/placeholder.png){.advisor-photo width=80%}
 
-![**Stefano Chiovelli**, Senior Technical Specialist](advisory-boards/stefano-chiovelli.png){fig-width="75px" fig-align="left" width=80%}
+![**Tanner Kendall**, Operations Manager, Weldco-Beales Manufacturing](../assets/placeholder.png){.advisor-photo width=80%}
 
-![**Sarah Stetson**, Director, Commercial Sales, Acklands Grainger](../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
-
-![**Mike MacSween**, EVP Upstream, Suncor Energy](../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
-
-![**Michael Anderson**, Senior Technical Advisor - Materials, Suncor Energy](../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
-
-![**Gary Topilko**, Senior Product Manager, IAB interim chair](../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
-
-![**Dale Unrau**, Director, Industry Competitiveness, Government of Alberta](../assets/placeholder.png){fig-width="75px" fig-align="left" width=80%}
+![**Todd Holverson**, Director, Weld Process and Solutions Development, ITW Miller](advisory-board/todd-holverson.jpg){.advisor-photo width=80%}
 
 :::
 
 ### Scientific Advisory Board
 
-The CCWJ's research mandate is guided by an interdiscipilinary Scientific Advisory Board (SAB). The SAB works to strengthen the interdiscipilinary interaction with collaborators, assists researchers to align proposals with existing work, and guides the strategic direction of the CCWJ.
+The CCWJ's research mandate is guided by an interdisciplinary Scientific Advisory Board (SAB). The SAB works to strengthen the interdisciplinary interaction with collaborators, assists researchers in aligning proposals with existing work, and guides the strategic direction of the CCWJ.
 
 <br>
 
 ::: {layout="[[1,1,1,1]]"}
 
-![**Dr. Patricio Mendez**, Weldco-Industry Chair, Director CCWJ](advisory-boards/patricio-mendez.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Leijun Li**, Chair, CME, University of Alberta](advisory-board/leijun-li.jpg){.advisor-photo width=80%}
 
-![**Dr. Richard Sydora**, Professor, Physics](advisory-boards/richard-sydora.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Patricio Mendez**, Weldco-Industry Chair, Director CCWJ](advisory-board/patricio-mendez.jpg){.advisor-photo width=80%}
 
-![**Dr. Simaan Abourizk**, Dean, Engineering](advisory-boards/simaan-abouRizk.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Richard Sydora**, Professor, Physics](advisory-board/richard-sydora.jpg){.advisor-photo width=80%}
 
-![**Dr. Vinay Prasad**, Chair CME, University of Alberta](advisory-boards/vinay-prasad.png){fig-width="75px" fig-align="left" width=80%}
+![**Dr. Simaan Abourizk**, Dean, Engineering](advisory-board/simaan-abouRizk.jpg){.advisor-photo width=80%}
 
 :::
 
@@ -73,26 +65,53 @@ The CCWJ's research mandate is guided by an interdiscipilinary Scientific Adviso
 ::: {.column width="50%"}
 
 ##### Dr. Gentry Wood
-- Welding Engineer, Apollo Laser Cladding
+- Apollo Laser Cladding
 
 ##### Ivan Gonzalez
-- IAB chair, Weldco-Beales
+- Weldco-Beales
 
 ##### Joseph Doria
-- President, Lincoln Electric of Canada
-
-:::
-
-::: {.column width="50%"}
+- Lincoln Electric of Canada
 
 ##### Lynn Wyton
 - Government of Alberta
 
 ##### Michael Whitehead
-- President, Lincoln Electric of Canada
+- Lincoln Electric of Canada
 
 ##### Trevor Pond
 - Metal Fabricators
+
+##### Dale Malcolm
+- Lincoln Electric
+
+##### Darren Lunt
+- Mental Health Foundation
+
+##### Bruce Albrecht
+- ITW
+
+:::
+
+::: {.column width="50%"}
+
+##### Dr. Vinay Prasad
+- University of Alberta
+
+##### Stefano Chiovelli
+- Syncrude
+
+##### Mike MacSween
+- Exergy Solutions
+
+##### Michael Anderson
+- Becht
+
+##### Gary Topilko
+- Weldco-Beales Manufacturing
+
+##### Dale Unrau
+- Government of Alberta
 
 :::
 
