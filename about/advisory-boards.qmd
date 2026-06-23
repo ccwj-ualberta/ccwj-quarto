@@ -8,7 +8,7 @@ The CCWJ has an industrial advisory board composed of key companies in Alberta, 
 
 <br>
 
-::: {layout="[[1,1,1,1], [1,1,1,1], [1,1,1,1], [1,1]]"}
+::: {layout-ncol="4"}
 
 ![**Brian Szenasi**, Western Canada Regional Manager, Lincoln Electric](advisory-board/brian-szenasi.jpg){.advisor-photo width=80%}
 
@@ -46,7 +46,7 @@ The CCWJ's research mandate is guided by an interdisciplinary Scientific Advisor
 
 <br>
 
-::: {layout="[[1,1,1,1]]"}
+::: {layout-ncol="4"}
 
 ![**Dr. Leijun Li**, Chair, CME, University of Alberta](advisory-board/leijun-li.jpg){.advisor-photo width=80%}
 
