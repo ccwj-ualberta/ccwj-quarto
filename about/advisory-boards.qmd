@@ -18,7 +18,7 @@ The CCWJ has an industrial advisory board composed of key companies in Alberta, 
 
 ![**Doug Schindel**, Advisor](advisory-board/doug-schindel.jpg){.advisor-photo width=80%}
 
-![**Douglas Luciani**, Advisor](../assets/placeholder.png){.advisor-photo width=80%}
+![**Douglas Luciani**, Advisor](advisory-board/douglas-luciani.jpg){.advisor-photo width=80%}
 
 ![**Dr. Leijun Li**, Chair, CME, University of Alberta](advisory-board/leijun-li.jpg){.advisor-photo width=80%}
 
