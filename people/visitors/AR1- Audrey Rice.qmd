@@ -1,11 +1,11 @@
 ---
 title: Audrey Rice
 subtitle: Visiting Student, Colorado School of Mines, USA
-image: AR1- Audrey Rice Tbn.jpg
+image: "AR1 - Audrey Rice Tbn.jpg"
 priority: 5
 about:
   template: trestles
-  image: AR1- Audrey Rice.jpg
+  image: "AR1 - Audrey Rice.jpg"
   links:
     - icon: email
       text: audreyerice1@gmail.com
