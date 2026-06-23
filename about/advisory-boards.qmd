@@ -2,6 +2,21 @@
 title: "Advisory Boards"
 ---
 
+<style>
+img.advisor-photo {
+  width: 180px !important;
+  height: 180px !important;
+  max-width: 180px !important;
+  object-fit: cover;
+  border-radius: 50% !important;
+  clip-path: none !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+
 ### Industrial Advisory Board
 
 The CCWJ has an industrial advisory board composed of key companies in Alberta, Canada, and internationally, including: Weldco Companies, Acklands Grainger, Canadian Welding Bureau, CESSCO Fabrication and Engineering, Lincoln Electric Company of Canada, Metal Fabricators and Welding Ltd., Miller Electric, and Suncor Energy.
