@@ -1,0 +1,33 @@
+---
+title: Stephane Lemieux
+subtitle: Visiting Professor, MacEwan University
+image: SL1 - Stephane Lemieux Tbn.jpg
+priority: 1
+
+about:
+  template: trestles
+  image: SL1 - Stephane Lemieux.jpg
+  links:
+    - icon: email
+      text: lemieuxs5@macewan.ca
+      href: mailto:lemieuxs5@macewan.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/stephane-lemieux-phd-121565110
+---
+
+Stephane Robert Lemieux is a Visiting Professor with the Canadian Centre for Welding and Joining (CCWJ) from MacEwan University. His research focuses on the collision resistance properties of medieval mail, with the goal of refining and improving the understanding of medieval archery efficacy for both the academic community and the general public. His work combines historical research with engineering principles to investigate the performance of historical protective equipment.
+
+Outside of research, Stephane enjoys warbow archery, hunting, and historical reenactment.
+
+##### Prior Degrees
+
+PhD, University of Alberta, 2004  
+MSc, Carleton University, 1999  
+BSc, Carleton University, 1997
+
+##### Selected Achievements
+
+Four patented cryptographic algorithms  
+Research Award from the Federal Deputy Minister of Agriculture  
+Associate of the Canadian Institute of Actuaries (CIA)
