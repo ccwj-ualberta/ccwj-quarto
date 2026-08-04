@@ -1,0 +1,12 @@
+---
+title: Visiting Professors
+listing:
+  - id: visiting-professors
+    contents: visiting-professors
+    sort: "title"
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, subtitle, description]
+---
