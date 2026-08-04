@@ -456,78 +456,72 @@
     ]
   },
   {
-    "listing": "/people/phds.html",
+    "listing": "/people/visiting-professors.html",
     "items": [
-      "/people/phds/DC1 - Daniele Calista.html",
-      "/people/phds/EA1 - J. Eduardo Alvarez Rocha.html",
-      "/people/phds/XL1- Xinrui Liu.html",
-      "/people/phds/GS1 - Gurbarn Singh.html"
+      "/people/visiting-professors/SL1 - Stephane Lemieux.html"
     ]
   },
   {
-    "listing": "/news/news.html",
+    "listing": "/people/visitors.html",
     "items": [
-      "/news/news-articles/2025-11-01-ccwj-seminar-HLBW.html",
-      "/news/news-articles/2024-04-08-ccwj-seminar-cobot.html",
-      "/news/news-articles/2023-04-28-ccwj-seminar.html",
-      "/news/news-articles/2022-11-17-new-linkedin-site.html",
-      "/news/news-articles/2022-11-03-gentry-woods.html",
-      "/news/news-articles/2022-11-01-fabtech.html",
-      "/news/news-articles/2022-06-02-mitchell-grams.html"
+      "/people/visitors/IG1 - Imad Guira.html",
+      "/people/visitors/AK1 - Ayush Kumar.html",
+      "/people/visitors/HL1 - Haron Lourenzoni.html",
+      "/people/visitors/MR1 - Makarand Rele.html",
+      "/people/visitors/AR1- Audrey Rice.html"
     ]
   },
   {
-    "listing": "/research/videos.html",
+    "listing": "/research/projects.html",
     "items": [
-      "/research/videos/fcaw.html",
-      "/research/videos/two-water-balloons-oxycetylene.html",
-      "/research/videos/gases.html",
-      "/research/videos/metal-transfer.html",
-      "/research/videos/waveforms.html",
-      "/research/videos/gtaw.html",
-      "/research/videos/ptaw.html",
-      "/research/videos/robots.html",
-      "/research/videos/smaw.html",
-      "/research/videos/discontinuities.html"
+      "/research/projects/erw-bondline-flaw-formation.html",
+      "/research/projects/parametric-optimization-aluminum.html",
+      "/research/projects/wire-and-process-parameters.html",
+      "/research/projects/catchment-efficiency-coaxial-cladding.html",
+      "/research/projects/dynadur.html",
+      "/research/projects/real-time-cameras.html",
+      "/research/projects/hydrogen-quantitative-model.html",
+      "/research/projects/railroad-wheels.html",
+      "/research/projects/welding-new-steels.html",
+      "/research/projects/laser-assisted-hot-wire-metal-deposition.html",
+      "/research/projects/wire-based-nickel-tungstun-carbide-overlays.html",
+      "/research/projects/manufacturing-system-automated-repairs.html",
+      "/research/projects/reinforcing-steels.html",
+      "/research/projects/multiphysics.html",
+      "/research/projects/laser-cladding-pastes-tapes.html",
+      "/research/projects/circumferential-pipeline-welds.html",
+      "/research/projects/multimedia-enabled-welding-helmet.html",
+      "/research/projects/laser-processing-wear-corrosion-materials.html",
+      "/research/projects/wear-protection.html",
+      "/research/projects/ni-wc-wear-resistant-materials.html",
+      "/research/projects/tailor-welded-mg-alloy-parts.html",
+      "/research/projects/welding-defects-catalog.html",
+      "/research/projects/protective-overlays-oil-sands.html",
+      "/research/projects/abrasion-resistant-ni-wc-composites.html"
     ]
   },
   {
-    "listing": "/research/seminar-presentations.html",
+    "listing": "/research/research.html",
     "items": [
-      "/research/seminars/nuclear-components.html",
-      "/research/seminars/smr-materials.html",
-      "/research/seminars/scaling-techniques-part3.html",
-      "/research/seminars/scaling-techniques-part2.html",
-      "/research/seminars/scaling-techniques-part1.html",
-      "/research/seminars/joys-of-welding-mets-2013.html",
-      "/research/seminars/candu-reactors.html"
+      "/research/research-areas/modelling.html",
+      "/research/research-areas/physics.html",
+      "/research/research-areas/metallurgy.html",
+      "/research/research-areas/automation.html"
     ]
   },
   {
-    "listing": "/about/collaborations.html",
+    "listing": "/research/conference-presentations.html",
     "items": [
-      "/about/collaborations/adrian-gerlich.html",
-      "/about/collaborations/bernadette-quemarais.html",
-      "/about/collaborations/bita-fallahi.html",
-      "/about/collaborations/jason-olfert.html",
-      "/about/collaborations/leijun-li.html",
-      "/about/collaborations/mostafa-yakout.html",
-      "/about/collaborations/rafiq-ahmad.html",
-      "/about/collaborations/rick-sydora.html",
-      "/about/collaborations/s-ali-khajeohddin.html",
-      "/about/collaborations/shiva-mohajernia.html",
-      "/about/collaborations/sina-ghaemi.html",
-      "/about/collaborations/stephen-mcmillan.html",
-      "/about/collaborations/tony-briggs.html",
-      "/about/collaborations/xingyu-li.html",
-      "/about/collaborations/yasser-mohammad.html"
-    ]
-  },
-  {
-    "listing": "/teaching/teaching.html",
-    "items": [
-      "/teaching/courses/heat-transfer.html",
-      "/teaching/courses/welding-fundamentals.html"
+      "/research/conferences/Fabtech 2024 Trautmann.html",
+      "/research/conferences/Fabtech 2024 Abdulla.html",
+      "/research/conferences/Fabtech 2024 Mendez et al.html",
+      "/research/conferences/Fabtech 2024 Kumar et al.html",
+      "/research/conferences/Fabtech 2024 Calista et al.html",
+      "/research/conferences/Fabtech 2024 Alvarez-Rocha.html",
+      "/research/conferences/CANWELD 2024 Calista et al.html",
+      "/research/conferences/CANWELD 2023 Calista and Mendez.html",
+      "/research/conferences/CANWELD 2023 Núñez and Mendez.html",
+      "/research/conferences/CANWELD 2023 Ramgopa and Mendez.html"
     ]
   },
   {
@@ -615,66 +609,78 @@
     ]
   },
   {
-    "listing": "/research/conference-presentations.html",
+    "listing": "/teaching/teaching.html",
     "items": [
-      "/research/conferences/Fabtech 2024 Trautmann.html",
-      "/research/conferences/Fabtech 2024 Abdulla.html",
-      "/research/conferences/Fabtech 2024 Mendez et al.html",
-      "/research/conferences/Fabtech 2024 Kumar et al.html",
-      "/research/conferences/Fabtech 2024 Calista et al.html",
-      "/research/conferences/Fabtech 2024 Alvarez-Rocha.html",
-      "/research/conferences/CANWELD 2024 Calista et al.html",
-      "/research/conferences/CANWELD 2023 Calista and Mendez.html",
-      "/research/conferences/CANWELD 2023 Núñez and Mendez.html",
-      "/research/conferences/CANWELD 2023 Ramgopa and Mendez.html"
+      "/teaching/courses/heat-transfer.html",
+      "/teaching/courses/welding-fundamentals.html"
     ]
   },
   {
-    "listing": "/research/research.html",
+    "listing": "/about/collaborations.html",
     "items": [
-      "/research/research-areas/modelling.html",
-      "/research/research-areas/physics.html",
-      "/research/research-areas/metallurgy.html",
-      "/research/research-areas/automation.html"
+      "/about/collaborations/adrian-gerlich.html",
+      "/about/collaborations/bernadette-quemarais.html",
+      "/about/collaborations/bita-fallahi.html",
+      "/about/collaborations/jason-olfert.html",
+      "/about/collaborations/leijun-li.html",
+      "/about/collaborations/mostafa-yakout.html",
+      "/about/collaborations/rafiq-ahmad.html",
+      "/about/collaborations/rick-sydora.html",
+      "/about/collaborations/s-ali-khajeohddin.html",
+      "/about/collaborations/shiva-mohajernia.html",
+      "/about/collaborations/sina-ghaemi.html",
+      "/about/collaborations/stephen-mcmillan.html",
+      "/about/collaborations/tony-briggs.html",
+      "/about/collaborations/xingyu-li.html",
+      "/about/collaborations/yasser-mohammad.html"
     ]
   },
   {
-    "listing": "/research/projects.html",
+    "listing": "/research/seminar-presentations.html",
     "items": [
-      "/research/projects/erw-bondline-flaw-formation.html",
-      "/research/projects/parametric-optimization-aluminum.html",
-      "/research/projects/wire-and-process-parameters.html",
-      "/research/projects/catchment-efficiency-coaxial-cladding.html",
-      "/research/projects/dynadur.html",
-      "/research/projects/real-time-cameras.html",
-      "/research/projects/hydrogen-quantitative-model.html",
-      "/research/projects/railroad-wheels.html",
-      "/research/projects/welding-new-steels.html",
-      "/research/projects/laser-assisted-hot-wire-metal-deposition.html",
-      "/research/projects/wire-based-nickel-tungstun-carbide-overlays.html",
-      "/research/projects/manufacturing-system-automated-repairs.html",
-      "/research/projects/reinforcing-steels.html",
-      "/research/projects/multiphysics.html",
-      "/research/projects/laser-cladding-pastes-tapes.html",
-      "/research/projects/circumferential-pipeline-welds.html",
-      "/research/projects/multimedia-enabled-welding-helmet.html",
-      "/research/projects/laser-processing-wear-corrosion-materials.html",
-      "/research/projects/wear-protection.html",
-      "/research/projects/ni-wc-wear-resistant-materials.html",
-      "/research/projects/tailor-welded-mg-alloy-parts.html",
-      "/research/projects/welding-defects-catalog.html",
-      "/research/projects/protective-overlays-oil-sands.html",
-      "/research/projects/abrasion-resistant-ni-wc-composites.html"
+      "/research/seminars/nuclear-components.html",
+      "/research/seminars/smr-materials.html",
+      "/research/seminars/scaling-techniques-part3.html",
+      "/research/seminars/scaling-techniques-part2.html",
+      "/research/seminars/scaling-techniques-part1.html",
+      "/research/seminars/joys-of-welding-mets-2013.html",
+      "/research/seminars/candu-reactors.html"
     ]
   },
   {
-    "listing": "/people/visitors.html",
+    "listing": "/research/videos.html",
     "items": [
-      "/people/visitors/IG1 - Imad Guira.html",
-      "/people/visitors/AK1 - Ayush Kumar.html",
-      "/people/visitors/HL1 - Haron Lourenzoni.html",
-      "/people/visitors/MR1 - Makarand Rele.html",
-      "/people/visitors/AR1- Audrey Rice.html"
+      "/research/videos/fcaw.html",
+      "/research/videos/two-water-balloons-oxycetylene.html",
+      "/research/videos/gases.html",
+      "/research/videos/metal-transfer.html",
+      "/research/videos/waveforms.html",
+      "/research/videos/gtaw.html",
+      "/research/videos/ptaw.html",
+      "/research/videos/robots.html",
+      "/research/videos/smaw.html",
+      "/research/videos/discontinuities.html"
+    ]
+  },
+  {
+    "listing": "/news/news.html",
+    "items": [
+      "/news/news-articles/2025-11-01-ccwj-seminar-HLBW.html",
+      "/news/news-articles/2024-04-08-ccwj-seminar-cobot.html",
+      "/news/news-articles/2023-04-28-ccwj-seminar.html",
+      "/news/news-articles/2022-11-17-new-linkedin-site.html",
+      "/news/news-articles/2022-11-03-gentry-woods.html",
+      "/news/news-articles/2022-11-01-fabtech.html",
+      "/news/news-articles/2022-06-02-mitchell-grams.html"
+    ]
+  },
+  {
+    "listing": "/people/phds.html",
+    "items": [
+      "/people/phds/DC1 - Daniele Calista.html",
+      "/people/phds/EA1 - J. Eduardo Alvarez Rocha.html",
+      "/people/phds/XL1- Xinrui Liu.html",
+      "/people/phds/GS1 - Gurbarn Singh.html"
     ]
   },
   {
