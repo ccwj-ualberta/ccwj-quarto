@@ -1,0 +1,23 @@
+---
+title: Jasmine Mah
+image: JM1 - Jasmine Mah Tbn.jpg
+subtitle: Co-op - Computer Engineering
+priority: 4
+about:
+  template: trestles
+  image: JM1 - Jasmine Mah.jpg
+  links:
+    - icon: email
+      text: jamah2@ualberta.ca
+      href: mailto:jamah2@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jasminemah/
+---
+
+Jasmine Mah is an undergraduate Computer Engineering co-op student at the University of Alberta who joined the CCWJ in 2026. Her work focuses on welding automation by restoring a FANUC industrial robot and collecting operational data to support future automation and robotics research. Through this work, she is gaining hands-on experience with industrial robotic systems and their application in advanced manufacturing.
+
+Jasmine joined the CCWJ to explore industrial applications of Computer Engineering through robotics, an area she had not previously worked in. Her previous co-op experiences focused primarily on embedded systems for space applications, and she was excited to broaden her experience in industrial automation.
+
+Outside of academics, Jasmine enjoys retro gaming, listening to electronic music, and participating in the University of Alberta Space Physics Group.
+
