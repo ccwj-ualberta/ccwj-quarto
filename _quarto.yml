@@ -51,6 +51,8 @@ website:
             href: people/Research Specialist.qmd
           - text: "Postdocs"
             href: people/postdocs.qmd
+          - text: "Visiting Professors"
+            href: people/visiting-professors.qmd
           - "---"
           - text: "PhD students"
             href: people/phds.qmd
@@ -111,6 +113,7 @@ website:
           - people/program-manager.qmd
           - people/Research Specialist.qmd
           - people/postdocs.qmd
+          - people/visiting-professors.qmd
       - section: "Students"
         contents:
         - people/phds.qmd
