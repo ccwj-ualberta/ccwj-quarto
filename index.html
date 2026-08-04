@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-43b5d71fc9012fa7bc6b0eff0b529e7f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-680b2c8c7f0b0264a0d8066937e71896.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/accordion/accordion.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -82,13 +85,11 @@ background-size: cover;
 
 <meta property="og:title" content="Canadian Centre for Welding and Joining – CCWJ">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://ccwj-ualberta.github.io/ccwj-quarto/assets/HLBW Conf.jpg">
+<meta property="og:image" content="https://ccwj-ualberta.github.io/ccwj-quarto/assets/CCWJ_Logo_Black.jpg">
 <meta property="og:site_name" content="CCWJ">
-<meta property="og:image:alt" content="International Conference on Handheld Laser Beam Welding 2026">
 <meta name="twitter:title" content="Canadian Centre for Welding and Joining – CCWJ">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://ccwj-ualberta.github.io/ccwj-quarto/assets/HLBW Conf.jpg">
-<meta name="twitter:image:alt" content="International Conference on Handheld Laser Beam Welding 2026">
+<meta name="twitter:image" content="https://ccwj-ualberta.github.io/ccwj-quarto/assets/CCWJ_Logo_Black.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -335,120 +336,7 @@ background-size: cover;
   opacity: 0.9;
 }
 
-/* Floating right-side conference card */
-.hlbw-card{
-  position: fixed;
-  right: 3px;
-  bottom: 0;
-  width: 350px;
-
-  /* match navbar/dropdown vibe (dark, clean) */
-  background: linear-gradient(180deg, #2b333b 0%, #1b232b 100%);
-
-  border-radius: 14px;
-  overflow: hidden;
-  box-shadow: 0 20px 50px rgba(0,0,0,0.45);
-  border: 1px solid rgba(255,255,255,0.10);
-  z-index: 999;
-}
-
-.hlbw-card img{
-  width:100%;
-  display:block;
-}
-
-.hlbw-close{
-  position:absolute;
-  top:8px;
-  right:10px;
-  background:rgba(0,0,0,0.55);
-  color:#fff;
-  border:none;
-  font-size:16px;
-  cursor:pointer;
-  border-radius:50%;
-  width:26px;
-  height:26px;
-  line-height:26px;
-}
-
-.hlbw-content{
-  padding: 12px 14px 8px 14px;  /* smaller bottom padding */
-  color: #e6e6e6;              /* softer white */
-}
-
-.hlbw-title{
-  font-size:0.95rem;
-  font-weight:600;
-  color:#e6e6e6;
-}
-
-.hlbw-meta{
-  font-size:0.82rem;
-  opacity:0.75;
-  margin:0 0 8px 0;             /* tighter spacing */
-}
-
-/* Buttons (match CCWJ top-bar vibe) */
-.hlbw-actions{
-  display:flex;
-  gap:10px;
-}
-
-.hlbw-btn{
-  flex:1;
-  text-align:center;
-  padding:8px 12px;
-  border-radius:6px;
-  font-size:0.8rem;
-  font-weight:700;
-  text-decoration:none;
-  border:1px solid #ffffff;
-  transition: all 0.25s ease;
-}
-
-/* REGISTER BUTTON */
-.hlbw-register{
-  background: linear-gradient(90deg,#1b232b,#24313b);
-  color:#ffffff;
-  border:1px solid #ffffff;
-}
-
-.hlbw-register:hover{
-  background: linear-gradient(90deg,#24313b,#1b232b);
-}
-
-.hlbw-more{
-  background: transparent;
-  color:#ffffff;
-  border:1px solid #ffffff;
-}
-
-.hlbw-more:hover{
-  background: rgba(255,255,255,0.08);
-}
-
-
-@media (max-width:1200px){
-  .hlbw-card{ display:none; }
-}
 </style>
-
-<div class="hlbw-card" id="hlbwCard">
-  <button class="hlbw-close" onclick="document.getElementById('hlbwCard').style.display='none'">×</button>
-
-  <img src="assets/HLBW Conf.jpg" alt="International Conference on Handheld Laser Beam Welding 2026">
-
-  <div class="hlbw-content">
-    <div class="hlbw-title">International Conference on Handheld Laser Beam Welding 2026</div>
-    <div class="hlbw-meta">Registration Open • June 25–26, 2026 • Edmonton, Alberta</div>
-
-    <div class="hlbw-actions">
-      <a class="hlbw-btn hlbw-register" href="https://www.ccwjannualseminar.ca/registration">Register</a>
-      <a class="hlbw-btn hlbw-more" href="https://www.ccwjannualseminar.ca/">More Info</a>
-    </div>
-  </div>
-</div>
 
 <div class="quarto-layout-panel" data-layout="[ 54, 46 ]">
 <div class="quarto-layout-row">
