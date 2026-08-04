@@ -2,7 +2,6 @@
 title: Gabriela Pinheiro Almeida Dantas
 subtitle: Visiting Undergraduate Student, Universidade de Sao Paulo (USP)
 image: GA1 - Gabriela Dantas Tbn.jpg
-priority: 2
 
 about:
   template: trestles
