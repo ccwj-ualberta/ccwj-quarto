@@ -1,0 +1,36 @@
+---
+title: Paniz Hajialigol
+image: PH1 - Paniz Hajialigol Tbn.jpg
+subtitle: Materials Engineering
+priority: 4
+about:
+  template: trestles
+  image: PH1 - Paniz Hajialigol.jpg
+  links:
+    - icon: email
+      text: hajialig@ualberta.ca
+      href: mailto:hajialig@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/paniz-hajialigol/
+
+---
+
+Paniz Hajialigol joined the Canadian Centre for Welding and Joining (CCWJ) in 2024 as a joint graduate student with the CCWJ and the NRGMATs research group. She is currently pursuing her M.Sc. in Materials Engineering at the University of Alberta. Her research focuses on the design, fabrication, and electrochemical evaluation of Ni-based electrode materials for alkaline water electrolysis. Her work includes developing nanoporous electrodes through thermal processing and dealloying, as well as fabricating thin-film electrodes using magnetron sputtering. She uses electrochemical testing and advanced characterization techniques to investigate the relationships between material composition, surface structure, and electrocatalytic performance.
+
+Paniz's research contributes to the development of efficient and durable electrode materials for clean hydrogen production. By improving the surface properties and electrochemical performance of Ni-based electrodes, her work supports the advancement of alkaline water electrolyzers and sustainable energy-conversion technologies.
+
+Beyond academics, Paniz enjoys painting, reading novels, baking, and hiking.
+
+
+##### Prior Degrees
+
+B.Sc. in Materials Engineering, Amirkabir University of Technology, 2023
+
+
+
+
+##### Selected Accomplishments 
+
+Thomas Farrell Greenhalgh Memorial Graduate Scholarship, University of Alberta
+Top-Ranked Student, Department of Materials Engineering, Amirkabir University of Technology
