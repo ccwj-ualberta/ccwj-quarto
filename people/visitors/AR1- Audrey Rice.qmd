@@ -15,9 +15,7 @@ about:
       href: https://www.linkedin.com/in/audrey-rice-58415427a
 ---
 
-Audrey Rice is an undergraduate visiting student intern with the CCWJ from Colorado School of Mines in the United States, where she is studying Mechanical Engineering. Her work supports research on reheated welded materials and weld beads, with a focus on identifying and understanding their different properties. She has also been learning how to use Wire Arc Additive Manufacturing (WAAM).
-
-Audrey was drawn to the CCWJ through her interest in gaining a better understanding of the welding process and how it can impact different industries as welding technologies continue to progress.
+Audrey Rice was an undergraduate visiting student intern with the CCWJ from Colorado School of Mines in the United States, where she is studying Mechanical Engineering. Her work supports research on reheated welded materials and weld beads, with a focus on identifying and understanding their different properties. She has also been learning how to use Wire Arc Additive Manufacturing (WAAM).
 
 Outside of academics, Audrey enjoys soccer, stained glass, and the Mining Competition Team.
 
