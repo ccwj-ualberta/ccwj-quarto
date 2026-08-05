@@ -2,7 +2,6 @@
 title: Makarand Rele
 subtitle: Visiting BSc Student, Indian Institute of Technology (IIT), Bombay, India
 image: MR1 - Makarand Rele Tbn.jpg
-priority: 4
 about:
   template: trestles
   image: MR1 - Makarand Rele.jpg
