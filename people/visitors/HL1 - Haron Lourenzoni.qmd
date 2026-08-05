@@ -2,7 +2,6 @@
 title: Haron Freitas Lourenzoni
 subtitle: Visiting BSc Student, University of São Paulo (USP), Brazil
 image: HL1 - Haron Lourenzoni.jpg
-priority: 3
 
 
 about:
