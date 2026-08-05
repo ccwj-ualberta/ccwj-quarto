@@ -1,0 +1,20 @@
+---
+title: Haron Freitas Lourenzoni
+subtitle: Visiting BSc Student, University of São Paulo (USP), Brazil
+image: HL1 - Haron Lourenzoni.jpg
+
+
+about:
+  template: trestles
+  image: HL1 - Haron Lourenzoni.jpg
+  links:
+    - icon: email
+      text: freitasl@ualberta.ca
+      href: mailto:freitasl@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/haron-freitas-lourenzoni-903832212
+---
+Country of Origin: Brazil via UARE Program
+Affiliated Institution: University of São Paulo (USP), Brazil
+Project: Additive manufacturing using wire arc deposition
