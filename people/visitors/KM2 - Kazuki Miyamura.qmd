@@ -1,0 +1,25 @@
+---
+title: Kazuki Miyamura
+subtitle: Visiting Student, Hiroshima University
+image: KM2 - Kazuki Miyamura.jpg
+priority: 3
+
+about:
+  template: trestles
+  image: KM2 - Kazuki Miyamura Tbn.jpg
+  links:
+    - icon: email
+      text: kmiyamur@ualberta.ca
+      href: mailto:kmiyamur@ualberta.ca
+
+---
+
+Kazuki Miyamura is a visiting research student with the CCWJ from July 2025, joining from the Program of Mechanical Engineering at Hiroshima University in Japan through Hiroshima University's ECBO (Engineers Cross Borders) / Joint Research Program. His work focuses on wire arc additive manufacturing of carbon steel.
+
+Kazuki was interested in joining the CCWJ because of its expertise in welding physics, additive manufacturing, and computer vision.
+
+Outside of work, Kazuki enjoys running, language learning, and traveling.
+
+####### Prior Degrees
+
+Mechanical Engineering (ongoing), Hiroshima University, Japan
