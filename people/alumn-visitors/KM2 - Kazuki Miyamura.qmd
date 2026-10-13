@@ -1,0 +1,19 @@
+---
+title: Kazuki Miyamura
+subtitle: Visiting Student, Hiroshima University
+image: KM2 - Kazuki Miyamura.jpg
+priority: 3
+
+about:
+  template: trestles
+  image: KM2 - Kazuki Miyamura Tbn.jpg
+  links:
+    - icon: email
+      text: kmiyamur@ualberta.ca
+      href: mailto:kmiyamur@ualberta.ca
+
+---
+
+Country of Origin: Japan via Engineers Cross Borders / Joint Research Program  
+Affiliated Institution: Mechanical Engineering, Hiroshima University, Japan  
+Project: Welding computer vision and laser wire additive manufacturing of aluminum alloys using dissimilar fillers and hot-wire methods  

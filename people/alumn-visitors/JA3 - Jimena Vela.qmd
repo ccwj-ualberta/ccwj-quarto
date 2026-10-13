@@ -1,0 +1,19 @@
+---
+title: Jimena Vela Avitúa
+subtitle: Visiting Student, Universidad Nacional Autónoma de México
+image: JA3 - Jimena Vela Tbn.jpg
+priority: 2
+
+about:
+  template: trestles
+  image: JA3 - Jimena Vela.jpg
+  links:
+    - icon: email
+      text: velaavit@ualberta.ca
+      href: mailto:velaavit@ualberta.ca
+   
+---
+
+Country of Origin: Mexico  
+Affiliated Institution: Universidad Nacional Autónoma de México, Mexico  
+Project: Microstructural evolution, mechanical properties, and failure behavior of Cr–Mo alloy steel welds (1.25Cr–0.5Mo / 2.5Cr–1Mo) produced using Hybrid Laser-Arc Welding (HLBW) and GTAW under various preheat and post-weld heat treatment conditions. 
