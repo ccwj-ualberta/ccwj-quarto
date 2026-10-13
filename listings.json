@@ -288,11 +288,101 @@
     ]
   },
   {
-    "listing": "/people/visitors.html",
+    "listing": "/people/alumn.html",
     "items": [
-      "/people/visitors/IG1 - Imad Guira.html",
-      "/people/visitors/JA3 - Jimena Vela.html",
-      "/people/visitors/KM2 - Kazuki Miyamura.html"
+      "/people/alumn/AK1 - Ata Kamyabi.html",
+      "/people/alumn/CT1 - Carter Trautmann.html",
+      "/people/alumn/DH1 - Dmytro Havrylov.html",
+      "/people/alumn/EK1 - Elham Kamali Heidari.html",
+      "/people/alumn/FC2 - Felipe Castro.html",
+      "/people/alumn/GW1 - Gentry Wood.html",
+      "/people/alumn/GD1 - Goetz Dapp.html",
+      "/people/alumn/LH1 - Larysa Hodder.html",
+      "/people/alumn/MM1 - Melody Mah.html",
+      "/people/alumn/MG1 - Mitchell Grams.html",
+      "/people/alumn/NB1 - Nairn Barnes.html",
+      "/people/alumn/PP1 - Preetam Panja.html",
+      "/people/alumn/SS3 - Sandeep Singh Parmar.html",
+      "/people/alumn/SS2 - Sofia Salazar.html",
+      "/people/alumn/SS1 - Stefano Sacco Hawas.html",
+      "/people/alumn/SB1 - Steven Borle.html",
+      "/people/alumn/SA1 - Syed Irtiaz Alam.html",
+      "/people/alumn/TR1 - Terry Runyon.html",
+      "/people/alumn/VS1 - Vicente Andres Nunez Sanchez.html",
+      "/people/alumn/VP1 - Viraj Patel.html",
+      "/people/alumn/YL1 - Yi Lu.html"
+    ]
+  },
+  {
+    "listing": "/people/mscs.html",
+    "items": [
+      "/people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
+      "/people/mscs/MA1 - Mia Abdulla.html",
+      "/people/mscs/LT2 - Lucas Nicolas Taipe Ramos.html",
+      "/people/mscs/PH1 - Paniz Hajialigol.html"
+    ]
+  },
+  {
+    "listing": "/research/research.html",
+    "items": [
+      "/research/research-areas/modelling.html",
+      "/research/research-areas/metallurgy.html",
+      "/research/research-areas/physics.html",
+      "/research/research-areas/automation.html"
+    ]
+  },
+  {
+    "listing": "/research/seminar-presentations.html",
+    "items": [
+      "/research/seminars/nuclear-components.html",
+      "/research/seminars/smr-materials.html",
+      "/research/seminars/scaling-techniques-part3.html",
+      "/research/seminars/scaling-techniques-part2.html",
+      "/research/seminars/scaling-techniques-part1.html",
+      "/research/seminars/candu-reactors.html",
+      "/research/seminars/joys-of-welding-mets-2013.html"
+    ]
+  },
+  {
+    "listing": "/news/news.html",
+    "items": [
+      "/news/news-articles/2025-11-01-ccwj-seminar-HLBW.html",
+      "/news/news-articles/2024-04-08-ccwj-seminar-cobot.html",
+      "/news/news-articles/2023-04-28-ccwj-seminar.html",
+      "/news/news-articles/2022-11-17-new-linkedin-site.html",
+      "/news/news-articles/2022-11-03-gentry-woods.html",
+      "/news/news-articles/2022-11-01-fabtech.html",
+      "/news/news-articles/2022-06-02-mitchell-grams.html"
+    ]
+  },
+  {
+    "listing": "/research/videos.html",
+    "items": [
+      "/research/videos/fcaw.html",
+      "/research/videos/two-water-balloons-oxycetylene.html",
+      "/research/videos/gases.html",
+      "/research/videos/metal-transfer.html",
+      "/research/videos/waveforms.html",
+      "/research/videos/gtaw.html",
+      "/research/videos/ptaw.html",
+      "/research/videos/robots.html",
+      "/research/videos/smaw.html",
+      "/research/videos/discontinuities.html"
+    ]
+  },
+  {
+    "listing": "/research/conference-presentations.html",
+    "items": [
+      "/research/conferences/Fabtech 2024 Abdulla.html",
+      "/research/conferences/Fabtech 2024 Trautmann.html",
+      "/research/conferences/Fabtech 2024 Mendez et al.html",
+      "/research/conferences/Fabtech 2024 Kumar et al.html",
+      "/research/conferences/Fabtech 2024 Calista et al.html",
+      "/research/conferences/Fabtech 2024 Alvarez-Rocha.html",
+      "/research/conferences/CANWELD 2024 Calista et al.html",
+      "/research/conferences/CANWELD 2023 Calista and Mendez.html",
+      "/research/conferences/CANWELD 2023 Núñez and Mendez.html",
+      "/research/conferences/CANWELD 2023 Ramgopa and Mendez.html"
     ]
   },
   {
@@ -325,101 +415,11 @@
     ]
   },
   {
-    "listing": "/research/conference-presentations.html",
+    "listing": "/people/visitors.html",
     "items": [
-      "/research/conferences/Fabtech 2024 Abdulla.html",
-      "/research/conferences/Fabtech 2024 Trautmann.html",
-      "/research/conferences/Fabtech 2024 Mendez et al.html",
-      "/research/conferences/Fabtech 2024 Kumar et al.html",
-      "/research/conferences/Fabtech 2024 Calista et al.html",
-      "/research/conferences/Fabtech 2024 Alvarez-Rocha.html",
-      "/research/conferences/CANWELD 2024 Calista et al.html",
-      "/research/conferences/CANWELD 2023 Calista and Mendez.html",
-      "/research/conferences/CANWELD 2023 Núñez and Mendez.html",
-      "/research/conferences/CANWELD 2023 Ramgopa and Mendez.html"
-    ]
-  },
-  {
-    "listing": "/research/videos.html",
-    "items": [
-      "/research/videos/fcaw.html",
-      "/research/videos/two-water-balloons-oxycetylene.html",
-      "/research/videos/gases.html",
-      "/research/videos/metal-transfer.html",
-      "/research/videos/waveforms.html",
-      "/research/videos/gtaw.html",
-      "/research/videos/ptaw.html",
-      "/research/videos/robots.html",
-      "/research/videos/smaw.html",
-      "/research/videos/discontinuities.html"
-    ]
-  },
-  {
-    "listing": "/news/news.html",
-    "items": [
-      "/news/news-articles/2025-11-01-ccwj-seminar-HLBW.html",
-      "/news/news-articles/2024-04-08-ccwj-seminar-cobot.html",
-      "/news/news-articles/2023-04-28-ccwj-seminar.html",
-      "/news/news-articles/2022-11-17-new-linkedin-site.html",
-      "/news/news-articles/2022-11-03-gentry-woods.html",
-      "/news/news-articles/2022-11-01-fabtech.html",
-      "/news/news-articles/2022-06-02-mitchell-grams.html"
-    ]
-  },
-  {
-    "listing": "/research/seminar-presentations.html",
-    "items": [
-      "/research/seminars/nuclear-components.html",
-      "/research/seminars/smr-materials.html",
-      "/research/seminars/scaling-techniques-part3.html",
-      "/research/seminars/scaling-techniques-part2.html",
-      "/research/seminars/scaling-techniques-part1.html",
-      "/research/seminars/candu-reactors.html",
-      "/research/seminars/joys-of-welding-mets-2013.html"
-    ]
-  },
-  {
-    "listing": "/research/research.html",
-    "items": [
-      "/research/research-areas/modelling.html",
-      "/research/research-areas/metallurgy.html",
-      "/research/research-areas/physics.html",
-      "/research/research-areas/automation.html"
-    ]
-  },
-  {
-    "listing": "/people/mscs.html",
-    "items": [
-      "/people/mscs/NK1 - Nitheesh Kumar Ramasamy.html",
-      "/people/mscs/MA1 - Mia Abdulla.html",
-      "/people/mscs/LT2 - Lucas Nicolas Taipe Ramos.html",
-      "/people/mscs/PH1 - Paniz Hajialigol.html"
-    ]
-  },
-  {
-    "listing": "/people/alumn.html",
-    "items": [
-      "/people/alumn/AK1 - Ata Kamyabi.html",
-      "/people/alumn/CT1 - Carter Trautmann.html",
-      "/people/alumn/DH1 - Dmytro Havrylov.html",
-      "/people/alumn/EK1 - Elham Kamali Heidari.html",
-      "/people/alumn/FC2 - Felipe Castro.html",
-      "/people/alumn/GW1 - Gentry Wood.html",
-      "/people/alumn/GD1 - Goetz Dapp.html",
-      "/people/alumn/LH1 - Larysa Hodder.html",
-      "/people/alumn/MM1 - Melody Mah.html",
-      "/people/alumn/MG1 - Mitchell Grams.html",
-      "/people/alumn/NB1 - Nairn Barnes.html",
-      "/people/alumn/PP1 - Preetam Panja.html",
-      "/people/alumn/SS3 - Sandeep Singh Parmar.html",
-      "/people/alumn/SS2 - Sofia Salazar.html",
-      "/people/alumn/SS1 - Stefano Sacco Hawas.html",
-      "/people/alumn/SB1 - Steven Borle.html",
-      "/people/alumn/SA1 - Syed Irtiaz Alam.html",
-      "/people/alumn/TR1 - Terry Runyon.html",
-      "/people/alumn/VS1 - Vicente Andres Nunez Sanchez.html",
-      "/people/alumn/VP1 - Viraj Patel.html",
-      "/people/alumn/YL1 - Yi Lu.html"
+      "/people/visitors/IG1 - Imad Guira.html",
+      "/people/visitors/JA3 - Jimena Vela.html",
+      "/people/visitors/KM2 - Kazuki Miyamura.html"
     ]
   },
   {
@@ -451,6 +451,7 @@
   {
     "listing": "/people/bscs.html",
     "items": [
+      "/people/bscs/KC1 - Kathryn Craig.html",
       "/people/bscs/SN1 - Samson Nellickappillil.html",
       "/people/bscs/MS1 - Micah Sellers.html"
     ]
