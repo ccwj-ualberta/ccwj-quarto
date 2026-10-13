@@ -1,0 +1,18 @@
+---
+title: Micah Sellers
+image: MS1 - Micah Sellers Tbn.jpg
+subtitle: Co-Op - Mechatronics Engineering
+priority: 3
+about:
+  template: trestles
+  image: MS1 - Micah Sellers.jpg
+  links:
+    - icon: email
+      text: mjseller@ualberta.ca
+      href: mailto:mjseller@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/micah-sellers/
+---
+
+Project: Wire Arc Additive Manufacturing (WAAM) by Fanuc welding robot and developing custom software to enable adaptive layer-height control.

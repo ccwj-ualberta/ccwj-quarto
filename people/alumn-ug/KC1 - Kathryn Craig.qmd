@@ -1,0 +1,18 @@
+---
+title: Kathryn Craig
+image: KC1 - Kathryn Craig Thumb.jpg
+subtitle: Chemical Engineering
+priority: 1
+about:
+  template: trestles
+  image: KC1 - Kathryn Craig.jpg
+  links:
+    - icon: email
+      text: kccraig@ualberta.ca
+      href: mailto:kccraig@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/kathryn-craig-chemical-engg
+---
+
+Project: Thermal Simulations for Wire Arc Additive Manufacturing (WAAM) - 3D printing parts for industry

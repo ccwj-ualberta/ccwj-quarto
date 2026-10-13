@@ -1,0 +1,18 @@
+---
+title: Jasmine Mah
+image: JM1 - Jasmine Mah Tbn.jpg
+subtitle: Computer Engineering
+priority: 4
+about:
+  template: trestles
+  image: JM1 - Jasmine Mah.jpg
+  links:
+    - icon: email
+      text: jamah2@ualberta.ca
+      href: mailto:jamah2@ualberta.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jasminemah/
+---
+
+Project: Welding automation by FANUC industrial robot and collecting operational data to support future automation and robotics research. 
