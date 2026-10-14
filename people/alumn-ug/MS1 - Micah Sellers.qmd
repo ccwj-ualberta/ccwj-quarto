@@ -2,7 +2,7 @@
 title: Micah Sellers
 image: MS1 - Micah Sellers Tbn.jpg
 subtitle: Co-Op - Mechatronics Engineering
-priority: 3
+priority: 1
 about:
   template: trestles
   image: MS1 - Micah Sellers.jpg
