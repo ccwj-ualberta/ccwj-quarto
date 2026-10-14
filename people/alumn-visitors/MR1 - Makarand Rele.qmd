@@ -1,6 +1,7 @@
 ---
 title: Makarand Rele
 subtitle: Visiting BSc Student, Indian Institute of Technology (IIT), Bombay, India
+priority: 1
 image: MR1 - Makarand Rele Tbn.jpg
 about:
   template: trestles
@@ -13,6 +14,6 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/makarand-rele-69323b286/
 ---
-Country of Origin: India via the UARE program
-Affiliated Institution: IIT Bombay, India
+Country of Origin: India via the UARE program  
+Affiliated Institution: IIT Bombay, India  
 Project: Physics of thermal plasmas at atmospheric pressure
