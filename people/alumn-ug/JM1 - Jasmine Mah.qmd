@@ -2,7 +2,7 @@
 title: Jasmine Mah
 image: JM1 - Jasmine Mah Tbn.jpg
 subtitle: Computer Engineering
-priority: 4
+priority: 1
 about:
   template: trestles
   image: JM1 - Jasmine Mah.jpg
