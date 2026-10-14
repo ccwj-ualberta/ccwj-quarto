@@ -2,6 +2,7 @@
 title: Paniz Hajialigol
 image: PH1 - Paniz Hajialigol Tbn.jpg
 subtitle: Materials Engineering
+priority: 1
 about:
   template: trestles
   image: PH1 - Paniz Hajialigol.jpg
