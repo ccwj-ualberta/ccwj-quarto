@@ -2,7 +2,7 @@
 title: Jimena Vela Avitúa
 subtitle: Visiting Student, Universidad Nacional Autónoma de México
 image: JA3 - Jimena Vela Tbn.jpg
-priority: 2
+priority: 1
 
 about:
   template: trestles
