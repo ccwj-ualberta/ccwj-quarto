@@ -2,7 +2,7 @@
 title: Kazuki Miyamura
 subtitle: Visiting Student, Hiroshima University
 image: KM2 - Kazuki Miyamura.jpg
-priority: 3
+priority: 1
 
 about:
   template: trestles
