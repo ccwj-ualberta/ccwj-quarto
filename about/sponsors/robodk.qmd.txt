@@ -1,0 +1,8 @@
+---
+title: RoboDK
+categories: [Lab equipment and consumables]
+image: ../../assets/about-us/sponsors-logos/new-logos/RB1_RoboDK.svg
+about:
+  template: solana
+  image: ../../assets/about-us/sponsors-logos/new-logos/RB1_RoboDK.svg
+---

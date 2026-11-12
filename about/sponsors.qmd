@@ -67,7 +67,7 @@ We are grateful to acknowledge the support of our sponsors.
 
 ### Lab equipment and consumables
 
-::: {layout="[[1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1]]"}
+::: {layout="[[1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1]]"}
 
 <div style="display:flex; align-items:center; justify-content:center; height:200px;">
   <a href="https://www.apollomachine.com/">
@@ -76,14 +76,20 @@ We are grateful to acknowledge the support of our sponsors.
 </div>
 
 <div style="display:flex; align-items:center; justify-content:center; height:200px;">
-  <a href="https://www.arctecalloys.com/">
-    <img src="sponsors-logos/new-logos/AT1_ArcTec.png" alt="ArcTec" style="max-height:170px; max-width:100%; width:auto;">
+  <a href="https://www.aws.org/">
+    <img src="sponsors-logos/new-logos/AW1_AWS.png" alt="AWS" style="max-height:170px; max-width:100%; width:auto;">
   </a>
 </div>
 
 <div style="display:flex; align-items:center; justify-content:center; height:200px;">
-  <a href="https://www.aws.org/">
-    <img src="sponsors-logos/new-logos/AW1_AWS.png" alt="AWS" style="max-height:170px; max-width:100%; width:auto;">
+  <a href="https://robodk.com/">
+    <img src="sponsors-logos/new-logos/RB1_RoboDK.svg" alt="RoboDK" style="max-height:170px; max-width:100%; width:auto;">
+  </a>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; height:200px;">
+  <a href="https://www.arctecalloys.com/">
+    <img src="sponsors-logos/new-logos/AT1_ArcTec.png" alt="ArcTec" style="max-height:170px; max-width:100%; width:auto;">
   </a>
 </div>
 
