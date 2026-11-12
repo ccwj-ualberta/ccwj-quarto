@@ -83,7 +83,7 @@ We are grateful to acknowledge the support of our sponsors.
 
 <div style="display:flex; align-items:center; justify-content:center; height:200px;">
   <a href="https://robodk.com/">
-    <img src="sponsors-logos/new-logos/RB1_RoboDK.svg" alt="RoboDK" style="max-height:170px; max-width:100%; width:auto;">
+    <img src="sponsors-logos/new-logos/RB1_RoboDK.png" alt="RoboDK" style="max-height:170px; max-width:100%; width:auto;">
   </a>
 </div>
 
